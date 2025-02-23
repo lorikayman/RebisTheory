@@ -3442,7 +3442,7 @@ Those similarities seem intentional, distinguished from the general themes and m
 
 More so, we have previously covered divine themes of Valkyries through relation to wording of seraphic or angelic, suggesting a transition from the divine to material.
 
-Considering that, as well as our previous discussions of Valkyries being griffins, a solution could be proposed, that Owlites appeared after Valkyries in the material realm, but already by the time of Owlite academy being established and used to create elemental gear for gunslinger priests, as well as greater accent on magic and power of sealing the curse. This would lead Legion of Ur being selaed at least after Lord Vanaduke's crusade.
+Considering that, as well as our previous discussions of Valkyries being griffins, a solution could be proposed, that Owlites appeared after Valkyries in the material realm, but already by the time of Owlite academy being established and used to create elemental gear for gunslinger priests, as well as greater accent on magic and power of sealing the curse. This would lead Legion of Ur being sealed at least after Lord Vanaduke's crusade.
 
 #### Knights of the Rose
 
@@ -3510,11 +3510,13 @@ One last element for this idea is the ownership of [Champion Helms](https://wiki
 
 <h3 align="center">Chapter <code>VIII</code>: Kat Tribe</h3>
 
-The events of Kataclysm take place around 1000 years after the fall of Almire. At that point only heavenly kingdom remains with inhabiting it valkyries and Owlites, while tortomega titans are long gone, and Almire itself had turned into ashen land with the included former kingdoms around it. The raiders are absent, in relation to [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive in the northern regions of Cradle. Notes on Almire were described in many tomes within the established Owlite Academy of Magicks. The [Forgotten Library](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library), wherein first written texts about kingdom of Almire were found, is located in the halls of the High Academy of magicks, now known as the Candlestick Keep.
+The events of Kataclysm take place after the fall of Almire. At that point only heavenly kingdom remains with inhabiting it Valkyries and Owlites, while tortomega titans are long gone, and Almire itself had turned into ashen land with the included former kingdoms around it. The raiders are absent, in relation to [Operation Gelid](#operation-gelid-and-other-methods-of-escaping-cradle), it could be plausible for them to survive in the northern regions of Cradle. Given events of Operation Gelid, they too could've fallen to Underworld's influence.
 
-After the events of valkyries invading the Underworld, many fiend-related discoveries were made, we can identify those by their recipes, which contain either undead or fiendish materials. Gunslinger priests were Owlites who used ranged combat during the period when the Fallen was cast down from Heavenly Kingdom, and leading to formation of Legion of Ur.
+Notes on Almire were described in many tomes within the established Owlite Academy of Magicks. The [Forgotten Library](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library), wherein first written texts about kingdom of Almire were found, is located in the halls of the High Academy of magicks, now known as the Candlestick Keep.
 
-Far later, Philoso, an Owlite magician and wizard was born (`A large, grey feather plucked from the greatest of the Owlite magicians` [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)). He is responsible for many developments of Owlites around combat and handguns within the Owlite Academy. Evident by gear made with his feathers, he was specializing in elemental combat against the Undead. Considering that undead-oriented defensed and weaponry, it could be Almirian Empire, as at that point it is undead being the invader. Apart from them, undead could be a part of Underworld army during the event of Valkyries invading it.
+After the events of Valkyries invading the Underworld, without, supposedly, gunslinger priests, many fiend-related discoveries were made, we can identify those by their recipes, which contain either undead or fiendish materials.
+
+At some point, likely near the period of time when gunslinger priests were established, Philoso, an Owlite magician and wizard was born (`A large, grey feather plucked from the greatest of the Owlite magicians` [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)). He is responsible for many developments of Owlites around combat and handguns within the Owlite Academy. Evident by gear made with his feathers, he was specializing in elemental combat against the Undead. Considering that undead-oriented defensed and weaponry, it could be Almirian Empire, as at that point it is undead being the invader. Apart from them, undead could be a part of Underworld army during the event of Valkyries invading it - cse suggested to exist in the [analysis of possibility of gunslinger priests appearing after the kingdom of Almire](#fallen-valkyrian).
 
 To reiterate on the equipment, discussed in the previous sections regarding Owlite and Valkyrian technological advancements.
 
@@ -3527,15 +3529,19 @@ To reiterate on the equipment, discussed in the previous sections regarding Owli
 - [Owlite shield](https://wiki.spiralknights.com/Owlite_Shield)
 - [Grey Feather set](https://wiki.spiralknights.com/Grey_Feather_Mantle)
 
-After the Fallen was banished, after Almire had fallen, and after Legion of Ur was sealed, within this relatively stable period of time, Kat tribe emerges. But, to touch upon Philoso one last time. We propose, that exactly his discoveries after Legion of Ur was sealed, led to the discovery of the Nameless realm, based on the presence of Crest of Ur in alchemy of the Chaos Cloak, with the present imagery of the antique evil eye, seen in heavy statue. The very fact that is is stated to be forbidden, seems to us as the invention too dangerous even for the heavenly kingdom. As we touched on the curse here, [Avenger](https://wiki.spiralknights.com/Avenger) we believe also belong to the time the Valkyries invaded underworld and sealed the Legion of Ur: `A holy sword created in another time to arm knights who fought against the legions of the Underworld`.
+After the Fallen was banished, after Almire had fallen, and after Legion of Ur was sealed, within this relatively stable period of time, Kat tribe emerges.
 
-This leads to a specific point in time, which marks introduction of the evil eye, in the form of the dread seal, to heavenly kingdom in such a manner that would allow for its practical usage. Considering this, we propose that the sealed sword was the point when those researchers began, as it is less advanced, and has the same paper dread seal, similar to Lumber's dread seal, which, as we discussed, was constructed by gremlins, who also work with shadow damage, but to a far lesser extent. The nature of sealed sword, its upgrades is one of more notable element to the nature of curse overall as well as more direct depictions of capacity and limits to transform and reapply it in same manner - like the Divine Avenger alchemy path.
+But, to touch upon Philoso one last time. We propose, that exactly his discoveries after Legion of Ur was sealed, led to the discovery of the Nameless Realm, based on the presence of Crest of Ur in alchemy of the [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), with the present _imagery of the antique evil eye_, seen in heavy statue. The very fact that is is _stated to be forbidden_, seems to us as the invention too dangerous even for the heavenly kingdom.
+
+This leads to a specific point in time, which marks introduction of the evil eye in the form of [Dread Seal](https://wiki.spiralknights.com/Dread_Seal). This should align with the creation of [Avenger](https://wiki.spiralknights.com/Avenger), as it would be created from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), supposedly stollen [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) (` that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time` - [Gran Faust](https://wiki.spiralknights.com/Gran_Faust)), as it is deeply tied to curse. And, Sealed Sword was sealed with the same [paper dread seal as Lumbers](https://wiki.spiralknights.com/File:Monster-Redward.png), who, as we discussed, were constructed by gremlins, who also work with shadow damage, but to a far lesser extent.
+
+The nature of Sealed Sword, its upgrades is one of more notable element to the nature of curse overall as well as more direct depictions of capacity and limits to transform and reapply it in same manner - like the Divine Avenger alchemy path.
 
 Application and origin of the [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) will be covered in consideration of Carnavons, which will be analyzed later in the context of Shadow Lairs.
 
 #### Siege of the Academy
 
-At some point, Owlites encountered the Kat Tribe. The reason of this conflict can be established mainly through the remains of Kat Tribe in the form of summoned Black Kats. Owlites are at war with the Kat Tribe.
+At some point, Owlites had encountered the Kat Tribe. The reason of this conflict can be established mainly through the remains of Kat Tribe in the form of summoned Black Kats. Owlites are at war with the Kat Tribe.
 
 Owlites are related to vengeance, which, considering their relation to valkyries, is fitting ([Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield))
 
