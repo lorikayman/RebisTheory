@@ -3328,24 +3328,26 @@ This proposal still would not explain the presence of spirits on Isora and a lac
 
 ##### Pre-Cradle Scenario
 
-A variation of this proposal that explains gunslingers' nature, but also explains presence of undead and fiends - is the pre-Cradle scenario, wherein gunslingers are from a planet, which was used to build Cradle, and the one, [where the kingdom of Almire would fall](#chapter-vii-kingdom-of-almire).
+A variation of this proposal that explains gunslingers' nature, but also presence of undead and fiends - is the pre-Cradle scenario, wherein gunslingers are from a planet, which was used to build Cradle, and the one, [where the kingdom of Almire would fall](#chapter-vii-kingdom-of-almire).
 
-_It attributes gunslingers, as separate from gunslinger priests, to Isorians_ but allows for them to encounter Underworld. It is the case of those Isorians arriving at the same planet where Almire and Raiders would be present, as civilization, emerging from those first-generation Isorians, while still allowing a room for their transformation to trojans.
+_It attributes gunslingers, as separate from gunslinger priests, to Isorians_ but allows for them to encounter Underworld. It is the case of Isorians arriving at the same planet where Almire and Raiders would be present, as civilization, emerging from those first-generation Isorians, while still allowing a room for their transformation to trojans.
 
 Presence of fiendish technology or magic, such as the [Blackened Shrine](#blackened-shrine-and-magma-deity), would only be fitting, as this would be framed as a continuation of myths, found across Isorian culture even in modern times, _originating from Isora_.
 
-This case would require elaboration on [Sentenza](https://wiki.spiralknights.com/Sentenza), as presence of shadow steel would seal a connection of material realm and Underworld in relation, now, to Isorians.
+This case would require elaboration on [Sentenza](https://wiki.spiralknights.com/Sentenza), as presence of shadow steel would seal a connection of material realm and Underworld in relation, now, to Isorians. If so, [Shadowsun set](https://wiki.spiralknights.com/Shadowsun_slicker) and its usage of Shadow Steel is paired with other shadow-aligned equipment, apart from Sentenza, attributing it to the Fallen Valkyrian of [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen).
 
-If so, [Shadowsun set](https://wiki.spiralknights.com/Shadowsun_slicker) and its usage of Shadow Steel is paired with other shadow-aligned equipment, apart from Sentenza, attributing it to the Fallen Valkyrian of [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen). [Blackhawk](https://wiki.spiralknights.com/Blackhawk) in this context would suggest, that this alignment to shadow was more widespread than it seems (`A shadow-aligned handgun of incredible power, its said to contain the soul of a knight who was only two days from retirement` - [Blackhawk](https://wiki.spiralknights.com/Blackhawk)). [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) has shadow defenses, but is not attributed to any evil or fiendish entity, having divine color scheme. _It also has curse resistance_. Its description, `A poncho for a pale rider with sights set on taking down the bad, ugly, undead denizens of the dark` - we believe, refers both to undead and fiends, making it the set, plausible for pairing with [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) _alchemy line_: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld` in description, but [Silversix](https://wiki.spiralknights.com/Silversix) in design. Given prior discussion on presence of both motifs to this handgun, this seems to be a transitory point, alluding both to Valkyries and Isorians.
+To those shadow-aligned guns we attribute [Blackhawk](https://wiki.spiralknights.com/Blackhawk) in this context would suggest, that this alignment to shadow was more widespread than it seems (`A shadow-aligned handgun of incredible power, its said to contain the soul of a knight who was only two days from retirement` - [Blackhawk](https://wiki.spiralknights.com/Blackhawk)).
 
-Apart from the color scheme, Deadshot mantle design is reminiscent of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle), with both labeled as mantles, and not ponchos or cloaks. At that, one more similarity exists between them, of the circular spiral imagery:
+On the contrary, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) has shadow defenses, but is not attributed to any fiendish entity, having divine color scheme. _It also has curse resistance_. Its description, `A poncho for a pale rider with sights set on taking down the bad, ugly, undead denizens of the dark` - we believe, refers both to undead and fiends, making it the set, plausible for pairing with [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) _alchemy line_: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`. Given prior discussion on presence of both motifs to this handgun, this seems to be a transitory point, alluding both to Valkyries and Isorians.
+
+Apart from the color scheme, [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle) design is reminiscent of [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle), with both labeled as mantles, and not ponchos or cloaks. At that, one more similarity exists between them, of the circular spiral imagery:
 
 - [Divine Mantle](https://wiki.spiralknights.com/File:Divine_Mantle-Equipped.png) has on its front has 2 spiral circles at the bottom of the garb's symbol.
 - [Deadshot Mantle](https://wiki.spiralknights.com/File:Deadshot_Mantle-Equipped.png) has the same as above spiral circles but at the bottom front of the mantle instead of the garb.
 
 So far, the __keystone design element to this distinction is tied to 2 groups of handguns__:
 
-- Handguns with the __depiction of dragons__ are _relating to Isorian culture_, those are regular knights.
+- Handguns with the __depiction of dragons__ are _relating to Isorian culture_, those are regular knights. Divine aspect here is linked to the follwing.
 - Handguns with the __depiction of griffins__ are a _product of Valkyrian culture_ and connected to dragons' descendants, wyverns. With general themes of Valkyries, those hve higher chance of being the aforementioned gunslinger priests.
 
 This distinction reminds us of [different depictions of the evil eye](#evil-eye) by Devilites and by Titans.
@@ -3358,7 +3360,7 @@ This assumption mainly stems from the fact only valkyries are said to venture in
 
 At the same time, no piercing damage weaponry currently exists, which could be attributed to valkyries, that is assuming, they had both close and ranged combat techniques.
 
-In this interpretation [Avenger](https://wiki.spiralknights.com/Avenger) had to be created already with the knowledge _of curse_ and _of sealing_ to be utilized to fight undead. Since Valkyries are ones to seal Legion of Ur, we can position this skill at least by that later period of time. And, since [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) comes from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), we are rather confident, that it belongs to a Fallen Valkyrian, potentially placing him to that period of time as the Legion of Ur being sealed.
+In this interpretation [Avenger](https://wiki.spiralknights.com/Avenger) had to be created already with the knowledge _of curse_ and _of sealing_ to be utilized to fight undead. Since Valkyries are ones to seal Legion of Ur, we can position this skill at least by that later period of time. But, since [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) comes from the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), we suggest it being created later into the timeline, while it still belonging to Fallen Valkyrian, potentially placing him to that period of time as the Legion of Ur being sealed. This ties in with the idea of [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword) being created in the first place by someone - `A mysterious sword of great untapped potential. It hums with raw power`.
 
 This proposal leans to an idea of gunslinger priests emerging some time after introduction of Isorians, transformation of Warden to trojans, and near the incursion into the Underworld. All of those factor seem to us follows: _Valkyries being related to Owlites by habitat, but through symbolism and design, resemble Spiral Order_.
 
@@ -3366,55 +3368,67 @@ Within this framework where gunslinger priests would fit? It was established tha
 
 ##### Griffin-Dragon Distinction
 
-Here we can attempt to look into the designs of handguns as well as their traders in the Hall of Heroes in Haven Garrison.
+As there is seeming lack of any other leads as well as a loose definition of a knight in relation to the gunslingers in general, we propose a solution, but one, we believe, couples majority of the inconsistencies and anachronisms through thematic grouping.
 
-Among all traders present, only [Archilus](https://wiki.spiralknights.com/Archilus) notes on origin of Elemental damage, but not [Walkon](https://wiki.spiralknights.com/Walkon) in relation to slimes and lichens, nor [Sylvin](https://wiki.spiralknights.com/Sylvin) on shadow damage, but acknowledging existence of undead and fiends.
+The forgotten time in question is the early period of time from Isorians on planet, which would be incorporated into Cradle, - it is the time when Raiders, kingdoms of Ironmight and Almire have stemmed from, but preceding them.
 
-As there is seeming lack of any other leads as well as a loose definition of a knight in relation to the gunslinger priests, we propose a potential solution, but one, we believe, had to be iterated on, as currently it is essentially used to write off majority of the inconsistencies and anachronisms through thematic grouping.
-
-The forgotten time in question is the early period of time from Isorians on planet, which would be incorporated into Cradle, - it is the time when Raiders, kingdoms of Ironmight and Almire have stemmed from, but preceding them. None of those parties were familiar with the undeath, as they did not know of elemental defenses nor damage, but they knew of normal and piercing:
+None of those parties were familiar with the undeath, as they did not know of elemental defenses nor damage, but they knew of normal and piercing:
 
 - For kingdom of Ironmight: [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail)
 - For kingdom of Almire: [Almirian Crusader Armor](https://wiki.spiralknights.com/Almirian_Crusader_Armor), [Volcanic Plate set](https://wiki.spiralknights.com/Volcanic_Plate_Mail).
-- For gunslingers: [Antigua](https://wiki.spiralknights.com/Antigua), [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin), [Justifier Jacket](https://wiki.spiralknights.com/Justifier_Jacket), [Nameless Poncho](https://wiki.spiralknights.com/Nameless_Poncho)
+- For gunslingers: [Antigua](https://wiki.spiralknights.com/Antigua), [Justifier Jacket](https://wiki.spiralknights.com/Justifier_Jacket)
 - For raiders: [Squall Caller](https://wiki.spiralknights.com/Squall_Caller), [Winter's Edge](https://wiki.spiralknights.com/Winter%27s_Edge)
 
-Undeath would not be encountered up until first interactions with the Underworld for Isorians and second time for heavenly kingdom, as they did witness Underworld during reign of Titans.
+Undeath would not be encountered up until first interactions with the Underworld for Isorians and second time for Valkyries, as they did witness Underworld during reign of Titans.
 
-Through this close encounter, Isorians did uncover Underworld, but separate from their homeworld, Isora. This event ended with the creation of the Legion of Ur from corrupted Wardens, which initiated a conquest into the Underworld, remaining but not sealed there (`A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves` - [Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur)).
+Through currently unknown means, Isorians did uncover Underworld and undeath, separately from their homeworld, Isora. This event has ended with the creation of the Legion of Ur from corrupted Wardens, which initiated a conquest into the Underworld, remaining but not sealed there (`A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves` - [Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur)).
 
-This precedent would explain singular existence and nature of Maulos, as well as the trojans' origins being Spiral Wardens. Gunslingers, likely with the draconic designs, inherited from Isora, were ones to introduce guns to Valkyries, who, as Owlites, would adopt and adapt them to avian motifs through a gradual redesign, focused on the elemental damage. With avian motif and elemental damage applied to those guns, a stand-in symbol would be presented, a griffin, an avian specie, closely related to Owlites as a specie, but having properties of dragons, inherited from wyverns.
+This notion by itself had to connect Valkyries and Isorians, so a figurehead for this event would be fitting to be the Fallen Valkyrian. Eventually, since Isorians had gun-wielding skills, referring primarily to gunpowder-fueled [Antigua](https://wiki.spiralknights.com/Antigua): `A mysterious relic from a forgotten time. It uses explosive powder to fire its rounds`, they did possess aforementioned west theming.
+
+Valkyries at that point, would approach those Isorians, which would allow for creation of divine-themed gunslinger gear. This gear would be attributed to gunslinger priests, composed of Isorians, wielding [Raptor](https://wiki.spiralknights.com/Raptor) alchemy line and [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle), and Valkyries, who have remade Antigua to griffin-themed variants. Those recreations would be paired in [Silvermail](https://wiki.spiralknights.com/Silvermail) and [Silversix](https://wiki.spiralknights.com/Silversix) as definitive set of _a gunslinger priest fighting the undead_.
+
+Here, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) is then paired with [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker) through a scenario of a persistent focus of Isorians on shadow-damage as they were ones to be used for the creation of Legion of Ur - an inverse of Valkyries being aligned to concept of divinity, utilizing a gun of their design. Maybe even, due to Isorians unlocking Underworld.
+
+[Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from shadow steel `An ancient handgun forged from shadow steel`, seems as to be created in the Underworld, similar to [Faust](https://wiki.spiralknights.com/Faust) line: `A powerful, cursed sword forged in the underworld` (`An upgraded Faust forged from pristine-quality shadow steel. Its charge attacks are powerful enough to curse its wielder, but that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time` - [Gran Faust](https://wiki.spiralknights.com/Gran_Faust)).
+
+And, to this period of time we attribute creation of [Avenger](https://wiki.spiralknights.com/Avenger) line, as a creation of Valkyries, Owlites specifically through the usage of Sealing magic and inversion of curse. At that, we propose, Avenger being a result of Owlite research in teh Academy in attempt to invert Faust's curse-bearing property from the sword, reusing it for the gunslinger priests.
+
+This precedent would explain singular existence and nature of Maulos, as well as the trojans' origins being Spiral Wardens. The undead, to which gunslinger priests had to fight could've come from the Underworld, as it had to happen in the past.
+
+We could have suggested those undead be the remains of the kingdom of Almire, given Dread Seals of Carnavons, but it seem to recent, as there is already enough information on Almire, while the forgotten time seemingly alludes to a different period of time. This suggestion also contradicts a definite point in time, when Legion of Ur had to be sealed, so its emergence from the mountains would be an exception to [current method of summoning through ritual circles](#summoning-from-underworld).
 
 This interpretation seems far more complex, as it _introduces for the second time element of cultural adoption of foreign symbols_. But with this, we consider those events to be tied organically, necessitating Underworld, valkyries, and Isorians to be present with all of the above requirements in out understanding and research.
 
-Isorians of this forgotten time, based on the Shadowsun set recipes, were ones to discover Underworld, although unrelated to tortomega plot line. It was not yet the time valkyries carried out their own incursion, but rather its Isorian wardens which were the victims of this connection to the Underworld, leading to creation of Legion of Ur. And only later Valkyries would carry out their own expedition into the Underworld, one characterized, or likely, initialized by the actions of a figure of fallen valkyrian, now only known as the Fallen, based on the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen).
+It was not yet the time valkyries carried out their own incursion, but rather its Isorian wardens which were the victims of this connection to the Underworld, leading to creation of Legion of Ur. And only later Valkyries would carry out their own expedition into the Underworld, one characterized, or likely, initialized by the actions of a figure of fallen valkyrian, now only known as the Fallen, based on the [Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_Fallen).
 
-It is during this _more fantasy_ as well as _weird western-themed_ period of time [Cold Iron Carver](https://wiki.spiralknights.com/Cold_Iron_Carver) and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) would be invented, as they all have now familiar imagery of the evil eye.
+It is during this _more fantasy_ as well as _weird western-themed_ period of time [Cold Iron Carver](https://wiki.spiralknights.com/Cold_Iron_Carver) and [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher) would be invented, as they all have now familiar imagery of the evil eye, as well as a _focus on fighting undead_.
 
-Vanquisher in that regard is one with a particular imagery of _a horned skull with a single eye_, reminiscent of titans in their most powerful period of time, depicted on the Arcade Gates, considering, that it is a helm which was interpreted as a skull. Vanquisher's alchemy path has normal damage, but is designed to smite undead, which would also fit under the logic of early period of time, wherein [Isorians, would eventually discover Vog, and build magmatic shrines](#blackened-shrine-and-magma-deity).
+Vanquisher in that regard is one with a particular imagery of _a horned skull with a single eye_, reminiscent of titans in their most powerful period of time, depicted on the Arcade Gates, considering, that it is a helm which was interpreted as a skull. Vanquisher's alchemy path has normal damage, but is designed to smite undead, which would also fit under the logic of early period of time, wherein [Isorians, would eventually discover Vog, and build magmatic shrines](#blackened-shrine-and-magma-deity). How Underworld would be discovered by Isorians may be hidden in this connection to Titans.
 
 Vanquisher in that regard also has chains as part of the design, which we have pointed out for Lord Vanaduke's armor, suggesting it to be his literal soul-prison. So, those design to arrive from far older period of time seems as more thematically fitting, giving those element a reason to be present.
 
 We also suggest, that it is during this period of time more modern iterations of Tortomega's Troika would be invented - [Triglav](https://wiki.spiralknights.com/Triglav) as one containing Underworld's everfrost, and [Sudaruska](https://wiki.spiralknights.com/Sudaruska). Both are normal damage weapons but possess a subtle aspect of magic, similar to the aforementioned [Cold Iron Vanquisher](https://wiki.spiralknights.com/Cold_Iron_Vanquisher).
 
-Those weapons only could've been invented with the knowledge of Underworld. At that, as [Troika](https://wiki.spiralknights.com/Troika) alchemy tree is presented here, we suggest this period existing on the same planet as tortodrones' or titans' civilization. The thing that is left ambiguous then - why heavenly kingdom became involved so late into the events of Lord Vanaduke's return? Possible explanation for it could be the idea of heavenly kingdom being either not concerned with those events unless a direct threat would be presented.
+Those weapons only could've been invented with the knowledge of Underworld. At that, as [Troika](https://wiki.spiralknights.com/Troika) alchemy tree is presented here, we suggest this period existing on the same planet as tortodrones' or titans' civilization.
+
+The thing that is left ambiguous then - why heavenly kingdom became involved so late into the events of Lord Vanaduke's return? Possible explanation for it could be the idea of heavenly kingdom being either not concerned with those events unless a direct threat would be presented, given how Almire has remained untouched, or how Legion of Ur had to be sealed only later.
 
 Lastly, the presence of undead on this preceding planet had to be also explained. In the analysis of [Cradle metaphysics](#cradle-metaphysics) we proposed, that those laws of undeath existed before the Core, explaining it here, but not answering a question of why native Isorians hadn't encountered Underworld.
 
 A less plausible solution may stem from the idea of Troika, before it was developed into its 5-star variants, had required for those ancient Isorians to stumble upon fallen kingdom of Titans, and through this discovering the Underworld.
 
-If we suggest, that [Blackhawk](https://wiki.spiralknights.com/Blackhawk), despite its design and naming convention, was used by knights, given the description: `A shadow-aligned handgun of incredible power, it's said to contain the soul of a knight who was only two days from retirement`, then discovering Underworld in those conditions, through [haunting](#haunting) and other materials covered in [analysis of Lord Vanaduke's remains](#vanadukes-mask-and-immortality-span-classthrough-cursethrough-cursespan), seems more probable.
-
 #### Divinity and Alchemical Gold
 
 Here we should also touch upon the small theme of gold and divinity connection:
 
-- [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin): `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`.
-- [Golden battle sprite harness](https://wiki.spiralknights.com/Harness) deals piercing damage, but can't be equipped on Drakon, with the same damage type inconsistency of piercing damage of Morai armor and [Riftlocker](https://wiki.spiralknights.com/Riftlocker) used by the Spiral Order.
+- As [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) is described: `Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`.
+- _Golden_ [battle sprite harness](https://wiki.spiralknights.com/Harness) deals piercing damage, but can't be equipped on Drakon, with the same damage type inconsistency of piercing damage of Morai armor and [Riftlocker](https://wiki.spiralknights.com/Riftlocker) used by the Spiral Order.
 
 We believe, this motif is related to alchemy, as gold was considered pure, divine metal, representing physical and spiritual perfection, and one, which, but on a different matter would serve on par with silver in opposition to Shadow Steel of Underworld.
 
-And, as for the handguns of ths period of time, [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) would be invented by Owlites in their research. Owlite Academy Of Macgics were at the frontier of elemental research, which would become prominent as we will cover the Fallen Valkyrian. All of those similarities make it seem for us as if all those cultures were deeply intertwined at some point in time, in the similar manner to the existence of [heavy statues](https://wiki.spiralknights.com/Statue#Heavy_Statue). This would resolve both in-game status resistances, as an argument for physiological similarities, and also symbolic and thematic parallels.
+And, as for the handguns of ths period of time, [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) would be invented by Owlites in their research. Owlite Academy Of Macgics were at the frontier of elemental research, which would become prominent as we will cover the Fallen Valkyrian.
+
+All of those similarities make it seem for us as if all those cultures were deeply intertwined at some point in time, in the similar manner to the existence of [heavy statues](https://wiki.spiralknights.com/Statue#Heavy_Statue). This would resolve both in-game status resistances, as an argument for physiological similarities, and also symbolic and thematic parallels.
 
 #### Celestial Kingdom
 
@@ -3426,7 +3440,9 @@ There are the Four Heavenly Kings. Despite the title, they are guardians of Heav
 
 Those similarities seem intentional, distinguished from the general themes and motifs across many different mythos, apart from Christianity, which, as will will further discuss, has its prevalence. This, we believe, still marks a distinction between physiology of celestial beings in the context of Spiral Knights, and ones within the material realm, extrapolated onto many different species.
 
-Considering an interpretation could be suggested, that Owlites followed later with the Kat Tribe, into the empty heavenly kingdom and Scarlet Fortress. But, within this theory, we appeal to the status resistances argument, which identifies valkyries as Owlites, unless more evident discoveries would be presented.
+More so, we have previously covered divine themes of Valkyries through relation to wording of seraphic or angelic, suggesting a transition from the divine to material.
+
+Considering that, as well as our previous discussions of Valkyries being griffins, a solution could be proposed, that Owlites appeared after Valkyries in the material realm, but already by the time of Owlite academy being established and used to create elemental gear for gunslinger priests, as well as greater accent on magic and power of sealing the curse. This would lead Legion of Ur being selaed at least after Lord Vanaduke's crusade.
 
 #### Knights of the Rose
 
@@ -3436,21 +3452,25 @@ Knight of the Rose are described in the [Tabard of the Rose](https://wiki.spiral
 
 As they are described as fencers, the only equipment that could potentially fit to them is the [Flourish](https://wiki.spiralknights.com/Flourish) alchemy tree.
 
-The [Fowl Cloak](https://wiki.spiralknights.com/Fowl_Cloak) of [Rooster Prize Box](https://wiki.spiralknights.com/Rooster_Prize_Box) is the bringing element to tabards and Strangers as it has the same pattern weaved on cloth as a few Haven canopies ([Fowl Set pattern](https://wiki.spiralknights.com/File:Brown_Fowl-Set.png)). Similar to the cloak, [tabards of the rose](https://wiki.spiralknights.com/Tabard) of [Rose Regalia Prize Box](https://wiki.spiralknights.com/Rose_Regalia_Prize_Box) and a [letter](https://forums.spiralknights.com/en/node/95665). It is important to note meaning of tabard - a type of coat being worn in late middle ages Europe, used both in and out of military context.
+The [Fowl Cloak](https://wiki.spiralknights.com/Fowl_Cloak) of [Rooster Prize Box](https://wiki.spiralknights.com/Rooster_Prize_Box) is the bringing element to tabards and Strangers as it has the same pattern weaved on cloth as a few Haven canopies ([Fowl Set pattern](https://wiki.spiralknights.com/File:Brown_Fowl-Set.png)).
+
+Similar to the cloak, [tabards of the rose](https://wiki.spiralknights.com/Tabard) of [Rose Regalia Prize Box](https://wiki.spiralknights.com/Rose_Regalia_Prize_Box) and a [letter](https://forums.spiralknights.com/en/node/95665). It is important to note meaning of tabard - a type of coat being worn in late middle ages Europe, used both in and out of military context.
 
 Fencers' armor designs are similar to Fowl's which are the same as the patterns on canopies across [Haven](#strangers-and-haven). This fact, as well as nature motif of knights of the Rose, we believe, makes it seem that knight of the rose were Almirians.
 
-The question is, how Vaelyn, for example, had in her possession her Grand Flourish and Final Flourish? An explanation can be presented here, as with gunslingers and regular close-combat knights, their weapons, their designs, fencers were also present on Isora with the rest of first generation of Isorians, but only after crash landing they attained the distinctive natural theming, reminiscent of kingdom of Almire.
+The question is, how Vaelyn, for example, had in her possession her Grand Flourish and Final Flourish?
 
-The fact that Stranger have those designs prior to arrival of Spiral Order during game's events is also should be emphasized. Could strangers be influenced by designs of Isorians? Yes, is those introduced it events seems to us as a solid proof of those designs being as such. Otherwise there would be no reason for Spiral Order to take Strangers' designs as the basis for tabards', including their framing as something coming, yet again, from the past.
+An explanation can be presented here, as with gunslingers and regular close-combat knights, their weapons, their designs, fencers were also present on Isora with the rest of first generation of Isorians, but only after crash landing they attained the distinctive natural theming, reminiscent of kingdom of Almire.
+
+The fact that Stranger have those designs prior to arrival of Spiral Order during game's events is important, as it suggest that a large period of time has passed since. Otherwise there would be no reason for Spiral Order to take Strangers' designs as the basis for tabards', including their framing as something coming, yet again, from the past.
 
 #### Fallen Valkyrian
 
-We believe, Fallen Valkyrian is the reason why heavenly kingdom invaded Underworld in the first place, and then sealing Legion of Ur.
+We believe, Fallen Valkyrian is the reason why heavenly kingdom invaded Underworld in the first place, and then of sealing the Legion of Ur.
 
-We would not attempt to understand Fallen's motivation or reasoning, as there is practically no information on him. But one thing, we believe is certain, - __what was done by him, had rippling effects large enough, so that he had to be banished__
+We would not attempt to understand Fallen's motivation or reasoning, as there is practically no information on him. But one thing, we believe is certain, - __what was done by him, had rippling effects large enough, so that he had to be banished__.
 
-But, based on the designs of the armor, and its recipes, we can attempt to piece together what happened back then:
+Based on the designs of the armor, and its recipes, we can attempt to piece together what happened back then:
 
 - `A cursed suit of armor once worn by a celestial being cast down from paradise` ([Armor of the Fallen](https://wiki.spiralknights.com/Armor_of_the_fallen)).
 - `A cursed crown once worn by a celestial being cast down from paradise` ([Crown of the Fallen](https://wiki.spiralknights.com/Crown_of_the_Fallen)).
@@ -3459,11 +3479,11 @@ The `celestial` characteristic is one used to refer to valkyries in the [Heavenl
 
 The paradise in that regard, as it takes more religious connotation, is the heavenly kingdom, the Scarlet Fortress being what remains of it. And it seems to us fitting from current themes, that this narrative parallels to a religious one. With this, __this heavenly kingdom, or paradise, and Asgard, seem to be located in a realm above material realm, while allowing more matter from the material realm, as castles, comprising the kingdom__.
 
-In that context, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, could potentially belong to the Fallen instead of the Shadowsun set mainly due to how it has all avian imagery. This would decouple it from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker), which is an issue, but, so far, this plot is complete.
+In that context, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, could potentially belong to the Fallen Valkyrian instead of the Shadowsun set mainly due to how it has all avian imagery. This would decouple it from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker), which is an issue, but, we can attribute, as stated earlier, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
 
 We have a reason to consider the aforementioned heavenly kingdom as one located in a different realm due to the multi-dimensional property of the proposed cosmology - so that a biblical event, such as banishment of the Fallen, would involve at least 2 realms. And given lack of presence of material realm, and opposition of the latter 2, it seems that there are 3 dimensions to be involved in this conflict.
 
-As Fallen was banished into the Underworld, Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)). [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation: `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
+As Fallen was banished into the Underworld, Valkyries had head an incursion into Underworld, and then sealed both the Fallen and the Legion of Ur (`Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back` - [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur)). [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) contains an addition to this hypothesized timeline of events: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves`, in which we linked sound of drums to the sound of drum during Lord Vanaduke's transformation: `With this he began screaming the names of the rival kings and all the wrongs they committed against his kingdom. He cried out to the god of the mountain to punish them, to give him the strength to take his kingdom back. In his frenzy he looked to the face of the deity and in it he began to see the face deform. The image burned into his eyes and brain like cinders, and contained that which sounded like the screaming of foreign tongues and war drums` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), as __war drums being characteristic of Underworld's influence onto living beings__.
 
 This Crest has 2 notable properties: the supernatural presence of trojans and the fact legion of Ur had conquered the Underworld. The supernatural presence of trojans is similar to Snarbolax's equipment curse properties:
 
@@ -3472,9 +3492,11 @@ This Crest has 2 notable properties: the supernatural presence of trojans and th
 
 And, as discussed in [Snarbolax and empowerment through curse section](#snarbolax-and-haunting-through-curse), all those instances of haunting in varying severity are explained by the unnatural, from the position of material realm, properties.
 
-It is said that the legion had conquered the Underworld, and based on the above information, was sealed there. We also concluded that it is the same army Lord Vanaduke had led when he returned from the erupting volcanic mountains. The fact of trojans being conquerors would mean that they either were a small power earlier, or were introduced to the Underworld to seize the power over it.
+It is said that the legion had conquered the Underworld, and based on the above information, was sealed there. We also concluded that it is the same army Lord Vanaduke had led when he returned from the erupting volcanic mountains.
 
-Our theory suggests that trojans are wardens, so their arrival is fitting here, but this would also mean that one had to lead them - a lack of Legion's commander. At that point we would suggest that this figurehead would be the Fallen, as this type of power shift, rippling through time, would be a reason for a banishment for the Fallen under this framing. This means that the Fallen's name is Ur once he remained in the Underworld with an identity of a commander of Underworld elite legion.
+As our theory suggests that trojans are wardens, so their arrival is fitting here, but this would also mean that one had to lead them - a lack of Legion's commander.
+
+At that point we would suggest that this figurehead would be the Fallen Valkyrian, as this type of power shift, rippling through time, would be a reason for a banishment for the Fallen under this framing. This means that the Fallen's name is Ur once he remained in the Underworld with an identity of a commander of Underworld elite legion.
 
 We also suspect, that, _as Arkus was transforming into a fiend, so was the Fallen_, given his affinity with fiends through armor's stats.
 
