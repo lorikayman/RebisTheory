@@ -1,13 +1,15 @@
-**Hail Knights! This was a long time coming.**
+**Hail Knights! This has been a long time coming.**
 
-After nearly a year in the making, our researchers compiled the **most complete to date timeline**, — wherein history of Cradle, every depth, every gear, every material and recipe, and _everything_ in between was dissected, analyzed, put together, and **solved**, so that no unanswered questions would remain. This proposal is finally available under the codename of...
+After more than a year in the making, our researchers are proud to announce the **most complete to date timeline**, — wherein history of Cradle, its every depth, every piece of furniture, every costume, every material and recipe, and _everything_ in between was dissected, analyzed, put together, and **solved**, so that going forward _no unanswered questions would remain_.
 
-[**REBIS THEORY 🜔**](https://ironkayman.github.io/entries/rebis-theory)
+This proposal for the timeline is available under the codename of...
 
-Here, we are to identify _nature of curse_, _the Swarm_, entire cosmology behind _Nameless Realm_, _Spirit Mother_ and why spirit return to material realm, _Underworld_, _Heavenly Kingdom_, _Apocrea_, _Architect's Madness_ and Clockworks, their respective alchemical themes, eldritch motifs, and **much more**!
+[**REBIS THEORY 🜔**](https://lorikayman.github.io/entries/rebis-theory)
 
-Most importantly, **we present a cohesive, complete system**, to which entirety of this cosmology abides!
+Here we identify nature of the curse, entire cosmology and its realms, prime actors and their ultimate goals, Underworld and Undercorp, Heavenly Kingdom, Apocrea, Architect, Swarm and Clockworks, their respective themes, alchemical and eldritch motifs, and **much more**!
 
-_P.S. We have considered the sheer scale of the document, so be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation._
+And, most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology abides**.
 
-https://ironkayman.github.io/entries/rebis-theory
+We have considered the scale of the document, so be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the **video presentation**.
+
+https://lorikayman.github.io/entries/rebis-theory
