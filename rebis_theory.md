@@ -3088,7 +3088,7 @@ While this may serve as a closure for Almire, Legion of Ur, which we suggested t
   <span class="energy">☽</span>
 </center>
 
-<h3 align="center">Intermission: Gunslinger Priests of The Forgotten Time</h3>
+<h3 align="center">Intermission: Gunslinger Priests of Forgotten Time</h3>
 
 After assisting Lord Vanaduke, a fiendish army, which we believe to be so far the Legion of Ur, returned into the Underworld.
 
@@ -3366,34 +3366,46 @@ This proposal leans to an idea of gunslinger priests emerging some time after in
 
 Within this framework where gunslinger priests would fit? It was established that Spiral Order had either forgotten this period of time with the knowledge of those elements and Underworld, with only modern Isorians discovered it, fitting in the low-tech setting, or belonging to heavenly kingdom, due to both having experiences with Underworld.
 
-##### Griffin-Dragon Distinction
+#### Griffin-Dragon Distinction: A Proposal
 
-As there is seeming lack of any other leads as well as a loose definition of a knight in relation to the gunslingers in general, we propose a solution, but one, we believe, couples majority of the inconsistencies and anachronisms through thematic grouping.
+As we have exhausted here most of the leads, we can now begin to outline a solution for this period of time - one, we believe, couples majority of the inconsistencies, loose definitions, and anachronisms through common themes, rather than direct evidence.
 
-The forgotten time in question is the early period of time from Isorians on planet, which would be incorporated into Cradle, - it is the time when Raiders, kingdoms of Ironmight and Almire have stemmed from, but preceding them.
+Forgotten time is distinct and early period of time, involving gunslingers on a planet, where undeath would be prevalent and fought against.
 
-None of those parties were familiar with the undeath, as they did not know of elemental defenses nor damage, but they knew of normal and piercing:
+Those gunslinger were, initially, Isorians, who have crash landed on this planet, eventually resulting in 3 kingdom. But before this, Underworld was uncovered. As its presence was still felt in the mountains of kingdom of Almire, we previously supposed, that it was connected to [magmatic fanatics](#blackened-shrine-and-magma-deity), which were the reason for shrine's construction. But, given that Vanaduke's crusade did put an end to a war of 3 kingdoms, we suspect that most of this land was rendered uninhabitable. Such interpretation allowed us to consider Valkyries invading the Underworld for that reason, as it was Legion of Ur and Lord Vanaduke's curse which caused this.
+
+This would place an incursion of Valkyries into the Underworld after kingdom of Almire has fallen, but, this period of time was better explored, and no evidence of guns was found. Due to this we placed period of time with guns - identified as the forgotten time, int the past before medieval themes of Isorians were properly formed.
+
+During Almire, none of those kingdoms were familiar with the undeath or shadow damage, as they did not know of elemental defenses nor damage, but they knew of normal and piercing:
 
 - For kingdom of Ironmight: [Ironmight set](https://wiki.spiralknights.com/Ironmight_Plate_Mail)
 - For kingdom of Almire: [Almirian Crusader Armor](https://wiki.spiralknights.com/Almirian_Crusader_Armor), [Volcanic Plate set](https://wiki.spiralknights.com/Volcanic_Plate_Mail).
 - For gunslingers: [Antigua](https://wiki.spiralknights.com/Antigua), [Justifier Jacket](https://wiki.spiralknights.com/Justifier_Jacket)
 - For raiders: [Squall Caller](https://wiki.spiralknights.com/Squall_Caller), [Winter's Edge](https://wiki.spiralknights.com/Winter%27s_Edge)
 
-Undeath would not be encountered up until first interactions with the Underworld for Isorians and second time for Valkyries, as they did witness Underworld during reign of Titans.
+Due to this, we have suggested, that there are no civilizations left after Almire, apart from heavenly kingdom, to be aware of other damage types. This reasoning also tied to the idea of Legion of Ur being Spiral Wardens transformed in the past. So we committed to this route of Isorians being at the center of this plot.
 
-Through currently unknown means, Isorians did uncover Underworld and undeath, separately from their homeworld, Isora. This event has ended with the creation of the Legion of Ur from corrupted Wardens, which initiated a conquest into the Underworld, remaining but not sealed there (`A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves` - [Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur)).
+As undeath remains vague in its in-Universe laws, we have attributed gunslinger priests to this period of time. Undead would not be encountered up until first interactions with the Underworld for Isorians and second time for Valkyries, as the latter did witness Underworld during reign of Titans.
 
-This notion by itself had to connect Valkyries and Isorians, so a figurehead for this event would be fitting to be the Fallen Valkyrian. Eventually, since Isorians had gun-wielding skills, referring primarily to gunpowder-fueled [Antigua](https://wiki.spiralknights.com/Antigua): `A mysterious relic from a forgotten time. It uses explosive powder to fire its rounds`, they did possess aforementioned west theming.
+Through currently unknown means, Isorians did uncover Underworld and undeath, separately from their homeworld, Isora. This event has ended with the creation of the Legion of Ur from corrupted Wardens. Legion of Ur then had initiated a conquest into the Underworld, remaining there, but not being sealed: `A crest from the lost Legion of Ur, an elite band of fiendish warrior said to have once conquered the Underworld. Whomever holds it can faintly hear the sound of drums and the clomping of hooves` ([Crest of Ur](https://wiki.spiralknights.com/Crest_of_Ur)).
+
+As Isorians were connected to Underworld through this plot, and as they had divine-themed equipment, we suggested, that it was creation from Valkyries approaching them. While this seems odd, we attributed it to the similarity of handguns with depiction of griffin and depiction of a dragon. Essentially, following a scenario, where Valkyries had introduced divine aspect of piercing damage to Isorians, while Isorians were ones to share technique on manufacturing those guns, allowing for griffon-themed designs specifically for heavenly kingdom.
+
+This would tie back to creation of gunslinger priests, who did fought undead, and later had experiences of reaching Underworld.
+
+By notion itself of Valkyries and Isorians being connected, a figurehead for an event of Wardens transformed to Legion of Ur ro be Fallen Valkyrian seems to us fitting.
+
+Here a question remains - what had to happen between discovery of Underworld and eventual corruption of Wardens?
+
+So far we have considered undead as ones emerging from Underworld, but, this is only plausible if Undead family of monsters would exists in Underworld proper. We base this on the idea of Dark Cities being already inhabited by undead.
 
 Valkyries at that point, would approach those Isorians, which would allow for creation of divine-themed gunslinger gear. This gear would be attributed to gunslinger priests, composed of Isorians, wielding [Raptor](https://wiki.spiralknights.com/Raptor) alchemy line and [Deadshot Mantle](https://wiki.spiralknights.com/Deadshot_Mantle), and Valkyries, who have remade Antigua to griffin-themed variants. Those recreations would be paired in [Silvermail](https://wiki.spiralknights.com/Silvermail) and [Silversix](https://wiki.spiralknights.com/Silversix) as definitive set of _a gunslinger priest fighting the undead_.
 
-Here, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) is then paired with [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker) through a scenario of a persistent focus of Isorians on shadow-damage as they were ones to be used for the creation of Legion of Ur - an inverse of Valkyries being aligned to concept of divinity, utilizing a gun of their design. Maybe even, due to Isorians unlocking Underworld.
+Here, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) is then paired with [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker) through a scenario of a persistent focus of Isorians on shadow-damage.
 
-[Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from shadow steel `An ancient handgun forged from shadow steel`, seems as to be created in the Underworld, similar to [Faust](https://wiki.spiralknights.com/Faust) line: `A powerful, cursed sword forged in the underworld` (`An upgraded Faust forged from pristine-quality shadow steel. Its charge attacks are powerful enough to curse its wielder, but that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time` - [Gran Faust](https://wiki.spiralknights.com/Gran_Faust)).
+Then, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from shadow steel `An ancient handgun forged from shadow steel`, seems as to be created in the Underworld, similar to [Faust](https://wiki.spiralknights.com/Faust) line: `A powerful, cursed sword forged in the underworld` (`An upgraded Faust forged from pristine-quality shadow steel. Its charge attacks are powerful enough to curse its wielder, but that hasn't stopped Devilites from treasuring these rare blades even more highly than their meager vacation time` - [Gran Faust](https://wiki.spiralknights.com/Gran_Faust)).
 
 And, to this period of time we attribute creation of [Avenger](https://wiki.spiralknights.com/Avenger) line, as a creation of Valkyries, Owlites specifically through the usage of Sealing magic and inversion of curse. At that, we propose, Avenger being a result of Owlite research in teh Academy in attempt to invert Faust's curse-bearing property from the sword, reusing it for the gunslinger priests.
-
-This precedent would explain singular existence and nature of Maulos, as well as the trojans' origins being Spiral Wardens. The undead, to which gunslinger priests had to fight could've come from the Underworld, as it had to happen in the past.
 
 We could have suggested those undead be the remains of the kingdom of Almire, given Dread Seals of Carnavons, but it seem to recent, as there is already enough information on Almire, while the forgotten time seemingly alludes to a different period of time. This suggestion also contradicts a definite point in time, when Legion of Ur had to be sealed, so its emergence from the mountains would be an exception to [current method of summoning through ritual circles](#summoning-from-underworld).
 
@@ -3479,7 +3491,7 @@ The `celestial` characteristic is one used to refer to valkyries in the [Heavenl
 
 The paradise in that regard, as it takes more religious connotation, is the heavenly kingdom, the Scarlet Fortress being what remains of it. And it seems to us fitting from current themes, that this narrative parallels to a religious one. With this, __this heavenly kingdom, or paradise, and Asgard, seem to be located in a realm above material realm, while allowing more matter from the material realm, as castles, comprising the kingdom__.
 
-In that context, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, could potentially belong to the Fallen Valkyrian instead of the Shadowsun set mainly due to how it has all avian imagery. This would decouple it from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker), which is an issue, but, we can attribute, as stated earlier, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
+In that context, [Sentenza](https://wiki.spiralknights.com/Sentenza), as it is forged from Shadow Steel, seems to belong to the Fallen Valkyrian instead of the Shadowsun set. This would decouple it from the [Shadowsun Slicker](https://wiki.spiralknights.com/Shadowsun_Slicker), which is an issue, but, we can attribute, as stated earlier, [Blackhawk](https://wiki.spiralknights.com/Blackhawk) to this set.
 
 We have a reason to consider the aforementioned heavenly kingdom as one located in a different realm due to the multi-dimensional property of the proposed cosmology - so that a biblical event, such as banishment of the Fallen, would involve at least 2 realms. And given lack of presence of material realm, and opposition of the latter 2, it seems that there are 3 dimensions to be involved in this conflict.
 
@@ -3516,7 +3528,9 @@ Notes on Almire were described in many tomes within the established Owlite Acade
 
 After the events of Valkyries invading the Underworld, without, supposedly, gunslinger priests, many fiend-related discoveries were made, we can identify those by their recipes, which contain either undead or fiendish materials.
 
-At some point, likely near the period of time when gunslinger priests were established, Philoso, an Owlite magician and wizard was born (`A large, grey feather plucked from the greatest of the Owlite magicians` [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)). He is responsible for many developments of Owlites around combat and handguns within the Owlite Academy. Evident by gear made with his feathers, he was specializing in elemental combat against the Undead. Considering that undead-oriented defensed and weaponry, it could be Almirian Empire, as at that point it is undead being the invader. Apart from them, undead could be a part of Underworld army during the event of Valkyries invading it - cse suggested to exist in the [analysis of possibility of gunslinger priests appearing after the kingdom of Almire](#fallen-valkyrian).
+At some point, likely near the period of time when gunslinger priests were established, Philoso, an Owlite magician and wizard was born (`A large, grey feather plucked from the greatest of the Owlite magicians` [Philoso Feather](https://wiki.spiralknights.com/Philoso_Feather)). He is responsible for many developments of Owlites around combat and handguns within the Owlite Academy. Evident by gear made with his feathers, he was specializing in elemental combat against the Undead.
+
+Considering that undead-oriented defenses and weaponry, it could be Almirian Empire, as at that point it is undead being the invader. Apart from them, undead could be a part of Underworld army during the event of Valkyries invading it - cse suggested to exist in the [analysis of possibility of gunslinger priests appearing after the kingdom of Almire](#fallen-valkyrian).
 
 To reiterate on the equipment, discussed in the previous sections regarding Owlite and Valkyrian technological advancements.
 
