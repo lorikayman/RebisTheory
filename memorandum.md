@@ -1,12 +1,12 @@
 **Hail Knights! This has been a long time coming.**
 
-After more than a year in the making, our researchers are proud to announce the **most complete to date timeline**, — wherein history of Cradle, its every depth, every piece of furniture, every costume, every material and recipe, and _everything_ in between was dissected, analyzed, put together, and **solved**, so that going forward _no unanswered questions would remain_.
+Our researchers have compiled the **most complete to date timeline**, — where history of Cradle, its every depth, every costume, every material, and recipe, and _everything_ in between was dissected, analyzed, put together, and **solved**, so that going forward no unanswered questions would remain.
 
 This proposal for the timeline is available under the codename of...
 
 [**REBIS THEORY 🜔**](https://lorikayman.github.io/entries/rebis-theory)
 
-Here we identify nature of the curse, entire cosmology and its realms, prime actors and their ultimate goals, Underworld and Undercorp, Heavenly Kingdom, Apocrea, Architect, Swarm and Clockworks, their respective themes, alchemical and eldritch motifs, and **much more**!
+Here we identify: 1) nature of curse; 2) cosmology and its realms; 3) prime actors and their goals; 4) Underworld and Undercorp; 5) Heavenly Kingdom; 6) Apocrea; 7) Architect, Swarm and Clockworks; their respective themes, alchemical and eldritch motifs, and **much more**.
 
 And, most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology abides**.
 
