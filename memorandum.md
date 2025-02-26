@@ -8,7 +8,7 @@ This proposal for the timeline is available under the codename of...
 
 Here we identify: 1) nature of curse; 2) cosmology and its realms; 3) prime actors and their goals; 4) Underworld and Undercorp; 5) Heavenly Kingdom; 6) Apocrea; 7) Architect, Swarm and Clockworks; their respective themes, alchemical and eldritch motifs, and **much more**.
 
-And, most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology abides**.
+And, most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology abides**, whose goal is to identify presented lore in a single overarching narrative.
 
 We have considered the scale of the document, so be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the **video presentation**.
 
