@@ -3749,15 +3749,19 @@ Then there is [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Sh
 
 It is through shield's design similarity to [Argent Peacemaker](https://wiki.spiralknights.com/Argent_Peacemaker) we suspect, that gunslinger priests proper, as ones to possess sets of [Silvermail](https://wiki.spiralknights.com/Silvermail#Alchemy_Path) and [Silversix](https://wiki.spiralknights.com/Silversix#Alchemy_Path) alchemy lines, are placed here, rather then to the forgotten time. Here, [Drake Scale set](https://wiki.spiralknights.com/Drake_Scale_Helm), as it is related to drakes, we attribute to Valkyries near the period of time when dragons and drakes had existed, [alluding to presence of undead drakes, as howlitzers, in the heavenly kingdom and Owlite keep](#howlitzers-dragons-and-drakes).
 
+A counterpart to the elemental line of Antigua, [Gilded Griffin]( https://wiki.spiralknights.com/Gilded_Griffin) under this logic would fall to the period of time of Valkyries invading the Legion of Ur through removal of vaguely defined events, not documented across currently existing roster of items.
+
 Lastly, there is [Troika alchemy tree](https://wiki.spiralknights.com/Troika#Alchemy_Path), predominantly due to its 5-star upgrades being uncharacteristic of other items in terms of design. As most of heavy plated armor has remained in possession of 3 kingdoms, we are leaning to attribute Troika upgrades to their ancestors. As [Sudaruska](https://wiki.spiralknights.com/Sudaruska) contains [Volcanic Iron](https://wiki.spiralknights.com/Volcanic_Iron), it is more so likely to belong to ancestors of the Kingdom or Almire, per our discussion of [volcanic gear](#volcanic-elements).
 
 Triglav, on the other hand, is acquired through participation in King Krogmo Coliseum, who is seemingly a devilite. Then, its recipe contains everfrost, a material used in Underworld's operations on containing souls. Those factors, we believe, make this sword to be made only through presence of Underworld, and paired with Sudaruska, it can plausible trace back to the period nearing the kingdom of Almire and forgotten time.
 
-While we have not eliminated undead from the forgotten time, we have arranged a more plausible scenario through the inclusion of a period of time attributed to Owlites and their long-ranged method of combat after the Kataclysm.
-
 Lastly, the discoveries of Owlites regarding Dread Seal and other curse-related spells, we propose to be created near the Kataclysm, rather than in the forgotten time, devised by Philoso specifically.
 
 Given nature of [Chaos Cloak](https://wiki.spiralknights.com/Chaos_cloak) and Book of Grey Feathers, those items seem us to __represent the deepest advancements of Owlites__, which, consequently, had to result in a catastrophe attributed to Kataclysm and Kat tribe.
+
+While we have not eliminated undead from the forgotten time, we have arranged a more plausible scenario through the inclusion of a period of time attributed to Owlites and their long-ranged method of combat after the Kataclysm, __moving the events of the forgotten time past Kataclysm__.
+
+At that, the only event remaining before creation of the kingdom of Almire is the _banishment of Fallen Valkyrian and creation of Legion of Ur_.
 
 #### Grimalkin
 
