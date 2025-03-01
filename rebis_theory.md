@@ -3841,11 +3841,39 @@ As we further attempt to identify entities behind Maskeraith, we will attempt to
 
     This property, we suggest, can be related to the nature of the law, __which had brough spirits to material realm planetaery scale in the first place__.
 
+#### Evo Catalysts and The Core
+
+In the context of battle sprite's ultimates, to fully manifest them, [catalysts](https://wiki.spiralknights.com/Ultimate_Evo_Catalyst#Evo_Catalyst) are used.
+
+By the design of those items, it seems they belong to high-tech designs nearing ones of rectangular plates of Core's shell and underlying Whitespace.
+
+While we haven't yet delved into the nature of Whitespace, one element of those designs seems evident - those catalysts open up larger possibilities for evolution, allowing battle sprites to distance themselves from explicitly artificial nature to one embodied by the transformation.
+
+As it was said, battle sprites have erratic energy signatures: `The energy signature I'm detecting is erratic, but still definitely a battle sprite` ([A Revelation in Flames - Sunset Steppes - Rhedon](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes)). We propose, that catalysts contain the same transformative effect as the initial transformation through introduction to Cradle, causing deviation from the standard E-class.
+
+And, as those events are happening on Cradle, with presence of the Core and its energy (`Tier 3 is closest to the Core and much like how high level items respond to its power, so do monsters.
+Many of them take on new forms and are considered at their most dangerous. You must prepare before taking on each mission` - [Best of the Beast - Hahn](https://wiki.spiralknights.com/Best_of_the_Beast)), we believe, __Catalysts contain the same transformative through application of energy effect, as the the Core__ and its effects onto Cradle by parallels in the design and motif.
+
+As they contain far greater amounts of energy, while being contained within distinct mechanism in design of the _plated structure_, as the Core, the principles, used to contain this energy are __identical to ones applied at the Core__.
+
+#### Battle Sprites Recap
+
 With all of those factors considered, we propose, that Maskeraith seems to represent and entity, or several entities, if judged by the masks' shapes, which inhabit the Underworld.
 
-Through this _artificial unity or even overtake of Underworld's powers over a battle sprite_, this creates conditions for a phenomenon, observed so far, __as the state of being curse-ridden with powers granted from this state__.
+Through this _artificial unity or even overtake of Underworld's powers over a battle sprite_, this creates conditions for a phenomenon, observed so far, as the state of being afflicted by generalized curse with powers granted from this state.
 
-This condition, we believe, is of the same nature as the state of [being bound to an object](#vanadukes-mask-and-immortality-through-curse), -  and entering a category of entities, such as Lord Vanaduke's Mask and Graveyard Phantoms, with effects, so far attributed to curse-ridden entities, where curse has granted one's supernatural abilities, - mainly due to Maskeraith's large set of skills.
+This condition, we believe, is closely related to the nature of [soul being bound to an object](#vanadukes-mask-and-immortality-through-curse), -  entering a category of entities, such as, predominantly, Lord Vanaduke's Mask and, in lesser manner, Phantoms, whose powers are derived from being affected by the curse in a non-detrimental manner.
+
+Due to the aforementioned, unprecedentedly large, set of Maskeraith's skills and abilities, as well as a looming potential of manipulating souls over Hexing Haze ultimates, creation of such entity from an artificial battle sprite seems as another instance of an unseen power manifesting itself though those means.
+
+So far we have the following conclusions regarding this power:
+
+- This power is emitted from Cradle, as battle sprite, classified as [E-class](https://wiki.spiralknights.com/File:Dialogue-E-Class_Battle_Sprite.png), are transformed only on Cradle and further evolved through Evo Catalysts,. containing same energy.
+- This energy, when applied, is capable of transforming artificial entities into near-living beings, while preserving their internal structure, so they are identified as Isorian battle sprites by Isorian technology.
+- Transformations, induced by this energy, manifest as species and states of those from the past - Kats of Kat Tribe, both natural and cursed - the latter being Black Kats; dragons of 3 elements; and fiends. Each sprite embodies the totality of those species, the families of those species and states they were found in some points in time, and their innate abilities, attributed to those states.
+- Those abilities surpass original properties of battle sprites, granting powers, which are naturally intended to be wielded by embodies species as part of their existence. Even if the latter is absent - such as families of Kats or extinct dragons, - those are still remembered within evolutionary branches of the specific battle sprite.
+
+This is a novel theme - of _alchemical replication_, - alchemical in a sense, that it surpasses causality, apart from originating from the past, - __being the effect of the energy, emitted by the Core__.
 
 #### Black Kats and Curse
 
