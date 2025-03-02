@@ -2622,7 +2622,7 @@ Then it is [Crest of Ur](https://wiki.spiralknights.com/Crests_of_Ur) which cont
 
 ##### Almirian Empire
 
-Setting aside designs of curse within Vanaduke, Darkfire Vanaduke, and nature of dark matter within trojans, we should point out the following arrangement of concepts - _spookats and zombies do belong to different epochs separated by thousand of years_. And yet, both zombies and spookats ended up in the Owlite ruins of the High Academy, which is part of heavenly kingdom.
+Setting aside designs of curse within Vanaduke, Darkfire Lord Vanaduke, and nature of dark matter within trojans, we should point out the following arrangement of concepts - _spookats and zombies do belong to different epochs separated by thousand of years_. And yet, both zombies and spookats ended up in the Owlite ruins of the High Academy, which is part of heavenly kingdom.
 
 Spookats are explained through a future war of [Kat Tribe and Owlites](#chapter-viii-kat-tribe), but presence of zombies are not. Moreover, summoned _Black Kats are capable of summoning cursed Almirian warriors - Carnavons_.
 
@@ -2658,7 +2658,7 @@ The crest of their shields present on tier 1 trojans may potentially refer to Ir
 
 Mentioned only now, there is a vague notion of [chess-themed hierarchy found across all of the species](https://wiki.spiralknights.com/Chess_Mini), designed to fit into the [Guild Hall](#guild-hall-and-spiral-order-headquarters).
 
-As for the burning, while the color is a hue of purple or pink, there are other instances of that type of burning being observed. Those are Carnavons, Darkfire Vanaduke and the [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), which are `salvaged from Lord Vanaduke's throne room.` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), and purple orbs of light across Moorcroft Manor and Shadow Firestorm Citadel.
+As for the burning, while the color is a hue of purple or pink, there are other instances of that type of burning being observed. Those are Carnavons, Darkfire Lord Vanaduke and the [Dark Embers](https://wiki.spiralknights.com/Dark_Ember), which are `salvaged from Lord Vanaduke's throne room.` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), and purple orbs of light across Moorcroft Manor and Shadow Firestorm Citadel.
 
 Before making one rather [significant suggestion](#nature-of-darkfire) with its implications regarding dark embers, we should cover [Arkus](https://wiki.spiralknights.com/Arkus), as a __single Isorian, who bridges the gap between trojans and Spiral Wardens__.
 
@@ -2795,64 +2795,70 @@ Could it be, that during Arkus's fight in the Cryptic Statuary greavers serve ro
 
 Sparks of life, or rather, an emergency revive, _supercharges dark matter shard in Arkus_, forming small arcs of purple lightning on the first revive around the crystal. On the second revive, those _arcs are seen all throughout Arkus's armor_.
 
-The last stage in that regard resembles tier 3 trojans, as both do have a characteristic purple burning and lightning, coupled with the presence of dark matter crystal. Arkus' dark matter shard, same as trojans', glows pink and burns with the same purple flame, not seen in previous stages of the fight.
+The last stages in that regard resemble tier 3 trojans, as both do have a characteristic purple crystal fuming, and lightning. Arkus' dark matter shard, same as trojans', glows pink and burns with the same purple flame, not seen before initial revive.
 
-This change found in mineral pillars seems to us as a depiction of its charged state, for the first time referenced in the [first part](#minerals-and-souls-part-1). This change in color here seems more plausible compared to color shift of tortofists, considering direct before and after states of Arkus' physique, as when compared to a depleted dark matter, Arkus is revived with presence of pure energy of emergency revive. And only then the burning, or fuming, of dark matter begins.
+__This property of burning after a revive in mineral seems to us as a depiction of its now charged state.__
 
-To cycle back to tortofists' ammo - there is potentially only other one instance of charged dark matter - the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars but have bright purple glow as the rest of tortofists' ammo.
+To cycle back to tortofists' ammo - there is potentially only other one instance of charged dark matter - the bullets of [Gorgofist](https://wiki.spiralknights.com/Gorgofist). In that case the crystals are the same color as pillars but have bright purple pulsing glow as the rest of tortofists' ammo.
 
-Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that __minerals under some conditions could contain charge made of souls__, _essentially the Energy in a specific form_.
+Throughout [Minerals and Souls](#minerals-and-souls-part-1), [Auras and Souls](#auras-and-souls), and [Apocrean Engines](#apocrean-engines) we had suggested, that __minerals under some conditions could contain charge made of souls__, _essentially the Energy in a specific form._
 
-The Energy here being the medium for souls to exist in and through, and a link for the fuel of [Apocrean Engines](#apocrean-engines). That energy is contained in minerals as charge, one used to power Clockwork Gates, as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches`. _This dialogue could potentially refer to an old method of gate construction_, but, as dialogue itself remains in the game, and talks about gate launches themselves, we may also suggest a role of crystal energy here being used as-is - a diegetic component of the game, not intended to be removed as it sheds light on the actual physics of minerals, despite the latter being merged with the current concept of Energy in a _seemingly non-diegetic manner_.
+The Energy here being the medium for souls to exist in and through, and a link for the fuel of [Apocrean Engines](#apocrean-engines) under condition of being captured by the latter. That energy is contained in minerals as charge, one used to power Clockwork Gates, as suggested by Vaelyn's team technician: `We need to analyze how mineral power affects the Core. The problem is that very little power reaches down to these depths. We can gather so much data from each gate as it launches`. Although, this dialogue could potentially refer to an old method of gate construction, as it had remained unchanged after rework of energy system. But since the dialogue is in the game, and talks about gate launches themselves, we may also suggest a role of energy here being used as-is - _an originally diegetic component of the game_, not intended to be removed as it sheds light on the actual physics of minerals, despite the latter being merged with the current concept of Energy in a seemingly non-diegetic manner.
 
 As no souls exit minerals, unlike everfrost, it is likely that it is rather a different form of energy contained within those minerals.
 
 As mineral pillars are explicitly placed and stored across Clockworks, we can potentially suggest, that those are in the depleted state. It is then a question of why gremlins had to store specifically depleted mineral?
 
-There is presence of dark matter in a more raw formations such as [across dark cities](https://wiki.spiralknights.com/File:Area-Devilish_Drudgery-Scenario_Room5A.png). Although those could be shards of tortodrone missiles.
+There is presence of dark matter in a more raw formations such as [across dark cities](https://wiki.spiralknights.com/File:Area-Devilish_Drudgery-Scenario_Room5A.png), and around tortodrone-themed arenas. On the other hand, those could be shards of tortodrone missiles in a more cinematic perspective. Lastly, given those minerals are also observed in the arenas as being hidden behind Misery Blocks, we may propose that it is the most natural state dark matter is found in - in large chunks of mineral compared to the mineral pillars.
 
 ##### Instances of Charge
 
-Now we cycle back to tortodrones, but in the context of souls. What connects both them, trojans, and Arkus, is the fact that all have dark matter present, it serves as a likely power source, and is charged to the point of fuming:
+Now we cycle back to tortodrones, but in the context of souls. What connects tortodrones, trojans, and Arkus, is that all have dark matter present, it serves as, potentially, a power source, and is charged to the point of fuming/burning:
 
-- Tortodrones have cracks, lightning arcs and burning eyes all of purple color.
+- Tortodrones have cracked shells with purple glow, purple lightning arcs and burning eyes.
 
-    Crimsonite-powered tortodrones don't have burning eyes, but do have red lightning arcs throughout their shell.
+    Crimsonite-powered tortodrones don't have burning eyes, but do have red lightning arcs throughout their shells.
 
-    When a corrupted, or potentially, any tortodrone is defeated, its power pistons extend and release purple mist, similar to mist of tier 2 trojans, albeit brighter. Then tortodrones petrify. Their shells are made of stone and capable of being completely destroyed, once tortodrone deactivates.
-- Trojans, especially tier 3 have their internals, ribcage and eyes, cracked and burning with the same purple flame and visible lightning arcs.
+    When a corrupted, or potentially, any tortodrone is defeated:
 
-    Their dark matter crystal on the back burns as well and is the same bright pink color.
+    - Its power pistons extend and purple mist is released, similar to mist of tier 2 trojans, attributed to [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura).
+    - Tortodrone petrifies. Their shells and perceived bodies are made of stone and capable of being completely destroyed, once tortodrone deactivates.
+    - The glyphs, carved on each individual shell of tortodrone stop glowing.
+- Trojans, especially tier 3 have their internals, ribcage and eyes, seemingly cracked as stone and burning with the same brighter hue of purple-pink fire and visible lightning arcs.
+
+    Their dark matter crystal on the back burns as well and is the same bright pink color, identical to Arkus at his first revive.
 
     When trojan is defeated, his crystal shatters, multiple purple explosions happen, and trojan petrifies.
-- Arkus has the same dark matter crystal, with the first revive it glows with a small amount of pink purple lightning.
+- Arkus has the same dark matter crystal, with the first revive it starts to burn as well as emit arcs of purple lightning.
 
-    With the second revive purple lightnings arcs traverse entirety of Arkus armour.
+    With the second revive purple lightnings arcs traverse entirety of Arkus's armor.
 
     When Arkus is defeated, no shattered crystal is seen, but the purple explosions remain. Arkus does not turn to stone.
 - Maulos has the same armour with skull imagery, ribcage, and revealed skull for a head as tier 3 trojans.
 
-    He has everfrost instead of dark matter embedded into him, and has moonstone-like glow from the ribcage, but no burning flames. Presence of everfrost in place of dark matter was the foundational element for this soul-energy link within minerals.
+    He has everfrost instead of dark matter embedded, and has moonstone-like glow from the ribcage, but no burning flames. Presence of everfrost in place of dark matter was the foundational element for this soul-energy link within minerals.
 
-    What sets him apart from trojans is the spread of everfrost onto his skull from the chest, forming a spike. When he is defeated, the everfrost shard shatters with its distinct color.
+    What sets him apart from trojans is the presence of everfrost onto his skull, forming a vertical spike. When he is defeated, the everfrost shard shatters with its distinct color.
 
-All of those patterns seem to point a specificity of dark matter and everfrost, again, being connected but also having similar underlying nature and effects.
+All of those patterns seem to point a specificity of dark matter and by extension, everfrost, being connected, but also having similar underlying nature and effects.
 
-To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), this seems as one of arguments to affirming that souls in some capacity are contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown. But, as it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Vanaduke's and Carnavon's __claws - made of dark matter, as if transformed__.
+To reiterate on [Minerals and Souls part 1 conclusion](#minerals-and-souls-part-1), those properties emerging from a connection to dark matter seem as one of arguments to energy in some capacity being contained in minerals. But then, this _leads to questioning if everfrost is a subtype of moonstone_, be it Underworld counterpart, or a changed by souls of Blinding Abyss moonstone? This currently is unknown. But, as it is _capable of growing from Maulos's ribcage_, we have to point out the nature of Darkfire Lord Vanaduke's and Carnavon's __claws - made of dark matter, as if transformed__.
 
 Could it be, that __dark matter shard on trojans backs is a symptom, rather than a reason for their condition__?
+
+Those aspects of both presence of dark matter and curse will be iterated upon in our [final analysis of curse](#intermission-analysis-of-curse).
 
 ##### Metaphysics of Souls and <span class="through-curse">Cursed Immortality</span>
 
 As zombies are resurrected, as _Carnavons and Lord Vanaduke are animated by curse, which grants them immortality_, what have happened to Arkus, and by extension, Maulos, and the Legion of Ur to become fiends?
 
-As far as information about Arkus claims, he could have metaphorically died back then and be brought back to life through curse, similar to the [crew of Iron Hulk](#ghosts-in-the-machine), as they _haunt the ship and bodies as undead_, or, more likely, as _Lord Vanaduke on the altar of a volcanic deity_. Apart from the transformation being caused by the _sheer grief or exposure to Underworld_ to be a reason, we have to search further.
+As far as information about Arkus claims, he could have metaphorically died back then and be brought back to life through curse, similar to the [crew of Iron Hulk](#ghosts-in-the-machine), as they _haunt the ship and bodies as undead_, or, more likely, as _Lord Vanaduke on the altar of a volcanic deity_. Apart from the transformation being seemingly caused by the _sheer grief and exposure to Underworld_ to be a reason, we have to search further, while assuming such case.
 
 In case of the [Ghost in The Machine](#ghosts-in-the-machine) the spirits, which could communicate, were benevolent.
 
 Trojans were _sealed in the Underworld and then summoned_, and _Maulos is summoned from Underworld or even Blinding Abyss_. Maulos brought influence of everfrost with him and is _transformed by its presence_ - or by being in the Blinding Abyss, - when compared to trojans of Legion of Ur, who are also transformed, but accompanied by presence of dark matter.
 
-Carnavons, potentially Slag Walkers, and the rest of Almire's legion were _scorched by shadow fires_ of Lord Vanaduke, as well as Lord Vanaduke himself. _This does not explicitly mean death_, as souls of Almirians remain trapped, more about it now.
+Carnavons, potentially Slag Walkers, and the rest of Almire's legion were scorched by shadow fires of Lord Vanaduke, as he returned from the mountains. _This does not explicitly mean death_, as souls of Almirians remain trapped - more about it now.
 
 In that sense, we suggest, that presence of fiery souls after Firestorm Citadel' was partially cleansed by the waters from [Spirit Mother's Realm](#spirit-mothers-realm) and Vanaduke's defeat, may reveal that _they were trapped in a corporeal form of perished or ashen Almirians_, in a similar manner as Lord Vanaduke is described by the [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)): `Lord Vanaduke rules over the citadel now. His soul bound to some horrific armored prison. ... Allow the souls he keeps bound to this world a chance to return` ([Alone in The Dark - Lost Souls of Almire](<https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)#Dialogue>)). __That it is not the metaphysic of Cradle, which do not permit his soul to leave, but the curse itself__.
 
@@ -2871,9 +2877,7 @@ In case of Heart of Ice, [Frozen Souls](https://wiki.spiralknights.com/Fire_Soul
 
 Non-elemental Lost Souls of the graveyards are as such due to more mutual process of resurrection - as they are _not bound by curse and are manifested through properties of Cradle which make spirits return to the material realm_. But in case of the Ghost in The Machine - [Static Souls](https://wiki.spiralknights.com/Static_Soul#Static_Soul) are already released, despite them still inhabiting the circuits of the Skydome containing the vessel in the form of Dry Docks.
 
-There, the same manner of haunting is present, and why souls would still exist in their unbound state, remains unknown, unless Underworld's presence of greater in that location, such as the case of graveyards. Although we do not know the reason for its prominent presence.
-
-One suggestion, which could be proposed here without large contradiction, is the idea, that the process of cleansing was incomplete - as Firestorm Citadel was in the process of falling apart, and as Dry Docks were seemingly sealed.
+There, the same manner of haunting is present, and why souls would still exist in their unbound state, remains unknown, unless Underworld's presence of greater in that location, such as the case of graveyards.
 
 As for the [Void Souls](https://wiki.spiralknights.com/Fire_Soul#Void_Soul) - we do have an explanation for them, which will be discussed in relation to the nature of Whitespace and Void later.
 
@@ -2881,7 +2885,7 @@ Finally, Freed Souls were bound by the traps of Apocrea, which manifest in the p
 
 It is also there it is seen that Apocrean Harvester is capable of extracting souls from captured knights through the application of the purple beam of light, similar to ones found across depths' near Apocrean Realm within the shroud.
 
-This process of extraction also damages the knight, - we see this as a direct link between the concepts of [Auras and Souls](#auras-and-souls) and currently established metaphysics of Energy and Souls.
+_This process of extraction also damages the knight,_ - we see this as a direct link between the concepts of [Auras and Souls](#auras-and-souls) and currently established metaphysics of Energy and Souls.
 
 Although Auras in that regard remain mostly unknown, the nature of this connection between all of the above concepts seems here evident, potentially even, as different manifestations of the same base concept of Energy.
 
@@ -2889,13 +2893,13 @@ This can potentially tie in with the concept of [auras](#auras-and-souls), as th
 
 #### Arkus
 
-Could it be, that only death causes loss of consciousness given nature of zombies and Lost Souls? But in case of Arkus, Lord Vanaduke, and potentially Maulos, _they preserve it_, despite going mad or delirious, implying someone being responsible for this state directly - as a gift, such as Underworld deities, resembling Vog's behavior?
+Could it be, that only death causes loss of consciousness given nature of zombies and Lost Souls? But in case of Arkus, Lord Vanaduke, and potentially Maulos, _they preserve it_, despite going mad or delirious.
 
 This connects to each individuals' powers, as Arkus, despite being partially a trojan and a fiend, has orbiting dark orbs, similar to Vanaduke - in both cases demonstrating magic rarely seen in the wild.
 
 Those dark orbs are also seen in Warmaster Seerus' anti-gremlin bomb, [Dark Retribution](https://wiki.spiralknights.com/Dark_Retribution), and [neutralizer's](https://wiki.spiralknights.com/Neutralizer) projectiles. Apart from that, as here we won't analyze gremlin technology, what else connects the two? Both Vanaduke and Arkus were grieving, which may also play part in their transformation, as discussed earlier.
 
-At the same time, as this topic is directly linked to deific presence, Vog explicitly transforms selected creatures, as [stated by Nick](https://forums.spiralknights.com/en/node/9995#comment-55776): `The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world`, despite Vog cubs being currently absent in the game.
+At the same time, as this topic is directly linked to deific presence, [Vog explicitly transforms selected creatures](https://forums.spiralknights.com/en/node/9995#comment-55776): `The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world`.
 
 Lastly, Arkus's sword slam attack has pink lightning strike from above, and forms dark crimsotine shards. Those depleted crimsonite shards are the same as tortodrones'. The pink lightning strike may be similar to the one present during summoning of Margrel. [We will explain this phenomenon](#the-resonance), once we have enough information on it. But, due to aforementioned relation to Margrel and yet not analyzed nature of [Dread Seals](https://wiki.spiralknights.com/Dread_Seal), we will return also to this question [later](#chapter-viii-kat-tribe).
 
@@ -2915,9 +2919,9 @@ To compare with Lord Vanaduke, trojans, in this framework seem to be the result 
 
 As discussed in previous section - it is unknown, what are the conditions which allow for the curse to take affect, transforming its bearer. We have a pattern of grieving, which may or may not serve as a catalyst.
 
-But, exactly here lies the basis of our proposal. Lord Vanaduke, and Darkfire Vanaduke have respective similarity to Slag Zombies and Carnavons by the fact of transformed claws - those are the result of the transformation. And for trojans, their position and role as defenders _twists them in the same thematic manner_ - as they become wardens, but as a fiendish army, invincible from the front, and vulnerable from the back. The vulnerability stems from the crystal. And for Vanaduke, it is his mask, a symbol for something. As a king, he carries his scepter, which was linked to the concept of Justice, while twisted by curse and burned by shadow flames: `Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke` ([Legion of Almire - Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)).
+But, exactly here lies the basis of our proposal. Lord Vanaduke, and Darkfire Lord Vanaduke have respective similarity to Slag Zombies and Carnavons by the fact of transformed claws - those are the result of the transformation. And for trojans, their position and role as defenders _twists them in the same thematic manner_ - as they become wardens, but as a fiendish army, invincible from the front, and vulnerable from the back. The vulnerability stems from the crystal. And for Vanaduke, it is his mask, a symbol for somethings. As a king, he carries his scepter, which was linked to the concept of Justice, while twisted by curse and burned by shadow flames: `Only Justice remains, but she too has been twisted by the cursed flames that ravage our kingdom. Justice is now the burning scepter of our once great Lord Vanaduke` ([Legion of Almire - Inner Sanctum - Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum)).
 
-If we attempt to apply logic behind Almirians' transformation, then crystal of dark matter becomes the manifestation of the curse. In case of Lord Vanaduke that manifestation of the curse was his claws and the mask. The mask seem to have a mind of its own, as it operates throughout the fight by itself. It has a small red gem in the forehead, but this is a different topic. This mask's eye pattern can be seen all across the Citadel, oven columns of the buildings.
+If we attempt to apply logic behind Almirians' transformation, then crystal of dark matter becomes the manifestation of the curse. In case of Lord Vanaduke that manifestation of the curse was his claws and the mask, and potentially the general stature. The mask seem to have a mind of its own, as it operates throughout the fight by itself. It has a small red gem in the forehead, but this is a different topic. This mask's eye pattern can be seen all across the Citadel, oven columns of the buildings.
 
 #### Spiral Wardens and Trojans Similarity: Part 2
 
@@ -2960,11 +2964,11 @@ For this, we will need to look into a different period of time, preceding Almire
 
 #### Nature of Darkfire
 
-While we will not touch upon [Shadow Lairs](#shadow-lairs), what important now is to analyze nature of Darkfire, as it is associated to the most cursed location currently, be it regular Firestorm Citadel or Shadow Firestorm Citadel. We will attempt to find connections to the metaphysics of souls and minerals, and specifically _nature of curses in material realm_.
+While we will not touch upon [the canon of Shadow Lairs](#shadow-lairs), what important now is to analyze nature of Darkfire, as it is associated to the most cursed location currently, be it regular Firestorm Citadel or Shadow Firestorm Citadel. We will attempt to find connections to the metaphysics of souls and minerals, and specifically _nature of curses in material realm_.
 
-It is stated that Darkfire Vanaduke became such, - a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the firestorm citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)). This curse is manifested most prominently in the different transformation of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse. Does this mean, that Darkfire Vanaduke or darkfire in general is created through Vog's curse, followed by a different, more widespread and present curse, associated with the curse status effect?
+It is stated that Darkfire Lord Vanaduke became such, - a distinct entity from Lord Vanaduke, due to an unknown powerful curse falling onto the firestorm citadel: `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!` ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)). This curse is manifested most prominently in the different transformation of Lord Vanaduke, pink glow of volcanic chamber, and presence of Carnavons, and all are affected by the curse. Does this mean, that Darkfire Lord Vanaduke or darkfire in general is created through Vog's curse, followed by a different, more widespread and present curse, associated with the curse status effect?
 
-Carnavons in that matter serve as a link of this curse being the same as one taking effects on Isorians in the form of the curse status effect, even possessing a crudely drawn sigil of the same color on their blackened crests.
+Carnavons in that matter serve as a link of this curse being the same as one taking effects on Isorians in the form of the curse status effect, _even possessing a crudely drawn sigil of the same color on their blackened crests_.
 
 Black Kats, mentioned in relation to Auras in the [Auras and Souls section](#auras-and-souls), also have this capacity to inflict curse, and all having the [Dread Seal](https://wiki.spiralknights.com/Dread_Seal) with an image of evil eye, which links to the Underworld.
 
@@ -2974,44 +2978,48 @@ Carnavons' blackened crests have same purple cracks instead of fiery ones, simil
 
 Lord Vanaduke became an immortal giant after his initial transformation by Vog and due to this Firestorm Citadel has been burning for at least thousand of years. We know that Lord Vanaduke has power over flame souls and his mask, to which we will return soon, as it has another flame soul, behaving seemingly as a standalone entity, and stated to be Vanaduke's source of power: `Our sensors show the mask is a source of power as well as a potential weakness` ([Monstrous Codex: Lord Vanaduke](https://wiki.spiralknights.com/Firestorm_Citadel/Throne_Room)). There is also armor, which seems to be transformed with the wielder itself, having large chains holding it together, similar to a cage in both instances of Lord Vanaduke. We point out those element as we will return to them one more time in the context of a [dedicated analysis of Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
 
-Finally, [Dark Embers](https://wiki.spiralknights.com/Dark_Ember) can be made without descending into the Shadow Lairs. [Dark Ember's](https://wiki.spiralknights.com/Dark_Ember) description states: `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time`. This description is vague, as it does not attribute to any version of the Citadel, but, as the inventory icon depicts it as purple, we lean to attribute it to darkfire. Yet, there are no known laws, apart from themes, which would forbid dark embers to be present in the regular Citadel.
+Finally, [Dark Ember](https://wiki.spiralknights.com/Dark_Ember) _can be acquired without descending into the Shadow Lairs_. [Dark Ember's](https://wiki.spiralknights.com/Dark_Ember) description states: `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time`. This description is vague, as it does not attribute to any version of the Citadel, but, as the inventory icon depicts it as purple mote, _we attribute it to the source of darkfire_. Yet, there are no known laws, apart from themes, which would forbid dark embers to be present in the regular Citadel, as the color of Firestorm Citadel is of regular, red fire, albeit referred by Nature Sprites as Shadow Fire.
 
-Another instance of purple flame is seen across Moorcroft Manor in floating fire bowls. Weather it is the same as the dark ember is unknown, but it would plausible, since those same embers are found across Shadow Firestorm Citadel. As far as specificity of those elements goes, it can be a simple asset reuse, similar to [Skylark's secondary generator](#skylark).
+Another instance of purple flame is seen across Moorcroft Manor in floating fire bowls. Weather it is the same dark ember is unknown, but it would plausible, since those same embers are found across Shadow Firestorm Citadel. As far as specificity of those elements goes, it can be an asset reuse, similar to [Skylark's secondary generator](#skylark).
 
 Due to those factors, as well as unknown canonicity of Shadow Firestorm Citadel, we need to work through each instance of purple color carefully and through multiple iteration as we gather more information on the metaphysics.
 
-These factors make us think of Vog's curse being still unfamiliar to Spiral Order, only seen experienced directly through the properties of [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), while curse status effect represents a greater Curse, a more widespread and afflicting Spiral Knights as a game mechanic. But, both have a distinct, cracked or shattered design on the afflicted entities, be it equipment or creatures.
+These factors make us think of Vog's curse being still unfamiliar to Spiral Order, only seen experienced directly through the properties of [Fang of Vog](https://wiki.spiralknights.com/Fang_of_Vog), while curse status effect represents a greater Curse, a more widespread and afflicting Spiral Knights as a game mechanic. Both have a distinct, cracked or shattered design on the afflicted entities, be it equipment or creatures.
 
-In this distinction, we may suggest for now, that there are 2 curses - one of fire of Vog, and the other of the same nature as seen outside of the Citadel. Both of those curses originate from the Underworld and are capable of trapping or binding souls and inflict undeath onto creatures of material realm, a form of cursed immortality, as in earlier instances of this phenomenon.
+In this distinction, we may suggest for now, that _there are 2 curses - one of fire of Vog, and the other of the same nature as seen outside of the Citadel_. Both of those curses originate from the Underworld and are capable of trapping or binding souls and inflict undeath onto creatures of material realm, a form of cursed immortality, as in earlier instances of this phenomenon.
 
 This can be further affirmed by the description of Citadel being cursed, __as if the curse was applied externally__, rather than an emergent property of the prior. This fits with the design of Carnavons, as _they have a crudely drawn curse symbol drawn on their Blackened Crest_ - __someone had to draw it__. But, it is unknown weather this mark and the dread seal is the source of curse, or even their general role. We are yet to cover them in the context of Black Kats and Kat Tribe.
 
-Then, by the fact of Citadel being cursed, we can suggest, that Slag Walkers became Carnavons through this curse.
+Then, by the fact of Citadel being cursed, we can suggest, that Slag Walkers became Carnavons through this curse, and, as both wear armor, we have previously attributed both to the Almirian army.
 
 Not all members of legion of Almire are burning in darkfire, leaving crusaders and royal guards as ones transformed through Lord Vanaduke's initial arrival from the mountains, as they retain their color scheme.
 
-Those factor seems to us as a bridge between this type of curse and dark matter. Darkfire could be in that context a unique phenomenon emerging from Underworld fire's. Then, is Shadow Fire the same phenomenon as Darkfire? While Shadow Fire had its own design, acknowledged by Nature Sprites, darkfire is explicitly purple and remains as such through the information gathered from the designs of Shadow Firestorm Citadel and Dark Embers. As far as we can be aware, there are multiple sources of purple fire, including a burning dark matter, which is a significant source of confusion for us.
+Those factor seems to us as an initial bridge between those types of curse and dark matter. Darkfire could be considered in that context a unique phenomenon emerging from Underworld fires. Then, is Shadow Fire the same phenomenon as Darkfire?
 
-This leaves us with 2 explanations or proposals:
+While Shadow Fire had its own design, acknowledged by Nature Sprites, darkfire is explicitly purple and remains as such through the information gathered from the designs of Shadow Firestorm Citadel and Dark Embers. As far as we can be aware, there are multiple sources of purple fire, including a burning dark embers, which are a significant source of confusion for us.
 
-- Darkfire is the same pink fire that accompanies trojans of tier 2 and 3, as well as Arkus, and fire bowls of Moorcroft Manor, and Shadow Firestorm Citadel. This assumption is based on prior design similarities across all of those subjects, albeit with slight color variations.
-- Darkfire is the result of 2 curses merging - giving to Vog's fires this curse-bearing or curse-inflicting property, different from a transformative fiery curse, as one seen across Legion of Almire. And, as this purple curse seems to be far more widespread and as only it has the connection to the evil eye, and adopted it as its symbol among Spiral Order, as well as presence of Underworld's cultural imprint - in case of Tortomega.
+This leaves us with 2 initial proposals:
 
-  Another argument fot this explanation is based on the design of fire souls of the Darkfire Vanaduke's mask - no such color is present across Cradle so far, combining both fiery aspect of Lord Vanaduke, but also being color-coded and curse-bearing element. This orb of fire, in fact, could be the very darkfire, distinct from dark embers, which are explicitly purple, thematically fitting to reddish color of curse [found prior in the collapsed grim gates](#grim-gates-portal-collapse).
+- Darkfire is the same pink fire that accompanies trojans of tier 2 and 3, as well as Arkus, Carnavons, and fire bowls of Moorcroft Manor, as well as of Shadow Firestorm Citadel.
+
+    This proposal is based on prior design similarities across all of those subjects, albeit with slight color variations.
+- Darkfire is the result of 2 curses merging - giving to Vog's fires this curse-bearing or curse-inflicting property, different from a transformative fiery curse, as one seen across Legion of Almire.
+
+    And, as this purple curse seems to be far more widespread and as only it has the connection to the evil eye, and adopted it as its symbol among Spiral Order, as well as presence of Underworld's cultural imprint - in case of Tortomega.
+
+    Another argument fot this explanation is based on the design of a unique fire soul behind Darkfire Lord Vanaduke's mask - no such color is present across Cradle so far - of red-pink curse aura and purple core, combining both fiery aspect of Lord Vanaduke, but also being color-coded as curse-bearing element.
+
+    This orb of fire, as far as curse color-coded fire allows, could be a distinct presence of curse, separate from dark embers, which are explicitly purple, but thematically fitting to reddish color of curse [found prior in the collapsed grim gates](#grim-gates-portal-collapse).
 
 It is also important to note, that Dark Ember, being the boss trophy, was added [after](https://wiki.spiralknights.com/Release_Notes_2012-12-12) [introduction](https://wiki.spiralknights.com/Release_Notes_2011-10-19) of Shadow Lairs, with nearly a year of a gap. So far we will only hold onto this information until [reaching analysis of Shadow Lairs](#shadow-lairs).
 
-Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
-
-On the other hand, none of other boss trophies relate to Shadow counterparts, so this would potentially mean, that the purple curse was already present in the Firestorm Citadel, at least in the Throne Room.
-
-This, of course, ties with the greater concept of the placement of the Shadow Lairs into the later timeline, so, to avoid it for now, we would stop at the idea of Dark Ember being connected to darkfire, distinct from shadow fire, but keeping in mind a possibility of being metaphysically related to all of the above encounters of purple fire.
+Considering many instances of unreliable narrations so far, even with cases such as Nameless Realm, while is named once, darkfire, due to Vanaduke's mask argument and existence of Darkfire Lord Vanaduke, darkfire seems to us as a distinct phenomenon, attributed to dark embers. And, as latter are specified as `A mote of burning energy salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), we have to look into the canon of the events involving traversal of [Shadow Firestorm Citadel](#true-citadel-of-almirian-empire).
 
 As of now, we propose that both of those curses have underlying common nature, emerging from the Underworld, as well as its deities:
 
 - Vog's curse gives the curse-bearer power to exist beyond regular laws of their species, the case of Isorians it is Lord Vanaduke.
 
-    Lord Vanaduke had transcended ages while being bound to his armor, and capable of upholding entire citadel in stasis, with his mask being important to his state.
+    Lord Vanaduke had transcended ages while being bound to his armor, and capable of upholding entire Citadel in stasis, with his mask being important to his state.
 - Maulos is transformed by everfrost, seem to have retained mind of his own, compared to rest of trojans.
 
     He is capable of frost magic affecting an entire fiendish city of Amu-Sol. And as trojans were already covered, we believe that the curse in question can manifest differently depending on its application, resulting in different effects and magnitude, but inevitably tracing back to the Underworld and greater understanding of nature of shadow damage.
@@ -3022,19 +3030,23 @@ When dark matter crystal is shattered, trojan petrifies, he can potentially be r
 
 We have to point out that wardens are called here as colossi, reminding of the [Call of the Colossi](https://wiki.spiralknights.com/Call_of_the_Colossi). There, the colossi were seemingly tortodrones, or tortomega, [who were calling for tortodrones on a Long Migration](#veiled-tortodrone-homeland), as we have previously explored there [fall to Undercorp](#the-titans-tortomega-the-fall). [Warden Helm](https://wiki.spiralknights.com/Warden_Helm) is also described as `The helm of the Stalwart Spiral Wardens is said to give great comfort to other knights. Nothing says "here comes the cavalry" like the sight of these iron giants taking to the battlefield`, associating wardens to giants.
 
-The further element, linking trojans and wardens is found in the [announcement itself](https://forums.spiralknights.com/en/node/95960): `Spiral Wardens are well known for being guardians and protectors, sworn to put the safety of others before their own. Are you up to the challenge of becoming one of these brave champions? If you are, you need to look the part! Through February 3rd, 2014, get distinctive Spiral Warden horse head costume items in Colossal Prize Boxes! (Or if you want a touch of corruption in your life and you'd rather look like a Trojan, you can do that too.*) Contents of the Colossal Prize Box may include: Warden Armors and Helms; Trojan Tail accessory; Baleful Aura; Prismatic Ruinous Crystal accessory; Fireworks in every box! Read all the details right here. * Is it creepy to want the corrupted look? Asking for a friend.` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).
+The further element, linking trojans and wardens is found in the [announcement itself](https://forums.spiralknights.com/en/node/95960): `Spiral Wardens are well known for being guardians and protectors, sworn to put the safety of others before their own. Are you up to the challenge of becoming one of these brave champions? If you are, you need to look the part! Through February 3rd, 2014, get distinctive Spiral Warden horse head costume items in Colossal Prize Boxes! (Or if you want a touch of corruption in your life and you'd rather look like a Trojan, you can do that too.*) Contents of the Colossal Prize Box may include: Warden Armors and Helms; Trojan Tail accessory; Baleful Aura; Prismatic Ruinous Crystal accessory; Fireworks in every box! Read all the details right here.` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).
 
-This directly characterized trojans as corrupted, which follows our suggestion of them being falling under corruptive, or ruinous influence. Yet, the name "ruinous" is vague as it does explicitly the reason for the corruption, but makes strong implication to be the catalyst for it.
+This directly characterized trojans as corrupted, which follows our suggestion of them being falling under corruptive, or ruinous influence. Yet, the name `ruinous` is vague as it does explicitly the reason for the corruption, but makes strong implication to be the catalyst for it.
 
-We would lean to this idea of the crystal being the catalyst, rather than a symptom, but given presence of other dark matter instances, it seems less likely even with the entire plot of corrupted tortodrones. We made previously a suggestion of the sigils either summoning the crystal or securing it, but, as tortodrones are constructs, it should be also considered.
+We would lean to this idea of the crystal being the catalyst, rather than a symptom, but given presence of other dark matter instances - of Carnavons' and Lord Vanaduke's claws, it seems less likely even with the entire plot of corrupted tortodrones.
 
-Lastly, there is Arkus, who also possess such crystal. As our idea of him physically perishing sometime during his traversal of Clockworks seems to thin, he would have no case of an intervention, through which a crystal could've been embedded.
+We made previously a suggestion of the sigils either summoning the crystal or securing it, but, as tortodrones are constructs, it should be also considered.
 
-[Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura) is one which is most seen on tier 2 trojans, suggesting it being as important to the laws of this affliction, as the ruinous crystal.
+Lastly, there is Arkus, who is also in possession of dark matter crystal. As our idea of him physically perishing sometime during his traversal of Clockworks seems to thin, he would have no case of an intervention, through which a crystal could've been embedded.
+
+Trojan's [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura) is one which is most seen on tier 2 trojans, suggesting it being as important to the laws of this affliction, as the ruinous crystal.
 
 Lastly, there the [Warden Armor](https://wiki.spiralknights.com/Warden_Armor) in its design, chestpiece specifically, is identical to the redwood chestpiece design of tier 1 trojans.
 
-Considering so far all of those aspects, it seems evident that __long time ago, Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries.
+Considering so far all of those aspects, we belive, that a long time ago, __Spiral Wardens were transformed into trojans of the Legion of Ur__ before even Skylark and Iron Hulk crash landed on Cradle. This time would precede Almire, as Lord Vanaduke had to return with this legion, but not after the it would be sealed in the Underworld by Valkyries. The transformation, which had to happen then, could potentially be similar to one Arkus has to go through, as he already identified as a fiend.
+
+As mentioned earlier, we will make the second iteration of this concept, as we approach Shadow Lairs.
 
 ##### Vanaduke's Mask and Immortality <span class="through-curse">Through Curse</span>
 
@@ -3983,7 +3995,155 @@ If heavenly kingdom was both a supernatural and material location, its deeper re
 
 <h3 align="center">Intermission: Analysis of Curse</h3>
 
-Before we move on the analysis of Gremlin Empire, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper and the Void, we are required to cover everything we now know of the phenomenon of Curse up until this point with a few exceptions from the next chapter. We will attempt to summarize all of its properties and patterns based on the established narratives and reasonable implications, observed across the timeline up until this point.
+Before we move on the analysis of Gremlin Empire, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper and the Void, we are required to cover everything we now know of the phenomenon of Curse up until this point with the fullest context of according settings or time periods.
+
+For this, we are left with Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the analysis of Snarbolax's curse. After we are done with the properties of those location, separated from the nature and origins of Shadow Lairs themselves, we will perform the final summary of curse.
+
+
+#### Shadow Lairs
+
+Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the entities in question are alive and Spiral Order possess knowledge on them as if their were already defeated in the past:
+
+- `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
+- `The Royal Jelly Palace has frozen over and its king usurped by the true heir to the slimy throne, the frigid Ice Queen!`
+- `The Ironclaw Munitions Factory has begun creating in fiery weapons and improved upon its ultimate weapon in the form of the Red Roarmulus Twins!`
+- `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!`
+
+Here we will cover the rest of the locations, specifically the Wildwoods and the Citadel, and then analyze, weather they fit into an existing timeline.
+
+##### Miasma
+
+The miasma is described as the reason for the change within the Wildwoods: `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
+
+Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, and gaining immortality, which would be the reason for its existence since the collapse of tortomega civilization.
+
+Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances.
+
+This case of Rotting Metropolis creates a fitting precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. It is stated that `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!` ([Release Notes: 2011.10.09](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), so, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
+
+As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards.
+
+It is then a question weather it in fact exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, a Underworld-originating plague, we suggest, is present in the Shadow Lairs version of Gloaming Wildwoods.
+
+The reason to this consolidated in the effects of the miasma:
+
+- Enemies affected by the miasma inflict poison.
+- Snarbolax, in his shadowy form, gains poisonous properties as well as the design.
+- The wildwoods are covered with a red mist.
+
+The red mist is the main point of concern and a counter argument for Slime Generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
+
+- Red mist is similar to the glow of the vengeful shadow cloak of Maskeraith. Although the design differs, as the cloak has yellow lightning bolts within it, the mist does not.
+- The context of the word Miasma across mythology is usually considered as a divine punishment and illness. The illness is present in the woods, but the punishment aspect remains unknown.
+
+  We can attempt to link it to the fall of tortomega, through association with rage.
+
+- The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and [5-layer stone stupas](https://www.onmarkproductions.com/html/5-elements-pagoda-gravestone.html).
+
+The second comparison, we believe, hides the nature of this miasma, as one originatingt from curse flowing from [distabilized grim gates](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones.
+
+##### True Citadel of Almirian Empire
+
+Shadow Firestorm Citadel is in much regard far more dangerous than its regular counterpart. The presence of Nature Sprites and Darkfire Lord Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon. This is similar to the unknown chronology of Ice Royal Jelly Palace within the timeline, including the fact of both had to contain a console.
+
+To analyze nature of this variant of the Citadel, we have to start by isolating history and design of the general Firestorm Citadel.
+
+It is known that it was the Grand Citadel of Almire: `From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. ... Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), and `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge)>)).
+
+Kingdom of Almire was located near the mountains, ones which held an altar to a fiery deity, [which we concluded to be Vog](#blackened-shrine-and-magma-deity), an Underworld deity. Almire's nature-themed designs, as well as a strong connection to Spirit Mother, which was the reason for her intervention, resulting in capture of several Nature Sprites in the Citadel itself by the time Lord Vanaduke had returned transformed.
+
+At some point, it was captured by the Core, yet with its legions and cities seemingly intact.
+
+Starting from that point, Firestorm Citadel had resurfaced by the time Spiral Order got closer to the Core:
+
+- `We thought things were getting pretty predictable, even at the depths you've been exploring. The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. Recon Knights have said that all they see near it is fire, endless fire. We don't know what it is just yet, but squads near that depth have already gone missing. This is bad news` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
+- `That mass of negative energy we've been investigating is a portion of an ancient kingdom called Almire, the very same realm described in that Owlite tome you discovered!` ([Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)).
+
+Large number of followed up missions were concerned with getting in proximity of the Citadel:
+
+- `We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
+- `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed. If what they claim is true Spiral HQ could gain valuable intel from investigating the Owlite keep. Just remember that these Owlite structures have all proven to be swarming with the lost souls of countless undead monsters` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)).
+
+  It directly connects Scarlet Fortress, [The Hall of Remembrance](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep), to the [The Forgotten Library](https://wiki.spiralknights.com/File:Library.png) of Owlite Academy, as it is located in the Candlestick Keep.
+
+- `The Spookats of Moorcroft Manor have another valuable piece of intel for us that is worth investigating. They say that a lost soul of the former Kingdom of Almire resides in a soldier's graveyard near the Firestorm Citadel. This soul is willing to provide us with the information on the nature of the citadel as well as how we can get through it and reach the Core` ([Alone in the Dark](https://wiki.spiralknights.com/Alone_in_the_Dark)).
+
+  It contain both remains of Owlite Academy, the Candlestick Keep, and cooling chambers of Clockwork tunnels.
+
+- The [Gauntlet](https://wiki.spiralknights.com/Gauntlet) itself is accessed through the Owlite Academy, transitioning, again, into the Scarlet Fortress. This time, notably, it contains most of the hazards, attributed also to gremlins - the freeze traps of cooling chambers. This was covered in the [gremlin containments section](#gremlin-containments-and-consoles). And here, we see more relation to the heavenly kingdom, as if it was surrounding the Citadel.
+
+Here we have to return to the topic of the [Forgotten Time](#analysis-of-forgotten-time), as there we have discussed the possibility of Almire existing on the same planet as heavenly kingdom.
+
+Here, this positioning does raise suspicion, as geographically, through mythological inspirations, heavenly kingdom had to be located above the land of Ironmight Kingdom, tortomega ruins including Wildwoods and Aurora Isles, and Kingdom of Almire. At that point, as the planet had to be harvested, Aurora Isles would have to eventually end up being captured, but this would not explain the fact they, too, float. Unless the same technology used to hold up all of matter in skydomes, and elements of the Artifact and Console is applied.
+
+We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One thing in particular is the following - if Carnavons are canon, their curse affliction is canon, would this make Shadow Firestorm Citadel canon? And if so, how would it fit with the existing one, apart from, for example, Shadow Lairs being a dream, unreal? Physically all of those location reach the shadow lairs proper - the unknown passage, - as only boss depths contain the first signs of the Swarm.
+
+Does this mean, that by the time `Shadows have Fallen Over Cradle`, all of boss depths were pulled into the proximity of Shadow Lairs, right above the Unknown Passage?
+
+Another note on the canon of Shadow Lairs is the response to threat of the Swarm. There is no reaction on the result of an expedition into those. Event of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a follow-up. But, it demonstrates a possibility of Shadow Lairs rising into lower depth, as shown by the last depth of [A Descent into Darkness](https://wiki.spiralknights.com/Unknown_Passage), which is the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage). As in the boss depths of shadow lairs, a depth preceding unknown passage is, in the very end, influenced by the Swarm - this seems less of a elevator rerouting, as this would create larger distance between the Passage and prior depth, and more of an ascent of Shadow Lairs into lower depths.
+
+Here we propose a solution, one which, we believe, organically solves several loose ends.
+
+Owlites, as the heavenly kingdom above the mountains, had witnessed the events of 3 kingdoms, Ironmight, Almire, and Raiders. Then Lord Vanaduke has returned from the mountains with the Legion of Ur - of Isorian Wardens transformed to trojans. Then, as the Legion of ur had returned into the mountains - the Underworld, and the new undead kingdom of Almire became the [Almirian Empire](#almirian-empire). Vanaduke began the invasion into the heavenly kingdom with his undead army of legions of Almire. Due to this, greater developments in the understanding of curse were made. It is during that, more early time closer to Almire's Fall and Almirian Empire, rather than one suggested in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe) understanding of curse allowed for existence of all described there items, including the Divine Avenger with the property of [curse being inverted](#inversion-of-curse). And it was the weapon to defend against undead legions of Almire.
+
+Through this logic, we finally reach the dread seal ond ones who bear it. Dread Seal is acquired from the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box), meaning, that it is associated with Owlites to a degree. In the accompanied [news art](https://wiki.spiralknights.com/News/2014), dread seal is placed on the Black Kat Mask, but more importantly, it is in a set with Chaos Cloak. Weather or not this design choice is canon, the fact that evil eye makes itself present on Owlite's Chaos Cloak may serve as a link to other Owlite researches regarding nature of curse, as discussed in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe).
+
+As the Chaos Cloak is forbidden, the dread seal places with it seem to suggest it being a mark of danger, or a restriction, as discussed in hte [analysis of curse](#intermission-analysis-of-curse). Seal's design is similar to the Fu talisman, as it is placed by priest on ghost's forehead in order to hinder or disarm it.
+
+With the prior knowledge of Black Kats and Almire, we believe the seal is created by Owlites. This would coincide with their last actions of Warding Candles being placed, as another measure to defend against Underworld.
+
+In relation to Almire, the seal is placed of Carnavons. __The only time this would chronologically fit is if Owlites did fought with Almirian Empire, the one after Lord Vanaduke's return__.
+
+But, if we consider for a moment, that this Shadow firestorm Citadel is from the past, still, how both Citadel could coexist, with Lord Vanaduke being seemingly defeated?
+
+Dark Embers, while are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), which would only be thematically fitting - through color purple - if the entire Citadel was of that theme, so their presence in the regular fiery Citadel would be odd.
+
+It was previously discussed that Vog's fiery curse, the reason for Vog Cubs existence, is the other curse related to more fire. Through this logic we followed to the idea of darkfire being a distinct phenomenon in the [nature of darkfire section](#nature-of-darkfire). There we selected 2 interpretation of darkfire - regular by now, - variation of the curse, and a distinct creation emerging from Vog's curse being overtaken by different, - Underworld's curse. Darkfire would not have a reason to exist in the throne room of regular fire.
+
+It was stated that army within the citadel was transformed - that would eventually mean that all Slag Walkers had turned into Carnavons. Yet both are present across Clockworks outside of Shadow Lairs. Carnavons are summoned by Black Kats, which are themselves summoned by the Dark ritual which can pull banished entities from the Underworld, such as trojans. The Seal is placed by Owlites of valkyries on the cursed entities.
+
+Then there are differences between Firestorm, Shadow Firestorm Citadel, and "Greenstone" Citadel of Shadowplay.
+
+Designs of Greenstone Citadel and Firestorm Citadel are essentially the same. This follows with the idea of Shadow Lairs not being canon. The Overgrown Court has a part of Ashen Armory fallen to its level, which coincides with the general structure of Greenstone Citadel's less stable state, as it crumbles.
+
+There are notable elements within the Shadow Firestorm Citadel.
+
+- Much larger in quantity presence of metal chains. Chains themselves are much larger, going above and out of the view.
+- More ramping arches present across the buildings surrounding the main area of depths, a less notable architectural change.
+- Presence of wooden watchtower as well as usage of their components as, seemingly, reinforcements for the brickwork structure of the buildings.
+- Almirian tapestry in several instances across the Shadow Firestorm Citadel is much larger in scale, as chains.
+- All fire bowls have their yellow fire replaced with purple, which we proposed to be dark embers, as the same design is present in relation to undead locations, which also was a contributor to nature of darkfire as a regular phenomenon out of Underworld.
+- Grim totems are more deeply integrated into the designs of Shadow Firestorm Citadels.
+
+  In both regular and shadow citadel, presence of totems is questionable, apart from game design perspective as undead levels. Unless, those were introduced by devilites.
+
+- Lord Vanaduke's design also differs.
+  - The most notable element is presence of an _intact purple cloak_ of Darkfire Lord Vanaduke. Almire's crest shown on its _back is most intact with an additional spiked design_, compared to the torn, as [Almirian tapestries](https://wiki.spiralknights.com/Almire_Furniture#Doodads), cape of Firestorm Citadel's Lord Vanaduke.
+  - The clothes below Vanaduke's armor, as well as the cloak, have the same triangular pattern in the design of not sawn rags, but far more finely preserved. The cape also ends with the triangular shapes.
+
+      This pattern is most similar to Underworld's shadow steel pattern usually associated with Nefarious Imp.
+  - The armor of Darkfire Lord Vanaduke has the similar thematic change. It has no visible bolts and is generally more monolithic, especially the face plate and chest, while the characteristic chains had remained now present all across the Citadel.
+
+      Moreover the part of armor around the face has more symbolic elements, a circle of outwards extending spikes. Due to this, we suggest it being symbolic to a medieval torture device, iron maiden specifically.
+
+      Another interpretation to be found here, is of implications of the coins and emblem of [Ironmight Kingdom](#ironmight-shield-crowns-and-coins), referencing stars and seemingly reign over them. If Almirian Empire did incorporate all of those kingdoms, would this thematically be reflected in them?
+
+So, someone had to apply a curse onto the Citadel, which influenced the resulted state the Citadel is found in the Shadow Lairs, far more fortified than it was.
+
+Previously we have proposed, that due to wording on the Shadow Firestorm Citadel, Carnavons could've been cursed Slag Walker explained by the continuity itself. Yet, then a question remains - why only Carnavons have a shield, apart from being harder to hit from game-design perspective?
+
+Then the presence of Almire-aligned undead, including the royal guard - they, too, had to be justified to be present only in the Shadow Firestorm Citadel.
+
+All of those elements make __Shadow Firestorm Citadel far more authentic__, _compared to the Firestorm Citadel outside of Shadow Lairs_. Presence of Dark Embers following curse theme should be a reason for this variant being the true one, an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
+
+So far we can suggest two scenarios of integrating the Citadel into the timeline:
+
+- Shadow Firestorm Citadel is the version of the Almirian Empire at its prime, as Valkyries of Heavenly Kingdom eventually attacked Underworld and the empire. This curse would have vanish over time, with only fires remaining. In Shadow Lairs the old, true Citadel from Almirian Empire was recreated through unknown means.
+- Shadow Firestorm Citadel is one traversed by the knights, placing it before the mission of King of Ashes, as Lord Vanaduke is required to live at this point in time. But, this approach would discard the event of the mission itself, rendering them not canon. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths.
+
+#### Evil Eye Appearances
+
+We will attempt to summarize all of its properties and patterns based on the established narratives and reasonable implications, observed across the timeline up until this point.
 
 Symbol of the eye, [dread seal](https://wiki.spiralknights.com/Dread_Seal) and symbol of curse within status effects classification of Spiral Order all have similar designs, which can be summarized as a an opened human eye with 3 strokes below it in radial pattern.
 
@@ -4010,7 +4170,7 @@ As most os instances of curse are connected to Underworld and depictions of the 
 - A rotated antique evil eye is depicted within the cloth pattern of the Chaos Cloak, connected to the Nameless Realm.
 - The dread seal contains image of the evil eye.
   - Dread Seal is present on [Carnavons](https://wiki.spiralknights.com/Carnavon#Carnavon), warriors of Almire. Their bear similar concentrated degree of curse as Black Kats, their claws are of dark matter form the supposed influence of darkfire - merging or Underworld's curse and Vog's curse into a single phenomenon.
-    - [Darkfire Vanaduke](https://wiki.spiralknights.com/Darkfire_Vanaduke) has same dark matter claws, and is immortal, while being maddened, cursed by the fiery deity Vog.
+    - [Darkfire Lord Vanaduke](https://wiki.spiralknights.com/Darkfire_Vanaduke) has same dark matter claws, and is immortal, while being maddened, cursed by the fiery deity Vog.
   - The Seal is also present on [Margrel](https://wiki.spiralknights.com/Margrel), in addition, [black kats](https://wiki.spiralknights.com/Black_Kat#Black_Kat) being both summoned ([1](https://wiki.spiralknights.com/Kataclysmic_Confrontation), [2](https://wiki.spiralknights.com/Book_of_Dark_Rituals)) - the former are summoned all across known Clockworks and Margrel is summoned through a [dark ritual](https://wiki.spiralknights.com/Book_of_Dark_Rituals)
     - [Mewkats](https://wiki.spiralknights.com/Mewkat#Mewkat) are closely related to black kats as both being grimalkin transformed into Undead - a parallel to citizens and legion of Almire.
     - [Grimalkin](https://wiki.spiralknights.com/Mewkat#Grimalkin) emerge in areas covered by an unnatural darkness, one being related to Underworld through Philoso's research of Undead
@@ -4018,7 +4178,7 @@ As most os instances of curse are connected to Underworld and depictions of the 
   - [Seraphynx, Black Kat](<https://wiki.spiralknights.com/Seraphynx_(Black_Kat)#Gallery>) battle sprite transformed by the Core has the same Seal present under certain conditions of evolution, combining divinity of heavenly kingdom and curse-aligned nature of post-Kataclysm Kat Tribe.
 - [Trojans](https://wiki.spiralknights.com/Trojan), including Arkus have dark matter crystal, trojans of tier 3 and resurrected Arkus have the crystal and inner essence burning in the same purple flame.
   - The purple flame is also characterized by [Dark Embers](https://wiki.spiralknights.com/Dark_Ember)
-  - Trojans and corrupted tortodrones petrify once the dark matter inside is destroyed, releasing purple mist of less concentrated dark matter.
+  - Trojans and corrupted tortodrones petrify once the dark matter inside is destroyed, releasing purple mist, similar to [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura).
   - [Trojans were sealed in the Underworld](https://wiki.spiralknights.com/The_Return_of_Ur)
   - [Dreadnaughts](https://wiki.spiralknights.com/Dreadnaught) can inflict curse while being not a curse-ridden entities, but they are linked through resurrection to grim totems
   - Apocrea, while without evil eye symbolism, is an entity of shadow damage and possible Underworld, with similar futuristic design as Nefarious Imp armor yet without sign of curse present within.
@@ -4032,7 +4192,7 @@ As most os instances of curse are connected to Underworld and depictions of the 
 
 Entities imbued with curse last far longer under unnatural means and have amplified power compared to their nature prior to being afflicted with curse:
 
-- Vanaduke or Darkfire Vanaduke, Margrel, black kats, carnavons, trojans live for more than thousand of years and inflict curse.
+- Vanaduke or Darkfire Lord Vanaduke, Margrel, black kats, carnavons, trojans live for more than thousand of years and inflict curse.
 - In some instances they are resistant to curse: devilites and Vanaduke, fiends (a possible connection to lack of fiends in the consumed horde of the Swarm within the Unknown Passage).
 - Armors and gear explicitly related to Underworld and curse of their owners are weak to curse, while items related to divinity are strongly resistant to curse.
 
@@ -4294,7 +4454,7 @@ Apart from this, it is likely that it had also served as an elite unit across co
 
 One of greater importance elements of its arsenal is the large charged explosion. This is the key element to a larger motif which will be then analyzed across gremlin technology. The explosion in both instances of the Collector - within the camp and at the [Overworks](https://wiki.spiralknights.com/Breaking_in_the_Recruits/The_Overworks), - deals split shadow and normal damage, its only shadow damaging attack. Moreover, the explosion has an antique evil eye to appear, the same observed across Electron and Graviton bombs design. Considering this, a white painted evil eye of the same antique design with the Collector's eye meant to be an iris seems as an intentional design choice, which also points to its explosive shadow damage attack.
 
-Apart from it, a different relation to curse arises here. Lord Vanaduke, when he has no mask, has red and orange arcs of lightning around him. Those lightnings are the same as the collector. Moreover, Arkus also in his later stages of the fight has lightning arcs present in the same pattern, although of purple color, same as Darkfire Vanaduke unmasked. We suggest that this is a clear design pattern. If it would not be for the evil eye, this would not be a reason for an analysis of the latter that early. But, as the theme of curse in its different forms is consistent here, we propose that it serves as an argument for the collector being constructed utilizing far more advanced technology, involving Underworld and whatever is the power symbolized by the dread seal.
+Apart from it, a different relation to curse arises here. Lord Vanaduke, when he has no mask, has red and orange arcs of lightning around him. Those lightnings are the same as the collector. Moreover, Arkus also in his later stages of the fight has lightning arcs present in the same pattern, although of purple color, same as Darkfire Lord Vanaduke unmasked. We suggest that this is a clear design pattern. If it would not be for the evil eye, this would not be a reason for an analysis of the latter that early. But, as the theme of curse in its different forms is consistent here, we propose that it serves as an argument for the collector being constructed utilizing far more advanced technology, involving Underworld and whatever is the power symbolized by the dread seal.
 
 ##### Electron Vortex
 
@@ -4997,150 +5157,9 @@ We can suggest, that such placement is intentional and designed to introduce an 
 
 From here, we can finally begin to analyze the Swarm. First we have to return to the monitors. In the state, when the Core is Sealed, imagery of locks is blue with a 2-color blue pattern similar to gate icons behind the static. During the event of [The Path is Revealed](https://wiki.spiralknights.com/Dreams_and_Nightmares/The_Path_is_Revealed), the static overtakes the background, rendering it black, while depicting the evil eye. From here on out, we will consider appearances of the Swarm as diegetic. This alone demonstrates, that Swarm is capable of interacting with gremlin, and potentially any, technology, making itself present and aware of through this medium.
 
-#### Shadow Lairs
+#### Causality of Shadow Lairs
 
-Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the entities in question are alive and Spiral Order possess knowledge on them as if their were already defeated in the past:
-
-- `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
-- `The Royal Jelly Palace has frozen over and its king usurped by the true heir to the slimy throne, the frigid Ice Queen!`
-- `The Ironclaw Munitions Factory has begun creating in fiery weapons and improved upon its ultimate weapon in the form of the Red Roarmulus Twins!`
-- `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Vanaduke!`
-
-Here we will cover the rest of the locations, specifically the Wildwoods and the Citadel, and then analyze, weather they fit into an existing timeline.
-
-##### Miasma
-
-The miasma is described as the reason for the change within the Wildwoods: `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
-
-Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, and gaining immortality, which would be the reason for its existence since the collapse of tortomega civilization.
-
-Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances.
-
-This case of Rotting Metropolis creates a fitting precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. It is stated that `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!` ([Release Notes: 2011.10.09](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), so, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
-
-As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards.
-
-It is then a question weather it in fact exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, a Underworld-originating plague, we suggest, is present in the Shadow Lairs version of Gloaming Wildwoods.
-
-The reason to this consolidated in the effects of the miasma:
-
-- Enemies affected by the miasma inflict poison.
-- Snarbolax, in his shadowy form, gains poisonous properties as well as the design.
-- The wildwoods are covered with a red mist.
-
-The red mist is the main point of concern and a counter argument for Slime Generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
-
-- Red mist is similar to the glow of the vengeful shadow cloak of Maskeraith. Although the design differs, as the cloak has yellow lightning bolts within it, the mist does not.
-- The context of the word Miasma across mythology is usually considered as a divine punishment and illness. The illness is present in the woods, but the punishment aspect remains unknown.
-
-  We can attempt to link it to the fall of tortomega, through association with rage.
-
-- The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and [5-layer stone stupas](https://www.onmarkproductions.com/html/5-elements-pagoda-gravestone.html).
-
-The second comparison, we believe, hides the nature of this miasma, as one originatingt from curse flowing from [distabilized grim gates](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones.
-
-##### True Citadel of Almirian Empire
-
-Shadow Firestorm Citadel is in much regard far more dangerous than its regular counterpart. The presence of Nature Sprites and Darkfire Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon. This is similar to the unknown chronology of Ice Royal Jelly Palace within the timeline, including the fact of both had to contain a console.
-
-To analyze nature of this variant of the Citadel, we have to start by isolating history and design of the general Firestorm Citadel.
-
-It is known that it was the Grand Citadel of Almire: `From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. ... Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), and `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge)>)).
-
-Kingdom of Almire was located near the mountains, ones which held an altar to a fiery deity, [which we concluded to be Vog](#blackened-shrine-and-magma-deity), an Underworld deity. Almire's nature-themed designs, as well as a strong connection to Spirit Mother, which was the reason for her intervention, resulting in capture of several Nature Sprites in the Citadel itself by the time Lord Vanaduke had returned transformed.
-
-At some point, it was captured by the Core, yet with its legions and cities seemingly intact.
-
-Starting from that point, Firestorm Citadel had resurfaced by the time Spiral Order got closer to the Core:
-
-- `We thought things were getting pretty predictable, even at the depths you've been exploring. The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. Recon Knights have said that all they see near it is fire, endless fire. We don't know what it is just yet, but squads near that depth have already gone missing. This is bad news` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
-- `That mass of negative energy we've been investigating is a portion of an ancient kingdom called Almire, the very same realm described in that Owlite tome you discovered!` ([Kora](https://wiki.spiralknights.com/Eye_of_the_Needle)).
-
-Large number of followed up missions were concerned with getting in proximity of the Citadel:
-
-- `We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)).
-- `An unlikely source of intel has surfaced from the residents of Moorcroft Manor. A few of the spookats that call it home contacted one of our visiting Recon Knights and provided details of the negative energy mass that has appeared above the Core. Calling it 'a place of burning hatred' and 'a prison for dark souls' they say that you can read all about it in 'one of those weird Owlite books' in an Owlite keep they pinpointed. If what they claim is true Spiral HQ could gain valuable intel from investigating the Owlite keep. Just remember that these Owlite structures have all proven to be swarming with the lost souls of countless undead monsters` ([An Occurrence at Owlite Keep](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep)).
-
-  It directly connects Scarlet Fortress, [The Hall of Remembrance](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep), to the [The Forgotten Library](https://wiki.spiralknights.com/File:Library.png) of Owlite Academy, as it is located in the Candlestick Keep.
-
-- `The Spookats of Moorcroft Manor have another valuable piece of intel for us that is worth investigating. They say that a lost soul of the former Kingdom of Almire resides in a soldier's graveyard near the Firestorm Citadel. This soul is willing to provide us with the information on the nature of the citadel as well as how we can get through it and reach the Core` ([Alone in the Dark](https://wiki.spiralknights.com/Alone_in_the_Dark)).
-
-  It contain both remains of Owlite Academy, the Candlestick Keep, and cooling chambers of Clockwork tunnels.
-
-- The [Gauntlet](https://wiki.spiralknights.com/Gauntlet) itself is accessed through the Owlite Academy, transitioning, again, into the Scarlet Fortress. This time, notably, it contains most of the hazards, attributed also to gremlins - the freeze traps of cooling chambers. This was covered in the [gremlin containments section](#gremlin-containments-and-consoles). And here, we see more relation to the heavenly kingdom, as if it was surrounding the Citadel.
-
-Here we have to return to the topic of the [Forgotten Time](#analysis-of-forgotten-time), as there we have discussed the possibility of Almire existing on the same planet as heavenly kingdom.
-
-Here, this positioning does raise suspicion, as geographically, through mythological inspirations, heavenly kingdom had to be located above the land of Ironmight Kingdom, tortomega ruins including Wildwoods and Aurora Isles, and Kingdom of Almire. At that point, as the planet had to be harvested, Aurora Isles would have to eventually end up being captured, but this would not explain the fact they, too, float. Unless the same technology used to hold up all of matter in skydomes, and elements of the Artifact and Console is applied.
-
-We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One thing in particular is the following - if Carnavons are canon, their curse affliction is canon, would this make Shadow Firestorm Citadel canon? And if so, how would it fit with the existing one, apart from, for example, Shadow Lairs being a dream, unreal? Physically all of those location reach the shadow lairs proper - the unknown passage, - as only boss depths contain the first signs of the Swarm.
-
-Does this mean, that by the time `Shadows have Fallen Over Cradle`, all of boss depths were pulled into the proximity of Shadow Lairs, right above the Unknown Passage?
-
-Another note on the canon of Shadow Lairs is the response to threat of the Swarm. There is no reaction on the result of an expedition into those. Event of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a follow-up. But, it demonstrates a possibility of Shadow Lairs rising into lower depth, as shown by the last depth of [A Descent into Darkness](https://wiki.spiralknights.com/Unknown_Passage), which is the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage). As in the boss depths of shadow lairs, a depth preceding unknown passage is, in the very end, influenced by the Swarm - this seems less of a elevator rerouting, as this would create larger distance between the Passage and prior depth, and more of an ascent of Shadow Lairs into lower depths.
-
-Here we propose a solution, one which, we believe, organically solves several loose ends.
-
-Owlites, as the heavenly kingdom above the mountains, had witnessed the events of 3 kingdoms, Ironmight, Almire, and Raiders. Then Lord Vanaduke has returned from the mountains with the Legion of Ur - of Isorian Wardens transformed to trojans. Then, as the Legion of ur had returned into the mountains - the Underworld, and the new undead kingdom of Almire became the [Almirian Empire](#almirian-empire). Vanaduke began the invasion into the heavenly kingdom with his undead army of legions of Almire. Due to this, greater developments in the understanding of curse were made. It is during that, more early time closer to Almire's Fall and Almirian Empire, rather than one suggested in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe) understanding of curse allowed for existence of all described there items, including the Divine Avenger with the property of [curse being inverted](#inversion-of-curse). And it was the weapon to defend against undead legions of Almire.
-
-Through this logic, we finally reach the dread seal ond ones who bear it. Dread Seal is acquired from the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box), meaning, that it is associated with Owlites to a degree. In the accompanied [news art](https://wiki.spiralknights.com/News/2014), dread seal is placed on the Black Kat Mask, but more importantly, it is in a set with Chaos Cloak. Weather or not this design choice is canon, the fact that evil eye makes itself present on Owlite's Chaos Cloak may serve as a link to other Owlite researches regarding nature of curse, as discussed in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe).
-
-As the Chaos Cloak is forbidden, the dread seal places with it seem to suggest it being a mark of danger, or a restriction, as discussed in hte [analysis of curse](#intermission-analysis-of-curse). Seal's design is similar to the Fu talisman, as it is placed by priest on ghost's forehead in order to hinder or disarm it.
-
-With the prior knowledge of Black Kats and Almire, we believe the seal is created by Owlites. This would coincide with their last actions of Warding Candles being placed, as another measure to defend against Underworld.
-
-In relation to Almire, the seal is placed of Carnavons. __The only time this would chronologically fit is if Owlites did fought with Almirian Empire, the one after Lord Vanaduke's return__.
-
-But, if we consider for a moment, that this Shadow firestorm Citadel is from the past, still, how both Citadel could coexist, with Lord Vanaduke being seemingly defeated?
-
-Dark Embers, while are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), which would only be thematically fitting - through color purple - if the entire Citadel was of that theme, so their presence in the regular fiery Citadel would be odd.
-
-It was previously discussed that Vog's fiery curse, the reason for Vog Cubs existence, is the other curse related to more fire. Through this logic we followed to the idea of darkfire being a distinct phenomenon in the [nature of darkfire section](#nature-of-darkfire). There we selected 2 interpretation of darkfire - regular by now, - variation of the curse, and a distinct creation emerging from Vog's curse being overtaken by different, - Underworld's curse. Darkfire would not have a reason to exist in the throne room of regular fire.
-
-It was stated that army within the citadel was transformed - that would eventually mean that all Slag Walkers had turned into Carnavons. Yet both are present across Clockworks outside of Shadow Lairs. Carnavons are summoned by Black Kats, which are themselves summoned by the Dark ritual which can pull banished entities from the Underworld, such as trojans. The Seal is placed by Owlites of valkyries on the cursed entities.
-
-Then there are differences between Firestorm, Shadow Firestorm Citadel, and "Greenstone" Citadel of Shadowplay.
-
-Designs of Greenstone Citadel and Firestorm Citadel are essentially the same. This follows with the idea of Shadow Lairs not being canon. The Overgrown Court has a part of Ashen Armory fallen to its level, which coincides with the general structure of Greenstone Citadel's less stable state, as it crumbles.
-
-There are notable elements within the Shadow Firestorm Citadel.
-
-- Much larger in quantity presence of metal chains. Chains themselves are much larger, going above and out of the view.
-- More ramping arches present across the buildings surrounding the main area of depths, a less notable architectural change.
-- Presence of wooden watchtower as well as usage of their components as, seemingly, reinforcements for the brickwork structure of the buildings.
-- Almirian tapestry in several instances across the Shadow Firestorm Citadel is much larger in scale, as chains.
-- All fire bowls have their yellow fire replaced with purple, which we proposed to be dark embers, as the same design is present in relation to undead locations, which also was a contributor to nature of darkfire as a regular phenomenon out of Underworld.
-- Grim totems are more deeply integrated into the designs of Shadow Firestorm Citadels.
-
-  In both regular and shadow citadel, presence of totems is questionable, apart from game design perspective as undead levels. Unless, those were introduced by devilites.
-
-- Lord Vanaduke's design also differs.
-  - The most notable element is presence of an _intact purple cloak_ of Darkfire Vanaduke. Almire's crest shown on its _back is most intact with an additional spiked design_, compared to the torn, as [Almirian tapestries](https://wiki.spiralknights.com/Almire_Furniture#Doodads), cape of Firestorm Citadel's Lord Vanaduke.
-  - The clothes below Vanaduke's armor, as well as the cloak, have the same triangular pattern in the design of not sawn rags, but far more finely preserved. The cape also ends with the triangular shapes.
-
-      This pattern is most similar to Underworld's shadow steel pattern usually associated with Nefarious Imp.
-  - The armor of Darkfire Vanaduke has the similar thematic change. It has no visible bolts and is generally more monolithic, especially the face plate and chest, while the characteristic chains had remained now present all across the Citadel.
-
-      Moreover the part of armor around the face has more symbolic elements, a circle of outwards extending spikes. Due to this, we suggest it being symbolic to a medieval torture device, iron maiden specifically.
-
-      Another interpretation to be found here, is of implications of the coins and emblem of [Ironmight Kingdom](#ironmight-shield-crowns-and-coins), referencing stars and seemingly reign over them. If Almirian Empire did incorporate all of those kingdoms, would this thematically be reflected in them?
-
-So, someone had to apply a curse onto the Citadel, which influenced the resulted state the Citadel is found in the Shadow Lairs, far more fortified than it was.
-
-Previously we have proposed, that due to wording on the Shadow Firestorm Citadel, Carnavons could've been cursed Slag Walker explained by the continuity itself. Yet, then a question remains - why only Carnavons have a shield, apart from being harder to hit from game-design perspective?
-
-Then the presence of Almire-aligned undead, including the royal guard - they, too, had to be justified to be present only in the Shadow Firestorm Citadel.
-
-All of those elements make __Shadow Firestorm Citadel far more authentic__, _compared to the Firestorm Citadel outside of Shadow Lairs_. Presence of Dark Embers following curse theme should be a reason for this variant being the true one, an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
-
-So far we can suggest two scenarios of integrating the Citadel into the timeline:
-
-- Shadow Firestorm Citadel is the version of the Almirian Empire at its prime, as Valkyries of Heavenly Kingdom eventually attacked Underworld and the empire. This curse would have vanish over time, with only fires remaining. In Shadow Lairs the old, true Citadel from Almirian Empire was recreated through unknown means.
-- Shadow Firestorm Citadel is one traversed by the knights, placing it before the mission of King of Ashes, as Lord Vanaduke is required to live at this point in time. But, this approach would discard the event of the mission itself, rendering them not canon. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths.
-
-##### Causality
-
-Generally, as stated in the beginning of [this section](#shadow-lairs), all __Shadow Lairs follow a different continuity and chronology__, _almost a different timeline_.
+Generally, as stated in the beginning of [shadow lairs section](#shadow-lairs), all __Shadow Lairs follow a different continuity and chronology__, _almost a different timeline_.
 
 Across all of the story at most surface level, and the over-analysis such as this, no manipulations to time were found.
 
@@ -5174,13 +5193,13 @@ Due to this we can attempt to fit events of Shadow Lairs right before the events
 
   Possibility of a scenario wherein gremlins would have to improve upon the existing model, we suggest, exists only under the condition of the previous iteration - the regular Roarmulus Twins, - were defeated. So, _this would fit to the existing timeline of events_.
 
-- `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Vanaduke!`
+- `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!`
 
-  With all of context in mind, for the cohesiveness of the narrative, we propose a potential 2 scenarios of fitting Shadow Firestorm Citadel and Darkfire Vanaduke into the timeline:
+  With all of context in mind, for the cohesiveness of the narrative, we propose a potential 2 scenarios of fitting Shadow Firestorm Citadel and Darkfire Lord Vanaduke into the timeline:
 
   - Earlier we have mentioned, that a curse had to be applied externally, which resulted in transformation of the Citadel. Yet, it is stated, that Lord Vanaduke was not defeated, but transformed, suggesting that this Lair had to be traversed prior to the Events of [The King of Ashes](https://wiki.spiralknights.com/The_King_of_Ashes).
 
-    This scenario is possible if the canon version of the citadel which was traversed is the Shadow one. And, as this was debunked, we can suggest that the unseen during the events of Shadowplay floors were afflicted by curse, in order for Darkfire Vanaduke being the one to be defeated. And yet, his depth - the Throne Room - remains the same.
+    This scenario is possible if the canon version of the citadel which was traversed is the Shadow one. And, as this was debunked, we can suggest that the unseen during the events of Shadowplay floors were afflicted by curse, in order for Darkfire Lord Vanaduke being the one to be defeated. And yet, his depth - the Throne Room - remains the same.
 
   - Shadow Firestorm citadel is the one Knights had to traverse after the events of Dreams and Nightmares.
 
@@ -5188,7 +5207,7 @@ Due to this we can attempt to fit events of Shadow Lairs right before the events
 
     This would simultaneously explain presence of dark embers as a material in small quantity, and allow for the thematically fitting counterpart to be present. To explore this resolution, we have to look at the nature of the curse and parallels across the stories involving it.
 
-    As tortodrones, reactivated by dark matter, as Margrel, summoned from the Underworld, Darkfire Vanaduke has more distinct presence of purple cracks across his armor. Paired with the idea of curse being applied to the citadel, we can gather, that this has to __involve devilites, and Nefarious Imp at that, as ones to inflict this curse onto the Citadel__.
+    As tortodrones, reactivated by dark matter, as Margrel, summoned from the Underworld, Darkfire Lord Vanaduke has more distinct presence of purple cracks across his armor. Paired with the idea of curse being applied to the citadel, we can gather, that this has to __involve devilites, and Nefarious Imp at that, as ones to inflict this curse onto the Citadel__.
 
     Due to this, Nature Sprites would be still present, but, absence of the console would not. Same applied for the Ice Queen, as her version of the Royal Jelly Palace _also lacks the console_. The only way to resolve this is to suggest that it was removed by actions of currently unknown actor, without leaning to a game direction and design reasons.
 
@@ -5197,9 +5216,9 @@ What unified all of Shadow Lairs, not only Firestorm Citadel, is the sudden acti
 - In case of Wildwoods, it was a miasma, which we suggested to be an event, reemerging from the past, when this cursed mist was weaponized through destruction of Grim Gates by devilites of Undercorp and subsequent release of curse into the woods, eventually resultung in creation of Snarbolax.
 - Ice Queen had appeared from seemingly nowhere, bringing frost with her as Maulos some time ago. Everfrost as a vector of devilites' activity is a strong link here.
 - Red Roarmulus Twins, taken all of the context, have resemblance not to volcanic sets, but corrupted by Vog, with characteristic hazardous design. Yet, this theme of fire is reminiscent of Warmaster Seerus's Grand Arsenal. Given him being a member of Crimson Order and possessing shadow-damaging technology, he can be tied to devilites.
-- Darkfire Vanaduke transformed through application of the second curse, involving devilites as the most prominent faction. The Citadel itself looming over the Core was considered an anomaly bu Clockworks standards, so this also may be an act from Undercorp.
+- Darkfire Lord Vanaduke transformed through application of the second curse, involving devilites as the most prominent faction. The Citadel itself looming over the Core was considered an anomaly bu Clockworks standards, so this also may be an act from Undercorp.
 
-While we could not answer so far distinctly on the canon placement of Ice Queen's and Darkfire Vanaduke's in the timeline, __the notion itself, of past events repeating is a motif which should not be overlooked, and, given later events of the Swarm as a distinct alchemical entity, this seems thematically fitting__.
+While we could not answer so far distinctly on the canon placement of Ice Queen's and Darkfire Lord Vanaduke's in the timeline, __the notion itself, of past events repeating is a motif which should not be overlooked, and, given later events of the Swarm as a distinct alchemical entity, this seems thematically fitting__.
 
 Across all of those cases, _it is Undercorp which seemingly makes itself known_, the main force behind those events, both in present day, and in the past.
 
@@ -5547,7 +5566,7 @@ Swarm's hunger, compared to Black Kats' hunger, is metaphysical, as it transcend
 
   The other possibility is the Shadow Firestorm Citadel, which is connected to the Swarm by its presence in the Throne Room and the general location of this Citadel in the Shadow Lairs.
 
-  If so, Darkfire Vanaduke would remain as a single king, whose heart was consumed by a more commonly known curse. The rest of his people - their souls - would be consumed by the fact of curse afflicting them - as Carnavons.
+  If so, Darkfire Lord Vanaduke would remain as a single king, whose heart was consumed by a more commonly known curse. The rest of his people - their souls - would be consumed by the fact of curse afflicting them - as Carnavons.
 
   We should state, that, so far this theme is only taken from the context of Almire.
 
@@ -5733,7 +5752,7 @@ The pink lightning in particular is seen in 4 other instances:
 - Sparks of Life could also be attributed to this phenomenon, despite being different color.
 - [Storm Caller](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller): `A party favor of the gods, used to summon a lightning bolt from the heavens`, [Frenzy Caller](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller): `A party favor of the gods, used to summon a flash of frenzy from the heavens`, and [Rage Caller](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller): `A party favor of the gods, used to summon a shaft of rage from the heavens` all describe the lightning striking the ground as one originating from heavens, while relating to the prize boxes of according themes.
 
-The idea, that we believe unites them all, is the folklore interpretation of lightning adapted into the setting, mentioned in relation to [Arkus](#arkus-the-design), - of a divine intervention. In the setting of Spiral Knights this would be a sign of a momentarily established connection with the a higher or lower realm in the cases above - with the Underworld, and in case of Sparks and Callers, - with the Nameless Realm. In case of Arkus, transformed into trojan, his proximity to it increased to a point of him transforming into a fiend. Then, as he, as trojans, has dark matter, which as we concluded being the symptom, rather that the reason for the affliction. And this exact affliction allows for a connection to Underworld's physics and grants immortality through manifestation of curse and channeling of energy seen in the lightnings. This logic was applied to Lord Vanaduke and Darkfire Vanaduke, as in both instances they are cursed by Underworldly powers.
+The idea, that we believe unites them all, is the folklore interpretation of lightning adapted into the setting, mentioned in relation to [Arkus](#arkus-the-design), - of a divine intervention. In the setting of Spiral Knights this would be a sign of a momentarily established connection with the a higher or lower realm in the cases above - with the Underworld, and in case of Sparks and Callers, - with the Nameless Realm. In case of Arkus, transformed into trojan, his proximity to it increased to a point of him transforming into a fiend. Then, as he, as trojans, has dark matter, which as we concluded being the symptom, rather that the reason for the affliction. And this exact affliction allows for a connection to Underworld's physics and grants immortality through manifestation of curse and channeling of energy seen in the lightnings. This logic was applied to Lord Vanaduke and Darkfire Lord Vanaduke, as in both instances they are cursed by Underworldly powers.
 
 The remaining question is how curse had supposedly managed to remain in case of the Swarm if we earlier established that both Nameless Realm and the Void contain it. We suggest it being the fact that Whitespace is not Nameless Realm proper, and the idea of curse afflicting entity of Whitespace prior to opening the Void should be a reason and intent to open it in a similar manner to Phantoms bearing characteristic curse while located in supposed between Underworld and material realm of [graveyards](#graveyards).
 
