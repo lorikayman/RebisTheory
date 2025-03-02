@@ -4203,6 +4203,64 @@ In relation to gremlins, gremlin technology and Clockworks:
   - Core's enemy onslaught [gates](https://wiki.spiralknights.com/Dreams_and_Nightmares/A_Step_Beyond) have evil eye present of same curse-themed color of dark pink and purple, with an iris of larger size.
   - Core's respawn pads have 3 dots, similar to 3-dot eye of Apocrea of Underworld and Scarabs.
 
+#### Classification of Curse
+
+Here we will establish parity of entities.
+
+- Darkfire Lord Vanaduke
+
+  - Inflicts curse: Yes
+  - Lightning arcs: Yes (when disembodied mask)
+  - Burning: Yes (limbs, cursed fire soul behind the mask)
+  - Dark matter presence: Yes (claws)
+  - Unstable form: Yes (cracks)
+  - On defeat: fire soul slicker on mask, purple explosions
+
+- Carnavon
+
+  - Inflicts curse: Yes
+  - Lightning arcs: No
+  - Burning: Yes
+  - Dark matter presence: Yes (claws)
+  - Unstable form: Yes (cracks)
+  - On defeat: No
+
+- Trojan
+
+  - Inflicts curse: No
+  - Lightning arcs: Yes (crystal)
+  - Burning: Yes (body, eyes)
+  - Dark matter presence: Yes (crystal)
+  - Unstable form: Yes (limbs, stone shell, baleful aura)
+  - On defeat: crystal shatters, purple explosions
+
+- Arkus
+
+  - Inflicts curse: No
+  - Lightning arcs: Yes (crystal)
+  - Burning: Yes (crystal, high intensity)
+  - Dark matter presence: Yes (crystal)
+  - Unstable form: No
+  - On defeat: purple explosions
+
+- Corrupted Tortodrone
+
+  - Inflicts curse: No
+  - Lightning arcs: Yes
+  - Burning: Yes (eyes)
+  - Dark matter presence: Yes (crystal)
+  - Unstable form: Yes (stone shell)
+  - On defeat: purple smoke release, purple explosions
+
+- Margrel
+
+  - Inflicts curse: Yes
+  - Lightning arcs: No
+  - Burning: No
+  - Dark matter presence: No
+  - Unstable form: Yes (baleful aura)
+  - On defeat: melts, yellow explosions
+
 #### Metaphysical Restriction
 
 The curse can be externally applied, which takes form of a metaphysic restriction placed upon an entity, such as Cursed Nature Sprites, or a knight with an inability to attack.
