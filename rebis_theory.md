@@ -3997,31 +3997,28 @@ If heavenly kingdom was both a supernatural and material location, its deeper re
 
 Before we move on the analysis of Gremlin Empire, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper and the Void, we are required to cover everything we now know of the phenomenon of Curse up until this point with the fullest context of according settings or time periods.
 
-For this, we are left with Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the analysis of Snarbolax's curse. After we are done with the properties of those location, separated from the nature and origins of Shadow Lairs themselves, we will perform the final summary of curse.
-
+For this, we are left with Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse). After we are done with the properties of those location, separated from the nature and origins of Shadow Lairs themselves, we will perform the final summary of curse.
 
 #### Shadow Lairs
 
-Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the entities in question are alive and Spiral Order possess knowledge on them as if their were already defeated in the past:
+Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the boss entities are alive while Spiral Order possess extended knowledge on them, as if they were already defeated:
 
 - `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
 - `The Royal Jelly Palace has frozen over and its king usurped by the true heir to the slimy throne, the frigid Ice Queen!`
 - `The Ironclaw Munitions Factory has begun creating in fiery weapons and improved upon its ultimate weapon in the form of the Red Roarmulus Twins!`
 - `A powerful curse has overtaken the Firestorm Citadel, transforming its hordes and lead by the mighty Darkfire Lord Vanaduke!`
 
-Here we will cover the rest of the locations, specifically the Wildwoods and the Citadel, and then analyze, weather they fit into an existing timeline.
+Here we will cover specifically the Wildwoods and the Citadel, and then analyze, weather they fit into an existing timeline.
 
 ##### Miasma
 
 The miasma is described as the reason for the change within the Wildwoods: `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
 
-Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, and gaining immortality, which would be the reason for its existence since the collapse of tortomega civilization.
+Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, granting immortality in a less detrimental manner. Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances, affirmed by, potentially, Snarblepup Maskeraith reskin.
 
-Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances.
+There is also a case of later discussed Vile Engine, and its slime generators, which were the reason for Rotting Metropolis' existence. And in case of miasma, slime generators could be a potential precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. So, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22. But, on the other hand, the __miasma in its color is most reminiscent of curse due to its pink-red color__.
 
-This case of Rotting Metropolis creates a fitting precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. It is stated that `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!` ([Release Notes: 2011.10.09](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), so, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
-
-As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards.
+As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards. In case of miasma, the description and setting is fitting, but not the color of mist itself, unless this supernatural nature also exists here, one traced back to Underworld.
 
 It is then a question weather it in fact exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, a Underworld-originating plague, we suggest, is present in the Shadow Lairs version of Gloaming Wildwoods.
 
@@ -4033,14 +4030,14 @@ The reason to this consolidated in the effects of the miasma:
 
 The red mist is the main point of concern and a counter argument for Slime Generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
 
-- Red mist is similar to the glow of the vengeful shadow cloak of Maskeraith. Although the design differs, as the cloak has yellow lightning bolts within it, the mist does not.
-- The context of the word Miasma across mythology is usually considered as a divine punishment and illness. The illness is present in the woods, but the punishment aspect remains unknown.
+- Red mist is similar to the glow of the vengeful shadow cloak of Maskeraith. Although the design differs, as Maskeraith cloak has yellow lightning bolts within it, the mist does not. The density of Maskeraith cloak does not allow to see though it, most reminiscent of stong wind at the Core Terminal.
+- The context of the word _miasma across mythology is usually considered as a divine punishment and illness_. The illness is present in the woods, but the punishment aspect remains unknown.
 
   We can attempt to link it to the fall of tortomega, through association with rage.
 
 - The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and [5-layer stone stupas](https://www.onmarkproductions.com/html/5-elements-pagoda-gravestone.html).
 
-The second comparison, we believe, hides the nature of this miasma, as one originatingt from curse flowing from [distabilized grim gates](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones.
+The second comparison, we believe, is most plausible for explaining the nature of miasma, as one originating from curse, flowing from [collapsing grim gates' portal](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones. But, if we consider such scenario, how an event from the past would've made an apperance in the present?
 
 ##### True Citadel of Almirian Empire
 
