@@ -3891,44 +3891,73 @@ This is a novel theme - of _alchemical replication_, - alchemical in a sense, th
 
 We will study Black Kats from multiple perspectives: their design, presence on Cradle, - prestige missions, background information on Owlites, and derived knowledge about metaphysics of curse up until current point.
 
-- Kataclysm brought Underworld's darkness, similar to one of graveyards, into material realm in surrounding Grey Feather Tower.
-- Some units of the Kat Tribe seem to be sealed somewhere, most likely Underworld: `Someone or something has summoned a horde of cursed Black Kats into the Clockworks. These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires. In the wrong hands these ancient tomes could be catastrophic, but it turns out that Black Kats can't read, so they instead decided to just eat them. The residents of Moorcroft Manor would like you to retrieve the Ancient Pages of the magical grimoires that quite likely reside in the stomachs of Black Kats. We'll leave you to figure out just how to recover them` ([Kataclysmic Confrontation](https://forums.spiralknights.com/en/node/73222)). Black Kats are explicitly said to be summoned. We concluded on the idea, that it is the same mechanism, which allowed for trojans to be summoned. While their role as ones surviving in undeath past the Kataclysm, someone had to summon them initially.
+Some units of the Kat Tribe seem to be sealed somewhere, most likely Underworld: `Someone or something has summoned a horde of cursed Black Kats into the Clockworks. These shadowy beasts hunger for arcane power and raided the Moorcroft Manor Archives' precious collection of magical grimoires. In the wrong hands these ancient tomes could be catastrophic, but it turns out that Black Kats can't read, so they instead decided to just eat them. The residents of Moorcroft Manor would like you to retrieve the Ancient Pages of the magical grimoires that quite likely reside in the stomachs of Black Kats. We'll leave you to figure out just how to recover them` ([Kataclysmic Confrontation](https://forums.spiralknights.com/en/node/73222)).
 
-  Grimalkin inhabit places closest to the Underworld, such as Owlite Academy stuck in the same state as Graveyards, between dimensions: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through`. Grimalkin are similar to Phantoms as they can be stopped only temporality.
+Black Kats are explicitly said to be summoned. We concluded on the idea, that it is the same mechanism, which allowed for trojans to be summoned. While their role as ones surviving in undeath past the Kataclysm, someone had to summon them initially.
+
+Grimalkin inhabit places closest to the Underworld, such as Owlite Academy stuck in the same state as Graveyards, between dimensions: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through`. Grimalkin are similar to Phantoms as they can be stopped only temporality.
 
 - All Black Kats and Margrel possess power to inflict curse.
 - Summoning of Margrel introduces a giant maelstrom enveloping entirety of the Moorcroft manor, the same as one seen across malfunctioned grim gates but magnitudes larger.
 
-Through these characteristics a nature of Kataclysm could be narrowed: one of opening a portal into the Underworld, whose influence poured into the material realm, consuming the closest of living entities within itself due to sheer scale.
+Through these characteristics a nature of Kataclysm could be narrowed: one of opening a portal into the Underworld, whose influence poured into the material realm, influencing the closest of living entities within itself due to scale.
 
-Based on earlier quote it seems that Black Kats are different from the rest by their relation and bearing of curse, that they were already cursed when summoned, instead of becoming such through consumption of magical grimoires. This could be a potential precedent for them being sealed same time later after the Kataclysm, - different scenario, instead of a permanent annihilation of all heavenly kingdom.
+Based on earlier quote it seems that Black Kats are different from the rest of Kat Tribe by their nature, and bearing of curse. By the time they are summoned, they are already cursed, instead of becoming such through consumption of magical grimoires. This could be a potential precedent for them being explicitly sealed, as trojans, after the Kataclysm. Presence of a Dread Seal, which is also placed on Carnavons, suggests that whatever function the seal serves, _it is applicable to both Carnavons and Black Kats, in the end relating to curse_.
 
-This can be also affirmed by a following idea - if trojans were sealed by heavenly kingdom, as the Fallen was banished into the Underworld, the ability to seal Black Kats and to summon them back is one likely attributed to those who already used it - Owlite of heavenly kingdom. This would also explain the time when warding candles were invented, as no other darkness, apart from graveyard's, wherein candles were seem, was present at that time.
+This can be also affirmed by a following idea - if trojans were sealed by heavenly kingdom, as the Fallen was banished into the Underworld, the ability to seal Black Kats and to summon them back is one likely attributed to those who already used it - Owlites of heavenly kingdom. This would also explain the time when warding candles were invented, as no other darkness, apart from graveyard's, wherein candles were seem, was present at that time - an idea, [linked earlier to the forgotten time of gunslinger priests](#gunslinger-priests-part-2).
 
-But, this would contradict an idea that graveyards became such only when they arrived in proximity of the Core, as prior to the metaphysical change of Cradle, those were regular graveyards, as then Spiral Order would be aware of this unnatural presence.
+Presence of Void Souls inside the Core seems as the strong argument in favour a proposal of the Core, rather that the Kataclysm, being responsible for the local changes in metaphysics, due to how alien both Whitespace and the Swarm are in relation to even the curse.
 
-Presence of Void Souls inside the Core seems as the strong argument in favour a theory of the Core, rather that the Kataclysm, being responsible for the local metaphysics, due to how alien both Whitespace and the Swarm are in relation to even the curse. In that regard, Core could accelerate the notions already present, in the form of haunted passages, for example, as well as cause seemingly unpredictable behavior, such as transformation of battle sprites.
+In that regard, Core could accelerate the notions already present, in the form of haunted passages, for example, as well as cause seemingly unpredictable behavior, such as transformation of battle sprites and application of Evo Catalysts, given general notion of the Core amplifying preexisting traits through energy. In particular, a transcendence to different types of damage, lacking of normal damage is confirmed by [Hahn](https://wiki.spiralknights.com/Hahn): `You have a strange definition of recreation if that's the case. Tier 3 fiends and undead are nothing to sneeze at, in fact they're among the worst creatures you'll find so close to the Core. Devilite management seems to be the worst at these depths and that results in some very violent devilites. ... Exactly, and they're worse now. And the same goes for the undead. You'll find that howlitzers become particularly bothersome with their enhanced firing and homing capabilities. Lastly, prepare for fiend and undead monsters to potentially deal pure shadow damage` ([Darkest Forces - Hahn](https://wiki.spiralknights.com/Darkest_Forces)).
 
-In particular, a transcendence to different types of damage, lacking of normal damage is confirmed by [Hahn](https://wiki.spiralknights.com/Hahn): `You have a strange definition of recreation if that's the case. Tier 3 fiends and undead are nothing to sneeze at, in fact they're among the worst creatures you'll find so close to the Core. Devilite management seems to be the worst at these depths and that results in some very violent devilites. ... Exactly, and they're worse now. And the same goes for the undead. You'll find that howlitzers become particularly bothersome with their enhanced firing and homing capabilities. Lastly, prepare for fiend and undead monsters to potentially deal pure shadow damage` ([Darkest Forces - Hahn](https://wiki.spiralknights.com/Darkest_Forces)).
-
-Considering this, we can place period when Philoso made most of his advancement into the very end of Owlite civilization, as then presence of undead would be justified, as well as invention of devices against Underworld's darkness, as well as most of end-game high-performance equipment, such as Chaos Cloak. Also, considering the time scale we operate in, most of Owlite-related equipment does align to a period closer to Kat Tribe, rather that anything else, apart from a supposed Forgotten Time earlier in the timeline.
-
-In that regard, [Divine Mantle](https://wiki.spiralknights.com/Divine_Mantle) has curse resistance and is attributed to Owlites, could be of a more recent development, when Owlites had already encountered the curse, and with its direct knowledge developed such equipment, relating back to heavenly kingdom.
+Considering this, we can place period when Philoso made most of his advancement into the very end of Owlite civilization, as then presence of undead would be justified, invention of devices against Underworld's darkness, and most of end-game high-performance equipment, such as Chaos Cloak.
 
 ##### Margrel and Immortality <span class="through-curse">Through Curse</span>
 
-As for the Kat Tribe knowledge of curse, the fact their alchemized armor is one bearing evil eye symbolism - we can look at a different example of an alchemized equipment from an extinct civilization:
+As for the Kat Tribe potential knowledge on curse, the fact their alchemized armor is one bearing evil eye symbolism - we can look at a different example of an alchemized equipment from an extinct civilization:
 
-- Almirian Crusader armor is completely restored only by traversing shadow lairs.
-- Ancient Plate armor which we had attributed to titans - tortomega, - has a unique health boost both in function and in description of the perk.
+- Almirian Crusader armor is completely restored only by traversing Shadow Lairs.
+- Ancient Plate armor which we had attributed to titans - tortomega, - has a unique health boost, an `unusual health bonus` both in function and in description of the perk.
 - Owlite robes, specifically [Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak), despite Owlite being erased from existence, has antique evil eye design on its garb.
 - Valkyrian armors connected to resistance to curse.
+- `A clawed costume made by Moorcroft tailors. It's perfect for curious knights who are prone to pause for naps after a long night of adventuring` ([Kat Suits](https://wiki.spiralknights.com/Savage_Kat_Suit)) possesses evil eye designs on the shoulder pads, fitting with the rest of Kat Tribe associated armors.
 
-Based on those instances, it seems that Spiral Order had not performed much modifications to the original designs. We can conclude that kat Tribe had already known of the curse before the Kataclysm. This, of course, could suggest a scenario similar to Snarbolax and Lord Vanaduke - the case of an unnatural immortality through curse, referring in the most direct form to Margrel, as he gained more powers of the Underworld from the act of being summoned.
+Based on those instances, it seems that Spiral Order had not performed much modifications to the original designs. We can propose that Kat Tribe had already known of the curse before the Kataclysm. Then it is Kat Tribe magic which is characterized as evil: `A whisker won from the great Kat Tribe hero, Margrel. They were traditionally worn as a ward against Owlite magics but now represent the triumph of goodly magical arts over evil` ([Wicked Whisker](https://wiki.spiralknights.com/Wicked_Whisker)).
 
 The last element if the pink lightning striking Margrel's ritual site when it is summoned. We suggest it being a sign of Underworld's presence, as across myth's lightning strike was associated with the presence of the supernatural, or more commonly, divine presence. Considering similar lightning in case of Arkus, we can suggest that he, through partial transformation to the trojan, and one far more powerful, was tapping into the Underworld's literal energy. As for Sparks of Life - as those are already discrete quantities of energy, enough to revive, presence of lightning could seem as a design choice. And yet, it is accompanied by falling dust, similar to the presence of the Swarm. This seems as a different instance of signaling energy's presence through blue lightning, its excess, symbolized by the temporary attack buff.
 
-##### Inversion of Curse
+When Margrel is summoned, bright soul orbs are seem to be attracted to the ritual site with a distinct red-pink swirl forming, characteristic of the collapsed grim gate's portal. Then the portal overtakes the entirety of the depth, and soul-like projectiles are now spiked orbs. As Black Kats are said to be explicitly summoned, and during Margrel's fight, they appear in large amounts, seems as if __the portal in the gateway for Black Kats to cross into material realm__.
+
+#### Dread Seals
+
+Presence of Dread Seals both on Black Kats, Margrel, and Carnavons also seems as if it was placed by somebody, - an idea we mentioned several times. There, based on the design and naming convention of a seal, we have assumed that the Seal is devised by Valkyries or Owlites, as it is means to contain or seal the curse.
+
+This concept is also reminiscent of the [Sealed Sword](https://wiki.spiralknights.com/Sealed_Sword), which we proposed to be the retrieved and sealed variant of Gran Faust, as it possesses in all alchemy paths evil eye symbolism, suggesting that the symbol was recontextualized in the Avenger line of upgrades. The state of this sword as sealed we consed the reason for its lack of ability to inflict curse, compared to, for example, [Chaotic Haze](https://wiki.spiralknights.com/Chaotic_Haze#Chaotic_Haze) of Maskeraith, as it is not restricted by the seals.
+
+Based on this we have to assume, that the party which had placed the Dread Seals onto Carnavons and Black Kats are Owlites.
+
+From this, 2 details of the timeline emerge:
+
+- Carnavons had to appear later into the timeline but still in the past, as they would be once to encounter Owlites for Dread Seals to be placed.
+- If Dread Seal belongs to Owlites, Margrel and the rest of Black Kats at some point in time had to be marked with the seal, either after the Kataclysm or in the Underworld, from where they are summoned.
+
+Both instances create a requirement for a period of time, when Owlites had to persist for some time after the initial Kataclysm. Even if Carnavons would be marked with the seal before the Kataclysm, Kat Tribe remains.
+
+Given presence of evil eye symbolism on the Chaos Cloak as well as its resistances, we assume, that it would be the reason for a major advancement in understanding of curse and general cosmology. We could've attributed Dread Seal to Underworld, which would seem more fitting, as the seal is purple, rather than yellow, as in the Avenger, but given Chaos Cloak, we are not so sure.
+
+Then it is the roster of the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box) which we have to discuss. Items, attributes to Margrel due to their design all have "Dread" used to characterize them:
+
+- [Dreadful Aura](https://wiki.spiralknights.com/Dreadful_Aura#Dreadful_Aura)
+- [Dread Wings](https://wiki.spiralknights.com/Dread_Wings)
+- [Dread Seal](https://wiki.spiralknights.com/Dread_Seal)
+
+Dreadful aura and wings possess a design, which is reminiscent of trojans, - of a cracked, stone-like form, with pink or curse-like glow from within. As far as common __design patterns related to curse go, trojans follow them with 2 exceptions__: their color is bright pink and they don't inflict curse.
+
+As far as Undead family of monsters is affected by curse, Black Kats, Margrel most prominently, and Carnavons, are ones to be empowered by the condition.
+
+Since there are no cases of seal-like magic being used by Underworld, apart from [Faust](https://wiki.spiralknights.com/Faust), we are leaning to attribute __Dread Seals to Owlites and heavenly kingdom in general, as a result of research, presented by the connection to curse of Chaos Cloak__. And, as far as [Faust](https://wiki.spiralknights.com/Faust) has the seal, its color is different, more pink, with [Gran Faust](https://wiki.spiralknights.com/Gran_Faust) being the closest to trojans' color of flames. Given application of Crest of Ur in Gran Faust, symbolically, we will reconsider trojans as not only transformed Wardens, but curse-bearing, sentient fiends, similar to [Darkfire Lord Vanaduke](#true-citadel-of-almirian-empire).
+
+#### Inversion of Curse
 
 It is here a concept of inverted curse should be brought up. Golden evil eye present on the [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger) is of heavenly kingdom, or more specifically, of Owlite research. The Avenger and Faust both have a curse symbolism, a shape encompassing the evil eye is one of [Dread Seal](https://wiki.spiralknights.com/Dread_Seal). In case of Avenger, color is inverted to gold. But it belong to an age when Valkyries invaded Underworld, as it would require valkyries to encounter it properly to gain such deep understanding of curse and its symbol, in order to wield it.
 
