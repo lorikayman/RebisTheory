@@ -4325,13 +4325,33 @@ Here we will establish parity of entities.
   - Unstable form: Yes (baleful aura)
   - On defeat: melts, yellow explosions
 
+Here would propose a concept which was looming over the nature of darkfire since we have established a connection between trojans and SPiral Wardens. What if the pink fire of trojans is indeed a separate, native to Underworld, manifestation of curse, hence the reason for its distinct separation from the purple darkfire of material realm?
+
+If the Shadow Firestorm Citadel was influenced by the curse to the point of its fires in the fire bowls turning purple, why trojans had remains unaffected? Both this and the distinguished color, yet identical to charged dark matter, seems us as if trojans have become native to Underworld to the point of being __unaffected by curse as part of their nature__, similar to Greavers, whose symbolism of the eye does not correspond to them inflicting curse.
+
+For the rest of species coming from the material realm, curse is the identified of them transitioning to the fiendish nature of Underworld.
+
+The counterpart to curse - a concept of divinity or sainthood, is also found in [Saintly Silver Amulet](https://wiki.spiralknights.com/Saintly_Silver_Amulet), [Sacred Silver Amulet](https://wiki.spiralknights.com/Sacred_Silver_Amulet) and [Blessed Silver Amulet](https://wiki.spiralknights.com/Blessed_Silver_Amulet).
+
+It is also here we should note on the sacred characteristic of 5-star upgrades of the [Padded Armor](https://wiki.spiralknights.com/Padded_Armor), with helms reminiscent of older ages. The descriptions also make if seems as if the __entire alchemy tree of Padded Armor, as it is designed for handgun combat - is the modern reemergence of gunslinger priests:__
+
+- `A spectral suit of armor for those who are gunning for ghosts` ([Sacred Snakebite Ghost Armor](https://wiki.spiralknights.com/Sacred_Snakebite_Ghost_Armor)).
+- `A phantasmal suit of armor for those who are aiming for the infernal` ([Sacred Falcon Hex Armor](https://wiki.spiralknights.com/Sacred_Falcon_Hex_Armor)).
+
 #### Metaphysical Restriction
 
-The curse can be externally applied, which takes form of a metaphysic restriction placed upon an entity, such as Cursed Nature Sprites, or a knight with an inability to attack.
+The curse can be externally applied, which takes form of a metaphysic restriction placed upon an entity, such as:
 
-A different kind of restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object, and, as with lumbers seem to tether a soul to a corporeal body. A more advanced usage of the seal is seen through presence of the Dread Seal, placed onto Carnavons and Black Kats.
+- Cursed Nature Sprites are unable to establish a link to a different realm - Spirit Mother's Realm.
+- A knight under curse can attack only through the attack backfiring.
+- Seals placed onto weapons block or direct inwards part fo their power - prime example being Sealed Sword.
+- Sealed entities - Carnavons, Black Kats, Lumbers, - are instances of this concept applied thematically and functionally. Only elemental Lumbers possess a seal, is attributed to essence or a soul keeping them operational within an artificially constructed body. Carnavons and Black Kats are marked by the seal, which, given their current condition, blocks so far unseen fraction of their influence onto material realm. Given [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray): `The ray of light deals extra damage to undead and fiend family monsters`, seal's function can be interpreted as one forbidding greater damage to species of material realm.
 
-A more nuanced relation of curse and constructs is seen in tortodrones, whose shell hides charged crimsonite and may be a potential ritual circle or a seal to contain it. In case of corrupted tortodrones, due to presence of dark matter, a more advanced method of containment is used - that os ritual circle sigils. Despite this difference, all of the above instances are attributed to the capacity of curse to restrict.
+A kind of restriction manifests through application of a seal, in a most basic form, as seen on elemental lumbers and Sealed Sword, it restricts the function of an object, and, as with lumbers seem to tether a soul to a corporeal body. A more advanced usage - as the apparition of a seal, - is seen through presence of the Dread Seal, placed onto Carnavons and Black Kats.
+
+A more nuanced relation of curse and constructs is seen in tortodrones, whose shell hides charged crimsonite and may be a potential ritual circle or a seal to contain it. In case of corrupted tortodrones, due to presence of dark matter, a more advanced method of containment is used - that of ritual circle carved onto the shell. Here application of ritual circle can be potentially interpreted as summoning dark matter to be depleted, or securing it, as it is seen from atop of the shell. If compared to regular tortomega, the idea of a duality between summoning of power source and its security through seals, carved on the shells, seems as a plausible concept, but, given earlier analysis of ritual circles, a capacity to summon minerals seems too far fetched. So, we may settle with an idea of fiendish, more complex mechanism of securing mineral, power source, through the system, derived from The Key of Solomon the King, rather that simpler creating of rudimentary seals.
+
+All of the above instances are attributed to the capacity of curse to restrict.
 
 #### Physical Transformation
 
