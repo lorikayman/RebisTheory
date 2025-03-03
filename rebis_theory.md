@@ -4035,9 +4035,9 @@ If heavenly kingdom was both a supernatural and material location, its deeper re
 
 Before we move on the analysis of Gremlin Empire, specifically nature of the complex network of connections between the Core, Whitespace, and the Swarm, with an addition of Sleeper and the Void, we are required to cover everything we now know of the phenomenon of Curse up until this point with the fullest context of according settings or time periods.
 
-For this, we are left with Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse). After we are done with the properties of those location, separated from the nature and origins of Shadow Lairs themselves, we will perform the final summary of curse.
+For this, we are left with Shadow Lairs, as it the region, which contains so far glanced over Shadow Firestorm Citadel and the miasma of Shadow Gloaming Wildwoods, mentioned briefly in the [analysis of Snarbolax's curse](#snarbolax-and-haunting-through-curse).
 
-#### Shadow Lairs
+After we are done with the properties of those location and their plausible positions in the timeline, separated from the nature of Shadow Lairs themselves, we will perform the final summary of curse.
 
 Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wiki.spiralknights.com/Release_Notes_2011-10-19)), which suggest, that the boss entities are alive while Spiral Order possess extended knowledge on them, as if they were already defeated:
 
@@ -4048,42 +4048,48 @@ Shadow Lairs are introduced in a manner ([Release Notes: 2011.10.19](https://wik
 
 Here we will cover specifically the Wildwoods and the Citadel, and then analyze, weather they fit into an existing timeline.
 
-##### Miasma
+#### Miasma
 
 The miasma is described as the reason for the change within the Wildwoods: `The Gloaming Wildwoods has been infected with a poisonous miasma and the Snarbolax is said to have gone rabid!`
 
-Yet, when Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that Snarbolax is cursed, with curse accumulating in its hide, granting immortality in a less detrimental manner. Snarbolax was defeated by knights, unless here it was not one of its kind, as suggested by presence of multiple it instances, affirmed by, potentially, Snarblepup Maskeraith reskin.
-
-There is also a case of later discussed Vile Engine, and its slime generators, which were the reason for Rotting Metropolis' existence. And in case of miasma, slime generators could be a potential precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. So, considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the wildwood at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22. But, on the other hand, the __miasma in its color is most reminiscent of curse due to its pink-red color__.
-
-As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison, rot, and undeath across graveyards. In case of miasma, the description and setting is fitting, but not the color of mist itself, unless this supernatural nature also exists here, one traced back to Underworld.
-
-It is then a question weather it in fact exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, a Underworld-originating plague, we suggest, is present in the Shadow Lairs version of Gloaming Wildwoods.
-
-The reason to this consolidated in the effects of the miasma:
+We can consolidate effects of the miasma to following points:
 
 - Enemies affected by the miasma inflict poison.
-- Snarbolax, in his shadowy form, gains poisonous properties as well as the design.
-- The wildwoods are covered with a red mist.
+- Undeath is more widespread across Wildwoods.
+- Snarbolax, in his shadowy form, gains poisonous properties, in its form resembling gravestones with green veins of the Graveyards.
+- The Wildwoods are covered with red mist. This red mist is similar to one present on fiend-inhabited Clockwork Tunnels, with a characteristic pink hue, the [Infernal Passage](https://wiki.spiralknights.com/Infernal_Passage).
+
+When Snarbolax is encountered, apart from being rabid, it is present in multiple instances. We have previously suggested, that [Snarbolax is cursed](#snarbolax-and-haunting-through-curse), with curse accumulating in its hide, granting immortality in a less detrimental manner.
+
+Snarbolax was defeated by knights, unless it is not one of its kind, as later suggested by presence of multiple it instances, affirmed by, potentially, Snarblepup Maskeraith.
+
+There is also a case Vile Engine mission and its slime generators, which were the reason for Rotting Metropolis' existence. And in order for miasma to appear, slime generators could be a plausible precedent for existence of poisoned Gloaming Wildwoods and Rabid Snarbolax. Considering that all of Clockwork location can be moved, the prime example being molten cavern of Firestorm Citadel - `The Core was in sight. But now some kind of massive negative energy anomaly has surfaced above the Core, blocking access to it. ... We need you to explore the surrounding levels and collect any intel you can. You can start with an Owlite castle of some sort that recently surfaced near this anomaly` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Ending_in_Fire)), it is plausible for the Wildwoods at some point being affected by the [slime generators](https://wiki.spiralknights.com/The_Vile_Engine/Processing_Plant) at depth 22.
+
+But, on the other hand, the __miasma in its color is most reminiscent of curse due to its pink-red color__. ANd at that, thematically, it seems to us that gremlins are not ones to be involved in the creation of, at least, Shadow Gloaming Wildwoods.
+
+As it was discussed earlier, we had proposed an existence of a [Vile Deity](#fiendish-cults), who is the reason behind supernatural occurrences related to poison and undeath across graveyards. In case of miasma, the description and setting is fitting, but not the color of mist itself, unless this supernatural nature also exists, one traced back to Underworld.
+
+It is then a question weather Vile Deity actually exists and what is its influence onto material realm. And one argument that seems feasible is the existence of [Plague Essence](https://wiki.spiralknights.com/Plague_Essence): `A powerful essence left behind when a creature perishes from a particularly putrid disease.` as it is a material from the same tier and design as [Everfrost](https://wiki.spiralknights.com/Everfrost) and [Flame Souls](https://wiki.spiralknights.com/Flame_Soul). We won't suggest, that a type of supernatural plague was utilized to create toxigels. But, __an idea that miasma came from Underworld, seem more plausible__.
 
 The red mist is the main point of concern and a counter argument for Slime Generators being responsible for the creation of the miasma. So far, a few potential leads can be connected to this phenomenon:
 
-- Red mist is similar to the glow of the vengeful shadow cloak of Maskeraith. Although the design differs, as Maskeraith cloak has yellow lightning bolts within it, the mist does not. The density of Maskeraith cloak does not allow to see though it, most reminiscent of stong wind at the Core Terminal.
+- Red mist is similar to the glow of Maskeraith's [Vengeful Shadow Cloak](). Although the design differs, as Maskeraith cloak has yellow lightning bolts within it, the mist does not. The density of Maskeraith cloak does not allow to see through it, most reminiscent of strong reddish glow and wind below the [Core Terminal](#core-terminal).
 - The context of the word _miasma across mythology is usually considered as a divine punishment and illness_. The illness is present in the woods, but the punishment aspect remains unknown.
-
-  We can attempt to link it to the fall of tortomega, through association with rage.
-
 - The stone lantern found across the woods are similar to the Yukimi-Gata lanterns and [5-layer stone stupas](https://www.onmarkproductions.com/html/5-elements-pagoda-gravestone.html).
 
-The second comparison, we believe, is most plausible for explaining the nature of miasma, as one originating from curse, flowing from [collapsing grim gates' portal](#grim-gates-portal-collapse), [described earlier](#grim-gates). We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones. But, if we consider such scenario, how an event from the past would've made an appearance in the present?
+Among those proposals, we lean to the idea of the miasma being the result of [collapsing grim gates' portal](#grim-gates-portal-collapse), [described earlier](#grim-gates) in regards to Undercorp sabotaging tortomega efforts. We have proposed, that the reason for this large-scale spread of curse-related affliction is due to [Undercorp turning against Titans](#the-fall-of-titans), erasing their civilization through mechanical change of tortodrones. But, if we consider such scenario, how an event from the past would've made an appearance in the present? This concept, we believe, ties with the greater nature of Shadow Lairs, yet, we have to establish an ongoing motif.
 
-##### True Citadel of Almirian Empire
+As far as solely Shadow Gloaming Wildwoods allow us to hypothesize, __Miasma came from the Grim Gates back when titans were annihilated by corrupted tortodrones__. On Cradle, miasma reemerges as either the result of still unseen actor - embodied by the Nefarious Imp, or, due to events of [March of Tortodrones](), wherein portals were also collapsed. Given that those event happen specifically at later point in time, as a singular event similar to other Shadow Lairs, we are leaning to the idea of Undercorp being involved here, while acknowledging still unknown properties of Shadow Lairs.
 
-Shadow Firestorm Citadel is in much regard far more dangerous than its regular counterpart. The presence of Nature Sprites and Darkfire Lord Vanaduke, the lack of the console create unique conditions in order for it to exist within the canon. This is similar to the unknown chronology of Ice Royal Jelly Palace within the timeline, including the fact of both had to [contain a console](#gremlin-containments-and-consoles).
+#### True Citadel of Almirian Empire
+
+Shadow Firestorm Citadel is in much regard far more dangerous than its regular counterpart. The presence of Nature Sprites and Darkfire Lord Vanaduke, and lack of the console create unique conditions in order for it to exist within the canon.
+
+Shadow Firestorm Citadel is similar to the unknown chronology of frozen over Shadow Royal Jelly Palace within the timeline, including the fact of both had to [contain a console](#gremlin-containments-and-consoles).
 
 To analyze nature of this variant of the Citadel, we have to start by isolating history and design of the general Firestorm Citadel.
 
-It is known that it was the Grand Citadel of Almire: `From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. ... Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), and `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](<https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge)>)).
+It is known that it was the Grand Citadel of Almire: `From atop the highest tower of the Grand Citadel of Almire, Vanaduke watched his kingdom crumble. ... Many days later the citizens of Almire watched as fire began to erupt from the mountains. Leading an army of terrible fiends, Vanaduke returned to his kingdom, destroying the occupied forces of the two opposing kingdoms in a single day. In time the two kingdoms fell, Vanaduke's legion burning everything in their path. When he returned to Almire, it burned as well, for everywhere he went, and everything he touched was doomed to ash. With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)), and `You stand before the gates of the Firestorm Citadel, the former heart of the great Kingdom of Almire, now a dominion twisted by fire and malice` ([King of Ashes - Blackstone Bridge - Lost Soul](https://wiki.spiralknights.com/Lost_Soul_(Blackstone_Bridge))).
 
 Kingdom of Almire was located near the mountains, ones which held an altar to a fiery deity, [which we concluded to be Vog](#blackened-shrine-and-magma-deity), an Underworld deity. Almire's nature-themed designs, as well as a strong connection to Spirit Mother, which was the reason for her intervention, resulting in capture of several Nature Sprites in the Citadel itself by the time Lord Vanaduke had returned transformed.
 
@@ -4111,37 +4117,45 @@ Here we have to return to the topic of the [Forgotten Time](#analysis-of-forgott
 
 Here, this positioning does raise suspicion, as geographically, through mythological inspirations, heavenly kingdom had to be located above the land of Ironmight Kingdom, tortomega ruins including Wildwoods and Aurora Isles, and Kingdom of Almire. At that point, as the planet had to be harvested, Aurora Isles would have to eventually end up being captured, but this would not explain the fact they, too, float. Unless the same technology used to hold up all of matter in skydomes, and elements of the Artifact and Console is applied.
 
-We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One thing in particular is the following - _if Carnavons are canon, their curse affliction and Dread Seals are canon, would this make Shadow Firestorm Citadel canon?_ And if so, how would it fit with the existing one, apart from, for example, Shadow Lairs being unreal? Physically, all of those location reach the Shadow Lairs proper - the Unknown Passage, - as only boss depths contain the first signs of the Swarm, the rectangular black mist.
+We have mentioned that Carnavons and Slag Zombies have similar design and are only ones with explicit armor. One thing in particular is the following - _if Carnavons are canon, their curse affliction and Dread Seals are canon, would this make Shadow Firestorm Citadel canon?_ And if so, how would it fit with the existing one, apart from, for example, Shadow Lairs being not canon? Physically, all of those location reach the Shadow Lairs proper - the Unknown Passage, - as only boss depths contain the first signs of the Swarm, the rectangular black mist.
 
-Does this mean, that by the time `Shadows have Fallen Over Cradle`, all of boss depths were pulled into the proximity of Shadow Lairs, right above the Unknown Passage? As far as _sudden movement of the Firestorm Citadel_ goes, this can be a plausible case, perpetuated by some entity, related to Swarm or not.
+<!-- Does this mean, that by the time `Shadows have Fallen Over Cradle`, all of boss depths were pulled into the proximity of Shadow Lairs, right above the Unknown Passage? As far as _sudden movement of the Firestorm Citadel_ goes, this can be a plausible case, perpetuated by some entity, related to Swarm or not.
 
-Another note on the canon of Shadow Lairs is the response to threat of the Swarm. There is no reaction on the result of an expedition into those. Events of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a follow-up. But, it shows a possibility of Shadow Lairs rising into lower depth, as shown by the last depth of [A Descent into Darkness](https://wiki.spiralknights.com/Unknown_Passage), which is the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage). As in the boss depths of Shadow Lairs, a depth preceding Unknown Passage is, in the very end, influenced by the Swarm - this seems less of an elevator rerouting, as this would create larger distance between the Passage and prior depth, and more of an ascent of Shadow Lairs into lower depths.
+Another note on the canon of Shadow Lairs is the response to threat of the Swarm. There is no reaction on the result of an expedition into those. Events of [It Came From Below](https://wiki.spiralknights.com/It_Came_From_Below/Into_the_Maw) demonstrate the threat of the Swarm without a follow-up. But, it shows a possibility of Shadow Lairs rising into lower depth, as shown by the last depth of [A Descent into Darkness](https://wiki.spiralknights.com/Unknown_Passage), which is the [Unknown Passage](https://wiki.spiralknights.com/Unknown_Passage). As in the boss depths of Shadow Lairs, a depth preceding Unknown Passage is, in the very end, influenced by the Swarm - this seems less of an elevator rerouting, as this would create larger distance between the Passage and prior depth, and more of an ascent of Shadow Lairs into lower depths. -->
 
-Here we propose a solution, one which, we believe, organically solves several loose ends.
+Assuming Owlites, as the heavenly kingdom above the mountains, had witnessed the events of 3 kingdoms, Ironmight, Almire, and Raiders, they had to stay away from the conflict given lack of their presence. Then Lord Vanaduke has returned from the mountains with the Legion of Ur - of Isorian Wardens transformed to trojans in the past.
 
-Owlites, as the heavenly kingdom above the mountains, had witnessed the events of 3 kingdoms, Ironmight, Almire, and Raiders. Then Lord Vanaduke has returned from the mountains with the Legion of Ur - of Isorian Wardens transformed to trojans. Then, as the Legion of ur had returned into the mountains - the Underworld, and the new undead kingdom of Almire became the [Almirian Empire](#almirian-empire).
+As the Legion of Ur had returned into the mountains, as most of the land was burned by Lord Vanaduke's crusade, we have proposed, that became the reason for valkyries to enact. This period of time and until the Kataclysm had seemed fitting to position Owlites' gunslinger priests, as both those narratives involve undead opposition or danger to heavenly kingdom. It was also here we proposed existence of undead kingdom of Almire as the [Almirian Empire](#almirian-empire).
 
-Vanaduke began the invasion into the heavenly kingdom with his undead army of legions of Almire. Due to this, greater developments in the understanding of curse were made. It is during that, more early time closer to Almire's Fall and Almirian Empire, rather than one suggested in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe) understanding of curse allowed for existence of all described there items, including the Divine Avenger with the property of [curse being inverted](#inversion-of-curse). And it was the weapon to defend against undead legions of Almire.
 
-Through this logic, we finally reach the dread seal ond ones who bear it.
+<!-- Vanaduke began the invasion into the heavenly kingdom with his undead army of legions of Almire. Due to this, greater developments in the understanding of curse were made. It is during that, more early time closer to Almire's Fall and Almirian Empire, rather than one suggested in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe) understanding of curse allowed for existence of all described there items, including the Divine Avenger with the property of [curse being inverted](#inversion-of-curse). And it was the weapon to defend against undead legions of Almire. -->
+
+##### Carnavons and Forgotten Time
+
+Through this logic, we reach the dread seal and ones who bear it.
 
 Dread Seal is acquired from the [Katastrophe Prize Box](https://wiki.spiralknights.com/Katastrophe_Prize_Box), meaning, that it is associated with Owlites to a degree. In the accompanied [news art](https://wiki.spiralknights.com/News/2014), dread seal is placed on the Black Kat Mask, but more importantly, it is in a set with Chaos Cloak. Weather or not this design choice is canon, the fact that evil eye makes itself present on Owlite's Chaos Cloak may serve as a link to other Owlite researches regarding nature of curse, as discussed in the beginning of [Kat Tribe chapter](#chapter-viii-kat-tribe).
 
 As the Chaos Cloak is forbidden, the dread seal places with it seem to suggest it being a mark of danger, or a restriction. __Seal's design is similar to the Fu talisman, as it is placed by priest on ghost's forehead in order to hinder or disarm it__.
 
-With the prior knowledge of Black Kats and Almire, we believe the seal is created by Owlites. This would coincide with their last actions of Warding Candles being placed, as another measure to defend against Underworld.
+With the prior knowledge on Black Kats, Almire and [application of Dread Seal design in Owlite technology](#dread-seals), we lean to idea of the seal being created by Owlites. This would coincide with their last actions of Warding Candles being placed, as another measure to defend against Underworld.
 
 In relation to Almire, the seal is placed onto Carnavons to hinder them. __The only time this would chronologically fit is if Owlites did fought with Almirian Empire, the one after Lord Vanaduke's return__.
 
-But, if we consider for a moment, that this Shadow firestorm Citadel is from the past, still, how both Citadel could coexist, with Lord Vanaduke being seemingly defeated?
-
-Dark Embers, while are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), which would only be thematically fitting - through color purple - if the entire Citadel was of that theme, so their presence in the regular fiery Citadel would be odd.
+Dark Embers are acquired for Almirian Seal tokens, are said to be `salvaged from Lord Vanaduke's throne room. It slowly smolders with a sinister intensity, creating an almost hypnotic trance when gazed upon for any length of time` ([Dark Ember](https://wiki.spiralknights.com/Dark_Ember)), which would only be thematically fitting - through color purple - if the entire Citadel was of that theme, so their presence in the regular fiery Citadel would be odd.
 
 It was previously discussed that Vog's fiery curse, the reason for Vog Cubs' existence, is the other curse related to more fire. Through this logic we followed to the idea of darkfire being a distinct phenomenon in the [nature of darkfire section](#nature-of-darkfire).
 
 There we have presented 2 proposal to the nature of darkfire - regular by now, - variation of the curse, and a distinct creation emerging from Vog's curse being overtaken by different, - Underworld's curse. Darkfire would not have a reason to exist in the throne room of regular fire.
 
 It was stated that army within the citadel was transformed - that would eventually mean that all Slag Walkers had turned into Carnavons. Yet both are present across Clockworks outside of Shadow Lairs. Carnavons are summoned by Black Kats, which are themselves summoned by the Dark ritual which can pull banished entities from the Underworld, such as trojans. The Seal is placed by Owlites of valkyries on the cursed entities.
+
+This, so far, creates 2 interpretation of the Shadow Firestorm Citadel:
+
+- It is the latest state it is found, following the events of Shadowplay and Dream and Nightmares. Carnavons being marked by Dread Seals here could be only be explained by either inhabitants of heavenly kingdom still existing in order to place those seals or Carnavons would exist prior to present events.
+- It is an anomaly unexplainable by currently known logic, existing in parallel to Firestorm Citadel. The 2 issues of this explanation rise from the ide of Lord Vanaduke being potentially resurrected, and that an entire copy of the Citadel exists on Cradle.
+
+As both of those explanation are incomplete, we have to discuss 3 currently existing variants of the Firestorm Citadel.
 
 ##### Darkfire, Firestorm, Greenstone Citadel
 
@@ -4177,12 +4191,16 @@ Previously we have proposed, that due to wording on the Shadow Firestorm Citadel
 
 Then the presence of Almire-aligned undead, including the royal guard - they, too, had to be justified to be present only in the Shadow Firestorm Citadel.
 
-All of those elements make __Shadow Firestorm Citadel far more authentic__, _compared to the Firestorm Citadel outside of Shadow Lairs_. Presence of Dark Embers following curse theme should be a reason for this variant being the true one, an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
+All of those elements make __Shadow Firestorm Citadel far more authentic, compared to the Firestorm Citadel outside of Shadow Lairs__. Presence of Dark Embers following curse theme should be a reason for this variant being the true one, an yet, Greenstone Citadel has all of the initial designs of the Firestorm Citadel.
 
-So far we can suggest two scenarios of integrating the Citadel into the timeline:
+Dut ot those properties we will expand upon the first explanations presented in previous section, and present a 3rd scenario of integrating the Citadel into the timeline:
 
-- _Shadow Firestorm Citadel is the version of the Almirian Empire at its prime_, as Valkyries of Heavenly Kingdom eventually attacked Underworld and the empire. In Shadow Lairs the old, true Citadel from Almirian Empire was recreated through unknown means, as if rebuilt through application of the curse, as stated in the announcement.
-- Shadow Firestorm Citadel is one traversed by the knights, placing it before the mission of King of Ashes, as Lord Vanaduke is required to live at this point in time. But, this approach would discard the event of the mission itself, rendering them not canon. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths.
+- Shadow Firestorm Citadel symbolically represents the Citadel of the undead Almirian Empire at its prime. Shadow Lairs with unknown actor from Underworld, through transformative power of curse, had transformed present Firestorm Citadel into one completely overtaken by the curse, transforming Almirian designs into fiendish.
+
+    Presence of cursed Vanaduke's finery would suggest, that Lord Vanaduke's soul still lingers, and this would've allowed for it to be brought back now armored in fiendish armor, paralleling trojans' design, contrasting Spiral Wardens, and, in terms of resurrection - Margrel.
+- Shadow Firestorm Citadel is one traversed by the knights, placing it before the mission of King of Ashes, as Lord Vanaduke is required to live at this point in time.
+
+    This approach would discard the event of the mission itself, rendering them not canon. This approach would also contradict the boss trophies, as all of them do not account for Shadow Lairs, while the regions themselves were seemingly pulled to the higher depths.
 
 #### Evil Eye Appearances
 
