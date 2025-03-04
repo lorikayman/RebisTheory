@@ -14,9 +14,11 @@
 </h1>
 
 <SubTitleCentered bg="true">
+  {#snippet markup()}
 
-_"A Monstrous Research"_
+  _"A Monstrous Research"_
 
+  {/snippet}
 </SubTitleCentered>
 
 <br/>
@@ -133,13 +135,15 @@ Nameless Realm is mentioned in the description of the [Chaos Cloak](https://wiki
 At that very point the implied duality of the phrase above must be kept in mind, as this is the first instance a theme of alchemy presented within Spiral Knights' cosmology. Precisely, the concept of the Nameless Realm is one reminiscent of alchemical First Matter:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).
+  The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art —chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum).
 
----
+  ---
 
-The earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).
+  The earth (as prima materia) is not a dead body, but is inhabited by a spirit that is its life and soul. All created things, minerals included, draw their strength from the earth- spirit. This spirit is life, it is nourished by the stars, and it gives nourishment to all the living things ... This invisible spirit is like the reflection in a mirror, intangible, yet it is at the same time the root of all the substances necessary to the alchemical process or arising therefrom (radix nostrorum corporum).
 
+  {/snippet}
 </BookCitation>
 
 #### Spirit Mother's Realm
@@ -226,23 +230,25 @@ Here, we would prose a potential link of energy - as a universal or close to one
 We will consider this in-universe concept of alchemy as one inspired by the real-world many western and eastern interpretations of alchemy, while preserving the core concepts and modernized in the sci-fi setting. The existence of many conflicting interpretations of alchemy is its known property, attributed to its early origin.
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-Alchemy, as is well known, describes a process of chemical transformation and gives numberless directions for its accomplishment. Although hardly two authors are of the same opinion regarding the exact course of the process and the sequence of its stages, the majority are agreed on the principal points at issue, and have been so from the earliest times, i.e., since the beginning of the Christian era.
+  Alchemy, as is well known, describes a process of chemical transformation and gives numberless directions for its accomplishment. Although hardly two authors are of the same opinion regarding the exact course of the process and the sequence of its stages, the majority are agreed on the principal points at issue, and have been so from the earliest times, i.e., since the beginning of the Christian era.
 
-The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language. The ancients knew more or less what chemical processes were; therefore they must have known that the thing they practised was, to say the least of it, no ordinary chemistry.
+  The alchemical opus deals in the main not just with chemical experiments as such, but with something resembling psychic processes expressed in pseudochemical language. The ancients knew more or less what chemical processes were; therefore they must have known that the thing they practised was, to say the least of it, no ordinary chemistry.
 
-If the alchemist is admittedly using the chemical process only symbolically, then why does he work in a laboratory with crucibles and alembics? And if, as he constantly asserts, he is describing chemical processes, why distort them past recognition with his mythological symbolisms?
+  If the alchemist is admittedly using the chemical process only symbolically, then why does he work in a laboratory with crucibles and alembics? And if, as he constantly asserts, he is describing chemical processes, why distort them past recognition with his mythological symbolisms?
 
-This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.
+  This puzzle has proved something of a headache to many an honest and well-meaning student of alchemy. On the one hand the alchemist declares that he is concealing the truth intentionally, so as to prevent wicked or stupid people from gaining possession of the gold and thus precipitating a catastrophe. But, on the other hand, the same author will assure us that the gold he is seeking is not—as the stupid suppose—the ordinary gold (aurum vulgi), it is the philosophical gold or even the marvellous stone, the lapis invisibilitatis (the stone of invisibility), or the lapis aethereus (the ethereal stone), or finally the unimaginable hermaphroditic rebis, and he will end up by saying that all recipes whatsoever are to be despised.
 
----
+  ---
 
-For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.
+  For psychological reasons, however, it is highly unlikely that the motive prompting the alchemist to secrecy and mystification was consideration for mankind. Whenever anything real is discovered it is usually announced with a flourish of trumpets. The fact is that the alchemists had little or nothing to divulge in the way of chemistry, least of all the secret of goldmaking.
 
----
+  ---
 
-The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.
+  The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.
 
+  {/snippet}
 </BookCitation>
 
 This introduces a notion of Spiral Order alchemy being a studied and predictable phenomenon, a complete inverse of its real-world counterpart. With this, considering that, initially, transmutation of gear had required energy, and then Orbs of Alchemy, we can make a guess that, as Spiral Order was familiar to alchemy, so energy was not a foreign concept to them.
@@ -292,9 +298,11 @@ While corrupted (`A handgun alchemized from the shell of a corrupted tortodrone.
 As for the divine Drakon and its dragon counterpart, one more similarity can be suggested to parallel to the established idea dragons being interstellar species, but also, as we will se later, tying with the concepts closely related in alchemy:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp. The liquid metal, argentum vivum—“living silver,” quicksilver—was the wonderful substance that perfectly expressed the nature of the στίλβων: that which glistens and animates within. When the alchemist speaks of Mercurius, on the face of it he means quicksilver, but inwardly he means the world-creating spirit concealed or imprisoned in matter. The dragon is probably the oldest pictorial symbol in alchemy of which we have documentary evidence. It appears as the ούρο βόρος, the tail-eater, in the Codex Marcianus, which dates from the tenth or eleventh century, together with the legend: νἓ τò πάν (the One, the All). Time and again the alchemists reiterate that the opus proceeds from the one and leads back to the one, that it is a sort of circle like a dragon biting its own tail. For this reason the opus was often called circulare (circular) or else rota (the wheel). Mercurius stands at the beginning and end of the work: he is the prima materia, the caput corvi, the nigredo; as dragon he devours himself and as dragon he dies, to rise again as the lapis. He is the play of colours in the cauda pavonis and the division into four elements. He is the hermaphrodite that was in the beginning, that splits into the classical brother-sister duality and is reunited in the coniunctio, to appear once again at the end in the radiant form of the lumen novum, the stone. He is metallic yet liquid, matter yet spirit, cold yet fiery, poison and yet healing draught—a symbol uniting all opposites.
+  The dragon in itself is a monstrum - a symbol combining the chthonic principle of the serpent and the aerial principle of the bird. It is, as Ruland says, a variant of Mercurius. But Mercurius is the divine winged Hermes manifest in matter, the god of revelation, lord of thought and sovereign psychopomp. The liquid metal, argentum vivum—“living silver,” quicksilver—was the wonderful substance that perfectly expressed the nature of the στίλβων: that which glistens and animates within. When the alchemist speaks of Mercurius, on the face of it he means quicksilver, but inwardly he means the world-creating spirit concealed or imprisoned in matter. The dragon is probably the oldest pictorial symbol in alchemy of which we have documentary evidence. It appears as the ούρο βόρος, the tail-eater, in the Codex Marcianus, which dates from the tenth or eleventh century, together with the legend: νἓ τò πάν (the One, the All). Time and again the alchemists reiterate that the opus proceeds from the one and leads back to the one, that it is a sort of circle like a dragon biting its own tail. For this reason the opus was often called circulare (circular) or else rota (the wheel). Mercurius stands at the beginning and end of the work: he is the prima materia, the caput corvi, the nigredo; as dragon he devours himself and as dragon he dies, to rise again as the lapis. He is the play of colours in the cauda pavonis and the division into four elements. He is the hermaphrodite that was in the beginning, that splits into the classical brother-sister duality and is reunited in the coniunctio, to appear once again at the end in the radiant form of the lumen novum, the stone. He is metallic yet liquid, matter yet spirit, cold yet fiery, poison and yet healing draught—a symbol uniting all opposites.
 
+  {/snippet}
 </BookCitation>
 
 Due to this we propose that:
@@ -766,17 +774,19 @@ This ability of dragons to travel across realms can also explain the scenario, w
 Moreover, this exact narrative seems as the closest to the myth of how Asgard of the norse mythology was build - with an assistance of giants:
 
 <BookCitation source="New World Encyclopedia: Asgard">
+  {#snippet markup()}
 
-Describing the red band in the rainbow, the Prose Edda suggests that "that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross."(11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.) This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
+  Describing the red band in the rainbow, the Prose Edda suggests that "that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross."(11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.) This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
 
----
+  ---
 
-In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, "In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim." (16. Gylfaginning XIV, Brodeur 25.)
+  In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, "In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim." (16. Gylfaginning XIV, Brodeur 25.)
 
----
+  ---
 
-However, once these various homes and meeting halls were completed, the Aesir realized that they were relatively susceptible to attack. Fortuitously (or so it seemed at the time), a giant stopped by and offered to construct them an impregnable wall and a gate to protect their fledgling realm. However, his terms were quite steep, as he wished to receive in payment the hand of Freya in marriage, as well as the sun and the moon. The Aesir agreed to this bargain, on the condition that the work be completed within six months, and that he do it with no help (as they assumed that such a task would simply be impossible to complete). The giant stone-wright agreed to this once Loki convinced the Aesir to allow him to use his stallion to help in the building process.
+  However, once these various homes and meeting halls were completed, the Aesir realized that they were relatively susceptible to attack. Fortuitously (or so it seemed at the time), a giant stopped by and offered to construct them an impregnable wall and a gate to protect their fledgling realm. However, his terms were quite steep, as he wished to receive in payment the hand of Freya in marriage, as well as the sun and the moon. The Aesir agreed to this bargain, on the condition that the work be completed within six months, and that he do it with no help (as they assumed that such a task would simply be impossible to complete). The giant stone-wright agreed to this once Loki convinced the Aesir to allow him to use his stallion to help in the building process.
 
+  {/snippet}
 </BookCitation>
 
 This cosmology of heavenly kingdom, material realm, and of Underworld with the Blinding Abyss seem to match here the general basics of norse mythology - Asgard as home of the Aesir and Vanir clans, Midgard being the realm of mortals, and frozen over underworld known as Niflheim.
@@ -1069,9 +1079,11 @@ There must be a distinction or rather, a point of Spiral Order establishment. Th
 Moreover, alchemical motif is also, we believe, present here. Specifically, in the case of the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield). Its shape and duality in the description: `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure`, we believe, points to a depiction of a fifth divine element, present in medieval alchemy - [Azoth](https://www.alchemy-texts.com/assets/img/books/basil-valentine-azoth/VA04.jpg), or, the alchemical First Matter.
 
 <BookCitation source="AZOTH or the way to make the hidden gold of the Philosophers - Brother Basil Valentin">
+  {#snippet markup()}
 
-O most precious & most excellent foundation, from which all things are produced in these lands, though you are at first a venom adorned with the name of Fugitive Eagle. The first matter & the white & red seed of the divine blessing, in the body of which the drought & the rains are closed, which however are hidden from the impious because of the ornament & virginal dress scattered throughout the earth; your father and mother are the sun and the moon, the water and the wine also operate in you, the gold likewise and the silver in the earth, so that mortal man may rejoice therein in this way.
+  O most precious & most excellent foundation, from which all things are produced in these lands, though you are at first a venom adorned with the name of Fugitive Eagle. The first matter & the white & red seed of the divine blessing, in the body of which the drought & the rains are closed, which however are hidden from the impious because of the ornament & virginal dress scattered throughout the earth; your father and mother are the sun and the moon, the water and the wine also operate in you, the gold likewise and the silver in the earth, so that mortal man may rejoice therein in this way.
 
+  {/snippet}
 </BookCitation>
 
 At some point in time, Spiral Order had to be established. The name of a Spiral, a symbol widespread across Cradle, was utilized in Isorian military. This must be for a reason, as no sny any concept comes that close as the Spiral being that prominent.
@@ -1402,17 +1414,19 @@ This practice of using different color is observed at the [Everfrost Tower](http
 The sigils themselves, including ritual circles, seem to be inspired by the composition of Solomon seals or the pentacles from "The Kay of Solomon the King", and pinpointed to a few patterns, as suggested by [Kentngo on Spiral Knights forums](https://forums.spiralknights.com/en/node/7857#comment-40758): `The Fifth Pentacle of Saturn combined with the meaning of the Seventh Pentacle of the Sun. Two circles, denoting the angels names between the two. The center shows a resemblance to the Third Pentacle of Mercury. Although the angelic names are gibberish in this case`.
 
 <BookCitation source="The Key of Solomon the King">
+  {#snippet markup()}
 
-`The Fifth Pentacle of Saturn. This Pentacle defendeth those who invoke the Spirits of Saturn during the night and chaseth away the Spirits which guard treasures` [p.60, fig.15].
+  The Fifth Pentacle of Saturn. This Pentacle defendeth those who invoke the Spirits of Saturn during the night and chaseth away the Spirits which guard treasures (p.60, fig.15).
 
----
+  ---
 
-`The Seventh and Last Pentacle of the Sun. If any be by chance imprisoned or detained in fetters of iron, at the presence of this Pentacle, which should be engraved in Gold on the day and hour of the Sun, he will be immediately delivered and set at liberty` [p.66, fig.38].
+  The Seventh and Last Pentacle of the Sun. If any be by chance imprisoned or detained in fetters of iron, at the presence of this Pentacle, which should be engraved in Gold on the day and hour of the Sun, he will be immediately delivered and set at liberty (p.66, fig.38).
 
----
+  ---
 
-`The Third Pentacle of Mercury. This and the following serve to invoke the Spirits subject unto Mercury and especially those who are written in this Pentacle` [p.68, fig.46].
+  The Third Pentacle of Mercury. This and the following serve to invoke the Spirits subject unto Mercury and especially those who are written in this Pentacle (p.68, fig.46).
 
+  {/snippet}
 </BookCitation>
 
 The idea of protection for dark matter circles is a novel one, but it follows along the previous concept of pale white circles as warding ones. The protected target is the one encircled - in case of devilites, or, likely gremlins, those are mineral pillars.
@@ -1424,21 +1438,23 @@ We suggest, that while the protection aspect persists, the later instances of ri
 Previously mentioned idea of white circles serving as a ward, seems more plausible under those interpretations of protection. Moreover, the concept of the circle itself is introduced in "The Key of Solomon the King" and is called the _Circle of Art_:
 
 <BookCitation source="The Key of King Solomon the King">
+  {#snippet markup()}
 
-`Verily, since no experiments for converse with Spirits can be done without shouldest wish to prepared, whatsoever experiments therefore thou wishest to undertake for conversing with Spirits, therein thou must learn to construct a certain particular Circle that being done surround that Circle with a Circle of Art for better caution and efficacy. [Book 1, ch. II, "Of the Days, and Hours, and of the Virtues of the Planets."]`
+  Verily, since no experiments for converse with Spirits can be done without shouldest wish to prepared, whatsoever experiments therefore thou wishest to undertake for conversing with Spirits, therein thou must learn to construct a certain particular Circle that being done surround that Circle with a Circle of Art for better caution and efficacy (Book 1, ch. II, "Of the Days, and Hours, and of the Virtues of the Planets").
 
----
+  ---
 
-`The which being finished, and the fumigations being performed, as is described in the chapter on Fumigations in the Second Book, the Master should reassemble his Disciples, encourage them, reassure them, fortify them, and conduct them into the parts of the Circle of Art, where he must place them in the four quarters of the earth, encourage them, and exhort them to fear nothing, and to keep in the places assigned to them. [Book 1, ch. III, "The Construction of the Circle"]`
+  The which being finished, and the fumigations being performed, as is described in the chapter on Fumigations in the Second Book, the Master should reassemble his Disciples, encourage them, reassure them, fortify them, and conduct them into the parts of the Circle of Art, where he must place them in the four quarters of the earth, encourage them, and exhort them to fear nothing, and to keep in the places assigned to them (Book 1, ch. III, "The Construction of the Circle").
 
----
+  ---
 
-`The Medals or Pentacles, which we make for the purpose ot striking terror into the Spirits and reducing them to obedience, have besides this wonderful and excellent virtue. If thou invokest the Spirits by virtue of these Pentacles, they will obey thee without repugnance, and having considered them they will be struck with astonishment, and will fear them, and thou shalt see them so surprised by fear and terror, that none of them will be sufficiently bold to wish to oppose thy will. [Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+  The Medals or Pentacles, which we make for the purpose ot striking terror into the Spirits and reducing them to obedience, have besides this wonderful and excellent virtue. If thou invokest the Spirits by virtue of these Pentacles, they will obey thee without repugnance, and having considered them they will be struck with astonishment, and will fear them, and thou shalt see them so surprised by fear and terror, that none of them will be sufficiently bold to wish to oppose thy will (Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals.").
 
----
+  ---
 
-`Here followeth the Form of the Circle (see Figure 81), wherein whosoever entereth he shall be at safety as within a fortified Castle, and nothing shall be able to harm him. [Book 2, sh. IX, "Of the Formation of the Circle"]`
+  Here followeth the Form of the Circle (see Figure 81), wherein whosoever entereth he shall be at safety as within a fortified Castle, and nothing shall be able to harm him (Book 2, sh. IX, "Of the Formation of the Circle").
 
+  {/snippet}
 </BookCitation>
 
 It is due to those similarities and general themes found in the Key, we propose, that fiendish symbols in the ritual circles are derived from the shapes of symbols of Hebrew alphabet in "The Key of Solomon the King".
@@ -1543,35 +1559,37 @@ The glyphs have color, one that can be related to minerals, although currently t
 This concept of color relation, apart from glyphs' color, is found in the texts of "The Key of Solomon the King", which might connect our colors to ones described in the Key through an alchemical interpretation and symbolism found in the descriptions of aforementioned Cradle minerals:
 
 <BookCitation source="The Key of King Solomon the King">
+  {#snippet markup()}
 
-These Pentacles are usually made of the metal the most suitable to the nature of the Planet ; and then there is no occasion to observe the rule of particular colours. They should be engraved with the instrument of Art in the days and hours proper to the Planet.
+  These Pentacles are usually made of the metal the most suitable to the nature of the Planet ; and then there is no occasion to observe the rule of particular colours. They should be engraved with the instrument of Art in the days and hours proper to the Planet.
 
-Saturn ruleth over Lead; Jupiter over Tin; Mars over Iron; the Sun over Gold; Venus over Copper Mercury over the mixture of Metals; and the Moon over Silver.
+  Saturn ruleth over Lead; Jupiter over Tin; Mars over Iron; the Sun over Gold; Venus over Copper Mercury over the mixture of Metals; and the Moon over Silver.
 
-They may also be made with exorcised Virgin paper, writing thereon with the colours adopted for each Planet, referring to the rules already laid down in the proper Chapters, and according to the Planet with which the Pentacle is in sympathy.
+  They may also be made with exorcised Virgin paper, writing thereon with the colours adopted for each Planet, referring to the rules already laid down in the proper Chapters, and according to the Planet with which the Pentacle is in sympathy.
 
-Wherefore unto Saturn the colour of Black is appropriated Jupiter Mars over Red the Sun over Gold, or the colour ruleth over Celestial Blue of Yellow or Citron; Venus over Green; Mercury over Mixed Colours; the Moon over Silver, or the colour of Argentine Earth. `[Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+  Wherefore unto Saturn the colour of Black is appropriated Jupiter Mars over Red the Sun over Gold, or the colour ruleth over Celestial Blue of Yellow or Citron; Venus over Green; Mercury over Mixed Colours; the Moon over Silver, or the colour of Argentine Earth (Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals").
 
----
+  ---
 
-THE ORDER OF THE PENTACLES.
+  THE ORDER OF THE PENTACLES.
 
-(1.) Seven Pentacles consecrated to Saturn=Black.
+  (1.) Seven Pentacles consecrated to Saturn=Black.
 
-(2.) Seven Pentacles consecrated to Jupiter=Blue.
+  (2.) Seven Pentacles consecrated to Jupiter=Blue.
 
-(3.) Seven Pentacles consecrated to Mars=Red.
+  (3.) Seven Pentacles consecrated to Mars=Red.
 
-(4.) Seven Pentacles consecrated to the Sun=Yellow.
+  (4.) Seven Pentacles consecrated to the Sun=Yellow.
 
-(5.) Five Pentacles consecrated to Venus=Green.
+  (5.) Five Pentacles consecrated to Venus=Green.
 
-(6.) Five Pentacles consecrated to Mercury=Mixed Colours.
+  (6.) Five Pentacles consecrated to Mercury=Mixed Colours.
 
-(7.) Six Pentacles consecrated to the Moon=Silver.
+  (7.) Six Pentacles consecrated to the Moon=Silver.
 
-`[Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals."]`
+  (Book 1, ch. XVIII, "Concerning the Holy Pentacles or Medals").
 
+  {/snippet}
 </BookCitation>
 
 Names of glyphs are seen in [fiendish cities](#dark-cities) of `Amu-Sol` and `Sol' Fork`, and fiendish legion of Ur, consisting of trojans. The case of dark cities may suggest that glyphs may hold multiple meanings to them, not as letters, but words, as suggested by the naming convention of cities.
@@ -2074,37 +2092,39 @@ Nefarious Imp will be later addressed in the [Moorcroft manor past the heavenly 
 While the next connection is likely a coincidence, we have to point out mention of citadels, as if in potential relation to Almire, as a kingdom, [closely associated with the Spirit Mother](#almire-and-spirit-mother):
 
 <BookCitation source="H. P. Lovecraft - Fungi from Yuggoth, XXI. Nyarlathotep">
+  {#snippet markup()}
 
-XXI. Nyarlathotep
+  XXI. Nyarlathotep
 
-And at the last from inner Egypt came
+  And at the last from inner Egypt came
 
-The strange dark One to whom the fellahs bowed;
+  The strange dark One to whom the fellahs bowed;
 
-Silent and lean and cryptically proud,
+  Silent and lean and cryptically proud,
 
-And wrapped in fabrics red as sunset flame.
+  And wrapped in fabrics red as sunset flame.
 
-Throngs pressed around, frantic for his commands,
+  Throngs pressed around, frantic for his commands,
 
-But leaving, could not tell what they had heard;
+  But leaving, could not tell what they had heard;
 
-While through the nations spread the awestruck word
+  While through the nations spread the awestruck word
 
-That wild beasts followed him and licked his hands.
+  That wild beasts followed him and licked his hands.
 
-Soon from the sea a noxious birth began;
+  Soon from the sea a noxious birth began;
 
-Forgotten lands with weedy spires of gold;
+  Forgotten lands with weedy spires of gold;
 
-The ground was cleft, and mad auroras rolled
+  The ground was cleft, and mad auroras rolled
 
-Down on the quaking citadels of man.
+  Down on the quaking citadels of man.
 
-Then, crushing what he chanced to mould in play,
+  Then, crushing what he chanced to mould in play,
 
-The idiot Chaos blew Earth’s dust away.
+  The idiot Chaos blew Earth’s dust away.
 
+  {/snippet}
 </BookCitation>
 
 ##### Operation Gelid and other methods of escaping Cradle
@@ -2720,35 +2740,37 @@ This theme of madness from presence of dark matter, is introduced in detail in [
 In continuation of the theme of silence, the [Silent Nightblade](https://wiki.spiralknights.com/Silent_Nightblade) is described as `Crafted with some of the most devilish materials found on Cradle, this inky blade can explode with fiendish fury`. The only material added to the recipe compared to its 3-star version is the [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell), an undead-themed material while the rest are fiend-themed. [Ghost Bell](https://wiki.spiralknights.com/Ghost_Bell) is described as `A small silvery bell worn by considerate ghosts that alerts the living when they are nearby` which is an antonym of silence, and the theme of the bell itself is one of declaring death:
 
 <BookCitation source="John Donne - No Man Is an Island">
+  {#snippet markup()}
 
-No man is an island,
+  No man is an island,
 
-Entire of itself.
+  Entire of itself.
 
-Each is a piece of the continent,
+  Each is a piece of the continent,
 
-A part of the main.
+  A part of the main.
 
-If a clod be washed away by the sea,
+  If a clod be washed away by the sea,
 
-Europe is the less.
+  Europe is the less.
 
-As well as if a promontory were.
+  As well as if a promontory were.
 
-As well as if a manor of thine own
+  As well as if a manor of thine own
 
-Or of thine friend's were.
+  Or of thine friend's were.
 
-Each man's death diminishes me,
+  Each man's death diminishes me,
 
-For I am involved in mankind.
+  For I am involved in mankind.
 
-Therefore, send not to know
+  Therefore, send not to know
 
-For whom the bell tolls,
+  For whom the bell tolls,
 
-It tolls for thee.
+  It tolls for thee.
 
+  {/snippet}
 </BookCitation>
 
 The shadow damage itself, it is stated by [Spiral Order biotech Hahn](https://wiki.spiralknights.com/Hahn), that `shadow damage is generally caused by concentrations of negative energy. Attacks that inflict shadow damage include anything from the psychic manipulation of the aforementioned negative energy to physical attacks using weapons forged from dark matter` ([The Shadow Knows - Hahn](https://wiki.spiralknights.com/The_Shadow_Knows)).
@@ -2928,17 +2950,21 @@ If we attempt to apply logic behind Almirians' transformation, then crystal of d
 One another concept we found interesting, is the thematic element of petrification in the context of eldritch mythos, specifically, their predecessor, "The King in Yellow", mentioned in relation to Apocrea. In "The King in Yellow", the short story of "The Mask" had the element of petrification, wherein any object submerged into a mixture would turn too marble with a pink inner glow, and after a while returning back to its natural state:
 
 <BookCitation source="Robert Chambers - The King in Yellow, The Mask">
+  {#snippet markup()}
 
-He held the lily toward me, and I took it in my hand. It had turned to stone, to the purest marble. The marble was white as snow, but in its depths the veins of the lily were tinged with palest azure, and a faint flush lingered deep in its heart. ... But if you held it to the light the stone was beautifully veined with a faint blue, and from somewhere within came a rosy light like the tint which slumbers in an opal.
+  He held the lily toward me, and I took it in my hand. It had turned to stone, to the purest marble. The marble was white as snow, but in its depths the veins of the lily were tinged with palest azure, and a faint flush lingered deep in its heart. ... But if you held it to the light the stone was beautifully veined with a faint blue, and from somewhere within came a rosy light like the tint which slumbers in an opal.
 
+  {/snippet}
 </BookCitation>
 
 This reminds us of the Cryptic Statuary, and potential reasons for its establishment. Herein we also should point out dark matter crystal burning, similar to the rays of light present in alchemized, as stated by Alec, marble:
 
 <BookCitation source="Robert Chambers - The King in Yellow, The Mask">
+  {#snippet markup()}
 
-"There is one thing I'm curious about," I said, "and that is where the ray of sunlight came from." ... "It looked like a sunbeam true enough," he said. "I don't know, it always comes when I immerse any living thing. Perhaps," he continued, smiling, "perhaps it is the vital spark of the creature escaping to the source from whence it came." ... I laughed too, and told him I was devoured by the desire for gold, and we had better talk of something else; so when Genevieve came in shortly after, we had turned our backs on alchemy.
+  "There is one thing I'm curious about," I said, "and that is where the ray of sunlight came from." ... "It looked like a sunbeam true enough," he said. "I don't know, it always comes when I immerse any living thing. Perhaps," he continued, smiling, "perhaps it is the vital spark of the creature escaping to the source from whence it came." ... I laughed too, and told him I was devoured by the desire for gold, and we had better talk of something else; so when Genevieve came in shortly after, we had turned our backs on alchemy.
 
+  {/snippet}
 </BookCitation>
 
 The reason we brought up this story here is the earlier idea of poisoned minds and cold heart as the depths' names of Silent Legion mission.
@@ -5368,41 +5394,45 @@ We propose, that Shadow Lairs as a separate expedition, contain a thematic eleme
 The notion of a descend into the Shadow Lairs, through the Unknown Passage, into the Sanctuary, and acquisition of a rare material, unique to the lair is, we believe, is an alchemical metaphor for the process of creation of the Great Work, and of a particular kind. By that we mean, as the phenomenon of alchemy as of pseudo-chemistry is rooted from a projection of inner consciousness onto a physical world, its elements also become symbolic. The theme is concealed in the alchemical process itself, and its final goal, here described from the english translation of Carl Jung's "Psychology and Alchemy":
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-`In the hero myth this state is known as being swallowed up in the belly of the whale or dragon. The heat there is usually so intense that the hero loses his hair, i.e., he is reborn bald as a babe. This heat is the ignis gehennalis, the hell into which Christ descended in order to conquer death as part of his opus. The philosopher makes the journey to hell as a “redeemer.” The “hidden fire” forms the inner antithesis to the cold wetness of the sea.`
+  In the hero myth this state is known as being swallowed up in the belly of the whale or dragon. The heat there is usually so intense that the hero loses his hair, i.e., he is reborn bald as a babe. This heat is the ignis gehennalis, the hell into which Christ descended in order to conquer death as part of his opus. The philosopher makes the journey to hell as a “redeemer.” The “hidden fire” forms the inner antithesis to the cold wetness of the sea.
 
-`The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art—chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum). Johannes Grasseus quotes the view that the prima materia is the lead (plumbum) of the philosophers, also called the “lead of the air” (an allusion to the inner opposite). This lead contains the radiant white dove, called the “salt of the metals.” The dove is the “chaste, wise, and rich Queen of Sheba, veiled in white, who was willing to give herself to none but King Solomon.”`
+  The “treasure hard to attain,” whose presence was suspected in the dark prima materia, is symbolized by the alchemists in various ways. Christopher of Paris, for instance, says that the chaos (as prima materia) is the work of all-wise nature. Our understanding ... , aided by the “celestial and glowing spirit,” must transform this natural work of art—chaos—into the celestial nature of the quintessence, and into the life- giving (vegetabilis) essence of heaven. The precious substance is potentially contained in this chaos as a massa confusa of all the elements rolled into one, and man must diligently apply his mind to it so that “our heaven” may come into reality (ad actum). Johannes Grasseus quotes the view that the prima materia is the lead (plumbum) of the philosophers, also called the “lead of the air” (an allusion to the inner opposite). This lead contains the radiant white dove, called the “salt of the metals.” The dove is the “chaste, wise, and rich Queen of Sheba, veiled in white, who was willing to give herself to none but King Solomon.”
 
-`A similar idea is to be found in Michael Maier: The sun, by its many millions of revolutions, spins the gold into the earth. Little by little the sun has imprinted its image on the earth, and that image is the gold. The sun is the image of God, the heart is the sun’s image in man, just as gold is the sun’s image in the earth (also called Deus terrenus), and God is known in the gold. This golden image of God is the anima aurea, which, when breathed into common quicksilver, changes it into gold.`
+  A similar idea is to be found in Michael Maier: The sun, by its many millions of revolutions, spins the gold into the earth. Little by little the sun has imprinted its image on the earth, and that image is the gold. The sun is the image of God, the heart is the sun’s image in man, just as gold is the sun’s image in the earth (also called Deus terrenus), and God is known in the gold. This golden image of God is the anima aurea, which, when breathed into common quicksilver, changes it into gold.
 
-`Ripley is of the opinion that the fire must be extracted from the chaos and made visible. This fire is the Holy Ghost, who unites father and son. He is often represented as a winged old man, i.e., Mercurius in the form of the god of revelation, who is identical with Hermes Trismegistus and, together with the King and the King’s Son, forms the alchemical trinity. God wrought this fire in the bowels of the earth, just as he wrought the purging flames of hell, and in this fire God himself glows with divine love.`
+  Ripley is of the opinion that the fire must be extracted from the chaos and made visible. This fire is the Holy Ghost, who unites father and son. He is often represented as a winged old man, i.e., Mercurius in the form of the god of revelation, who is identical with Hermes Trismegistus and, together with the King and the King’s Son, forms the alchemical trinity. God wrought this fire in the bowels of the earth, just as he wrought the purging flames of hell, and in this fire God himself glows with divine love.
 
-`The examples given in the last chapter show that there is a spirit hidden in the prima materia, just as there was in the Nile stone of Ostanes. This spirit was eventually interpreted as the Holy Ghost in accordance with the ancient tradition of the Nous swallowed up by the darkness while in the embrace of Physis—with this difference, however, that it is not the supreme feminine principle, earth, who is the devourer, but Nous in the form of Mercurius or the tail-eating Uroboros. In other words, the devourer is a sort of material earth-spirit, an hermaphrodite possessing a masculine-spiritual and feminine-corporeal aspect. The original Gnostic myth has undergone a strange transformation: Nous and Physis are indistinguishably one in the prima materia and have become a natura abscondita.`
+  The examples given in the last chapter show that there is a spirit hidden in the prima materia, just as there was in the Nile stone of Ostanes. This spirit was eventually interpreted as the Holy Ghost in accordance with the ancient tradition of the Nous swallowed up by the darkness while in the embrace of Physis—with this difference, however, that it is not the supreme feminine principle, earth, who is the devourer, but Nous in the form of Mercurius or the tail-eating Uroboros. In other words, the devourer is a sort of material earth-spirit, an hermaphrodite possessing a masculine-spiritual and feminine-corporeal aspect. The original Gnostic myth has undergone a strange transformation: Nous and Physis are indistinguishably one in the prima materia and have become a natura abscondita.
 
-`The psychological equivalent of this theme is the projection of a highly fascinating unconscious content which, like all such contents, exhibits a numinous—“divine” or “sacred”—quality. Alchemy set itself the task of acquiring this “treasure hard to attain” and of producing it in visible form, as the physical gold or the panacea or the transforming tincture—in so far as the art still busied itself in the laboratory. But since the practical, chemical work was never quite free from the unconscious contents of the operator which found expression in it, it was at the same time a psychic activity which can best be compared with what we call active imagination. This method enables us to get a grasp of contents that also find expression in dream life. The process is in both cases an irrigation of the conscious mind by the unconscious, and it is related so closely to the world of alchemical ideas that we are probably justified in assuming that alchemy deals with the same, or very similar, processes as those involved in active imagination and in dreams, i.e., ultimately with the process of individuation.`
+  The psychological equivalent of this theme is the projection of a highly fascinating unconscious content which, like all such contents, exhibits a numinous—“divine” or “sacred”—quality. Alchemy set itself the task of acquiring this “treasure hard to attain” and of producing it in visible form, as the physical gold or the panacea or the transforming tincture—in so far as the art still busied itself in the laboratory. But since the practical, chemical work was never quite free from the unconscious contents of the operator which found expression in it, it was at the same time a psychic activity which can best be compared with what we call active imagination. This method enables us to get a grasp of contents that also find expression in dream life. The process is in both cases an irrigation of the conscious mind by the unconscious, and it is related so closely to the world of alchemical ideas that we are probably justified in assuming that alchemy deals with the same, or very similar, processes as those involved in active imagination and in dreams, i.e., ultimately with the process of individuation.
 
-`Earlier on, we left Arisleus and his companions, together with Beya and the dead Thabritius, in the triple glass house where they had been imprisoned by the Rex marinus. They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, “like the Son of God,” as we are told in Daniel 3 : 25. This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is trinus et unus. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence—succour and the completion of the work.`
+  Earlier on, we left Arisleus and his companions, together with Beya and the dead Thabritius, in the triple glass house where they had been imprisoned by the Rex marinus. They suffer from the intense heat, like the three whom Nebuchadnezzar cast into the fiery furnace. King Nebuchadnezzar had a vision of a fourth, “like the Son of God,” as we are told in Daniel 3 : 25. This vision is not without bearing on alchemy, since there are numerous passages in the literature stating that the stone is trinus et unus. It consists of the four elements, with fire representing the spirit concealed in matter. This is the fourth, absent and yet present, who always appears in the fiery agony of the furnace and symbolizes the divine presence—succour and the completion of the work.
 
+  {/snippet}
 </BookCitation>
 
 And, through the four stages of alchemical process:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-`Four stages are distinguished, characterized by the original colours mentioned in Heraclitus: melanosis (blackening), leukosis (whitening), xanthosis (yellowing), and iosis (reddening). This division of the process into four was called the, the quartering of the philosophy. Later, about the fifteenth or sixteenth century, the colours were reduced to three, and the xanthosis, otherwise called the citrinitas, gradually fell into disuse or was but seldom mentioned. Instead, the viriditas sometimes appears after the melanosis or nigredo in exceptional cases, though it was never generally recognized. Whereas the original tetrameria corresponded exactly to the quaternity of elements, it was now frequently stressed that although there were four elements (earth, water, fire, and air) and four qualities (hot, cold, dry, and moist), there were only three colours: black, white, and red. Since the process never led to the desired goal and since the individual parts of it were never carried out in any standardized manner, the change in the classification of its stages cannot be due to extraneous reasons but has more to do with the symbolical significance of the quaternity and the trinity; in other words, it is due to inner psychological reasons.`
+  Four stages are distinguished, characterized by the original colours mentioned in Heraclitus: melanosis (blackening), leukosis (whitening), xanthosis (yellowing), and iosis (reddening). This division of the process into four was called the, the quartering of the philosophy. Later, about the fifteenth or sixteenth century, the colours were reduced to three, and the xanthosis, otherwise called the citrinitas, gradually fell into disuse or was but seldom mentioned. Instead, the viriditas sometimes appears after the melanosis or nigredo in exceptional cases, though it was never generally recognized. Whereas the original tetrameria corresponded exactly to the quaternity of elements, it was now frequently stressed that although there were four elements (earth, water, fire, and air) and four qualities (hot, cold, dry, and moist), there were only three colours: black, white, and red. Since the process never led to the desired goal and since the individual parts of it were never carried out in any standardized manner, the change in the classification of its stages cannot be due to extraneous reasons but has more to do with the symbolical significance of the quaternity and the trinity; in other words, it is due to inner psychological reasons.
 
-`The nigredo or blackness is the initial state, either present from the beginning as a quality of the prima materia, the chaos or massa confusa, or else produced by the separation (solutio, separatio, divisio, putrefactio) of the elements. If the separated condition is assumed at the start, as sometimes happens, then a union of opposites is performed under the likeness of a union of male and female (called the coniugium, matrimonium, coniunctio, coitus), followed by the death of the product of the union (mortificatio, calcinatio, putrefactio) and a corresponding nigredo. From this the washing (ablutio, baptisma) either leads direct to the whitening (albedo), or else the soul (anima) released at the “death” is reunited with the dead body and brings about its resurrection, or again the “many colours” (omnes colores), or “peacock’s tail” (cauda pavonis), lead to the one white colour that contains all colours. At this point the first main goal of the process is reached, namely the albedo, tinctura alba, terra alba foliata, lapis albus, etc., highly prized by many alchemists as if it were the ultimate goal. It is the silver or moon condition, which still has to be raised to the sun condition. The albedo is, so to speak, the daybreak, but not till the rubedo is it sunrise. The transition to the rubedo is formed by the citrinitas, though this, as we have said, was omitted later. The rubedo then follows direct from the albedo as the result of raising the heat of the fire to its highest intensity. The red and the white are King and Queen, who may also celebrate their “chymical wedding” at this stage.`
+  The nigredo or blackness is the initial state, either present from the beginning as a quality of the prima materia, the chaos or massa confusa, or else produced by the separation (solutio, separatio, divisio, putrefactio) of the elements. If the separated condition is assumed at the start, as sometimes happens, then a union of opposites is performed under the likeness of a union of male and female (called the coniugium, matrimonium, coniunctio, coitus), followed by the death of the product of the union (mortificatio, calcinatio, putrefactio) and a corresponding nigredo. From this the washing (ablutio, baptisma) either leads direct to the whitening (albedo), or else the soul (anima) released at the “death” is reunited with the dead body and brings about its resurrection, or again the “many colours” (omnes colores), or “peacock’s tail” (cauda pavonis), lead to the one white colour that contains all colours. At this point the first main goal of the process is reached, namely the albedo, tinctura alba, terra alba foliata, lapis albus, etc., highly prized by many alchemists as if it were the ultimate goal. It is the silver or moon condition, which still has to be raised to the sun condition. The albedo is, so to speak, the daybreak, but not till the rubedo is it sunrise. The transition to the rubedo is formed by the citrinitas, though this, as we have said, was omitted later. The rubedo then follows direct from the albedo as the result of raising the heat of the fire to its highest intensity. The red and the white are King and Queen, who may also celebrate their “chymical wedding” at this stage.
 
-`The prima materia was thought of as an ever-changing substance, or else as the essence or soul of that substance. It was designated with the name “Mercurius,” and was conceived as a paradoxical double being called monstrum, hermaphroditus, or rebis. The lapis-Christ parallel establishes an analogy between the transforming substance and Christ, in the Middle Ages doubtless under the influence of the doctrine of transubstantiation, though in earlier times the Gnostic tradition of older pagan ideas was the dominant factor. Mercurius is likened to the serpent hung on the cross (John 3 : 14), to mention only one of the numerous parallels.`
+  The prima materia was thought of as an ever-changing substance, or else as the essence or soul of that substance. It was designated with the name “Mercurius,” and was conceived as a paradoxical double being called monstrum, hermaphroditus, or rebis. The lapis-Christ parallel establishes an analogy between the transforming substance and Christ, in the Middle Ages doubtless under the influence of the doctrine of transubstantiation, though in earlier times the Gnostic tradition of older pagan ideas was the dominant factor. Mercurius is likened to the serpent hung on the cross (John 3 : 14), to mention only one of the numerous parallels.
 
-`The “Cantilena” ends with the apotheosis of the virgin-mother. This the above-mentioned Pandora depicts as a glorification of Mary, the assumptio Beatae Mariae Virginis. After her death, by a divine miracle her body was again united with her soul and both together were taken up to heaven. This has long been the view of the Church, although it has only recently been promulgated as a dogma. [In fig. 232] she is marked with the words “terra” and “corpus Lyb” (body) and “die wonn der jung-frowenn wardt” (who became the joy of virgins); the dove descends upon her, and God the Father touches her with his right hand in benison. She is crowned. The figure of God holding the orb is inscribed “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the Queen of Heaven enthroned beside him, the King; for in her the earth substance, becoming transfigured in her resurrected body, is absorbed into the Godhead. On the left is a bearded figure equal in rank to God the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a picture of the rebis being freed from the prima materia.`
+  The “Cantilena” ends with the apotheosis of the virgin-mother. This the above-mentioned Pandora depicts as a glorification of Mary, the assumptio Beatae Mariae Virginis. After her death, by a divine miracle her body was again united with her soul and both together were taken up to heaven. This has long been the view of the Church, although it has only recently been promulgated as a dogma. (In fig. 232) she is marked with the words “terra” and “corpus Lyb” (body) and “die wonn der jung-frowenn wardt” (who became the joy of virgins); the dove descends upon her, and God the Father touches her with his right hand in benison. She is crowned. The figure of God holding the orb is inscribed “Anima Seel” and “Jesse pater, filius et mater.” “Mater” refers to the Queen of Heaven enthroned beside him, the King; for in her the earth substance, becoming transfigured in her resurrected body, is absorbed into the Godhead. On the left is a bearded figure equal in rank to God the Father, inscribed “Sapientia Wyssheit.” In the shield below there is a picture of the rebis being freed from the prima materia.
 
-`In the stone, as we know, the chaotic antagonism of the elements is replaced by the most intense mutual alliance, which is what makes the stone incorruptible, this being the reason why, in our author’s opinion, it has the same effect as the blood of the Saviour: “sanitas atque vita diuturna in foelicitate, propter quam praecipue lapis noster est petendus” (health and long life in felicity, on account of which our stone is chiefly to be sought).`
+  In the stone, as we know, the chaotic antagonism of the elements is replaced by the most intense mutual alliance, which is what makes the stone incorruptible, this being the reason why, in our author’s opinion, it has the same effect as the blood of the Saviour: “sanitas atque vita diuturna in foelicitate, propter quam praecipue lapis noster est petendus” (health and long life in felicity, on account of which our stone is chiefly to be sought).
 
-`Therefore Mercurius philosophorum is to be considered a spiritual body, as the philosophers call him. From God the Father was born his own Son Jesus Christ, who is God and man, and is without sin, and who also had no need to die. But he died of his own free will, and rose again for the sake of his brothers and sisters, that they might live with him without sin for ever. So, too, is the gold without flaw, and is fixed, potent to withstand all examinations, and glorious; yet, for the sake of its imperfect and sick brothers and sisters, it dies and rises again, glorious and redeemed, and tinctures them to eternal life, making them perfect like to pure gold.`
+  Therefore Mercurius philosophorum is to be considered a spiritual body, as the philosophers call him. From God the Father was born his own Son Jesus Christ, who is God and man, and is without sin, and who also had no need to die. But he died of his own free will, and rose again for the sake of his brothers and sisters, that they might live with him without sin for ever. So, too, is the gold without flaw, and is fixed, potent to withstand all examinations, and glorious; yet, for the sake of its imperfect and sick brothers and sisters, it dies and rises again, glorious and redeemed, and tinctures them to eternal life, making them perfect like to pure gold.
 
-`It is clear enough from this material what the ultimate aim of alchemy really was: it was trying to produce a corpus subtile, a transfigured and resurrected body, i.e., a body that was at the same time spirit. In this it finds common ground with Chinese alchemy, as we have learned from The Secret of the Golden Flower. There the main concern is the “diamond body,” in other words, the attainment of immortality through the transformation of the body. The diamond is an excellent symbol because it is hard, fiery, and translucent. Orthelius tells us that the philosophers have never found a better medicament than that which they called the noble and blessed stone of the philosophers, on account of its hardness, transparency, and rubeous hue.`
+  It is clear enough from this material what the ultimate aim of alchemy really was: it was trying to produce a corpus subtile, a transfigured and resurrected body, i.e., a body that was at the same time spirit. In this it finds common ground with Chinese alchemy, as we have learned from The Secret of the Golden Flower. There the main concern is the “diamond body,” in other words, the attainment of immortality through the transformation of the body. The diamond is an excellent symbol because it is hard, fiery, and translucent. Orthelius tells us that the philosophers have never found a better medicament than that which they called the noble and blessed stone of the philosophers, on account of its hardness, transparency, and rubeous hue.
 
+  {/snippet}
 </BookCitation>
 
 Here we are to apply this concept on Shadow Lairs, we propose a following correspondence.
@@ -5631,9 +5661,11 @@ On the other hand, within our earlier logic, entity of Whitespace had to be that
 If Whitespace itself is incapable of creating tunnels from Whitespace we have more arguments in favour of the Void being the alchemical Void. Before further analysis we will elaborate on the alchemical meaning of the Void, as one being of the same nature as First Matter. In that context it is known as the Round Chaos ("Psychology and Alchemy" - Carl Jung):
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
+  {#snippet markup()}
 
-`The prima materia has the quality of ubiquity: it can be found always and everywhere, which is to say that projection can take place always and everywhere. The English alchemist Sir George Ripley writes: “The philosophers tell the inquirer that birds and fishes bring us the lapis, every man has it, it is in every place, in you, in me, in everything, in time and space.” “It offers itself in lowly form [vili figura]. From it there springs our eternal water [aqua permanens].” According to Ripley the prima materia is water; it is the material principle of all bodies, including mercury. It is the hyle which the divine act of creation brought forth from the chaos as a dark sphere. The chaos is a massa confusa that gives birth to the stone. The hylical water contains a hidden elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis) is attributed to the element earth as its inner opposite. According to Hortulanus, the stone arises from a massa confusa containing in itself all the elements. Just as the world came forth from a chaos confusum, so does the stone. The idea of the rotating aquasphere reminds us of the Neopythagoreans: in Archytas the world-soul is a circle or sphere; in Philolaos it draws the world round with it in its rotation. The original idea is to be found in Anaxagoras, where the nous gives rise to a whirlpool in chaos. The cosmogony of Empedokles is also relevant: here the σϕαīρος (spherical being) springs from the union of dissimilars, owing to the influence of ϕιλία. The definition of this spherical being as , “the most serene God,” sheds a special light on the perfect, “round” nature of the lapis, which arises from, and constitutes, the primal sphere; hence the prima materia is often called lapis. The initial state is the hidden state, but by the art and the grace of God it can be transmuted into the second, manifest state. ... It is the black, magically fecund earth that Adam took with him from Paradise, also called antimony and described as a “black blacker than black” (nigrum nigrius nigro).`
+  The prima materia has the quality of ubiquity: it can be found always and everywhere, which is to say that projection can take place always and everywhere. The English alchemist Sir George Ripley writes: “The philosophers tell the inquirer that birds and fishes bring us the lapis, every man has it, it is in every place, in you, in me, in everything, in time and space.” “It offers itself in lowly form [vili figura]. From it there springs our eternal water [aqua permanens].” According to Ripley the prima materia is water; it is the material principle of all bodies, including mercury. It is the hyle which the divine act of creation brought forth from the chaos as a dark sphere. The chaos is a massa confusa that gives birth to the stone. The hylical water contains a hidden elemental fire. In the treatise “De sulphure” hell-fire (ignis gehennalis) is attributed to the element earth as its inner opposite. According to Hortulanus, the stone arises from a massa confusa containing in itself all the elements. Just as the world came forth from a chaos confusum, so does the stone. The idea of the rotating aquasphere reminds us of the Neopythagoreans: in Archytas the world-soul is a circle or sphere; in Philolaos it draws the world round with it in its rotation. The original idea is to be found in Anaxagoras, where the nous gives rise to a whirlpool in chaos. The cosmogony of Empedokles is also relevant: here the σϕαīρος (spherical being) springs from the union of dissimilars, owing to the influence of ϕιλία. The definition of this spherical being as , “the most serene God,” sheds a special light on the perfect, “round” nature of the lapis, which arises from, and constitutes, the primal sphere; hence the prima materia is often called lapis. The initial state is the hidden state, but by the art and the grace of God it can be transmuted into the second, manifest state. ... It is the black, magically fecund earth that Adam took with him from Paradise, also called antimony and described as a “black blacker than black” (nigrum nigrius nigro).
 
+  {/snippet}
 </BookCitation>
 
 Form this emerges a concept of god Mercurius, standing on the round chaos, or, the void. Form this a following idea can be established: The Void of Spiral Knights is the alchemical Void, equalling the round Chaos. Then, it has similar nature to the Nameless Realm, as both represent First Matter in different perspectives. Moreover, both realms are related to [evil eye](#evil-eye) symbolism.
@@ -5643,7 +5675,7 @@ Form this emerges a concept of god Mercurius, standing on the round chaos, or, t
 
 Nameless Realm and the Void are both framed in a similar, dangerous, manner:
 
-- the mantle - Chaos Cloak, - is forbidden across Owlites: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all.` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)).
+- The mantle - [Chaos Cloak](), - is forbidden across Owlites: `A forbidden mantle said to grant the wearer protection within the nameless realm where all elements are said to converge into one and divide into all.` ([Chaos Cloak](https://wiki.spiralknights.com/Chaos_Cloak)).
 - The Void has hunger, which can be felt by one "opening" it, in our case it is the entity which eventually became the Swarm: `WITHIN MY DREAM I SAW IT OPEN THE VOID, FELT ITS ENDLESS HUNGER.` ([Echo Stone: Gloaming Wildwoods](https://wiki.spiralknights.com/Echo_Stone:_Gloaming_Wildwoods)).
 
 We will focus on this concept of opening the Void and of hunger in mind and attempt to understand it in two steps. First, we will adhere to the idea of the Void being of similar nature to the alchemical Void, - the themes and concepts of this justification will be introduces throughout this section, where they seem to be thematically fitting and make relatively reasonable, mostly symbolic, connections. Then, we will attempt to interpret whose findings within the context of Spiral Knights cosmology. The third steps consists of the aligning those concepts with the real-world mythology in order to find matching narratives or other patterns.
@@ -5982,9 +6014,11 @@ Then, on top of this alchemy and mythology-based framework, first isolated narra
 <h3 align="center">Chapter <code>X</code>: Spiral Knights</h3>
 
 <SubTitleCentered>
+  {#snippet markup()}
 
-_"Should You Choose to Accept"_
+  _"Should You Choose to Accept"_
 
+  {/snippet}
 </SubTitleCentered>
 
 In this chapter we will cover entirety of the timeline from the very beginning.
