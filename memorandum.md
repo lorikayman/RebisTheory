@@ -26,6 +26,6 @@ Here we are to identify:
 
 We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**. _As one gremlin had warned, and as we followed the admonition,_ we discovered a tragic history of multiple long gone factions with Cradle and Undercorp at the center of the convergence, as a planet-scale failure of the alchemical Great Work.
 
-Considering the scale of the document, be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation.
+Considering the size of the document, be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation.
 
 https://lorikayman.github.io/entries/rebis-theory
