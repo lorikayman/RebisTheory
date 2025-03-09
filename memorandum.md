@@ -16,16 +16,19 @@ This proposal for the timeline is available under the codename of:
 
 Here we are to identify:
 
-- Nature of curse;
 - Cosmology and its realms;
+- Role of dragons;
+- History of Tortodrones and their creators;
 - Prime actors, factions, and their goals;
-- Undercorp, greater Underworld, and its deities;
 - Heavenly Kingdom, Owlites and Valkyries;
 - Apocrea and Apocrean Realm;
+- History of 3 warring kingdoms;
+- Undercorp, greater Underworld, and its deities;
+- Nature of curse;
 - Clockworks, the Core, and the Architect;
-- A tier-list of narratives??
+- And a tier-list of narratives??
 
-We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**. _As one gremlin had warned, and as we followed the admonition,_ we discovered a tragic history of multiple long gone factions with Cradle and Undercorp at the center of the convergence, as a planet-scale failure of the alchemical Great Work.
+We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**. _As one gremlin had warned, and as we followed his admonition,_ we discovered a tragic history of multiple long gone factions with Cradle and Undercorp at the center of the convergence.
 
 Considering the size of the document, be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation.
 
