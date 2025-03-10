@@ -4,7 +4,7 @@
 
 **FROM:** Haven Lab & Core On-site Team
 
-**SUBJECT:** Alchemical Cradle
+**SUBJECT:** Alchemical Cradle and Theory of Everything
 
 **Hail Knights! This has been a long time coming.**
 
@@ -20,7 +20,7 @@ Here we are to identify:
 - Role of dragons;
 - History of Tortodrones and their creators;
 - Prime actors, factions, and their goals;
-- Heavenly Kingdom, Owlites and Valkyries;
+- Heavenly Kingdom, Owlites and Valkyries, the Kat Tribe;
 - Apocrea and Apocrean Realm;
 - History of 3 warring kingdoms;
 - Undercorp, greater Underworld, and its deities;
@@ -28,7 +28,9 @@ Here we are to identify:
 - Clockworks, the Core, and the Architect;
 - And a tier-list of narratives??
 
-We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**. _As one gremlin had warned, and as we followed his admonition,_ we discovered a tragic history of multiple long gone factions with Cradle and Undercorp at the center of the convergence.
+We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**.
+
+~~As one gremlin had warned, and as we followed his admonition~~ we discovered not only shadows, but a tragic history of multiple long gone civilizations, with Cradle and Undercorp at the center of the convergence.
 
 Considering the size of the document, be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation.
 
