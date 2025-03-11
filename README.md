@@ -1,6 +1,6 @@
 # Rebis Theory
 
-This repository contains source for the document on a narrative, symbolic, and thematic analysis for the game Spiral Knights.
+This repository contains source of the document on a narrative, symbolic, and thematic analysis of Spiral Knights.
 
 The document is available at [lorikayman.github.io/entries/rebis-theory](https://lorikayman.github.io/entries/rebis-theory).
 
