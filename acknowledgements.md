@@ -2,10 +2,6 @@
 
 - [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
 - [Spiral Knights Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj
-- Haven Discord server
-- Arcade Discord server
-- Sprite Garden Discord server
-<!-- - Thetya Discord server -->
 - Spiral Knights Subreddit
   - [King Tinkinzar and the conecction between The Sleeper](https://www.reddit.com/r/spiral_knights/comments/gw2a6r/king_tinkinzar_and_the_conecction_between_the/)
   - [Does this game have lore?](https://www.reddit.com/r/spiral_knights/comments/1agvwkb/comment/kqtg4mu/)
