@@ -38,6 +38,4 @@
 32. [Tiamat (worldhistory.org)](https://www.worldhistory.org/Tiamat/)
 33. [Ancient Mesopotamian Deities](https://worldhistoryedu.com/ancient-mesopotamian-deities-apsu-and-tiamat-history-myths-facts/)
 
-Source code for the page is located at [ironkayman.github.io](https://github.com/ironkayman/ironkayman.github.io/tree/master/src/lib/entries/sk/mdx).
-
-Source code for the document is located at [ironkayman/RebisTheory](https://github.com/ironkayman/RebisTheory).
+Source of the document is located at [lorikayman/RebisTheory](https://github.com/lorikayman/RebisTheory).
