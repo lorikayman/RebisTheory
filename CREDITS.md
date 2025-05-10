@@ -15,6 +15,8 @@ Contents of this page and repository include resources licensed under [Creative 
 
 The document contains citations from New World Encyclopedia, the materials are licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://www.newworldencyclopedia.org/entry/New%20World%20Encyclopedia:Creative_Commons_CC-by-sa_3.0).
 
+Citations of text from [yokai.com](https://yokai.com) are written by Matthew Meyer. [All of the text](https://yokai.com/copyright/) is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
+
 Font Newton Sans by Chymistry of Isaac Newton Project (whooper@indiana.edu) is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
 [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui.
