@@ -1,3 +1,5 @@
 /assets/img/**/*.png~
 /assets/img/**/*.krz~
 assets/img/**/*.krz-autosave.kra
+
+utils/
