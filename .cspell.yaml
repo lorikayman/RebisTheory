@@ -6,7 +6,11 @@ language: "en"
 dictionaryDefinitions:
   - name: terms-primary
     path: ./.cspell.terms.txt
+  - name: misc
+    path: ./.cspell.misc.txt
 dictionaries:
   - terms-primary
+  - misc
 ignorePaths:
   - ./.cspell.terms.txt
+  - ./.cspell.misc.txt
