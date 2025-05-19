@@ -5,6 +5,7 @@ Contents of this page and repository include resources licensed under [Creative 
 
 - `assets/img/spiral_knights/bomb_icon_equinox.png`
 - `assets/img/spiral_knights/icon_goldlock.png`
+- `assets/img/spiral_knights/icon_mobeye.png`
 - `assets/img/spiral_knights/icon_revisit-arrow.png`
 - `assets/img/spiral_knights/logo_alchemy.png`
 - `assets/img/spiral_knights/logo_energy.png`
