@@ -1,6 +1,6 @@
-## Alchemy and Everything. Narrative, thematic, timeline analysis of Spiral Knights. Rebis Theory.
+## Complete timeline proposal. Narrative, thematic, and worldbuilding analysis of Spiral Knights. Rebis Theory.
 
-Our researchers have compiled a proposal, where history of Cradle, its every depth and lost civilization, every material and recipe, and _everything_ it offers was dissected, analyzed, and put together into a single timeline and an emerging, overarching system.
+Our researchers have compiled a proposal, where history of Cradle, its every depth and region, every material and recipe, and _everything_ it offers was dissected, analyzed, and put together into a single timeline and an emerging, overarching system.
 
 We believe, we have identified, to name a few:
 
