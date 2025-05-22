@@ -1,32 +1,21 @@
-## MEMORANDUM
+## Alchemy and Everything. Narrative, thematic, timeline analysis of Spiral Knights. Rebis Theory.
 
-**TO:** Vanguards, Cpt. Ozlo
+Our researchers have compiled a proposal, where history of Cradle, its every depth and lost civilization, every material and recipe, and _everything_ it offers was dissected, analyzed, and put together into a single timeline and an emerging, overarching system.
 
-**FROM:** Haven Lab & Core On-site Team
+We believe, we have identified, to name a few:
 
-**SUBJECT:** Cradle and Theory of Everything
-
-**Hail Knights! This has been a long time coming.**
-
-Our researchers have compiled the **most complete to date timeline**, — a proposal, where history of Cradle, its every depth, every material and recipe, every gear and _everything_ in between was dissected, analyzed, put together, and **solved**, so that going forward no unanswered questions would remain.
-
-This proposal for the timeline is available under the codename of
-
-[**The REBIS THEORY 🜔**](https://lorikayman.github.io/entries/rebis-theory)
-
-Here we are to identify:
-
-- Cosmology and its nuances;
-- History of Tortodrones and their creators;
+- Metaphysics and Cosmology of Cradle;
 - Prime actors, factions, and their goals;
-- Owlites and Valkyries, greater Heavenly Kingdom, and the Kat Tribe;
+- History of Tortodrones and their creators;
+- Owlites and Valkyries, Heavenly Kingdom;
 - History of 3 warring kingdoms;
-- Undercorp, Underworld, and its deities;
-- Nature of curse;
-- Clockworks, the Core, and the Architect;
+- Underworld, its deities;
+- Precise involvement of Undercorp and greater Underworld throughout history;
+- Nature of cursem energy, of auras and souls;
+- Clockworks, the Core, gremlins and the Architect.
 
-We believe we have identified their respective themes, alchemical and eldritch motifs, and **much more**. Most importantly, we present a **cohesive, complete system, to which entirety of Cradle's cosmology and metaphysics abides**.
+This proposal is available under the codename of [**REBIS THEORY 🜔**](https://lorikayman.github.io/entries/rebis-theory).
 
-Considering the scope of the document, be rest assured, — our biotechs are ~~outsourcing to Undercorp~~ already working on the video presentation.
+And, given scale of presented theory, our reserachers are already working on the video presentation.
 
 https://lorikayman.github.io/entries/rebis-theory
