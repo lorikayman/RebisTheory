@@ -1,21 +1,23 @@
-## Complete timeline proposal. Narrative, thematic, and worldbuilding analysis of Spiral Knights. Rebis Theory.
+## Timeline and Everything. Narrative, thematic, and lore over-analysis of Spiral Knights. The Rebis Theory.
 
-Our researchers have compiled a proposal, where history of Cradle, its every depth and region, every material and recipe, and _everything_ it offers was dissected, analyzed, and put together into a single timeline and an emerging, overarching system.
+Our researchers have published a proposal, where history of Cradle, its every depth and region, every material and recipe, every piece of Isoran equipment and weapon was reserahced, cross-referenced, analyzed, and put together into a single timeline and an emerging, overarching system.
 
 We believe, we have identified, to name a few:
 
 - Metaphysics and Cosmology of Cradle;
-- Prime actors, factions, and their goals;
+- Prime actors, factions, their goals;
 - History of Tortodrones and their creators;
 - Owlites and Valkyries, Heavenly Kingdom;
-- History of 3 warring kingdoms;
-- Underworld, its deities;
+- Ancient dragons;
+- History of kingdoms on Cradle;
+- Underworld and its deities;
 - Precise involvement of Undercorp and greater Underworld throughout history;
-- Nature of cursem energy, of auras and souls;
-- Clockworks, the Core, gremlins and the Architect.
+- Nature of curse, energy, of auras and souls;
+- Gremlins, Clockworks, and the Core.
+- And of course, the Swarm, it nature and origin.
 
-This proposal is available under the codename of [**REBIS THEORY 🜔**](https://lorikayman.github.io/entries/rebis-theory).
+This proposal is available under the codename of [**REBIS THEORY**](https://lorikayman.github.io/entries/rebis-theory). Spoiler warning about everything.
 
-And, given scale of presented theory, our reserachers are already working on the video presentation.
+Given scale of the document, our reserachers are working on the video presentation, which aims to provide both greater visuals and an expandad analysis of the narrative.
 
 https://lorikayman.github.io/entries/rebis-theory
