@@ -1,6 +1,6 @@
 ## Narrative, thematic, and worldbuilding over-analysis of Spiral Knights. Rebis Theory.
 
-Our researchers have published a proposal, where history of Cradle, its every depth and region, every material and recipe, every piece of equipment and weapon was researched, analyzed, and cross-referenced in order to offer a narratively satisfying, cohesive and conclusive interpretation of Spiral Knights' timeline.
+Our researchers have published a proposal, where history of Cradle, its every depth and region, every material and recipe, every piece of equipment and weapon was researched, analyzed, and cross-referenced into a single system.
 
 We propose an explanation for, to name a few:
 
@@ -22,4 +22,4 @@ This proposal is available under the codename of Rebis Theory:
 
 https://lorikayman.github.io/entries/rebis-theory
 
-Given scale of the document, our reserachers are already working on a video presentation.
+It is meant to overanalyze Spiral Knights’ themes, worldbuilding, and lore with a primary goal of offering a narratively satisfying, cohesive and conclusive interpretation of the timeline, while achieving closure for each of its subplots.
