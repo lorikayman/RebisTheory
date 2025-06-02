@@ -1,3 +1,5 @@
+# modern and Spiral Knights-specific terms
+
 megastructure
 retrofuturistic
 desynchronized
