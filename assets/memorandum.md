@@ -22,4 +22,4 @@ This proposal is available under the codename of Rebis Theory:
 
 https://lorikayman.github.io/entries/rebis-theory
 
-It is meant to overanalyze Spiral Knights’ themes, worldbuilding, and lore with a primary goal of offering a narratively satisfying, cohesive and conclusive interpretation of the timeline, while achieving closure for each of its subplots.
+Rebis Theory is meant to overanalyze Spiral Knights’ themes, worldbuilding, and lore with a primary goal of offering a narratively satisfying, cohesive and conclusive interpretation of the timeline.
