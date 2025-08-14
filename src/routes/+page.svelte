@@ -42,11 +42,11 @@
   } = createTableOfContents({
     selector: '#document-body',
     exclude: [],
-    // this is not UX-friendly as we are
+    // FIXME: this is not UX-friendly as we are
     // targeting the selection of a heading,
     // whose body takes up most of space
     // in the viewport
-    activeType: 'highest',
+    activeType: 'lowest',
     /**
      * Filters all heading belonging to the current mdx entry
      *
