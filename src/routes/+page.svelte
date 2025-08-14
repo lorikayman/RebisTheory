@@ -9,9 +9,9 @@
   import Button from '$lib/components/buttons/button.svelte'
   import ButtonJumper from '$lib/components/buttons/scroll_to_active.svelte'
 
-  import IconKey from '/img/spiral_knights/icon_goldlock.png'
-  import IconComm from '/img/spiral_knights/next_up.png'
-  import IconHaven from '/img/spiral_knights/over.png'
+  const IconKey = '/img/spiral_knights/icon_goldlock.png'
+  const IconComm = '/img/spiral_knights/next_up.png'
+  const IconHaven = '/img/spiral_knights/over.png'
 
   import RebisTheory from '$lib/rebis_theory.mdx'
 

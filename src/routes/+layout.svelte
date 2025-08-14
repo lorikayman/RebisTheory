@@ -5,7 +5,7 @@
   import './layout.css'
   import './mobile.css'
 
-  import favicon from '/img/spiral_knights/icon_goldlock.png'
+  const favicon = '/img/spiral_knights/icon_goldlock.png'
 
   // import Webgl from "$lib/components/canvas/webgl.svelte";
 </script>
