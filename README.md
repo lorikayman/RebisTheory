@@ -1,20 +1,25 @@
 # Rebis Theory
 
-This repository contains source of the document on a narrative, symbolic, and thematic analysis of Spiral Knights.
+This repository contains source and additional materials for the narrative and thematic analysis of the story and worldbuilding of videogame Spiral Knights.
 
 > [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx)
 
-Apart from the document itself, the majority of repository's contents are meant to accompany the document for an entertainment-oriented medium - as a website with a designated design, - meant to also emphasize the subjective, _qulia_ elements of the analysis.
+Apart from the core document itself, the majority of repository's contents accompany it for an QoF-oriented medium of a webpage.
 
-## Website
+## Webpage
 
-You'll need `Node` (or other JavaScript runtime) and `npm`-compatible package manager installed.
+Build requirements:
 
-```sh
-npm i
-```
+- `Node` or other compatible JavaScript runtime
+- `npm`-compatible package manager
 
-Then, see [package.json](./package.json)'s `scripts` section.
+1. Install the dependencies:
+
+  ```sh
+  npm install
+  ```
+
+2. Refer to [package.json](./package.json)'s `scripts` section for further actions
 
 ## Credits
 
