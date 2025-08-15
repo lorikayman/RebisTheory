@@ -9,35 +9,9 @@ layout: spiral_study
   import Spacer from "$lib/components/spacer.svelte"
   import ListTimeline from "$lib/components/list_timeline.svelte"
 
-  const thumbnail = '/img/custom/thumbnail_readme_no_text.png'
+  // import Credits from '$lib/enstries/sk/rebis-theory/CREDITS.md';
 
-  const LogoAlchemy = '/img/spiral_knights/logo_alchemy.png'
-  const hk = "/img/chapters/heavenly_kingdom.png"
-  const ge = "/img/chapters/gremlin_empire.png"
-  const unk = "/img/chapters/unknown.png"
-
-  // import Credits from '$lib/entries/sk/rebis-theory/CREDITS.md';
-
-  // gremlin conlang table contents
-  const GREMLIN_CONLANG_RUNES = [
-    ['▖', 2, '0010', '0x2', 0x2],
-    ['▗', 7, '0001', '0x1', 0x1],
-    ['▘', 4, '1000', '0x8', 0x8],
-    ['▝', 5, '0100', '0x4', 0x4],
-    ['▌', '4/5', '1010', '0xa', 0xa],
-    ['▐', 2, '0101', '0x5', 0x5],
-    ['▄', 6, '0011', '0x3', 0x3],
-    ['▀', 6, '1100', '0xc', 0xc],
-    ['█', '5/6', '1111', '0xf', 0xf],
-    ['▙', 2, '1011', '0xb', 0xb],
-    ['▟', 4, '0111', '0x7', 0x7],
-    ['▚', 1, '1001', '0x9', 0x9],
-    ['▞', 3, '0110', '0x6', 0x6],
-    ['▜', 0, '1101', '0xd', 0xd],
-    ['▛', 2, '1110', '0xe', 0xe],
-    ['_', '3/4', '0000', '0x0', 0x0]
-  ]
-
+  import GremlinConlang from "$lib/components/conlang_gremlin.svelte"
 </script>
 
 <h1 align="center">
@@ -55,7 +29,7 @@ This project is meant to explore and analyze Spiral Knights' worldbuilding, them
 This analysis takes form of a constructed timeline, throughout which aforementioned topics are discussed.
 
 <p align="center">
-  <img src="{thumbnail}" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
+  <img src="/img/custom/thumbnail_readme_no_text.png" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
 </p>
 
 <Spacer />
@@ -736,7 +710,7 @@ But, to achieve further progress in identification of both tortodrones and torto
 ### _Chapter `IV` &#160;<br>_ Heavenly Kingdom
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="{hk}" />
+    <img class="decorate-contents-img" src="/img/chapters/heavenly_kingdom.png" />
   </div>
 </div>
 
@@ -5091,7 +5065,7 @@ How would curse manifest itself, if it to be presented to the Nameless Realm dir
 ### _Chapter `IX` Part I &#160;<br>_ Gremlin Empire
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="{ge}" />
+    <img class="decorate-contents-img" src="/img/chapters/gremlin_empire.png" />
     <!-- <span class="energy decorate-contents-overflow">🝥</span> -->
   </div>
 </div>
@@ -6614,37 +6588,7 @@ As a result, we get the following symbols:
 Based on this, we can arrange a table of repetitions of each symbol:
 
 <center>
-  <table>
-    <thead>
-      <tr>
-        <th>Symbol / Rune</th>
-        <th>Repetitions (min/max)</th>
-        <th>Quadrants / 4-bit value</th>
-        <th>Hexadecimal number</th>
-        <th>Decimal number</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><em>Unicode symbol</em></td>
-        <td><em>Amount of times encountered, the min value is the confident response, the max value is probable</em></td>
-        <td><em>Bits are derived in order: top-left, top-right, bottom-left, bottom-right</em></td>
-        <td><em>Hexadecimal number derived from 4-bit value representations of quadrants</em></td>
-        <td><em>Decimal number derived from 4-bit value representations of quadrants</em></td>
-      </tr>
-      {#each GREMLIN_CONLANG_RUNES as runeInfo, ri}
-        <tr class={ri % 2 == 0 ? 'row-color-1' : 'row-color-2'}>
-          {#each runeInfo as infoElement, i}
-            {#if i == 0}
-              <td><code>{infoElement}</code></td>
-            {:else}
-              <td>{infoElement}</td>
-            {/if}
-          {/each}
-        </tr>
-      {/each}
-    </tbody>
-  </table>
+  <GremlinConlang />
 </center>
 
 </div>
@@ -7123,7 +7067,7 @@ This general ambiguity will follow our latter analysis of the Swarm.
 ### _Chapter `IX` Part II &#160;<br>_ Swarm
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="{unk}" />
+    <img class="decorate-contents-img" src="/img/chapters/unknown.png" />
     <span class="energy decorate-contents-overflow"></span>
   </div>
 </div>
@@ -8635,7 +8579,7 @@ This duality then is reflected in nature of the Swarm as one to contain those pr
 
 ### _Chapter `X` &#160;<br>_ Spiral Knights
 
-<SubTitleCentered backgroundImage={LogoAlchemy}>
+<SubTitleCentered backgroundImage='/img/spiral_knights/logo_alchemy.png'>
 
   _"Should You Choose to Accept"_
 
