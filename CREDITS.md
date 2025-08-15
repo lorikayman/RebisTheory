@@ -3,14 +3,14 @@
 
 Contents of this page and repository include resources licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) except for assets taken from [Spiral Knights](https://wiki.spiralknights.com/Spiral_Knights) and copyrighted by Grey Havens LLC, adapted through the usage of model viewing and image editing software. Spiral Knights is property of Grey Havens, LLC.
 
-- `assets/img/spiral_knights/bomb_icon_equinox.png`
-- `assets/img/spiral_knights/icon_goldlock.png`
-- `assets/img/spiral_knights/icon_mobeye.png`
-- `assets/img/spiral_knights/icon_revisit-arrow.png`
-- `assets/img/spiral_knights/logo_alchemy.png`
-- `assets/img/spiral_knights/logo_energy.png`
-- `assets/img/spiral_knights/moon.png`
-- `assets/img/spiral_knights/next_up.png`
+- `static/img/spiral_knights/bomb_icon_equinox.png`
+- `static/img/spiral_knights/icon_goldlock.png`
+- `static/img/spiral_knights/icon_mobeye.png`
+- `static/img/spiral_knights/icon_revisit-arrow.png`
+- `static/img/spiral_knights/logo_alchemy.png`
+- `static/img/spiral_knights/logo_energy.png`
+- `static/img/spiral_knights/moon.png`
+- `static/img/spiral_knights/next_up.png`
 - `assets/img/spiral_knights/over.png`
 
 
