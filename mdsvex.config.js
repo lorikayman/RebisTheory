@@ -23,7 +23,7 @@ const config = defineConfig({
     backticks: false
   },
   /**
-   * Js developers reinventing wheels and failing at 20+ year-old concepts at its best
+   * Js developers reinventing industry-old wheels until the sun explodes
    *
    * This is one of more obscure but only approaches
    * of replacing html tags with custom svelte components
