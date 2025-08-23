@@ -19,8 +19,6 @@
     ['▛', 2],
     ['_', '3/4']
   ]
-
-  console.log('here')
 </script>
 
 <table>

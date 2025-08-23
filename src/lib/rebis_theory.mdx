@@ -11,6 +11,14 @@ layout: spiral_study
 
   // import Credits from '$lib/enstries/sk/rebis-theory/CREDITS.md';
 
+  import {resolve} from "$app/paths"
+
+  const imgTitle = resolve('/img/custom/thumbnail_readme_no_text.png')
+  const imgHeavenlyKingdom = resolve('/img/chapters/heavenly_kingdom.png')
+  const imgGremlinEmpire = resolve('/img/chapters/gremlin_empire.png')
+  const imgUnknown = resolve('/img/chapters/unknown.png')
+  const imgAlchemyLogo = resolve('/img/spiral_knights/logo_alchemy.png')
+
   import GremlinConlang from "$lib/components/conlang_gremlin.svelte"
 </script>
 
@@ -29,7 +37,7 @@ This project is meant to explore and analyze Spiral Knights' worldbuilding, them
 This analysis takes form of a constructed timeline, throughout which aforementioned topics are discussed.
 
 <p align="center">
-  <img src="/img/custom/thumbnail_readme_no_text.png" alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
+  <img src={imgTitle} alt="thumbnail" style="width: 100%; display: block; margin: auto;"/>
 </p>
 
 <Spacer />
@@ -68,15 +76,13 @@ In order to achieve desired level of cohesiveness of the research, we will follo
 
 #### Approach to Worldbuilding
 
-Our approach of complete explanation _regardless of relevancy of those conclusions to the plot by definition and cause_, is one we consider flawed when applied to this setting, as much so we believe __Spiral Knights is not a setting, which requires imposed realism nor such level of detail in order to captivate as a story__, as it proved to be capable of doing so by existence of this analysis in the first place.
+Our approach of complete explanation with a single interpretaion _regardless of relevancy of those conclusions to the plot by definition and cause_, is one we consider flawed when applied to this setting or any fictional settings with a similar preexisting context. In other words, we believe, __Spiral Knights is not a setting, which requires imposed realism nor such level of detail in order to captivate as a story__, as it proved to be capable of doing so by existence of this analysis in the first place.
 
-On the extreme end, this method exists as _highly invasive approach of dissecting every aspect of the setting as a work of fiction_. But, we believe, when selectively applied, this method of overthought analysis could allow to further explore contained stories in their initially unburdened by the specifics, logistics, and realism existence, in directions, which would allow to highlight and elaborate on the themes and plot elements of the final work.
+On the extreme end, this method exists as _highly invasive approach of dissecting every aspect of the setting as a work of fiction within a fictional relaity it offers_. But, we believe, when selectively applied, this method of overthought analysis could allow to further explore contained stories in their initially unburdened by the specifics, logistics, and realism existence, in directions, which would allow to highlight and elaborate on the themes and plot elements of the encompassing work and offered through it world.
 
 Worldbuilding, as a process, is a system, which encompasses an absolute totality of fictional universe: its every aspect and detail, creating a simulacrum of reality, which, as fiction, states itself to be real. Worldbuiling is also a process of _indefinite refinement_ of this world as it is being built.
 
-In terms of attempting to apply those paradigms on to the setting in question - a finite world, - there is only a finite amount of its elements, whose foundations can be substituted or imposed through this approach of complete explanation, until the feel of the final result would become different from the initial source material.
-
-The lack of the explainable foundations and in-universe lore reasons - the lack of this information, - is one essential component, which perpetualtes reader's/player's imagination to fill in blancks of this story, resulting in many diffent interpretations.
+In terms of attempting to apply those paradigms on to the setting of Spiral Knights - a finite world, - there is only a finite amount of its elements, whose foundations can be interpreted, substituted, or imposed through this approach of complete explanation, until the feel of the final result would become different from the initial source material.
 
 With this thought framework in mind, we will go through the entirety of the story and lore of Spiral Knights, backed by the analysis of every dialogue, item description, and designs, perceived as relevant to a discussed topic in attempt to create a coherent and connected story.
 
@@ -711,7 +717,7 @@ But, to achieve further progress in identification of both tortodrones and torto
 ### _Chapter `IV` &#160;<br>_ Heavenly Kingdom
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="/img/chapters/heavenly_kingdom.png" />
+    <img class="decorate-contents-img" src={imgHeavenlyKingdom} />
   </div>
 </div>
 
@@ -5070,7 +5076,7 @@ How would curse manifest itself, if it to be presented to the Nameless Realm dir
 ### _Chapter `IX` Part I &#160;<br>_ Gremlin Empire
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="/img/chapters/gremlin_empire.png" />
+    <img class="decorate-contents-img" src={imgGremlinEmpire} />
     <!-- <span class="energy decorate-contents-overflow">🝥</span> -->
   </div>
 </div>
@@ -7078,7 +7084,7 @@ This general ambiguity will follow our latter analysis of the Swarm.
 ### _Chapter `IX` Part II &#160;<br>_ Swarm
 
   <div class="decorate-contents">
-    <img class="decorate-contents-img" src="/img/chapters/unknown.png" />
+    <img class="decorate-contents-img" src={imgUnknown} />
     <span class="energy decorate-contents-overflow"></span>
   </div>
 </div>
@@ -8590,7 +8596,7 @@ This duality then is reflected in nature of the Swarm as one to contain those pr
 
 ### _Chapter `X` &#160;<br>_ Spiral Knights
 
-<SubTitleCentered backgroundImage='/img/spiral_knights/logo_alchemy.png'>
+<SubTitleCentered backgroundImage={imgAlchemyLogo}>
 
   _"Should You Choose to Accept"_
 

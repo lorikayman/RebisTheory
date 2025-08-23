@@ -1,11 +1,13 @@
 <script context="module">
+  import { resolve } from "$app/paths"
+
   import './normalize.css'
 
   import './fonts.css'
   import './layout.css'
   import './mobile.css'
 
-  const favicon = '/img/spiral_knights/icon_goldlock.png'
+  const favicon = resolve('/img/spiral_knights/icon_goldlock.png')
 
   // import Webgl from "$lib/components/canvas/webgl.svelte";
 </script>

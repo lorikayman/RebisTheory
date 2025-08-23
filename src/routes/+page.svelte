@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte'
+  import { resolve } from '$app/paths';
 
   import { createTableOfContents } from '@melt-ui/svelte'
 
@@ -9,9 +10,9 @@
   import Button from '$lib/components/buttons/button.svelte'
   import ButtonJumper from '$lib/components/buttons/scroll_to_active.svelte'
 
-  const IconKey = '/img/spiral_knights/icon_goldlock.png'
-  const IconComm = '/img/spiral_knights/next_up.png'
-  const IconHaven = '/img/spiral_knights/over.png'
+  const IconKey = resolve('/img/spiral_knights/icon_goldlock.png')
+  const IconComm = resolve('/img/spiral_knights/next_up.png')
+  const IconHaven = resolve('/img/spiral_knights/over.png')
 
   import RebisTheory from '$lib/rebis_theory.mdx'
 

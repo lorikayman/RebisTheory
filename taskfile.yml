@@ -1,0 +1,22 @@
+# https://taskfile.dev
+
+version: "3"
+
+tasks:
+  default:
+    cmds:
+      - task --list-all
+  install:
+    cmd: npm install
+  build:
+    aliases: [b]
+    cmds:
+      - npm run build
+      - task: link
+  dev:
+    aliases: [d]
+    cmd: npm run dev
+  link:
+    cmds:
+      - cp ../rebis-theory/index.html ../../../layouts/entries/single.html
+      # - cp static/entries/rebis-theory/index.html layouts/entries/single.html
