@@ -19,8 +19,8 @@ const config = {
   ],
   kit: {
     adapter: adapter({
-      pages: './../rebis-theory',
-      assets: './../rebis-theory',
+      pages: './../../static/entries/rebis-theory',
+      assets: './../../static/entries/rebis-theory',
       fallback: undefined,
       precompress: false,
       strict: true

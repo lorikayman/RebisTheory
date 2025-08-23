@@ -18,5 +18,5 @@ tasks:
     cmd: npm run dev
   link:
     cmds:
-      - cp ../rebis-theory/index.html ../../../layouts/entries/single.html
+      - cp ./../../static/entries/rebis-theory/index.html ./../../layouts/entries/single.html
       # - cp static/entries/rebis-theory/index.html layouts/entries/single.html
