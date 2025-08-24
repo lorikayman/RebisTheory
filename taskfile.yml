@@ -12,11 +12,17 @@ tasks:
     aliases: [b]
     cmds:
       - npm run build
+      # TODO: to parent taskfile both the call nd task itself
       - task: link
   dev:
     aliases: [d]
     cmd: npm run dev
   link:
     cmds:
+      # with aech production build chunk names are different,
+      # so we will copy entiry html with svelte bootstrap scripts
+      # to hugo's domain,
+      # and, as paths are relative,
+      # it will be no issue for hugo-based initial route resolution
       - cp ./../../static/entries/rebis-theory/index.html ./../../layouts/entries/single.html
       # - cp static/entries/rebis-theory/index.html layouts/entries/single.html
