@@ -61,7 +61,7 @@ const config = defineConfig({
   layout: {
     // rebis theory
     // internal layout name here for context of repository, mdsvex.config.js
-    spiral_study: layoutPathEntriesRebis,
+    entries_rebis: layoutPathEntriesRebis,
   }
 })
 
