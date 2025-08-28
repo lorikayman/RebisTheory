@@ -47,7 +47,7 @@
     // targeting the selection of a heading,
     // whose body takes up most of space
     // in the viewport
-    activeType: 'lowest',
+    activeType: 'highest',
     /**
      * Filters all heading belonging to the current mdx entry
      *

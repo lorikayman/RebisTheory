@@ -82,7 +82,7 @@
   {/if}
 {/snippet}
 
-{#if !isFirstPartyUrl(href)}
+{#if typeof(href) !== 'boolean' && !isFirstPartyUrl(href)}
   <a {href} target="_blank" rel="noopener noreferrer">
     {@render slotChecker(children, href)}
   </a>
