@@ -18,7 +18,7 @@ const APP_BASE_PATH = process.argv.includes('dev') ? '' : APP_HOSTING_PATH
 const config = {
   extensions: [
     '.svelte',
-    '.mdx',
+    ...markdownConfig.extensions,
   ],
   kit: {
     adapter: adapter({

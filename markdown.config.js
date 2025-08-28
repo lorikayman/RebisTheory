@@ -11,12 +11,13 @@ export const markdownConfig = defineConfig({
       // },
     },
   },
+  extensions: ['.md', '.mdx'],
   layouts: {
     // default: {
     //   path: 'lib/content/layouts/default/layout.svelte',
     // },
     entries_rebis: {
-      path: 'lib/routes/mdlayout.svelte',
+      path: 'src/routes/mdlayout.svelte',
     },
   },
 })
