@@ -28,15 +28,21 @@ For copyright concerns, please contact via Email: [lori.j.kayman@gmail.com](mail
 
 - [wiki.spiralknights.com](https://wiki.spiralknights.com)
 - [TV Tropes](https://tvtropes.org/)
+
 - "Psychology and Alchemy" - Collected Works of Carl Jung
 - "Alchemical Studies" - Collected Works of Carl Jung
 - "The Forge and The Crucible, Second Edition" - Mircea Eliade
 - "The alchemical process of transformation" - Nigel Hamilton
-- [AZOTH or the way to make the hidden gold of the Philosophers - Brother Basil Valentin](https://www.alchemy-texts.com/book/azoth/)
-- "The Key of Solomon the king" - George Redway
-- "The Dream-Quest of Unknown Kadath" - Howard P. Lovecraft
+
+- "The Hero with a Thousand Faces" - Joseph Campbell
 - [Fafnir – Nordic Journal of Science Fiction and Fantasy Research, Speculative Architectures in Comics, Francesco-Alessio Ursini](https://journal.finfar.org/articles/speculative-architectures-in-comics/)
 - "What is a Katábasis? The Descent into the Netherworld in Greece and the Ancient Near East" - Alberto Bernabe
+
+- [AZOTH or the way to make the hidden gold of the Philosophers - Brother Basil Valentin](https://www.alchemy-texts.com/book/azoth/)
+- "The Key of Solomon the king" - George Redway
+
+- "The Dream-Quest of Unknown Kadath" - Howard P. Lovecraft
+
 - "Where Do the Giants Live?" - Armann Jakobsson
 - [Asgard - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Asgard)
 - [Creation Mysticism: Fashioning the World From Letters](https://www.myjewishlearning.com/article/creation-mysticism-fashioning-the-world-from-letters/)
