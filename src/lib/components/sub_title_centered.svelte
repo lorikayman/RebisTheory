@@ -1,9 +1,12 @@
+<svelte:options
+  customElement="sub-title"
+/>
 <script>
-  const { backgroundImage, children } = $props()
+  const { backgroundImage } = $props()
 </script>
 
 <div class="centered">
-  {@render children?.()}
+  <slot></slot>
 
   {#if backgroundImage}
     <img alt="" src={backgroundImage} class="bg" />

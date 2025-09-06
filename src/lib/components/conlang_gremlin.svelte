@@ -1,5 +1,7 @@
+<svelte:options
+  customElement="conlang-gremlin"
+/>
 <script>
-
   // gremlin conlang table contents
   const GREMLIN_CONLANG_RUNES = [
     ['▖', 2],

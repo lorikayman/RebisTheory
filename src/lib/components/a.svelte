@@ -17,8 +17,6 @@
   // due to href/onclick logic, setting delay to 1 still works in chrome
   const SCROLL_DELAY = 0
 
-  console.log(href)
-
   /**
    * Check FQDN of a link weather it is same as current site's
    *
@@ -26,7 +24,7 @@
    * @returns {Boolean}
    */
   function isFirstPartyUrl (href) {
-    if (href !== true) {
+    if (typeof(href) !== 'boolean') {
       // check string as hash
       if (href.startsWith('#')) {
         return true

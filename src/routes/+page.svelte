@@ -19,6 +19,14 @@
   document.title = 'Rebis Theory ::'
 
   import '$lib/components/a.svelte'
+  import "$lib/components/citation.svelte"
+  import "$lib/components/conlang_gremlin.svelte"
+  import "$lib/components/sub_title_centered.svelte"
+
+  // import "$lib/components/spacer.svelte"
+  // import "$lib/components/list_timeline.svelte"
+
+
   import { marked } from 'marked'
 
   const renderer = {
@@ -62,6 +70,7 @@
   const listLength = list.length
   console.log('mdHtmlSplit:', list)
 
+  // import VirtualList from '@sveltejs/svelte-virtual-list';
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)
@@ -359,7 +368,7 @@
 
 <div class="container">
   <div id="document-body">
-
+    {@html list.join('')}
   </div>
   <div class="ui-button-group group-right">
     {#if (windowReactiveWidth > 624)}

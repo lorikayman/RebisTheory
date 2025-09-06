@@ -1,5 +1,8 @@
+<svelte:options
+  customElement="custom-citation"
+/>
 <script>
-  const { source, children } = $props()
+  const { source } = $props()
 </script>
 
 <center>
@@ -11,7 +14,7 @@
         <span class="author">{author}</span> -->
       </div>
       <div class="citation-content">
-        {@render children?.()}
+        <slot></slot>
       </div>
     </div>
   </div>
@@ -26,7 +29,7 @@
     border-radius: 10px;
     box-shadow: 0 1mm 4mm hsla(197, 67%, 41%, 0.26);
     margin-bottom: 2rem;
-    
+
     display: flex;
     flex-direction: column;
 
@@ -35,7 +38,7 @@
     border-style: solid;
     border-color: transparent;
     background-color: hsla(225deg, 30%, 24%, 1);
-    
+
     & .citation-source {
       padding: 0.6rem;
 

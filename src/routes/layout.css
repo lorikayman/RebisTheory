@@ -461,10 +461,9 @@ strong {
 a {
   color: hsl(0, 0%, 91%);
   text-decoration: none;
-  text-decoration: none;
   font-weight: bold;
 
-  font-style: italic;
+  font-style: normal;
   padding-right: 3px;
 
   &:hover {
