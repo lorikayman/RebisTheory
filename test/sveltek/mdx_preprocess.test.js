@@ -11,6 +11,7 @@ import { svelteMarkdown } from '@sveltek/markdown'
 import { markdownConfig } from './markdown.config.js'
 
 import mdxPlainText from 'src/lib/rebis_theory.mdx?raw'
+const mdxFilename = 'rebis_theory.mdx'
 
 import { fileURLToPath } from 'url';
 import path from 'path';
@@ -25,13 +26,17 @@ describe('Sveltek Markdown compiler', () => {
     const { code: preprocessed } = await preprocess(
       source,
       [
+        /**
+         * @see node_modules/@sveltek/markdown/dist/index.mjs
+         */
         svelteMarkdown(markdownConfig)
       ],
-      { filename: 'rebis_theory.mdx' }
+      { filename: mdxFilename }
     );
-    const output = compile(preprocessed, { filename: 'rebis_theory.mdx' });
+    const output = compile(preprocessed, { filename: mdxFilename });
 
     fs.writeFileSync(currentDir + '/mdx_preprocess.test.result.html', preprocessed);
+    fs.writeFileSync(currentDir + '/mdx_preprocess.test.result.js', output.js.code);
 
   }, 20000)
 })
