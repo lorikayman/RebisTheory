@@ -61,8 +61,7 @@
 
   }
 
-  :global(.citation-content) {
-
+  .citation-content::slotted {
     & p > code,
     & p {
       padding: 2px 0px;
