@@ -23,7 +23,6 @@
   import "$lib/components/conlang_gremlin.svelte"
   import "$lib/components/sub_title_centered.svelte"
 
-  // import "$lib/components/spacer.svelte"
   // import "$lib/components/list_timeline.svelte"
 
 
