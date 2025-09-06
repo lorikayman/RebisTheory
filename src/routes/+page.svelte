@@ -14,9 +14,24 @@
   const IconComm = resolve('/img/spiral_knights/next_up.png')
   const IconHaven = resolve('/img/spiral_knights/over.png')
 
-  import RebisTheory from '$lib/rebis_theory.mdx'
+  import documentText from '$lib/rebis_theory.mdx?raw'
 
   document.title = 'Rebis Theory ::'
+
+  import '$lib/components/a.svelte'
+  import { marked } from 'marked'
+
+  const renderer = {
+    // heading(text, level) {
+    //   return `<Heading level="${level}">${text}</Heading>`;
+    // },
+    link(t) {
+      return `<custom-a href="${t.href}" text="${t.text}"></custom-a>`;
+    }
+  };
+
+  marked.use({renderer});
+  const documentHtml = marked(documentText)
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)
@@ -314,7 +329,8 @@
 
 <div class="container">
   <div id="document-body">
-    <RebisTheory/>
+    <!-- <RebisTheory/> -->
+    {@html documentHtml}
   </div>
   <div class="ui-button-group group-right">
     {#if (windowReactiveWidth > 624)}

@@ -461,6 +461,16 @@ strong {
 a {
   color: hsl(0, 0%, 91%);
   text-decoration: none;
+  text-decoration: none;
+  font-weight: bold;
+
+  font-style: italic;
+  padding-right: 3px;
+
+  &:hover {
+    color: hsl(214, 86%, 86%);
+    transition: 20ms;
+  }
 }
 
 /**
@@ -529,23 +539,6 @@ a {
 .container {
   height: 100vh;
   word-wrap: anywhere;
-
-  & a {
-    color: hsl(220, 87%, 77%);
-    /* color: hsl(23, 70%, 70%); */
-
-    /* color: hsl(35, 60%, 61%); */
-    text-decoration: none;
-    font-weight: bold;
-
-    font-style: italic;
-    padding-right: 3px;
-
-    &:hover {
-      color: hsl(214, 86%, 86%);
-      transition: 20ms;
-    }
-  }
 }
 
 

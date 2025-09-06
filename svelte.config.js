@@ -17,6 +17,9 @@ const config = {
     '.svelte',
     ...mdsvexConfig.extensions,
   ],
+  compilerOptions: {
+    customElement: true,
+  },
   kit: {
     adapter: adapter({
       pages: './../../static/entries/rebis-theory',
@@ -30,7 +33,7 @@ const config = {
     }
   },
   preprocess: sequence([
-    mdsvex(mdsvexConfig),
+    // mdsvex(mdsvexConfig),
     preprocessMeltUI(),
   ])
 }

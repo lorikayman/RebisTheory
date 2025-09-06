@@ -1,3 +1,6 @@
+<svelte:options
+  customElement="custom-a"
+/>
 <script>
   import { delay } from '$lib/helpers/delay.js'
   import { isChrome } from '$lib/helpers/useragent.js'
@@ -7,12 +10,14 @@
   // lack of link is perceived as a
   // boolean value of href, as it simply is as an
   // attribute with no value - boolean
-  let { href, children, ...params } = $props()
+  let { href, text } = $props()
 
   // delay in ms
   // since other concurrent scrolls are instant,
   // due to href/onclick logic, setting delay to 1 still works in chrome
   const SCROLL_DELAY = 0
+
+  console.log(href)
 
   /**
    * Check FQDN of a link weather it is same as current site's
@@ -62,12 +67,12 @@
   </span>
 {/snippet}
 
-{#snippet slotChecker(children, href)}
-  {#if children && href !== true}
-    {@render children()}
+{#snippet slotChecker(text, href)}
+  {#if text && href !== true}
+    {@html text}
   {:else}
-    {#if children}
-      {@render children()}
+    {#if text}
+      {@html text}
     {:else}
       {@render errorNoChildrenElements()}
     {/if}
@@ -84,11 +89,11 @@
 
 {#if !isFirstPartyUrl(href)}
   <a {href} target="_blank" rel="noopener noreferrer">
-    {@render slotChecker(children, href)}
+    {@render slotChecker(text, href)}
   </a>
 {:else}
   <a {href}>
-    {@render slotChecker(children, href)}
+    {@render slotChecker(text, href)}
   </a>
 {/if}
 
@@ -104,5 +109,22 @@
     background-color: crimson;
     color: black;
     font-style: normal;
+  }
+
+  a {
+    color: hsl(220, 87%, 77%);
+    /* color: hsl(23, 70%, 70%); */
+
+    /* color: hsl(35, 60%, 61%); */
+    text-decoration: none;
+    font-weight: bold;
+
+    font-style: italic;
+    padding-right: 3px;
+
+    &:hover {
+      color: hsl(214, 86%, 86%);
+      transition: 20ms;
+    }
   }
 </style>
