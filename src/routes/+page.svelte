@@ -32,6 +32,36 @@
 
   marked.use({renderer});
   const documentHtml = marked(documentText)
+  console.log('documentHtml', documentHtml.slice(0, 3000))
+
+  function splitHTMLIntoParagraphs(html) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    const body = doc.body;
+    const result = [];
+
+    for (const node of Array.from(body.childNodes)) {
+      if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'P') {
+        // Directly add paragraph elements
+        result.push(node.outerHTML);
+      } else {
+        // Handle non-paragraph elements and text nodes
+        const fragment = doc.createDocumentFragment();
+        fragment.appendChild(node.cloneNode(true));
+
+        const tempDiv = doc.createElement('div');
+        tempDiv.appendChild(fragment);
+
+        result.push(tempDiv.innerHTML);
+      }
+    }
+
+    return result;
+  }
+  const list = splitHTMLIntoParagraphs(documentHtml)
+  const listLength = list.length
+  console.log('mdHtmlSplit:', list)
+
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)
@@ -329,8 +359,7 @@
 
 <div class="container">
   <div id="document-body">
-    <!-- <RebisTheory/> -->
-    {@html documentHtml}
+
   </div>
   <div class="ui-button-group group-right">
     {#if (windowReactiveWidth > 624)}
