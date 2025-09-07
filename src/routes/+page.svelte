@@ -37,37 +37,63 @@
     }
   };
 
-  marked.use({renderer});
-  const documentHtml = marked(documentText)
-  console.log('documentHtml', documentHtml.slice(0, 3000))
+  let documentHtml = marked
+    .use({renderer})(documentText)
+  // console.log('documentHtml', documentHtml.replace('\n', '').slice(0, 3000))
 
   function splitHTMLIntoParagraphs(html) {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
     const body = doc.body;
-    const result = [];
 
+    const nodeList = []
+    let index = 0
+
+    // const chunks = [];
+    // var chunk = ''
+    // var chunkSize = 0
     for (const node of Array.from(body.childNodes)) {
-      if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'P') {
-        // Directly add paragraph elements
-        result.push(node.outerHTML);
+      if ([
+        Node.TEXT_NODE,
+        Node.COMMENT_NODE
+      ].includes(node.nodeType)) continue
+
+      node.dataset.index = index
+      index++
+
+      // console.log('collect', node)
+      nodeList.push(node)
+      continue
+
+      // paragraph node
+      if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === "P") {
+        // if (chunkSize < 20) {
+        //   chunk += node.outerHTML
+        //   chunkSize++
+        // } else {
+        //   chunks.push(chunk);
+        //   chunk = ''
+        //   chunkSize = 0
+        // }
       } else {
-        // Handle non-paragraph elements and text nodes
-        const fragment = doc.createDocumentFragment();
-        fragment.appendChild(node.cloneNode(true));
-
-        const tempDiv = doc.createElement('div');
-        tempDiv.appendChild(fragment);
-
-        result.push(tempDiv.innerHTML);
+        // chunk += node.outerHTML
+        // chunkSize++
       }
     }
 
-    return result;
+    return nodeList;
   }
+
   const list = splitHTMLIntoParagraphs(documentHtml)
-  const listLength = list.length
-  console.log('mdHtmlSplit:', list)
+  // const listHeadings = list.filter((node) => {
+  //   if (node.nodeName.startsWith('H')) return node
+  // })
+
+  // const listLength = list.length
+  // console.log('list:', list)
+  //
+  // import { VirtualList } from 'svelte-virtuallists';
+ 	// import VirtualList from 'svelte-tiny-virtual-list';
 
   // import VirtualList from '@sveltejs/svelte-virtual-list';
 
@@ -247,6 +273,8 @@
     if (window.innerWidth < 624 && !sidebarHidden) sidebarHidden = true
   }
 
+  import VirtualList from '$lib/components/virtual.svelte'
+
   /**
    * Prepare a chain of listeners, as `click` event will always precede `hashchange`
    * Here, we identify through bubbling a general area of the page,
@@ -254,6 +282,9 @@
    * working with @see hashChangeSource
    */
   onMount(() => {
+    // const container = document.getElementById('document-body');
+    // new VirtualizedList(container, list);
+
     // logic to locate toc active entry on history traversion
     // from markdown document link clicks
     //
@@ -366,9 +397,16 @@
 </div>
 
 <div class="container">
-  <div id="document-body">
-    {@html list.join('')}
-  </div>
+    <VirtualList id='document-body' items={list}>
+    </VirtualList>
+   	<!-- <VirtualList width="100%" height="300" itemCount={20} itemSize={t}>
+  		{#snippet item({ style, index })}
+  		  {@html list[index]}, Row: #{index}
+  		{/snippet}
+  	</VirtualList> -->
+    <!-- {#each list as c}
+      {@html c}
+    {/each} -->
   <div class="ui-button-group group-right">
     {#if (windowReactiveWidth > 624)}
       <ButtonJumper
