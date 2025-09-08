@@ -6,20 +6,22 @@ import adapter from '@sveltejs/adapter-static'
 
 import { extname } from 'path';
 
-
+import jsdom from 'jsdom'
 import { marked } from 'marked'
+import fs from 'fs';
+import path from 'path';
 
-
-export function md() {
+export function mdx() {
   return {
+    name: 'mdx-opts',
     async markup({ content, filename }) {
       // only process .md files
       console.log('filename:', filename)
       if (extname(filename) !== '.mdx') {
         return;
       }
-      console.log('\n\n\n\n 12312312', filename)
 
+      // return { code: content }
 
       const renderer = {
         // heading(text, level) {
@@ -30,54 +32,51 @@ export function md() {
         }
       };
 
-      marked.use({renderer});
-      let documentHtml = marked(content)
-      console.log('documentHtml', documentHtml.replace('\n', '').slice(0, 3000))
+      const documentHtml = marked.use(renderer)(content)
+
 
       function splitHTMLIntoParagraphs(html) {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
-        const body = doc.body;
-        const chunks = [];
+        const doc = new jsdom.JSDOM(html);
+        console.log(html.slice(0,400))
+        const body = doc.window.document.body.children;
 
-        var chunk = ''
-        var chunkSize = 0
-        for (const node of Array.from(body.childNodes)) {
+        const nodeList = []
+        let index = 0
 
-          if (node.nodeType === Node.TEXT_NODE) continue
-
-          // console.log('node:', node, node.nodeType)
-
-          // paragraph node
-          if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === "P") {
-            if (chunkSize < 20) {
-              chunk += node.outerHTML
-              chunkSize++
-            } else {
-              chunks.push(chunk);
-              chunk = ''
-              chunkSize = 0
-            }
-          } else {
-            chunk += node.outerHTML
-            chunkSize++
-          }
+        for (const node of body) {
+          node.dataset.index = index
+          nodeList.push(node.outerHtml)
+          index++
         }
 
-        return chunks;
+        return nodeList;
       }
 
-      const list = splitHTMLIntoParagraphs(documentHtml)
-      console.log('list:', list)
+      const listPlain = splitHTMLIntoParagraphs(documentHtml)
 
+      // const fullOutputPath = join(process.cwd(), outputPath);
+      // if (!existsSync(fullOutputPath)) {
+      //   mkdirSync(fullOutputPath, { recursive: true });
+      // }
 
-      // wrap the output as a tiny Svelte component
-      const code = `
-        <script>
-        </script>
-      `.trim();
+      // const outputFile = join(fullOutputPath, filename);
+      // const moduleContent = generateModuleContent(randomTextArray);
+      // writeFileSync(outputFile, moduleContent);
+      // console.log('\n\n\nlistPlain:', listPlain)
+      // const exportName = path.basename(filename, '.mdx');
+      const data = JSON.stringify(listPlain)
 
-      return { code };
+      // console.log('\n\n data', data)
+      return {
+        code: `
+          <script>
+          /**
+          * @type {string[]}
+          * Generated from ${path.basename(filename)}
+          */
+          export const data = ${data};
+          </script>`.trim()
+      };
     }
   };
 }
@@ -92,10 +91,14 @@ const APP_BASE_PATH = process.argv.includes('dev') ? '' : APP_HOSTING_PATH
 const config = {
   extensions: [
     '.svelte',
+    '.mdx',
   ],
   compilerOptions: {
-    customElement: true,
+    customElement: true
   },
+  // compilerOptions: {
+  //   customElement: true,
+  // },
   kit: {
     adapter: adapter({
       pages: './../../static/entries/rebis-theory',
@@ -109,7 +112,7 @@ const config = {
     }
   },
   preprocess: sequence([
-    // md(),
+    mdx(),
     preprocessMeltUI(),
   ])
 }

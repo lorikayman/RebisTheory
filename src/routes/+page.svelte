@@ -14,7 +14,8 @@
   const IconComm = resolve('/img/spiral_knights/next_up.png')
   const IconHaven = resolve('/img/spiral_knights/over.png')
 
-  import documentText from '$lib/rebis_theory.mdx?raw'
+  import '$lib/rebis_theory.mdx'
+  // console.log('d:', data)
 
   document.title = 'Rebis Theory ::'
 
@@ -24,78 +25,6 @@
   import "$lib/components/sub_title_centered.svelte"
 
   // import "$lib/components/list_timeline.svelte"
-
-
-  import { marked } from 'marked'
-
-  const renderer = {
-    // heading(text, level) {
-    //   return `<Heading level="${level}">${text}</Heading>`;
-    // },
-    link(t) {
-      return `<custom-a href="${t.href}" text="${t.text}"></custom-a>`;
-    }
-  };
-
-  let documentHtml = marked
-    .use({renderer})(documentText)
-  // console.log('documentHtml', documentHtml.replace('\n', '').slice(0, 3000))
-
-  function splitHTMLIntoParagraphs(html) {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
-    const body = doc.body;
-
-    const nodeList = []
-    let index = 0
-
-    // const chunks = [];
-    // var chunk = ''
-    // var chunkSize = 0
-    for (const node of Array.from(body.childNodes)) {
-      if ([
-        Node.TEXT_NODE,
-        Node.COMMENT_NODE
-      ].includes(node.nodeType)) continue
-
-      node.dataset.index = index
-      index++
-
-      // console.log('collect', node)
-      nodeList.push(node)
-      continue
-
-      // paragraph node
-      if (node.nodeType === Node.ELEMENT_NODE && node.nodeName === "P") {
-        // if (chunkSize < 20) {
-        //   chunk += node.outerHTML
-        //   chunkSize++
-        // } else {
-        //   chunks.push(chunk);
-        //   chunk = ''
-        //   chunkSize = 0
-        // }
-      } else {
-        // chunk += node.outerHTML
-        // chunkSize++
-      }
-    }
-
-    return nodeList;
-  }
-
-  const list = splitHTMLIntoParagraphs(documentHtml)
-  // const listHeadings = list.filter((node) => {
-  //   if (node.nodeName.startsWith('H')) return node
-  // })
-
-  // const listLength = list.length
-  // console.log('list:', list)
-  //
-  // import { VirtualList } from 'svelte-virtuallists';
- 	// import VirtualList from 'svelte-tiny-virtual-list';
-
-  // import VirtualList from '@sveltejs/svelte-virtual-list';
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)
@@ -397,8 +326,8 @@
 </div>
 
 <div class="container">
-    <VirtualList id='document-body' items={list}>
-    </VirtualList>
+    <!-- <VirtualList id='document-body' items={list}>
+    </VirtualList> -->
    	<!-- <VirtualList width="100%" height="300" itemCount={20} itemSize={t}>
   		{#snippet item({ style, index })}
   		  {@html list[index]}, Row: #{index}

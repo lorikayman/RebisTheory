@@ -25,6 +25,7 @@
   },
   "type": "module",
   "dependencies": {
+    "jsdom": "^26.1.0",
     "marked": "^16.2.1"
   }
 }
