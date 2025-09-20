@@ -8,7 +8,7 @@ This repository contains the source document - [`src/lib/rebis_theory.mdx`](./sr
 
 Build requirements:
 
-- `Node` or other API-compatible JavaScript runtime
+- `Node` or other compatible javascript runtime
 - `npm`-compatible package manager
 
 1. Install the dependencies:
