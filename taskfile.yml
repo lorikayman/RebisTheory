@@ -6,21 +6,34 @@ tasks:
   default:
     cmds:
       - task --list-all
-  install:
-    cmd: npm install
   build:
+    internal: true
+    summary: |
+      Build complete webpage for production.
+
+      The build output paths are configured in `./svelte.config.js`
+      and they assume a _speific directory structure_ outside of this repository.
     aliases: [b]
     cmds:
       - npm run build
-      # TODO: to parent taskfile both the call nd task itself
       - task: link
   dev:
+    summary: |
+      Run the page in development mode.
+      This mode does not require any prerequisites.
     aliases: [d]
     cmd: npm run dev
-  link:
+  lint:
     cmds:
-      # with aech production build chunk names are different,
-      # so we will copy entiry html with svelte bootstrap scripts
+      - task: lint:spellcheck
+  lint:spellcheck:
+    summary: Runs cspell linter with `./.cspell.yaml` tree of configurations
+    cmd: cspell ./src/lib/rebis_theory.mdx
+  link:
+    internal: true
+    cmds:
+      # with each production build chunk names are different,
+      # so we will copy entire html with svelte bootstrap scripts
       # to hugo's domain,
       # and, as paths are relative,
       # it will be no issue for hugo-based initial route resolution
