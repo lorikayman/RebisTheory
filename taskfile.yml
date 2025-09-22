@@ -6,8 +6,12 @@ tasks:
   default:
     cmds:
       - task --list-all
+  # used by gh pages
+  install:
+    aliases: [i]
+    cmd: npm install
+  # used by gh pages
   build:
-    internal: true
     summary: |
       Build complete webpage for production.
 
@@ -29,8 +33,8 @@ tasks:
   lint:spellcheck:
     summary: Runs cspell linter with `./.cspell.yaml` tree of configurations
     cmd: cspell ./src/lib/rebis_theory.mdx
+  # used by gh pages
   link:
-    internal: true
     cmds:
       # with each production build chunk names are different,
       # so we will copy entire html with svelte bootstrap scripts
