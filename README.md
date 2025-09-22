@@ -1,6 +1,6 @@
 # Rebis Theory
 
-> __Analysis of Spiral Knights worldbuilding: postmodernism, quality, and narratives of constructed worlds in fiction.__
+> __Analysis of Spiral Knights worldbuilding: postmodernism and narratives of constructed worlds in fiction.__
 
 This repository contains the source document - [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
