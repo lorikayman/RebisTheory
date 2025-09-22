@@ -1,0 +1,12 @@
+p, ul, li {
+  text-align: justify;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0%;
+}
+
+.background-base, .background {
+  background: transparent;
+}
