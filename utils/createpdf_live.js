@@ -92,10 +92,19 @@ async function generatePDF() {
     }
     console.log('Content set, generating PDF...');
 
+
+    /**
+     * create pdf using puppeteer
+     * @see {@link https://pptr.dev/api/puppeteer.pdfoptions}
+     */
     const pdf = await page.pdf({
       path: './Rebis Theory.pdf',
       format: 'A4',
       printBackground: true,
+      outline: true,
+      displayHeaderFooter: true,
+      headerTemplate: '<span></span>',
+      footerTemplate: '<span style="color: white; font-family: primary; font-size: 12px; margin-left:50%;"><span class="pageNumber"></span></span>',
       margin: {
         top: '10mm',
         right: '10mm',
