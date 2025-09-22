@@ -264,52 +264,52 @@
 
 <div class="sidebar-container" data-sidebar-hidden={sidebarHidden}>
 
-<div class="ui-button-group group-left">
-  {#if (windowReactiveWidth > 624)}
-    <Button
-      buttonClass="ui-button-toc-toggler"
-      onclick={toggleToc}
-      active={sidebarHidden}
-      alignDirection="left"
-      inlineImageSourcePath={IconComm}
-    />
+  <div class="ui-button-group group-left">
+    {#if (windowReactiveWidth > 624)}
+      <Button
+        buttonClass="ui-button-toc-toggler"
+        onclick={toggleToc}
+        active={sidebarHidden}
+        alignDirection="left"
+        inlineImageSourcePath={IconComm}
+      />
 
-    <ButtonJumper
-      buttonClass="ui-button-toc-scroller"
-      disabled={sidebarHidden}
-      selector={tocActiveSelector}
-      inlineImageSourcePath={IconKey}
-    />
-  {:else}
-    <ButtonJumper
-      selector={documentStart}
-      buttonClass="ui-button-dom-scroller"
-      alignDirection="left"
-      inlineImageSourcePath={IconHaven}
-    />
-    {#if !sidebarHidden}
       <ButtonJumper
         buttonClass="ui-button-toc-scroller"
+        disabled={sidebarHidden}
         selector={tocActiveSelector}
         inlineImageSourcePath={IconKey}
       />
+    {:else}
+      <ButtonJumper
+        selector={documentStart}
+        buttonClass="ui-button-dom-scroller"
+        alignDirection="left"
+        inlineImageSourcePath={IconHaven}
+      />
+      {#if !sidebarHidden}
+        <ButtonJumper
+          buttonClass="ui-button-toc-scroller"
+          selector={tocActiveSelector}
+          inlineImageSourcePath={IconKey}
+        />
+      {/if}
     {/if}
-  {/if}
-</div>
-
-<div class={{
-  sidebar: true,
-  'sidebar-toggle-visible': !sidebarHidden,
-  'sidebar-toggle-hidden': sidebarHidden,
-}}>
-  <div class="toc">
-    <Tree
-      tree={$headingsTree}
-      activeHeadingIdxs={$activeHeadingIdxs}
-      item={item}
-    ></Tree>
   </div>
-</div>
+
+  <div class={{
+    sidebar: true,
+    'sidebar-toggle-visible': !sidebarHidden,
+    'sidebar-toggle-hidden': sidebarHidden,
+  }}>
+    <div class="toc">
+      <Tree
+        tree={$headingsTree}
+        activeHeadingIdxs={$activeHeadingIdxs}
+        item={item}
+      ></Tree>
+    </div>
+  </div>
 </div>
 
 <div class="container">
