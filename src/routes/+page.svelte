@@ -16,7 +16,7 @@
 
   import RebisTheory from '$lib/rebis_theory.mdx'
 
-  document.title = 'Rebis Theory ::'
+  document.title = 'Rebis Theory. Analysis of Spiral Knights worldbuilding: postmodernism and narratives of constructed worlds in fiction.'
 
   // reactive window width
   let windowReactiveWidth = $state(window.innerWidth)

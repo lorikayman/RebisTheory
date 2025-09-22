@@ -112,6 +112,12 @@ body {
   background-color: var(--ui-selection-regular) !important;
 }
 
+/* page breaks for pdf */
+hr {
+  break-after: page;
+  visibility: hidden;
+}
+
 /**
  * CommonMark spec assumes only 1 h1 heading
  * We use it as the start of the markdown document
