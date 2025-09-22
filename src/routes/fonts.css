@@ -22,6 +22,14 @@
     format("truetype");
 }
 
+@font-face {
+  font-family: subheading;
+  font-style: normal;
+  src: url("/fonts/open_sans/static/OpenSans-BoldItalic.ttf")
+    format("truetype");
+}
+
+
 /* Font for Table of Contents' entries, bold, regular, etc. */
 @font-face {
   font-family: secondary-light;

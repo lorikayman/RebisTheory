@@ -3,7 +3,9 @@
 </script>
 
 <div class="centered">
-  {@render children?.()}
+  <span class="text">
+    {@render children?.()}
+  </span>
 
   {#if backgroundImage}
     <img alt="" src={backgroundImage} class="bg" />
@@ -29,7 +31,19 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      margin: 3rem 4rem;
+      margin-top: 0rem;
+    }
+
+    .text {
       filter: drop-shadow(0 0 3mm hsla(39, 100%, 66%, 0.7));
+
+      & em {
+        font-family: subheading;
+        color: hsl(34, 100%, 78%);
+        letter-spacing: 0.4px;
+        line-height: 1.6;
+      }
 
       margin-bottom: 0.4rem;
 

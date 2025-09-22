@@ -161,6 +161,7 @@ h1 {
 h2 {
   font-weight: 500;
   font-size: 3.8rem;
+  margin-bottom: 16px;
 }
 
 h3 {
@@ -421,14 +422,15 @@ code {
   }
 }
 
-em {
+p em {
   color: hsl(24, 94%, 79%);
 }
 
-:is(h1) + p {
-  & em {
-    color: hsl(8, 30%, 55%);
-  }
+p del {
+  color: color-mix(in lab, #4aa7ff, #66ffff);
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: unset;
 }
 
 /**
