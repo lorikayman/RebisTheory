@@ -2703,6 +2703,10 @@ In order to fuel those engines, Shroud is opened to capture souls. Or, potential
 
 ### _Chapter `VII` &#160;<br>_ Kingdom of Almire
 
+<SubTitleCentered>
+<em>"You can feel it in the smoldering air -- an eternal will holding this place together, never allowing its inhabitants to rest." <small>- Gratz</small></em>
+</SubTitleCentered>
+
 We begin from a time when kingdom of Almire was invaded by neighboring kingdoms.
 
 The first time a war is mentioned in the Owlite tome within the [Forgotten Library](https://wiki.spiralknights.com/An_Occurrence_at_Owlite_Keep#Gate_Map) of Owlite Keep: `... This world has seen few greater tragedies than the fall of the great Kingdom of Almire. Once a vibrant, beautiful realm of lush forests and sweeping plains ... neighboring kingdoms declared war ... seeking the power needed to turn the tide, Lord Vanaduke of Almire fled into the mountains...` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
@@ -3115,6 +3119,8 @@ Could it be, that the kingdom of Almire did become an empire the size of the 3 w
 At the same time the reference to Almire as an Empire only once could be an oversight. The possibility of this being an oversight may be also affirmed by the fact Lord Vanaduke had returned to the citadel: `With nothing left to destroy, his legions left him and returned to the mountains, leaving the king to sit in his throne of ash and cinder, all the people of Almire dead around him. There the cursed king has remained since, ruling a burning kingdom from an ashen throne` ([Almire's Fall](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall)).
 
 Yet, the recount of those events itself seems to come from an observer, seemingly present there, observing those events and aware of the blackened shrine, returning to the [diegesis of this lore entry](#diegesis-of-almires-fall). While the existence of an empire is still questionable, the connection, even through curse, of Black Kats and Carnavons is something to remember in relation to the nature of curse.
+
+On the opposite, there is a symbolic connection. The empire was formed, but as the means were flawed the empire was bound by curse, as the citedel itself, described by Grantz: `This is a real place, some kind of shell of a former empire. There is great sorrow here, something unlike anything I have felt before. Legions of shambling dead have attacked us here, relentless in their defense of this place. Their broken, burnt frames crumbling and rising once more, ready for another battle. And just as they refuse to fall, so does the burning ruin around them. It is almost as if this whole realm is trapped in a single moment from some forgotten time, never changing, never allowing itself to finally turn to ash. You can feel it in the smoldering air- an eternal will holding this place together, never allowing its inhabitants to rest. No creature deserves such a fate, it is beyond my understanding` (Recon Module: Firestorm Citadel - Grantz).
 
 ##### Trojans
 
@@ -9211,7 +9217,13 @@ This larger context of now fully interconnected and causally justified stories i
 
 ---
 
-### _Final Chapter &#160;<br>_ Microcosm
+### _Final Chapter &#160;<br>_ Spiral of Burning Stars
+
+<!--<SubTitleCentered>
+
+_A well-oied worldbuilding machine_
+
+</SubTitleCentered>-->
 
 Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__, which allows it to persist?
 
