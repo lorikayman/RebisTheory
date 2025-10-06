@@ -25,31 +25,37 @@ layout: entries_rebis
   Rebis Theory <span class="energy">🜔</span>
 </h1>
 
-The present document is meant to identify, analyze and explore ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~plots~~ and ~~narratives~~ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
+Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a potential for expansive worldbuilding accompanying it.
 
-The analysis aims to provide a set of principle of _narrative and storytelling tools and tropes_ the setting utilizes to construct an immersive experience.
-
-The analysis takes form of a timeline, which arranges history of the setting in a causally cohesive sequence of events, plots, and corresponding characters, while attempting to reach a subjectively, thematically satisfying closure.
+By acknowledging this potential we aim to present a set of _narrative devices and tropes_ the setting utilizes to construct an immersive and believable experience of a fictional universe.
 
 ---
 
 ## Motivation
 
-It is important to emphasize, that Spiral Knights _is not a setting, which requires imposed realism nor great level of detail of its worldbuilding_ in order to captivate as a story.
+The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
-As fiction set in its own separate reality, it can immitate depth of its world by obfuscating its boundaries up to a certain limit. We intend to analyze components of its worldbuilding, as we believe, when this method of overthought analysis is applied, it would allow for exploration of those concepts at greatest, most precise detail, which will eventually lead to their deeper understanding, recognition and distinct visibility of the process of their application and tranformation when implimented into a descrete fictional setting, as instances of something we will refer as [tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope).
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the _bonding quality, which allows for setting's ability to captivate_ as a fiction, a world, and a story.
 
-With this approach we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between the concepts_, -- the _bonding quality, which allows for setting's ability to captivate_ as a fiction, a world, and a story.
+### Approach to Worldbuilding
 
-### Worldbuilding
+Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is usually found through in-universe laws, symbolism, themes, characters, factions, environments, etc., their relations and history. Design is a conscious choice, an intent, which _outlines the experiences player is meant to go through_.
 
-Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is found through in-universe physical laws, themes of the setting, characters, factions, environments, etc. It is a conscious choice, an intent, which _outlines the experiences player is meant to go through_.
+While worldbuilding adds depth to the initial setting, we believe Spiral Knights can exist as a captivating setting without an expansive logic underpinning it. Here, conversely, we argue that the setting is written consistently enough to allow such worldbuilding to emerge organically.
 
-As we discuss worldbuilding and the stories within it, we consider each of its aspects from an initial idea to execution found in multiples mediums of the visual art style, character, scenery, environment design, music, and then pacing of the story, as carriers of those ideas.
+With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc. -- as signs of physical and historical processees outside the present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
-When a concept is used in a constructed setting, for example, a [megastructure](https://en.wikipedia.org/wiki/Megastructure#Stellar_scale_2) as it will be relevant for this setting, it possesses inherent ideas and statements established by it as a compound element meant to be a shorthand, albeit obfuscated, symbol for those ideas in its own medium, i.e. environmental design, based on its evolving instances across works of fiction. Depending on the intent, through its implimentation and utilization in a setting those ideas may be subverted, deconstructed, or directly told.
 
-There is a certain collection of human experiences which exists in such environment when discussions of speculative fiction of any scale emerge, which may invoke a discussion.
+
+And yet, those concepts, tropes and idea do not exist in a vacuum - each of those concepts, or tropes, was iterated upon multiple times across fiction, resulting in an emerging idea of that trope.
+
+<!--from an initial idea to execution builds itself on the existing set of this concept being used in multiples mediums of the visual art style, character, scenery, environment design, music, and then pacing of the story, as carriers of those ideas.-->
+
+When a concept is used in a constructed setting it propagates its inherent ideas and statements established by it as a symbol and a shorthand for those ideas in its own medium, i.e. environmental design, based on its evolving instances across works of fiction. Depending on the intent, through its implimentation and utilization in a setting those ideas may be subverted, deconstructed, or directly told.
+
+<!--There is a certain collection of human experiences which exists in such environment when discussions of speculative fiction of any scale emerge, which may invoke a discussion.-->
+
+
 
 With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative.
 
@@ -60,43 +66,61 @@ The analysis contains major spoilers for:
 - `BLAME!`, `NOiSE`, by Tsutomu Nihei
 - `The Dream-Quest of Unknown Kadath` and other works involving character of Randolph Carter from Cthulhu Mythos/Yog-Sothothery by H.P. Lovecraft
 
+
+
+straight-forward stories wrapped in symbolism, foreshadowing, motifs, omajes.
+
+we will analyse the setting without including details of technical impimentation, but a finished work of art at a face value
+Apart from a single exception - we acknowledge existence of the distinction between crystal and mist energy and will bring its significance wherein we believe it seems fitting, other wise we will use the term of energy as it is being used now, a universal medium inplace of crystal and mist energy as an abstraction
+
+A following thought framework, an ide that spiral knihgt is not a game with kts foundations, but a fictional universe, which no matter how abstract or detached from human reality is, had to conform to this rules as a hybrid of science fixtion and fantsay, both of those instances being a speculative fiction
+
+We acknowledge the absurdity of such standard given the means and mediums this univers is presetned through, yet, we belive, as stated earlier, for goal of total analysis such approach may be a fruitfull endevaur, which discards all the out-of-universe unnecessarities from completely in-universe perspective
+The method the disclailwr the wotldbuilding
+
+Well try to present a perspective unburdened by complex weight of reality, while acknowledging its tantamount influence on the final work as a product of this reality
+The Disclaimer: Pure Watsonian worldbuilding
+For the purposes of greater immersion into the narrative
+
+we believe, when this method of overthought analysis is applied, it would allow for exploration of those concepts at greatest, most precise detail, which will eventually lead to their deeper understanding, recognition and distinct visibility of the process of their application and tranformation when implimented into a descrete fictional setting, as instances of something we will refer as [tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope).
+
 ## Method
 
-The resulting timeline is not considered a single true representation of events, but rather it is an exploration, analysis, and extrapolation of a series of educated guesses based on the in-game materials.
+The analysis is performed in two steps. First, we construct a timeline out of in-universe history through arrangement of a causally cohesive sequence of events, plots, and corresponding characters' actions. The guiding principle of this step is the achievement of a subjectively and thematically satisfying closure of identified narratives. The second step uses the timeline to find more exapansive tropes from the initial subject and its identified tropes while going through the present setting at face value.
+
+The timeline is not considered a single true representation of events, but rather it is an exploration, analysis, and extrapolation of a series of educated guesses based on the in-game materials.
 
 __As far as the subject of discussion follows, any resemblence to real-life events or characters could be purely coincidental__.
 
-In order to achieve desired level of cohesiveness of the research, we will follow 3 rules, which will outline our scope of work:
+In order to achieve desired level of cohesiveness of the research, we will outline some rules for our scope of work:
 
-1. The __official game__, its DLC, special and annual events are used in the construction of the timeline.
+- The official game, its DLCs, special and annual events are used in the construction of the timeline.
 
     Events and several content updates match announcements on the [forums](https://forums.spiralknights.com/en/forum/8), and as those are framed in a seemingly diegetic form, -- as memorandums, -- we will include those into the analysis.
 
     From the forums, we will also include [Clockworks Confidential](https://wiki.spiralknights.com/Credits#Clockworks_Confidential) into the scope of our analysis.
 
+- We will rely on the official wiki for the most of descriptions of items, regions, etc., but as some [content mey be absent or not documented on the wiki](https://wiki.spiralknights.com/SpiralKnights:General_disclaimer), we will present the precise source and location for those materials as we reference them.
+
     Entries on the [wiki](https://wiki.spiralknights.com) credited to developers of the game are included into the analysis. Some of those entries are not present in the most recent versions of their pages, so we will use the latest appearance of those snippets from pages' edit history.
 
-2. Arcade and rank missions define setting's world. Arcade specifically is considered a tool of environmental storytelling, serving as thematic foundation for the setting, including context of rank missions.
+    The wiki contains materials [exclusive](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall) for it _as a storytelling medium and source of truth_. We will assume them to exsit in-universe.
 
-    We will also work from an assumption, that crafting of the equipment, refered as alchemy, is generally done with the intended materials from an in-universe perspective.
+- Arcade and rank missions define setting's world. Arcade specifically is considered a tool of environmental storytelling, serving as thematic foundation for the setting, including context of rank missions.
 
-    We consider all present items, weapons, and equipment to be incorporated into corresponding in-universe narratives, indefinite of their [out-of-universe or Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) origin and refernce to other works of fiction.
+    We assume, that crafting of the equipment, refered as alchemy, is generally done with the intended materials. If an inconcistency between description and recipe is found, we attempt to present first the in-universe explanation.
 
-    The cases, where description conflicts with the contents of the recipe, are to be explored in greater detail, until a plausible explanation can be presented, while operating within general themes and context of in-universe laws.
+    <!--We consider all present items, weapons, and equipment to be incorporated into corresponding in-universe narratives, indefinite of their [out-of-universe or Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) origin and refernce to other works of fiction.-->
 
-    We will rely on the official wiki for most of discussed descriptions of items, regions, etc., but as some [content is absent or not documented on the wiki](https://wiki.spiralknights.com/SpiralKnights:General_disclaimer), we will present the precise source and location for those materials as we reference them or their descriptions.
+- We assume _consistency of themes_. It suggests, that both the narrative and the story are complete. We rely on the assumption, that the stories and involved in them _characters possess conclusive motivations and goals_, despite the storytelling medium being an MMO with corresponding for such genre design choices and priorities.
 
-    In some instances, the wiki contains materials, [exclusive](https://wiki.spiralknights.com/Firestorm_Citadel#Almire.27s_Fall) for it _as a storytelling medium and source of truth_, which may clarify aspects of the setting. We will note those instances, as we cover them in the context of discussed topics.
+    The potential inspirations, relations to folklore, mythology, and fiction will be introduced wherein we believe they might present a plausible explanation for elements of the identified narratives.
 
-3. We assume _consistency of themes_. It suggests, that both the narrative and the story are complete. We rely on the assumption, that the stories and involved in them _characters possess conclusive motivations and goals_, despite the storytelling medium being an MMO with corresponding for such genre design choices and priorities.
-
-    As for the discussed inspirations, relations to folklore, mythology, and fiction, - they will be introduced, wherein we believe they might present a plausible explanation for elements of identified narratives, as those inspirations may contribute to the thematic and worldbuilding foundations of the final work.
-
-    The justification for any event or characters' actions will be discussed primarily from the in-universe perspective, acknowledging out-of-universe explanations or inspirations, unless a plausible connection can be identified.
+    The justification for any event or characters' actions will be discussed from the in-universe perspective.
 
 ### Table of Contents
 
-The first 9 chapters cover the timeline, it is built through the course of those chapters. 10th chapter is designated to the general outline of the timeline with most of details omitted. And, the 11th chapter discusses the fictional setting itself with consideration of the timeline.
+The first 9 chapters cover the timeline with the 10th chapter being the general overview of the timeline. The 11th chapter discusses the fictional setting itself with consideration of the timeline.
 
 - [Chapter 1](#chapter-i-cosmology) establishes basic outline of the Spiral Knights' fictional Universe, its cosmology, creation myth, and role of alchemy
 - [Chapter 2](#chapter-ii-underworld) introduces major actors within Underworld
@@ -107,10 +131,10 @@ The first 9 chapters cover the timeline, it is built through the course of those
 - [Chapter 7](#chapter-vii-kingdom-of-almire) introduces a time period when kingdom of Almire had existed
 - [Intermission 1](#intermission-gunslinger-priests) discusses existence of gunslinger priests within the timeline
 - [Chapter 8](#chapter-viii-kat-tribe) covers Owlites and Kat Tribe, their relations and history
-- [Intermission 2](#intermission-metaphysics-of-curse) marks the final analysis of the curse, its effects, metaphysical laws and symbolism
+- [Intermission 2](#intermission-metaphysics-of-curse) is the final analysis of the curse, its effects, metaphysical laws, symbolism and motifs
 - [Chapter 9](#chapter-ix-part-i-gremlin-empire) analysis existence of Clockworks and gremlins
 - [Chapter 10](#chapter-x-spiral-knights) is the proposed timeline based on the previous chapters
-- [Chapter 11](#final-chapter-microcosm) discussed the the general themes and narratives
+- [Chapter 11](#final-chapter-spiral-of-burning-stars) discussed the the general themes and narratives
 
 <center class="chapter-break">
   <span class="energy">🜔</span>
