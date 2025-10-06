@@ -43,21 +43,11 @@ Design of the world as an interconnected system of its components -- the process
 
 While worldbuilding adds depth to the initial setting, we believe Spiral Knights can exist as a captivating setting without an expansive logic underpinning it. Here, conversely, we argue that the setting is written consistently enough to allow such worldbuilding to emerge organically.
 
-With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc. -- as signs of physical and historical processees outside the present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
-
-
-
-And yet, those concepts, tropes and idea do not exist in a vacuum - each of those concepts, or tropes, was iterated upon multiple times across fiction, resulting in an emerging idea of that trope.
-
-<!--from an initial idea to execution builds itself on the existing set of this concept being used in multiples mediums of the visual art style, character, scenery, environment design, music, and then pacing of the story, as carriers of those ideas.-->
-
-When a concept is used in a constructed setting it propagates its inherent ideas and statements established by it as a symbol and a shorthand for those ideas in its own medium, i.e. environmental design, based on its evolving instances across works of fiction. Depending on the intent, through its implimentation and utilization in a setting those ideas may be subverted, deconstructed, or directly told.
-
-<!--There is a certain collection of human experiences which exists in such environment when discussions of speculative fiction of any scale emerge, which may invoke a discussion.-->
-
-
+With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc. -- as signs of physical and historical processees outside the observable present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
 With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative.
+
+We will analyze the setting without including details of technical impimentation, but view it at a face value, apart from a single exception: we consider existence of the _distinction between crystal and mist energy_ and will bring its significance wherein we believe it to be relevant. Otherwise we will use the term of energy as it is being used now, an abstraction of prior categories of energy.
 
 We acknowledge, that there are undiscovered or missed inspirations and themes, which we may not be aware of.
 
@@ -65,24 +55,6 @@ The analysis contains major spoilers for:
 
 - `BLAME!`, `NOiSE`, by Tsutomu Nihei
 - `The Dream-Quest of Unknown Kadath` and other works involving character of Randolph Carter from Cthulhu Mythos/Yog-Sothothery by H.P. Lovecraft
-
-
-
-straight-forward stories wrapped in symbolism, foreshadowing, motifs, omajes.
-
-we will analyse the setting without including details of technical impimentation, but a finished work of art at a face value
-Apart from a single exception - we acknowledge existence of the distinction between crystal and mist energy and will bring its significance wherein we believe it seems fitting, other wise we will use the term of energy as it is being used now, a universal medium inplace of crystal and mist energy as an abstraction
-
-A following thought framework, an ide that spiral knihgt is not a game with kts foundations, but a fictional universe, which no matter how abstract or detached from human reality is, had to conform to this rules as a hybrid of science fixtion and fantsay, both of those instances being a speculative fiction
-
-We acknowledge the absurdity of such standard given the means and mediums this univers is presetned through, yet, we belive, as stated earlier, for goal of total analysis such approach may be a fruitfull endevaur, which discards all the out-of-universe unnecessarities from completely in-universe perspective
-The method the disclailwr the wotldbuilding
-
-Well try to present a perspective unburdened by complex weight of reality, while acknowledging its tantamount influence on the final work as a product of this reality
-The Disclaimer: Pure Watsonian worldbuilding
-For the purposes of greater immersion into the narrative
-
-we believe, when this method of overthought analysis is applied, it would allow for exploration of those concepts at greatest, most precise detail, which will eventually lead to their deeper understanding, recognition and distinct visibility of the process of their application and tranformation when implimented into a descrete fictional setting, as instances of something we will refer as [tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Trope).
 
 ## Method
 
