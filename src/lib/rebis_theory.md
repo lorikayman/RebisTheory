@@ -310,11 +310,23 @@ For proper distinction we will define this environemnt as the _Whitespace -- a v
 
 ##### Spiral Order and introduction to Alchemy
 
-Based on [Kora's dialogue](https://wiki.spiralknights.com/Welcome_to_Haven!#Dialogue): `Lastly I need to get you up to speed on something called 'energy.' its very important to your mission here on Cradle` ([Welcome to Haven](https://wiki.spiralknights.com/Welcome_to_Haven)), it can be argued that the concept of energy might be unique to Cradle, but based on presence of energy symbol across Spiral Order equipment, _such as turrets and handguns_, it might be a case of the initial rank members of Spiral Order lacking access or the information about the concept of energy, since those [devices were deployed](https://wiki.spiralknights.com/Mecha_Turret) as early as the first night in the [Resque Camp](https://wiki.spiralknights.com/Rescue_camp).
+Based on [Kora's dialogue](https://wiki.spiralknights.com/Welcome_to_Haven!#Dialogue): `Lastly I need to get you up to speed on something called 'energy.' its very important to your mission here on Cradle` ([Welcome to Haven](https://wiki.spiralknights.com/Welcome_to_Haven)), it can be argued that the concept of energy might be unique to Cradle, but based on presence of energy symbol across Spiral Order equipment, _such as turrets and handguns_, it might be rather a case of those _developments existing prior to discovery of Cradle_, as this machinery most likely came from Skylark since those [devices were deployed](https://wiki.spiralknights.com/Mecha_Turret) as early as the first night in the current version of the [Resque Camp](https://wiki.spiralknights.com/Rescue_camp).
 
-That could be a plausible solution, considering Spiral Order is a military organization, and, by extensions, yet to be discussed Isorans, as they are in a state of existential war with Morai. And then they have managed to exist for a long period of time, as likely evident by the celestial costume sets: `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)), concept of energy seems to be adjusted and incorporated into their designs and culture to be present before Cradle. As far as this argument goes, it requires further elaboration, while here it is mostly ment to outline the relation knights have with energy.
+That could be a plausible explanation, albeit one which does not yet conflict with established Spiral Order considering it being a military organization, and, by extension, yet to be discussed civilization, exists in the context of an existential war with Morai. And then both have managed to exist for _a long period of time_, as suggested by the [Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit): `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations`.
 
-This idea of undisclosed information and granted access based on rank, we suggest, is seen in the introduction of first special damage type: `It seems the closer monsters get to the Core, the more their unique properties begin to surface. In most cases this takes the form of their being able to inflict special damage types that require special defenses in order to withstand properly. In Tier 2, a monster inflicting a special damage type will always produce a split normal/special damage output. Thus, normal defense is still a somewhat valid defense choice` ([Pierce of Cake - Hahn](https://wiki.spiralknights.com/Pierce_of_Cake)). The idea, that biotechs are aware of those damage types, - shadow, elemental, and specifically piercing damage, as it is found in [cobalt line of armors](https://wiki.spiralknights.com/Cobalt_Armor) - have a capacity to be called speial, makes them by definition as such, special.
+Given this context, concept of energy seems to be adjusted and incorporated into their designs and culture before being introduced to Cradle. As far as this argument goes, it requires further elaboration, while here it is mostly meant to outline the general relation knights have with energy.
+
+##### Introduction of Special Damage Types
+
+As for the military organization of Spiral Order itself, it is worth noting a particular method new information on special demage types is introduced, specifically, based on the rank or position in the order:
+
+- `Now that you are undertaking missions in 'Tier 2' of the Clockworks, monsters will begin inflicting special damage types that you need to be aware of and prepare for or else you could face certain doom! One of our lead Biotechs, Hahn, has prepared a brief lesson on piercing monsters. Speak with him via com link before taking on any further missions` ([Pierce of Cake](https://wiki.spiralknights.com/Pierce_of_Cake)).
+- `Hello there, ... Spiral HQ has informed me that you will be needing a quick lesson in the species of monsters within the Clockworks that inflict piercing damage, yes?` ([Pierce of Cake - Hahn](https://wiki.spiralknights.com/Pierce_of_Cake)).
+- `It seems the closer monsters get to the Core, the more their unique properties begin to surface. In most cases this takes the form of their being able to inflict special damage types that require special defenses in order to withstand properly. In Tier 2, a monster inflicting a special damage type will always produce a split normal/special damage output. Thus, normal defense is still a somewhat valid defense choice` ([Pierce of Cake - Hahn](https://wiki.spiralknights.com/Pierce_of_Cake)).
+
+The idea, that biotechs are aware of those damage types, -- shadow, elemental, and specifically piercing damage, as it is found in [cobalt line of armors](https://wiki.spiralknights.com/Cobalt_Armor) -- have a capacity to be called speial, makes them by definition as such, special in relation to other damage, which is considered normal.
+
+##### Emptied Energy Symbol
 
 Noting here, energy is also utilized by knights in 2 more areas across Clockworks proper:
 
@@ -327,13 +339,26 @@ The symbol of energy used by the Spiral Order has 2 elements to it, in detail ob
 - The knight's energy counter, when it reaches 0, becomes __dark red__.
 - The [auto turrets](https://wiki.spiralknights.com/Mecha_Turret#Auto_Turret) of Spiral Order, when they are deactivated, have the same, __positioned vertically and red energy symbol__.
 
-We will refer to this variation of energy symbol as inverted for the consistency of our terminology.
+We will refer to this variation of energy symbol as _inverted_ for the consistency of our terminology.
 
-Here, we would propose a potential link of energy - as a universal or close to one, medium, - and Spiral Order to alchemy, based on the [Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners) mission description and dialogue: `Alchemy is a craft mastered by the Spiral Knights that allows for the inherent powers of various materials to awaken and fuse with each other in order to form powerful, new items! The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries. ... That's because every time you transmute an item through alchemy, there is a chance you can get one of several Unique Variants that makes your item much more powerful!` ([Alchemy for Beginners - Bosco](https://wiki.spiralknights.com/Alchemy_for_Beginners#Dialogue)).
+#### Introduction of Alchemy
 
-This description of an `inherent power` we will keep track of, as it both constructs the foundation for this version of alchemy as a tool, as well suggests a set of symbolic, supernatual, or metaphysical principles for this reality to accommodate for a scope of the select, currently unidefined alchemical concepts, as ones having a foundation in Spiral Knights' metaphysics, rather than being a precursor to chemistry.
+Here, we would assess a potential link of energy -- as a universal or close to one, medium, -- and Spiral Order to alchemy through energy's currently recognized application and references, such as the above [design of lack of energy](#emptied-energy-symbol).
 
-We will consider this in-universe concept of alchemy as one inspired by the real-world many western and eastern interpretations of alchemy, while preserving the core goals of alchemy independent of the setting, even a futuristic one. The existence of many conflicting interpretations of alchemy is also one inherent property we should keep in mind:
+As energy is tied to the act of transmutation in alchemy machines, it is worth noting the text where alchemy was introduced proper: [Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners) mission description and dialogue:
+
+- `Alchemy is a craft mastered by the Spiral Knights that allows for the inherent powers of various materials to awaken and fuse with each other in order to form powerful, new items! The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries` ([Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners)).
+- `It's pretty simple stuff really, thanks to these Alchemy Stations. They do all the heavy lifting for ya! That's because every time you transmute an item through alchemy, there is a chance you can get one of several Unique Variants that makes your item much more powerful!` ([Alchemy for Beginners - Bosco](https://wiki.spiralknights.com/Alchemy_for_Beginners#Dialogue)).
+
+Those descriptions _suggest that Alchemy stations are built by civilization_ to which Spiral Order biologically belongs. The knownledge of alchemy is deep enough to incorporate it, as energy for powering the weaponry, for military use for members of Spiral Order. But, as there is a variable of Unique Variats, this process may likely be not completely understood in order to maximize efficiency of weapons -- and the effiency of those Unique Variants, which are labeled by Spiral Order, -- is diegetic, as their amplified properties are significant enough to attain them.
+
+In regards to unknown potentioal of alchemy, there is a [Mysterious Alchemy Machine](https://wiki.spiralknights.com/Mysterious_Alchemy_Machine), which is on itself a massive topic of discussion, given its contents, design and context. We will keep this idea of source of alchemy on Cradle for further discussion, but for now current introduction will suffice.
+
+##### Reconstruction of Alchemy
+
+Referencing the description of [Alchemy for Beginners](https://wiki.spiralknights.com/Alchemy_for_Beginners): `Alchemy is a craft mastered by the Spiral Knights that allows for the inherent powers of various materials to awaken and fuse with each other in order to form powerful, new items! The Spiral Order has relied on alchemy as their primary means of creating the very arsenals that Knights have relied upon for centuries`, the term of `inherent power` will be kept track of, as it offers the foundation for _this Universe's version of alchemy as a tool_, as well suggests a set of symbolic, supernatual, or metaphysical principles for this reality to accommodate for a scope of the select, currently unidefined alchemical concepts, as ones having a foundation in Spiral Knights' metaphysics, rather than being a precursor to chemistry as it is in the present reality.
+
+We will consider this in-universe concept of alchemy as one inspired by real-world many western and eastern interpretations of alchemy, while preserving the core goals of alchemy independent of the setting, even a futuristic one. The existence of many conflicting interpretations of alchemy and nature of those is also one inherent property we should keep in mind:
 
 <BookCitation source="Psychology and Alchemy - Carl Jung">
 
@@ -347,23 +372,33 @@ We will consider this in-universe concept of alchemy as one inspired by the real
 
   ...
 
-  The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery— his own unknown psychic background—into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.
+  The real nature of matter was unknown to the alchemist: he knew it only in hints. In seeking to explore it he projected the unconscious into the darkness of matter in order to illuminate it. In order to explain the mystery of matter he projected yet another mystery — his own unknown psychic background — into what was to be explained: Obscurum per obscurius, ignotum per ignotius! This procedure was not, of course, intentional; it was an involuntary occurrence.
 
 </BookCitation>
 
-This introduces a notion of Spiral Order's alchemy _being a studied and semi-predictable phenomenon_, a complete inverse of its real-world counterpart. With this taken in consideration, as well as familiarity of Spiral Order with the process of transmutaion weather or not it uses Orbs of Alchemy, we can make a guess that Spiral Order is familiar to alchemy on the same level, as energy, both being _not particularly new concepts_ to their civilization.
+This introduces a notion of Spiral Order's alchemy _being a studied and semi-predictable phenomenon_, an inversion of its real-world counterpart, now used _to consistently procude utilities_, primarily weapons.
 
-While we do hint at the conflicting existence of Alchemy Stations across Clockworks, we will not yet discuss them now, only acknowledging their existence on Cradle.
+With this taken in consideration, as well as familiarity of Spiral Order with the process of transmutaion weather or not it uses Orbs of Alchemy, we can make a guess that Spiral Order is familiar to alchemy on the same level, as energy, both being __not novel concepts to their civilization__.
+
+While we did hint at a conflicting existence of Alchemy Stations across Clockworks, ending in the [Sanctuary Alchemy Machine](https://wiki.spiralknights.com/Sanctuary_Alchemy_Machine) with its compound design, we will not yet discuss those elemnts now, only acknowledging their existence on Cradle.
 
 #### Energy of the Core
 
-Meanwhile, as its is implied that the Core itself is the energy source, a suggestion could be made, that it is the space within the Core, either Whitespace itself or some other location hidden within the Core is the real source of energy, from which energy is supplied and then distributed across Clockworks through the boundary of the Core.
+Meanwhile, as its is implied that the Core itself is the energy source, a suggestion could be made, that it is the space within the Core, either [Whitespace](#environment-of-the-core-whitespace) itself or unknown location hidden within the Core is the precise source, from which energy is supplied and then distributed across Clockworks through the boundary of the Core. This approach leverages the potential of _Clockworks as a planet-scale megastructure_ with its multifaceted complexity as a machine requiring maintanance and fuel.
 
-The fact that the knights contribute energy to an elevator in its required amount, while Spiral Order is not native to Cradle, makes energy seem as more of a universal property. By tht we mean, that Spiral Order and gremlin technology, such as [mecha knights](https://wiki.spiralknights.com/Mecha_Knight#Mecha_Knight_Kit) and in lesser manner elevators, as creations of different civilization, would initially seem not to be able to operate on the same if not more advanced resource belonging to Spiral Order, as well as allow for knights to power dormant constructs around Clockworks, but, they do, _suggesting energy being universally distibuted and recognized_. While this most certainly can be explained by out-of-universe game design principles, we operate in terms of this universe existing through those mechanics, not defying them, but exploring them and accepting them as laws.
+The fact that the knights contribute energy to elevators in its required amount, while Spiral Order is not native to Cradle, makes energy seem as more of a universal resource.
 
-This creates a precedent, that energy is neither strictly gremlin nor Spiral Order invention, but a universal property, into which both civilization can tap into though their respective technology. And if it is a universal property, Whitespace could also be of similar nature, if not its more unknown form, given that it exists within the Core, protected or contained, in a similar manner to [Energy Wells](https://wiki.spiralknights.com/Energy_Well).
+By that we suggest, that Spiral Order and gremlin technology, such as [mecha knights](https://wiki.spiralknights.com/Mecha_Knight#Mecha_Knight_Kit) and in lesser manner elevators -- as creations of a different civilization, -- would initially seem not to be able to cooperate on the same if not more advanced resource, they do.
 
-Despite earlier separation on Crystal and Mist Energy, and later emergence of unified measure of Energy in-game, at current level of detail it is unimportant to overall cosmology.
+This approach evidently disregards the out-of-iniverrse purpose to provide gameplay elements to Clockworks, we operate in terms of this universe existing through those mechanics.
+
+Such interoperability of energy creates a precedent where it is neither strictly gremlin nor Spiral Order technology, __but a universal property, into which both civilization can tap into though their respective interfaces__.
+
+And if energy in its depiction is a universal property, Whitespace, as the candidate for source of energy from the Core, becomes either an interface to operate with nature of energy, or is its source. In both instances, contents of the Core provide means for energy to be delivered from the Core.
+
+As access to the Core is a significant element of lategame narrative, as Core's access is secured _even without involvement of the Sleeper and Echo Stones_, in a similar manner to [Energy Wells](https://wiki.spiralknights.com/Energy_Well), we have a large area of symbolic meaning and motifs to explore regarding containment of energy both for Spiral Order and Clockworks.
+
+Those properties exist in the context of energy being a scarce resource _now presented in excess amount_ through introduction of Cradle -- a narrative on its own, -- which allows us to observe this aspect of handling, manipulation and accumulation of energy without significant resource-driven limitations.
 
 #### Dragons
 
