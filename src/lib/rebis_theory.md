@@ -501,7 +501,7 @@ There could be only 3 dragon-deities, each representing their element, which wou
 
 - In Norse mythology the creation myth revolves around a defeated giant named Ymir, whose components -- flesh, blood and bones, -- become land, seas and, nootably, mountains and hills.
 
-    The transition of bones to mountains is one we will keep track of as it is not the only instance of North mythology being used.
+    The transition of bones to mountains is one we will keep track of as it is not the only instance of North mythology being used, but also a guidepost towards other symbolic relations united under North mythology, its characters and plots.
 
 - In Hindu mythology, there are three fundamental forces, embodied by Lord Brahma -- the Creator, and the force of creation; Lord Vishnu -- the Preserver and the force of preservation; and Lord Shiva -- the destroyer and an embodyment of the forces of darkness and destruction.
 
@@ -708,7 +708,7 @@ The green color motif may be attributed to several supernatural materials:
   - `A mask said to be crafted in the visage of a venomous fiend. It is infused with a vile essence that is sure to frighten your foes` ([Venom Fiend](https://wiki.spiralknights.com/Fiend_Mask))
   - `A plated mail said to be crafted in the image of a venomous fiend. It comes with a sinister skin suit that pulses with a vile essence` ([Venom Fiend Mail](https://wiki.spiralknights.com/Venom_Fiend_Mail#Venom_Fiend_Mail))
 
-All of those description relate to an inherent _wrongness of the essence, its sick color and putrid nature_, which reminds us, albeit from a diffent source, the thematic siginificance of sickly colors in Robert Chamber's "The King in Yellow" as a manifestation of the particular influence.
+All of those description relate to an inherent _wrongness of the essence, its sick color and putrid nature_, which reminds us, albeit from a diffent source, the thematic siginificance of sickly colors in Robert Chamber's "The King in Yellow" as a manifestation of a particular influence.
 
 As for the plague essence, as its inventory icon being a flame, it can be plausibly tied to the nature of the plague as being not of earthly origin, similar to [Dark Embers](https://wiki.spiralknights.com/Dark_Ember) despite being embers, distinctly separate themselves from natural existence of material relam, as being potentially the source of unnatural fires of Firestorm Citadel in a similar pattern to everfrost being potential source of unnatural frost.
 
@@ -722,26 +722,46 @@ For now, to avoid too much reference to unexplored topic of Almire, it can be sa
 
 ### _Chapter `III` &#160;<br>_ Tortomega
 
-From [dragons](#dragons), referred to as `creatures of legend` (`A mythical shield crafted from the scales of a creature of legend` - [Dragon Scale Shield](https://wiki.spiralknights.com/Dragon_Scale_Shield)), their descendants were born: drakes and potentially wyverns ([Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield)), explored later in its alchemy path:
+As dragons, both european and eastern vision, had existed across many cultures, so were their localized subspecies, such as drakes, wyrms, wyverns and so on.
 
-- `A helmet crafted from the scales of beasts thought to be the descendants of dragons` ([Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm)).
-- `Armor forged from the scales of beasts thought to be descendants of dragons` ([Drake Scale Mail](https://wiki.spiralknights.com/Drake_Scale_Mail)).
+We propose, this relationship is also found in present cosmology, but not in the _symbolic and cultural form of evolution, but rather a biological one_, as if dragons, as they are establsihed to be [essential to the creation myth and cosmology](#creation-myth-dragons-as-cosmic-progenitors), so are wyvern and drakes are tangible species and distant descendants of dragons.
 
-This establishes drakes as descendants of dragons. Here, an important distinction must be made of dragons as they are described in different cultures. Specifically, it is the differences of a _continental european dragon_ and a _celtic dragon_. It will be important in relation to a further discussed [valkyries of heavenly kingdom](#chapter-iv-valkyries-of-heavenly-kingdom), but before that - for understanding of wyverns and drakes as species.
+From [dragons](#dragons), referred to as `creatures of legend` (`A mythical shield crafted from the scales of a creature of legend` - [Dragon Scale Shield](https://wiki.spiralknights.com/Dragon_Scale_Shield)), their descendants were born: drakes and potentially wyverns ([Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield)), explored later in their correponding items' alchemy paths:
 
-Germanic and then northern depictions of dragons are _wingless and limbless serpents_, and european dragons are depicted as _winged creatures with 4 legs and a pair of wings_. Here a comparison with drakon battle sprites must be made. _Drakons - battle sprites, - possess front limbs and occasionally wings or large paws, depending on their evolution_. The consistent element is the jagged jaw and a pair of horns on the back of the head.
+- `A helmet crafted from the scales of beasts thought to be the descendants of dragons` ([Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm))
+- `Armor forged from the scales of beasts thought to be descendants of dragons` ([Drake Scale Mail](https://wiki.spiralknights.com/Drake_Scale_Mail))
 
-It can be argued that dragons' canon form had wings based on [dragon wings accessory](https://wiki.spiralknights.com/Dragon_Wings), although wings of explicitly storm, rage, and frenzy [do differ](https://wiki.spiralknights.com/Wings_of_Rage#Wings_of_Rage), resembling the prismatic, artificial counterpart, whose place of all seem to belong to [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) due to their thematic parity and slimmer build. Presence of wings as well as overall look of drakon battle sprites could suggest that the dragons in question were of european-inspired appearance, as well as recognizing dragons of frenzy, storm and rage as of unique kind.
+This positions drakes as descendants of dragons. Here, an important distinction must be made of dragons as they are described in different cultures. Specifically, it is the differences of a _continental european dragon_ and a _celtic dragon_. It will be important in relation to a further discussed [valkyries of heavenly kingdom](#chapter-iv-valkyries-of-heavenly-kingdom), but before that -- for understanding of wyverns and drakes as separate species.
 
-Wyverns, as a name suggests, are similar to wyrns or Lindworms - another name for _germanic dragons_, - they have _2 limbs and wings_. In western folklore, drakes were considered same as dragons, but over time the term had changed to characterize _drakes as wingless 4-legged smaller creatures_ related to dragons. It is important to note presence of dragons in alchemy - notably within a concept of union of opposites - represented as a caduceus, closely related to god Mercurius, this idea will be later further developed, as currently an overview of dragons is required in relation to other species.
+Germanic and then northern depictions of dragons are _wingless and limbless serpents_. European dragons are depicted as _winged creatures with 4 legs and a pair of wings_, consider Welsh Dragon.
 
-Previously discussed in the [introduction of dragons](#dragons), [Dragon Scales](https://wiki.spiralknights.com/Dragon_Scale) are used in crafting of [Dragon Scale set](https://wiki.spiralknights.com/Dragon_Scale_Mail) and [Omega Shell](https://wiki.spiralknights.com/Omega_Shell).
+Here, a comparison with drakon battle sprites must be made: they possess front limbs and occasionally wings or large paws, depending on their evolution, while the consistent element among their evolutions is the jagged jaw and a pair of horns on the back of the head.
 
-The [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) mentions Tortomega specie: `shield created from the armor of a Tortomega`. As drakes are not considered flying creatures, they could plausibly serve as ancestors of tortoises and then tortomega, connected by being reptilian and following a theme of divine. As tortoises could be considered descendants of dragons in this cosmology, both dragons and tortoises are considered divine in real-world mythology.
+It can be argued that dragons' canon form had wings based on [dragon wings accessory](https://wiki.spiralknights.com/Dragon_Wings), although wings of explicitly storm, rage, and frenzy [do differ](https://wiki.spiralknights.com/Wings_of_Rage#Wings_of_Rage), resembling the prismatic _artificial_ counterpart, whose place of all seem to belong to [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) due to their thematic parity and slimmer build. Presence of wings as well as overall look of drakon battle sprites could suggest that the dragons were of a european design.
 
-The [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise) shield does not use dragon scales in its alchemy, only [Drake Scales](https://wiki.spiralknights.com/Drake_Scale). It seems, that tortoises were related, as reptiles, to drakes and dragons. The presence of [Omega shell](https://wiki.spiralknights.com/Omega_Shell) in the same alchemy path from [drake scale shield](https://wiki.spiralknights.com/Drake_Scale_Shield) and direct upgrade of [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise), may be a hint at tortomega's ancestry.
+Wyverns, as a name suggests, are similar to wyrns or Lindworms -- another name for _germanic dragons_, -- they have _2 limbs and wings_.
 
-As descendants of dragons, tortomega were resistant to fire: `A shield alchemized from the shell of a tortodrone. The plates used in its construction provide some protection against the elements of fire and freeze` ([Primal Shell](https://wiki.spiralknights.com/Primal_Shell)). Frost is reminiscent of Blinding Abyss and Underworld, but also of real-world tortoises being cold-blooded species and, potentially, referring to s specific tortoise species which live in a cold climate. It is also here we point out ability of tortoise to hibernate in winters, similar to a tortodrone migration: `Now, the tortodrones are being called on the Long Migration. Even the Strangers do not know the reasons for this mysterious event but these giant, robotic tortoises can be glimpsed traveling through the clockworks` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)).
+In western folklore, drakes were considered same as dragons, but over time the term had changed to characterize _drakes as wingless 4-legged smaller creatures_ related to dragons. It is important to reintroduce presence of dragons in alchemy -- notably within a concept of union of opposites, -- represented as a caduceus and deep relation to god Mercurius.
+
+#### Omega Shell and Tortomega
+
+Previously discussed in [introduction of dragons](#dragons), [Dragon Scales](https://wiki.spiralknights.com/Dragon_Scale) are used in transmutation of [Dragon Scale set](https://wiki.spiralknights.com/Dragon_Scale_Mail) and [Omega Shell](https://wiki.spiralknights.com/Omega_Shell).
+
+The [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) introduces Tortomega specie: `shield created from the armor of a Tortomega`. The precursor of Omega Shell, the [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise) shield does not use dragon scales in its alchemy, but [Drake Scales](https://wiki.spiralknights.com/Drake_Scale), implying a relation between drakes and trotoises. Drakes are already knonw to be descendants of dragons through [Drake Scale Mail](https://wiki.spiralknights.com/Drake_Scale_Mail): `Armor forged from the scales of beasts thought to be descendants of dragons`.
+
+By this logic, it seems, that tortoises were related, as reptiles, to drakes and dragons. The presence of [Omega shell](https://wiki.spiralknights.com/Omega_Shell) in the same alchemy path from [drake scale shield](https://wiki.spiralknights.com/Drake_Scale_Shield) and direct upgrade of [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise), may be a hint at tortomega's ancestry, as one reflected in the alchemy path itself.
+
+As drakes are not considered flying species, they could plausibly serve as ancestors of _tortoises_ and then _tortomega_, connected by being a primarily terrestrial reptilian descendants of dragons.
+
+With this relation in mind, we will propose, that __tortoises are terrestrial descendats of drakes__ and __tortomega are desdendants of tortoises__. While we do not know the apperances of the latter species, we can rely on other sources to make plausible suggestions.
+
+#### Tortomega through Torodrone
+
+By existence of tortodrones, we can connect tortodrones, tortomega and tortoises as related by their naming convension stemming from tortoises.
+
+On top of this relation we have proposed tortoises to be ancestors of tortomega. It is then a relation between teromega and tortodrones -- wherein tortodrones are artifical constructs of unknown origin, are depicted as __athropomorphic bipedal tortoises__. Given their mechanical nature and convention of drones, could they immitate to a degree anatomy of tortomega, as, potentially, bipedal tortoises -- a civilization of sapient tortoises and potetial creators of the tortodrones? While we won't commit to thise interpretation, the surface-level symbbolism and relation is one we will keep track of.
+
+As descendants of dragons, tortomega were resistant to fire: `A shield alchemized from the shell of a tortodrone. The plates used in its construction provide some protection against the elements of fire and freeze` ([Primal Shell](https://wiki.spiralknights.com/Primal_Shell)). Frost is reminiscent of Blinding Abyss and Underworld, but also of real-world tortoises being cold-blooded species and, potentially, referring to specific tortoise species which live in a cold climate. It is also here we point out ability of tortoise to hibernate in winters, similar to a tortodrone migration: `Now, the tortodrones are being called on the Long Migration. Even the Strangers do not know the reasons for this mysterious event but these giant, robotic tortoises can be glimpsed traveling through the clockworks` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones)).
 
 We propose, that tortomega are the separate, conscious specie, comprising the civilization, responsible for creation of tortodrones. As tortoises are positioned as different specie from tortomega, as it is implied that a significant difference exists for that distinction to be made within the alchemy path. It can be anything starting from anatomical differences, to habitat, or other evolutionary traits as far as drakes differ from tortoises. The name "tortomega" has a postfix of "mega", which must be inspected.
 
