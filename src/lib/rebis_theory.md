@@ -461,7 +461,7 @@ There are also [harnesses](https://wiki.spiralknights.com/Harness), which allow 
 
 As normal damage is identified by iron harness, there might exits a connection between rage and iron, -- for this we will keep track of other peculiar appearances of iron as a symbol, as well as emerging meaning and application of crystalls.
 
-Then there are crystalls. Crystalls, as, most likely, minerals across Clockworks, attain themes and motif of those minerals and ideas they represent. Specifically in the context of this elemental-piercing relation to storms and divinity, the design of gold keys within the Whitespace is strikingly different, as the _keys there are gold or luminite crystalls_. As if their all-encompassing nature, similar to elemental damage, went beyond status effects and had found itself both in darkness or frenzy -- as dark matter (`A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness` [Dark Matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter)) -- and, potentially, in divinity, as luminite outside of Whitespace designs (`A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it` [Luminite](https://wiki.spiralknights.com/Luminite#Luminite)), and, much later in the analysis of Whitespace and Sleeper, in divinity, which is itself a common theme of items crafted with [Light Shards](https://wiki.spiralknights.com/Light_Shard).
+Then there are crystalls. Crystalls, as, most likely, minerals across Clockworks, attain themes and motif of those minerals and ideas they represent. Specifically in the context of this elemental-piercing relation to storms and divinity, the design of gold keys within the Whitespace is strikingly different, as the _keys there are gold or luminite crystalls_. As if their all-encompassing nature, similar to elemental damage, went beyond status effects and had found itself both in darkness or frenzy -- as dark matter (`A fabled mineral dark and ominous in color said to contain the essences of both chaos and nothingness` - [Dark Matter](https://wiki.spiralknights.com/Dark_Matter#Dark_Matter)) -- and, potentially, in divinity, as luminite outside of Whitespace designs (`A fabled mineral of a radiant, golden color said to contain the faith, wisdom, and zeal of the life surrounding it` - [Luminite](https://wiki.spiralknights.com/Luminite#Luminite)), and, much later in the analysis of Whitespace and Sleeper, in divinity, which is itself a common theme of items crafted with [Light Shards](https://wiki.spiralknights.com/Light_Shard).
 
 Those combinations of meanings and symbols, we propose, open up a possibility of natural connection, __as if the elements of frenzy, storms, and rage came from a different culture__, a _pagan interpretation of primordial forces from a different time_, distinct yet similar to modern definitions.
 
@@ -567,122 +567,152 @@ Given already present themes of alchemy as an _in-unvierse mechanic with an unde
 
 ### _Chapter `II` &#160;<br>_ Underworld
 
-Within Underworld fiendish ecosystem develops. Devilites emerge as one of conscious species, and over time develop a society, existing, as currently known, within corporations. One such corporation is named Undercorp and is related to material realm (`Assistant Supervisor of Resource Allocations, Undercorp` - [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)) through its presence in the [Ancient Grove](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove).
+Within Underworld fiendish ecosystem develops. Devilites emerge as one of conscious species, and over time develop a society, existing, as currently known, within corporations. One such corporation is named Undercorp and is related to material realm (`Assistant Supervisor of Resource Allocations, Undercorp` -- [Morgral'm](https://wiki.spiralknights.com/Morgral%27m)) through its presence in the [Ancient Grove](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove).
 
-Underworld is not devoid of elements. Based on fiendish biology and elemental alignment of devilites, subdivisions are formed within the corporate structure:
+Underworld is not devoid of elements of material realm, identified by common [status effects](https://wiki.spiralknights.com/Status_effect). Based on fiendish biology and elemental alignment of devilites, _subdivisions_ are formed within the corporate structure:
 
 - Shock-themed devilites form Undercorp's IT department ([Devil-IT](https://wiki.spiralknights.com/Devilite#Devil-IT))
 - Freeze-themed Layoafers [Layoafer](https://wiki.spiralknights.com/Devilite#Layoafer), they are later be trying to establish its own organization at Cradle, separate from Undercorp ([Fiendish Memo](https://wiki.spiralknights.com/Morgral'm)) with Maulos, a trojan, summoned for unknown means
-- [Firebranders](https://wiki.spiralknights.com/Firebrander#Firebrander) do use magic in order to form fireballs. Their name suggest a branding with fire of others, alluding to form of branding with a hot iron. This symbolism in the context of a corporate setting may be alluded to those devilites being Undercorp security.
+- [Firebranders](https://wiki.spiralknights.com/Firebrander#Firebrander) do use magic in order to form fireballs. Their name suggest a branding with fire of others, alluding to form of branding with a hot iron.
 
-Most of overtimers have unique fiendish weaponry - pitchforks and axes, which have a peculiar property of being made of stone-like mineral with visible cracks in areas of connection. The color aligns with base elemental status effects found across Cradle, apart from curse.
+Most of overtimers have unique fiendish weaponry - pitchforks and axes, which have a peculiar property of being made of __stone-like mineral with visible colored cracks in areas of connection with the center being completely removed__. The color aligns with base elemental status effects found across Cradle, apart from curse.
 
-The curse status is absent as well as its imagery. Weapons, which do not belong to any status effect have pink color and deal only normal damage. This will be kept in mind for the [intermediate analysis of the curse section](#intermission-analysis-of-curse).
+The curse status is absent as well as its imagery related to an eye. Weapons, which do not belong to any status effect have pink color and deal only normal damage. This will be kept in mind for the [intermediate analysis of the curse section](#intermission-analysis-of-curse), as color pink is particularly common across curse-infused materials and equipment. Could it be, that the curse is a natural state of existence for Underworld, and it is only identified as curse once it enters or intersects with the material realm?
 
 Layoafers and Blarfuls in relation to the rest of corporate hierarchy do not seem to fit in it, rather being outside of it.
 
 #### Dark Cities
 
-Devilite society is developed enough for corporations to exist, and even considered that devilites were from a different intellectual property, they still remain weaved into Spiral Knights cosmology and setting.
+Devilite society is developed enough for corporations to exist, and even considered that devilites were from a different intellectual property, they remain in Spiral Knights' cosmology and setting.
 
 It is suggested by Spiral Order, that devilites within dark cities are stranded on Cradle: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us ... Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
 
-Devilites being stranded could mean both spacial and dimensional dislocation, as they had not, compared to Skylark, arrived to Cradle through interstellar travel, but rather summoned or captured with the cities themselves, if dark cities belong to them.
+Devilites being stranded could mean both _spacial and dimensional dislocation_, as they had not, compared to Skylark, arrived to Cradle through interstellar travel, but rather summoned or captured with the cities themselves, if dark cities belong to them.
 
-It is also unknown for now weather metaphysics of Cradle itself is the reason for spirits returning into material realm and devilites being stranded - both cases relating to cross-realm transition between material realm and likely Underworld. Moreover, devilites do continuous research to bring back legion of Ur, so the fact they had to use ritual circles as the last measure as suggested by [The Return of Ur]() mission's description `an alternative approach would be required for bringing them back`, implies that the original method is different, one we believe is of Grim Gates, as it is the only other known method of transportation related to devilite technology.
+This state of being stranded can be rephrased as follows:
 
-With a high certainty we gather that ritual circles are utilized to summon trojans from the Underworld, as implied by depths' names and their level design - [Plazamonium](https://wiki.spiralknights.com/Dark_City/Plazamonium) is referred in the [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur) as the `Summoning Circle`, followed by the [`Banishment`](https://wiki.spiralknights.com/The_Return_of_Ur#Gate_Map), relating to a popularized idea of entities being summoned from an abstract "beyond". Likely, in the case of the Spiral Knights setting, this location is established to be the Underworld.
+- Devilites come from a different dimensions, Cradle disallows transition between realms
+- Devilites come from material realm, Cradle, through its defences disallows devilites to leave the planet
 
-If the cities were excavated and later integrated into Cradle, devilites by fact of crossing to material realm, should have the technology that would allow them to move back to Underworld, unless it is a one-way operation. The existence of such technology may be affirmed by presence of Grim Gates, which seem to lead to other dark cities.
+It is also unknown for now weather metaphysics of Cradle itself is the reason for spirits returning into material realm and devilites being stranded - both cases relating to cross-realm transition between material realm and, likely, Underworld.
 
-Yet it is unknown weather those places - dark city's interior, depicted in active Grim Gates portals - are located on Cradle or in the Underworld, or if Grim Gates are so rare that devilites had to utilize regular summoning as in case of Legion of Ur, separate from the events of March of Tortodrones, when those gates are found. Moreover, it could be the case of Legion of Ur being "sealed" - which would potentially forbid Grim Gates from allowing them to pass through. We will analyze and identify those laws of transportation in detail, as for now we group them in order to perceive the general scale of Underworld's presence on Cradle.
+Moreover, devilites do continuous research to bring back legion of Ur, so the fact they had to use ritual circles as suggested by [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur) mission's description -- `an alternative approach would be required for bringing them back`, -- implies that the original method is different, one we will preemptively propose to be of Grim Gates, as it is the only other known method of transportation related to devilite technology, and the only one depicting the devilite corporate hierarchy on its stonework, among other factors later discussed in relation to [Undercorp's presence on Cradle](#grim-gates).
 
-Based on ideas of battle sprite relating to Cradle or pre-Cradle history, it can be possible for Core being involved in the process of tempering with realms within the space taken up by Cradle. It must be kept in mind as it is a highly anomalous behavior from Spiral Order point of view, at the same time suggesting that Spiral Order knows about existence of spirits to some degree.
+With a high certainty we gather that ritual circles are utilized to summon trojans from the Underworld, as implied by depths' names and their level design: [Plazamonium](https://wiki.spiralknights.com/Dark_City/Plazamonium) is referred in the [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur) as the `Summoning Circle`, followed by the [`Banishment`](https://wiki.spiralknights.com/The_Return_of_Ur#Gate_Map), relating to a popularized idea of entities being summoned _from a dimension metaphysically above or beyond, or, from below_. Most likely, in the case of the Spiral Knights setting, this location is established to be Underworld.
 
-In Heart of Ice, it is stated that city of Amu-Sol belongs to devilites, and has name similar to [fiendish glyphs](https://wiki.spiralknights.com/Fiendish_ID_Card#Recipe), ones used to power grim gates - of `Ur`, `Tor`, `Nok`, `Sol`, `Amu`. It is likely that the city itself is of Underworld origin given its name, and was not originally in that shattered state in which it is found, unless the names of the cities were given by devilites after they occupied them, which seems less plausible. For the most part, from the standpoint of corporate theme of devilites, those cities seem to be devilites' main habitat and we will assume them belonging to devilites, rather than any currently undisclosed civilization. This will be our current assumption.
+If the cities were excavated and later integrated into Cradle devilites by fact of crossing to material realm should have the technology that would allow them to move back to Underworld, unless it is a one-way operation. The existence of such technology may be affirmed by presence of Grim Gates, which seem to lead to other dark cities as observed by the environment within its active portal.
 
-Another city, Sol' Fork, has already established naming pattern: `After Recon Knights discovered a fiendish city known as Sol' Fork, Spiral HQ deployed a research team to station itself in the heart of the city and study the devilites within. Their finding have become the basis for our understanding of devilite culture and their motives for working with gremlins` ([Whipping and Mishandling](https://wiki.spiralknights.com/Whipping_and_Mishandling)).
+It is also unknown weather those places -- dark cities' interior, depicted in active Grim Gates portals, -- are located on Cradle or in the Underworld, or weather Grim Gates are rare enough that devilites had to utilize regular summoning circles as in case of events of Legion of Ur, separate from the events of "March of Tortodrones," where those gates are found.
+
+Moreover, it could be the case of Legion of Ur being "sealed," which would potentially forbid Grim Gates from allowing them to pass through. We will analyze and identify those laws of transportation in detail, as for now we group them in order to perceive the scale of Underworld's presence on Cradle.
+
+The narratives of deveilites being stranded, of Legion of Ur being sealed, and of spirits returning to material realm are united in their unknown inception, weather in each case a diffent metaphysical law is present or the Core's influence is responsible for those events.
+
+In [Heart of Ice](https://wiki.spiralknights.com/Heart_of_Ice), it is stated that city Amu-Sol belongs to devilites - `Freak snowstorms and blizzards have begun surging through the depths seeming to originate from an inhospitable, fiendish city known as 'Amu-Sol'`, and has name similar to the names of [fiendish glyphs](https://wiki.spiralknights.com/Fiendish_ID_Card#Recipe), which are related to grim gates: `Ur`, `Tor`, `Nok`, `Sol`, `Amu`.
+
+Another devilite city -- `Sol' Fork`, -- also shows an already established naming pattern: `After Recon Knights discovered a fiendish city known as Sol' Fork, Spiral HQ deployed a research team to station itself in the heart of the city and study the devilites within. Their finding have become the basis for our understanding of devilite culture and their motives for working with gremlins` ([Whipping and Mishandling](https://wiki.spiralknights.com/Whipping_and_Mishandling)).
+
+It is as possible for the city to be of Underworld origin given their name, as much as the names of the cities were given by devilites after they have occupied them.
 
 There was a successful operation of bringing both Maulos and everfrost pillar into Underworld, suggesting that some connection, maybe even to a small degree, remains on Cradle, as [Morgral'm's communications](https://wiki.spiralknights.com/Morgral%27m) suggest. How grim gates operate in this context we will analyze closer in [later chapter](#arrival-of-undercorp).
 
-At the same time, another proposal in creation to dark cities could be made - as Cradle is implied to collect and integrate other planets, had it integrated some dark cities from a devilite colony from a different planet? This can seem plausible, as it does not change our proposal of dark cities belonging to devilites, and their main base of operation - Undercorp - being located in the Underworld, with the Core functioning as a potential disruption to Undercorp operations, hindering transportation between the realms.
+From the standpoint of corporate themes of devilites, those cities seem to be devilites' main habitat. For now, we will _assume the cities to belong to devilites_, rather than any currently undiscovered civilization. _This will be our current assumption_.
 
 #### Influences of Underworld
 
-The notion is of trojans being summoned by devilites, as described in [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur): `devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur', and are said to have once numbered in the thousands. Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back`, can be viewed in the context of Maulos, as, by the fact of him being a trojan, a chain of events had to transpire in order for Maulos to be created - a unique fiend with relation to everfrost, so far as it is imbued into him in place of the supposed dark matter shard of trojans.
+The notion is of trojans being summoned by devilites, as described in [The Return of Ur](https://wiki.spiralknights.com/The_Return_of_Ur): `devilites are attempting to summon a legion of powerful trojan warriors. Based on intel from a devilite internal memo, the trojans are known as the 'Legion or Ur', and are said to have once numbered in the thousands. Strangely, the memo indicated that the Legion of Ur was sealed away in the Underworld and that an alternative approach would be required for bringing them back`, must also be viewed in the context of Maulos, as by the fact of him being a trojan, a sequence of events had to happen in order for Maulos to be created -- a unique fiend and a trojan with affinity to everfrost, as far as everfrost being an essential component of trojan's nature, being impaled by it _in place of the supposed dark matter shard_ found among trojans.
 
-Actions of Maulos and his supposed cult of devilites seem to be not approved by Undercorp:
+Actions of Maulos and his forming cult of devilites is not approved by Undercorp:
 
 - `The entirety of Amu-Sol is swarming with frozen souls and deep within the heart of the city lies the source of it all: the cult's powerful leader, Maulos and a towering column of pure everfrost.` ([Patch Notes: Heart of Ice](https://forums.spiralknights.com/en/node/61137))
 - `You are receiving this mail as a result of an incorrect/cryptic entry in your recent resource allocation request` ([Heart of Ice - Amu-Sol - Fiendish Memos (from Morgral'm)](https://wiki.spiralknights.com/Morgralm))
 
-The operation within the Amu-Sol seemingly went in a different direction, as it was not approved by Undercorp at least at that point in time, as not being related to devilites' attempts to bring back legion of Ur at least at that point in time and cult's progression.
+The operation at Amu-Sol seemingly went in a different direction, as it was not approved by Undercorp at least at that point in time. As far as presence of maulos suggests, the initial activity within Amu-Sol could have been one related to devilites' attempting to bring back Legion of Ur.
 
-While this idea of Maulos being potentially related to the general plot of Legion of Ur, we will return to them later in the detailed analysis of their nature. As for now, as we make introductory coverage of most Underworld-related entities, and organized at that, we have to point out thematic parallel which can be drawn between the general narratives of:
+While this idea of Maulos being potentially related to the general plot of Legion of Ur, we will return to it later in the detailed analysis of trojans' nature.
 
-- Maulos, as a trojan, different from the rest of Legion of Ur
-- Maulos's unnatural power of frost: `HR has requested an updated org chart as soon as possible. It is our understanding that all Pit Boss duties, administrative and otherwise, have been turned over to a 'Maulos of the Eternal Frost,'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol))
-- Source of unnatural frost being related to [everfrost](https://wiki.spiralknights.com/Everfrost): `A small patch of ice crystals that never seem to melt, even when exposed to direct heat`.
-- [Blinding Abyss](#blinding-abyss) as the implied location from which Maulos originates, metaphorical or literal
-- [Perma-frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur) as deathless and fierce evolutions of [frostifurs](https://wiki.spiralknights.com/Frostifur#Frostifur) and far more powerful than [Alpha-Frostifurs](https://wiki.spiralknights.com/Frostifur#Alpha_Frostifur), relating to themes of permafrost - a classification for a permanently frozen ground under cold climate.
-- Trojans
-- Underworld, as it is the source of the Everfrost Pillar: `You are receiving this mail as a result of an incorrect/cryptic entry in your recent resource allocation request. Please provide a detailed summary of your projected use of the following requested resources:
-... A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol)) and is the only known entity to utilize everfrost for its soul-holding power: `The intel we've collected so far suggests that fiends utilize large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison. ... It would seem that Maulos, that horrible arch-fiend you just took down, had a different use in mind and was actually destroying this everfrost to unleash swarms of angry, frozen souls into the Clockworks.` ([Heart of Ice - Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Everfrost_Tower)).
+As for now, as we make semi-introductory coverage of most Underworld entities, we will point out a particular parallel between Maulos and Lord Vanaduke, as we will find a lot more connection between their narratives:
 
-And later established and explored themes found within:
+- Maulos, as a trojan, is different from the rest of Legion of Ur
 
-- [Lord Vanaduke](#kingdom-of-almire) and his relation to curse.
-- [Curse, Darkfire](#nature-of-darkfire) and [unnatural fires](#king-in-the-mountain) as manifestations of influence not from the material realm.
-- [Dark embers](https://wiki.spiralknights.com/Dark_Ember) as the only material related to the nature of the aforementioned fires as not native to material realm.
-- Identity of [Vog](https://wiki.spiralknights.com/Fang_of_Vog) as a entity related to concepts of transformation and fire.
-- Absent [Vog cubs implied by fiery wolver coat](https://wiki.spiralknights.com/Vog_Cub_Coat) and yet present [ash tail wolvers](https://wiki.spiralknights.com/Wolver#Ash_Tail).
+  - Maulos's unnatural power of frost: `HR has requested an updated org chart as soon as possible. It is our understanding that all Pit Boss duties, administrative and otherwise, have been turned over to a 'Maulos of the Eternal Frost,'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol))
+  - Source of unnatural frost being related to [everfrost](https://wiki.spiralknights.com/Everfrost): `A small patch of ice crystals that never seem to melt, even when exposed to direct heat`
+  - [Blinding Abyss](#blinding-abyss) as the implied location from which Maulos originates, metaphorical or literal
+  - [Perma-frostifurs](https://wiki.spiralknights.com/Wolver#Perma-Frostifur) as deathless and fierce evolutions of [frostifurs](https://wiki.spiralknights.com/Frostifur#Frostifur), and far more powerful than [Alpha-Frostifurs](https://wiki.spiralknights.com/Frostifur#Alpha_Frostifur), relating to themes of permafrost -- a classification for a permanently frozen ground in a cold climate
+  - Trojans
+  - Underworld, as it is the source of the Everfrost Pillar: `You are receiving this mail as a result of an incorrect/cryptic entry in your recent resource allocation request. Please provide a detailed summary of your projected use of the following requested resources:
+  ... A 'towering pillar' of everfrost and 'all the frozen souls it brings forth'` ([Heart of Ice - Amu-Sol - 'Fiendish Memo'](https://wiki.spiralknights.com/Amu-Sol)) and is the only known entity to utilize everfrost for its soul-holding power: `The intel we've collected so far suggests that fiends utilize large deposits of the stuff to trap the souls of the lost within it, like some kind of icy prison. ... It would seem that Maulos, that horrible arch-fiend you just took down, had a different use in mind and was actually destroying this everfrost to unleash swarms of angry, frozen souls into the Clockworks.` ([Heart of Ice - Everfrost Tower - Recon Ranger](https://wiki.spiralknights.com/Everfrost_Tower))
 
-The idea which we will explore is of the source of such influences being located in the Underworld, - influences such as `dark gods`: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods` ([Wicked idol](https://wiki.spiralknights.com/Wicked_Idol)), - not restricted to Vog specifically, rather than making him a most detailed to date example, but in greater scheme **marking Underworld as a major source of unnatural influence onto material realm**, as both Lord Vanaduke's and Maulos's powers have relation to shadow damage, that those powers indeed come from Underworld and deific entities there.
+- [Lord Vanaduke](#kingdom-of-almire) and his relation to curse
 
-It is not confirmed weather all encountered on Cradle devilites work for Undercorp, but if Morgral'm's memos are to be considered in relation to Heart of Ice, March of Tortodrones and Grim Gates, it is rather likely that Undercorp is at the forefront of crossing into material realm and is the one to which Crimson Order outsources given tasks:
+  - [Curse, Darkfire](#nature-of-darkfire) and [unnatural fires](#king-in-the-mountain) as manifestations of influence not from the material realm
+  - [Dark embers](https://wiki.spiralknights.com/Dark_Ember) as the only material related to the nature of the aforementioned fires as not native to material realm
+  - Identity of [Vog](https://wiki.spiralknights.com/Fang_of_Vog) as a entity related to concepts of transformation and fire
+  - Absent [Vog cubs implied by fiery wolver coat](https://wiki.spiralknights.com/Vog_Cub_Coat) and yet present [ash tail wolvers](https://wiki.spiralknights.com/Wolver#Ash_Tail)
+
+The idea, which ties those two unique entities, "lords," exists in the surface nature of the influences to which both entities relate, as being located in the Underworld, -- influences such as `dark gods`: `One of many statuettes carried by fiends as a means of gaining favor with their dark gods` ([Wicked idol](https://wiki.spiralknights.com/Wicked_Idol)), -- not restricted to Vog specifically, rather than making it the most present in the current narrative god, but in greater scheme **rendering Underworld as a major and hidden source of unnatural influence onto material realm**, as both Lord Vanaduke's and Maulos's powers have relation to shadow damage.
+
+It is not confirmed weather all encountered on Cradle devilites work for Undercorp, but if Morgral'm's memos are to be considered in relation to Heart of Ice, March of Tortodrones and Grim Gates, it is rather likely that _Undercorp is at the forefront of crossing into material realm_ and is the one to which Crimson Order outsources given tasks:
 
 - `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
 - `Their finding have become the basis for our understanding of devilite culture and their motives for working with gremlins` ([Whipping and Mishandling](https://wiki.spiralknights.com/Whipping_and_Mishandling)).
 
 #### Fiendish Cults
 
-Through fiend costume sets it is implied that at least 1 tangible deity exist in the Underworld:
+Through fiend costume sets it is heavily implied that at least one tangible deity exist in the Underworld:
 
-- `A mask said to have been worn by fanatics that worshiped a magma god. Its fires will light the path to victory` ([Magmatic Fanatic](https://wiki.spiralknights.com/Fiend_Mask)).
+- `A mask said to have been worn by fanatics that worshiped a magma god. Its fires will light the path to victory` ([Magmatic Fanatic](https://wiki.spiralknights.com/Fiend_Mask))
+
+    In relation to the motif of masks in Spiral Knights, could _Lord Vanaduke's mask be a visage of a fiery deity_, given overall significance of the mask to the bature of Lord Vanaduke's fires?
+
 - `A plated mail said to have been worn by fanatics that worshiped a magma god. Its fires will protect those that are worthy` ([Magmatic Fanatic Mail](https://wiki.spiralknights.com/Magmatic_Fanatic_Mail#Magmatic_Fanatic_Mail)) - [Fire GOOD!](https://forums.spiralknights.com/en/node/111013): `burning things while taking on the visage of a fiery deity of martial prowess`
-- [Vog Slippers](https://wiki.spiralknights.com/Vog_Slippers#Vog_Slippers) may suggest that Vog is a fiendish entity similar in anatomy to a wolver, as it is grouped with slippers of different families of wolvers of [Cozy Prize Box](https://wiki.spiralknights.com/Cozy_Prize_Box), yet there is evidence of this depiction being a vog cub, rather than th e deity itself: `The great fire beast Vog. The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world` ([Forums - Nick Popovich](https://forums.spiralknights.com/en/node/9995#comment-55776)).
 
-Descriptions of magmatic fanatic armor and helm are very reminiscent of the becoming of Lord Vanaduke, latter explored during the [analysis of Lord Vanaduke](#king-in-the-mountain), and we will propose that it the same powerful entity referred in those cosmetics and analysis of Almire's downfall.
+    This is also a peculiar phrasing given context of Lord Vanaduke's trasnformation, as his armor, his nature is tied to fires.
 
-Then, there is a venom fiend:
+- [Vog Slippers](https://wiki.spiralknights.com/Vog_Slippers#Vog_Slippers) may suggest that Vog is a fiendish entity similar in anatomy to a wolver, as it is grouped with slippers of families of wolvers of [Cozy Prize Box](https://wiki.spiralknights.com/Cozy_Prize_Box).
 
-- `A mask said to be crafted in the visage of a venomous fiend. It is infused with a vile essence that is sure to frighten your foes` ([Venom Fiend](https://wiki.spiralknights.com/Fiend_Mask)).
-- `A plated mail said to be crafted in the image of a venomous fiend. It comes with a sinister skin suit that pulses with a vile essence` ([Venom Fiend Mail](https://wiki.spiralknights.com/Venom_Fiend_Mail#Venom_Fiend_Mail)).
+    Yet there is evidence of this depiction being a vog cub, rather than deity itself: `The great fire beast Vog. The great fire beast Vog isn't a wolver himself, but a fiery deity of sorts who embraces some creatures and grants them a bit of power. Vog's 'cubs' are more or less acquired and forced to spread his fiery love across the world` ([Forums - Nick Popovich](https://forums.spiralknights.com/en/node/9995#comment-55776)).
 
-As the design of the armor is closely similar to the Magmatic set, it is plausible to suggest that a fiend referred here is also a deity - we will label it as a Vile deity. To counter this suggestion, we may refer to the similarities of visual effects of celestial sets from [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box).
+    This framing of Vog's influence allows us to momentary think of Vanaduke's discovery of the [Blackened Shrine](#blackened-shrine-and-magma-deity), _as from this cruel deity's perspective_, __Vanaduke did reclaim his kingdom__. In regards to the connection of Vog to Almire's Fall, we will discuss it in greatest detail in a [separate chapter](#chapter-vii-kingdom-of-almire).
 
-To identify those possible deities, other sources must be looked at. Notably, only magmatic and arctic shackles are present across accessories ([Shackles](https://wiki.spiralknights.com/Magmatic_Shackles#Magmatic_Shackles)), which, though a logical leap, can suggest that some power was responsible for their creation involving frost and magma - both of those elements being to an extent related to Underworld and powers which stem from Underworld's influence. The latter, arctic shackles are acquired from the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box), which is related both to eldrich identity of Apocrea, explored in the [arctic plot section](#nefarious-imp-arctic-plot).
+The descriptions of magmatic fanatic armor and helm are very reminiscent of the becoming of Lord Vanaduke, latter explored during the [analysis of Lord Vanaduke](#king-in-the-mountain), and we will propose that it the same powerful entity referred in those cosmetics and analysis of Almire's downfall.
 
-The placement of those cultists and fanatics will be explored in their [relevant section](#discovery-of-vile-deity).
+Then, there is a _venom fiend_:
+
+- `A mask said to be crafted in the visage of a venomous fiend. It is infused with a vile essence that is sure to frighten your foes` ([Venom Fiend](https://wiki.spiralknights.com/Fiend_Mask))
+- `A plated mail said to be crafted in the image of a venomous fiend. It comes with a sinister skin suit that pulses with a vile essence` ([Venom Fiend Mail](https://wiki.spiralknights.com/Venom_Fiend_Mail#Venom_Fiend_Mail))
+
+As the design of the armor is closely similar to the Magmatic set, it is plausible to suggest that a fiend referred here is also a deity -- we will label it as _Vile deity_.
+
+To identify those possible deities, other sources must be looked at. Notably, only magmatic and arctic shackles are present across accessories, other being iron shackles ([Shackles](https://wiki.spiralknights.com/Magmatic_Shackles#Magmatic_Shackles)), which, through a logical leap, can suggest that some power was responsible for their creation involving frost and magma -- both of those elements being to an extent related to Underworld and powers which bend to Underworld's influence. Arctic shackles in particular are acquired from the [Glacial Prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box), which is also related to eldrich identity of Apocrea, explored in the [arctic plot section](#nefarious-imp-arctic-plot).
+
+The role of those cultists will be explored and identified in their [relevant section](#discovery-of-vile-deity).
 
 ##### Graveyards
 
-Relevant to the current context in tracking down influences and presence of Underworld are [graveyards](https://wiki.spiralknights.com/Graveyard).
+Relevant to the current context in tracking down influences and presence of Underworld are [graveyards](https://wiki.spiralknights.com/Graveyard). Within graveyards there are a few distinct features:
 
-Within graveyards there are a few distinct features:
-
-- Some tombstones are cracked and have green essence flowing through the cracks in its surface.
-- Green fires on crypt walls are unique to this location.
-- Graveyards themselves are seem to be located not completely in the material realm, have a motif, later explored in the [Kat Tribe and Kataclysm section](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds.` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
+- Some tombstones are cracked and have green essence flowing through their cracks
+- Green fires on crypt walls are unique to this location
+- Graveyards, as the depths themselves, seem to be located only partially in the material realm. This ethereal motif will be kept track of as we will explore [Kat Tribe and Kataclysm](#chapter-viii-kat-tribe): `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)). Our suggestion consists of those locations being in between material realm and Underworld, and are related to the state Cradle is found, connected with the phenomenon of spirits returning to material realm (`Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds.` - [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness))
 
 The green color motif may be attributed to several supernatural materials:
 
-- `A bit of ectoplasm meticulously collected from an unwilling undead volunteer. its an unpleasant shade of green` ([Ecto Drop](https://wiki.spiralknights.com/Ecto_Drop))
+- `A bit of ectoplasm meticulously collected from an unwilling undead volunteer. Its an unpleasant shade of green` ([Ecto Drop](https://wiki.spiralknights.com/Ecto_Drop))
+
+    The `unpleasant shade of green` is the descripion of that color, which sems to relate in its color an aspect of death, as it is gathered from the undead.
+
 - `A powerful essence left behind when a creature perishes from a particularly putrid disease` ([Plague Essence](https://wiki.spiralknights.com/Plague_Essence))
+- The venom fiend:
 
-The argument behind plague essence, as its icon was chosen to be of a flame, will tie in with the curse and Vanaduke, specifically, [Dark Ember](https://wiki.spiralknights.com/Dark_Ember) being, supposedly, the source of unnatural fires in a similar manner how everfrost is at the foundation of unnatural frost.
+  - `A mask said to be crafted in the visage of a venomous fiend. It is infused with a vile essence that is sure to frighten your foes` ([Venom Fiend](https://wiki.spiralknights.com/Fiend_Mask))
+  - `A plated mail said to be crafted in the image of a venomous fiend. It comes with a sinister skin suit that pulses with a vile essence` ([Venom Fiend Mail](https://wiki.spiralknights.com/Venom_Fiend_Mail#Venom_Fiend_Mail))
 
-Currently, to avoid to much reference to unexplored topic of Almire, it can be safe to suggest, that the essence, that is present within gravestones is the ectoplasm, and, possibly, reason behind [dust zombies](https://wiki.spiralknights.com/Zombie#Dust_Zombie) having green eyes.
+All of those description relate to an inherent _wrongness of the essence, its sick color and putrid nature_, which reminds us, albeit from a diffent source, the thematic siginificance of sickly colors in Robert Chamber's "The King in Yellow" as a manifestation of the particular influence.
+
+As for the plague essence, as its inventory icon being a flame, it can be plausibly tied to the nature of the plague as being not of earthly origin, similar to [Dark Embers](https://wiki.spiralknights.com/Dark_Ember) despite being embers, distinctly separate themselves from natural existence of material relam, as being potentially the source of unnatural fires of Firestorm Citadel in a similar pattern to everfrost being potential source of unnatural frost.
+
+For now, to avoid too much reference to unexplored topic of Almire, it can be safe to suggest, that the essence present within gravestones is related to ectoplasm, and, possibly, is the source of [dust zombies'](https://wiki.spiralknights.com/Zombie#Dust_Zombie) green eyes, -- with all of those elements eventually finding their explanation in nature of Underworld.
 
 <center class="chapter-break">
   <span class="energy">🜨</span>
