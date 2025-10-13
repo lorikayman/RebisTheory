@@ -9377,7 +9377,7 @@ _"By the philosophers I am named Mercurius; my spouse is the philosophic gold ..
 
 </SubTitleCentered>
 
-Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__, which allows it to persist?
+Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
@@ -10255,7 +10255,7 @@ We have covered the symbolyms of Unknown Passage and we believe it persists weat
 
 #### Conclusion
 
-Now we can answer the question asked in the beginning of this chapter - what is the ineffable quality of this setting, which allows it to persist?
+Now we can answer the question asked in the beginning of this chapter - what is the ineffable quality of this setting?
 
 An archetypical perspective of a hero's descend narrative inroduces a world, whose existence is rooted in the speculative fiction of occult, alchemy, and science fiction, where each of those components is aware of the others while they are utilized together both in the current moment and across the timeline in order to create a sense of history.
 
