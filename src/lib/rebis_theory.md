@@ -35,15 +35,17 @@ By acknowledging this potential we aim to present a set of _narrative devices an
 
 The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
-As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the _bonding quality, which allows for setting's ability to captivate_ as a fiction, a world, and a story.
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the _bonding quality, which allows for setting's ability to captivate_ as a fiction, a world, and a story.
 
 ### Approach to Worldbuilding
 
 Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is usually found through in-universe laws, symbolism, themes, characters, factions, environments, etc., their relations and history. Design is a conscious choice, an intent, which _outlines the experiences player is meant to go through_.
 
-While worldbuilding adds depth to the initial setting, we believe Spiral Knights can exist as a captivating setting without an expansive logic underpinning it. Here, conversely, we argue that the setting is written consistently enough to allow such worldbuilding to emerge organically.
+While worldbuilding adds depth to the initial setting, we believe __Spiral Knights can exist as a captivating setting without an expansive logic underpinning it__. Here, conversely, we argue that the setting is written consistently enough to allow such worldbuilding to emerge organically through engagement with the source material.
 
-With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc. -- as signs of physical and historical processees outside the observable present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
+Our position adopts a flawed methodology of a total oblitaration of mystery a fictional setting may offer -- an overanalysis, -- manifested in the length of this document.
+
+With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc., -- as signs of physical and historical processees outside the observable present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
 With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative.
 
