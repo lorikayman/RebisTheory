@@ -10261,7 +10261,7 @@ An archetypical perspective of a hero's descend narrative inroduces a world, who
 
 Those components, once they are recognized, are placed onto spectrums, such as morality, mundanity and extranaturality, fantastic and realistic, etc.
 
-Cradle and Clockworks are characterized by an emerging synergy of multiple environments, "places" with feel and quality of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system, allowing them not only to coexist, but to invoke the aforementioned sense of synergy, emerging from spacial, temporal, and causal interconnectedness.
+Cradle and Clockworks are characterized by a synergy of multiple environments, "places," or symbols with archetypical images at their foundations with feel and quality of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system, allowing them not only to coexist, but to invoke the aforementioned sense of synergy emerging from spacial, temporal, and causal interconnectedness both into the past, as myths, and into the future, as modern retellings of those myths.
 
 ---
 
