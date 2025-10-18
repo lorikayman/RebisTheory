@@ -9817,13 +9817,13 @@ As we have earlier suggested that tutorial had to to encapsulate at an introduct
 
 As we have covered the tutorial of rank missions, gremlins are also charaterized there as villians in a much shorter span of time - as Razwog, his facility, and implications of greater organization defined by inspection of Razwog and Herex's danger module. And, of course, Artifact plot start there, as the key component of the megastructure, a _plot device_.
 
-##### Failing Empire
+##### Eternal Kingdom Betrayed by Failure
 
 The other consequence of this framing of gremlins as comic relief is found in the story-rooted perspective of gremlins as a failing empire.
 
 Gremlins' infrastructure is found in a deteriorating state. This concept exists with the idea of gremlins being ones to build the megastructure, and ones to exist in it as Swarm was present. Through those elements of architecture, we have proposed that the megastructure is failing, while most of it at the time when Spiral Order had arrived, - had remained mostly operational. This deterioration was found in the Ironclaw Munitions Factory, Haunted Passages, and the Shadow Lairs.
 
-There is a __dintint feel of the control of gremlin over Cradle slips away__, weather those powers are of undead, edritch, or of Underworld origin - this was the thesis of Rebis theory when we had made the final recount of the timeline.
+There is a _distinct motif of a loss of control of gremlins over Cradle_, weather those powers are of undead, edritch, or of Underworld origin - this was the thesis of Rebis theory when we had made the final recount of the timeline.
 
 It is also thematically more broad, that, as the structure now imprisons the builders, who are in an internally and externally unstable position, leading to a formation of dehumanizing environment, seen in designs and architecture of Emberlight and separate Crimson Order-adjacent facilities, to which Haven exists as a distinct _thematic, architectural, ideological, and narrative opposite_.
 
@@ -9833,7 +9833,7 @@ The occasinal elements of imperial achitecture, such as surface entrance of comp
 
 This idea of an empire - what we proposed to be gremlin civilization, - led by the figure of a gremlin philosopher-king and followed fall of the state after a crucial event, are inseparable and must be viewed as a sequuence of interconnected events.
 
-In order to achieve a desired effect of a time of seeming prosperity being gone, its traces are left - as architecture from that era, as consoles, representative of greater connection with the divine nature of the contents of the Core, an almost myth-like descriptions of figures, - are preserved and told by _those means of comparison and contrast_.
+In order to achieve a desired effect of a time of seeming prosperity being gone, its traces are left - as __architecture from that era__, _as consoles, representative of greater connection with the divine nature of the Core_, an almost myth-like descriptions of figures, - are preserved and told by those means of comparison and contrast.
 
 Within the context of gremlins as species juxtaposed to Isorans, such property seems unbelievable for this civilization at current point in time, which allows for a further expansion of the initial mental image into a new direction.
 
@@ -9873,7 +9873,7 @@ But among those only the gremlin and crimson motifs are ones which define them a
 
 </BookCitation>
 
-If we rely onto those priciples, we can make a suggestion, that a the aforementioned peices have all the details required to assemble an impression of gremlins presented in a specific manner, which does not conflict with the presented in-game stories and encounters, but _further contextualizes and expands those concepts_, themes, and motifs within a world.
+If we rely onto those priciples, we can make a suggestion, that a the aforementioned peices _have all the details required to assemble an impression_ of gremlins presented in a specific manner, which does not conflict with the presented in-game stories and encounters, but _further deepens and expands those concepts_, themes, and motifs.
 
 ##### Duality of Nature and Nurture: Megastructure Builders
 
@@ -9895,66 +9895,80 @@ To conclude, while nature and character of gremlins is juxtaposed to the megastr
 
 ##### Character and Design of Gremlins
 
-As discussed above, we believe the _subjectively perceived multifaceted depth_ of gremlins had emerged also from their character coupled with the animalistic nature, being juxtaposed to their role.
+As discussed above, we believe the _perceived depth_ of gremlins had been found in their character coupled with their animalistic nature and then juxtaposed to their role as engineers.
 
-As we have discussed the compound elemnts of megastructure's architecture, in order to understand the aforementioned relation, we intend to dissect properties of gremlins now not as the builders of that megastructure with a character, but primariy _a standalone species_ through a series of relations as one above.
+As we have discussed the compound elements of megastructure's architecture, in order to understand the aforementioned relation, we intend to dissect properties of gremlins not as the builders of that megastructure with a character, but primariy _a standalone species_ through a series of relations.
 
 ###### Relation 1: Name and Environment
 
-Industrial theming being essential both to the Clockworks' environment and gremlin uniform, it must be looked in the context of gremlins' name. If the name of gremlin is to originate from the relatively modern folklore of aircraft construction near war time, then relation to technology becomes inherent, as in the folklore gremlins were the reason of aircraft mulfunction.
+Industrial theming being essential both to the Clockworks' environment and gremlin uniform -- industrial yet slim designs reminiscent of Spiral Order armor with greater accent on cloth.
 
-This idea is subverted as gremlins become the engineers and maintainers of the megastructure. Yet, they retain the mischievious character and haphazard danger of the workplace.
+This industrial presence must be looked at in the context of gremlins' name. If the name of gremlin is to originate from the relatively modern folklore of aircraft construction during wartime, then relation to _technology becomes inherent_, as in the folklore gremlins were essential to the very idea of aircraft mulfunction.
 
-20th century industrial designs of Clockworks, where we have covered more distinct elements such as monitors, the design of gremlin uniforms apart from more exaggerated metallic elements paired with the context of the story, and lastly, the imperial motif may be viewed as an exploration and extrapolation of a specific logic, - we suggest this logic to originate, as a series of notions, back to early to middle 20th century Germany.
+This relation through malfunction is subverted as gremlins become the engineers and maintainers of the megastructure. Yet, they retain the mischievious character and haphazard danger of the workplace.
+
+The 20th century industrial designs of Clockworks, the designs of gremlin uniforms, paired with the [imperial motif]() and internal instability of the organization during the narrative -- those elements may be viewed as an exploration and extrapolation of a specific logic defined by continious struggle, a `Mettle of a Gremlin`, even, within a technology-focused militarized organization.
 
 ###### Relation 2: Name and Nature
 
-Both a point on its own and continuation of the above point consists of the idea of aircraft gremlins being part of fae folk of folklore, which in broader context was the attempt to explain the unknown through identification of distinct actors, spirits, imps, fae folk. It sets the initial characteritic of gremlins as illusive, mischeivious, and part of greater sphere of unknown as its extension.
+Both a point on its own and continuation of the above argument exists in the idea of aircraft gremlins being part of fae folk of folklore, which in broader context was coceived in attempt to explain the concept of unknown through identification of distinct actors -- spirits, imps, fae folk, demons, ghosts, leprechauns, gnomes, and so on. It sets the initial characteritic of gremlins as illusive, mischeivious, and part of greater sphere of unknown as its extension and presence in the known world.
 
-But, the gremlins of Spiral Knights have a distinct design, which, through existence of grinchlin clan revoling around Winterfest leads us to suggest a more recent source of inspiration, a Christmas-themed `Gremlins` movie of year 1984.
+<!--This interpretaion is reminiscen of Hero's Journey, specifically, the Threshold Guardian is the dangeroues entity from the unknown, which is found at the threshold by the hero to progress. While this interpretation is important, it is not importnt in the current context-->
 
-The `Gremlins` movie establishes the animalistic anatomy of mogwai and a corresponding gremin transformation. Mogwai, given their furry appearance compared to replitian appearances of gremlins, have a high possibility of being used as the componnet for Cradle's gremlins.
+But, the __gremlins of Spiral Knights have a distinct design__, which, through existence of Grinchlin clan revoling around Winterfest leads us to suggest a more recent and more probable source of inspiration -- a Christmas-themed `Gremlins` movie of year 1984, -- which we will discuss now.
 
-Cradle's gremlins anatomy, compared to seemingly plantigrade anatomy of mogwai, as a fully-developed interstealler civilization, has properties similar to ones of the anatomy of `Gremlins`' gremlins, such as bipedal digitigrade method of locomotion and anatomical proportions.
+###### `Gremlins` the movie, 1984
 
-The fur color pattern seemingly inherits light-color `Gremlins`' gremlin ear stripes and underbelly, the snout stripe coloration may be inhertied from mogwai as well as their lack of head plume.
+The `Gremlins` establishes the animalistic anatomy of _mogwai_ and a corresponding gremin transformation. Mogwai, _given their furry appearance compared to replitian appearances of gremlins_, have a possibility of being utilized as a component of Cradle's gremlins' design.
 
-The backplaced ears of Cradle's gremlins are distinct from mogwai, which may be seen as a specific for Cradle's gremlins addition. As for `Gremlins`' gremlins, we may point out that they had at some instances such postioting of ears depending on the presence of external threats, it may had been an inspiration for the finalized design of Cradle's gremlins. Moreover, given presence of characters such as Nonna or the non-agresive gremlins of Emberlight, this is the more distinct part of those gremlins chacter design on par with the general image and, of course, goggles.
+It is important to emphasize, that we do not possess the knowledge of the creative process itself, its multi-step process of continious iteration and evolution of the concept from an initial to the final design, -- of what came to be the source of inspiration, and were there at a certain point an influece to be found in Spiral Knights' gremlins of their movie predecessors.
 
-Gremlins' sound design may invoke a sense of their voice being raspy, with occasional usage of consonants, which is relatively similar not only to `Gremlins`' gremlins, but families of smaller mammals of real world.
+We will work from a perspective, wherein __both movie's gremlins and Spiral Knights' gremlins__ _do reinvent the idea takrn from an aircraft folklore of_ __fae folk gremlins__, and then we will compare the design of both in their anatomy and character.
 
-The character in particular, the behavior, is seemingly inherited from `Gremlins` gremlins after transformation and second-generation mogwai, unless the bahavior of first-generation mogwai is not natural, i.e. domesticated.
+- Cradle's gremlins anatomy, compared to seemingly plantigrade anatomy of mogwai, as a fully-developed interstealler civilization, has properties similar to ones of the anatomy of `Gremlins`' gremlins, such as bipedal digitigrade method of locomotion and anatomical proportions.
 
-Through the behavioral aspect framing of technology if delivired in the movie. If we remove prior inspirations of elf-like human design of gremlins before the `Gremlins` movie defined their more recent appearances, we have to acknowledge the defined and relatively similar designs of Cradle's gremlins and `Gremlins`' gremlins, as none, as far as our research goes, provided enough material and argumants to suggest that there might be other inspirations for their appearance. It is important to emphasize, that we do not know _weather the name came to be the first_, with the design to follow after, or _the design of a species was labeled later as gremlins_. In both instances, the species possess an essential aspect of being believable, plausible to exist on their own in the corresponding setting.
+    By the very act of using digitigrade design, an implicit emphasis is performed on animalistic features of the species, which contrasts their human-like intelligence, skills of organization and cooperation, which is another perspective on the earlier symbolic notion discovered _in the capacity to build a megastructure_.
 
-At that point, we already have an original idea of a diffent gremlin, which managed to incorporate an environmental aspect, behavioral, and an anatomical, through subversion, reconstruction, direct utilization and exploration of those concepts. __The impression of organic emergence__ of those individual concepts in Spiral Knights' gremlin species, we suspect, arised from careful consideration of each of those properties.
+- Gremlins' sound, voice as it may be, may invoke a sense of it being raspy, with occasional usage of consonants, which is relatively similar not only to `Gremlins`' gremlins, but smaller mammals of real world with higher tonalities.
+- The character in particular, the behavior, is seemingly inherited from `Gremlins` gremlins both after transformation and of second-generation mogwai, unless the bahavior of first-generation mogwai, Gizmo in particular, is not characteristic of gremlins' natural habitation.
 
-Under the current proposal of `Gremlins` movie being the inspiration, the anatomical gap of `Gremlins`' mogwai and its gremlins to Cradle's gremlins may be found in the selective merging of mogwai and gremlins' traits as suggested above and followed by further development of the species' designs until they would be seen to fit a setting where they are perceived as a spacefaring civilization.
+    The behavioral aspect and folklore nudge to relation with technology is also found in the movie.
 
-Apart from this approach of tracing back the design process, among those discussions we should amphasize, among other steps, the creative side of this process, which is, as far as we are about to reach a conclusion, is the defining factor of the way the design is ~~perceived~~, ~~interpreted~~, and ~~reimagined~~, - the bulk of creative work resulting in creation of an interstellar species of gremlins.
+    If we remove prior inspirations of elf-like human design of gremlins before the `Gremlins` movie defined their more recent appearances, we have to acknowledge the presence of fur as the design choice both for Spiral Knights' gremlins and `Gremlins`' gremlins.
 
-The work done here is is the only single example of the developmnets, which, for example, would result in the design of Snarbolax in relation to its potential inspirations.
+    Unfortunately, no other work of art we had found, that had reinvented a folklore gremlin with an anthropomorphic design, this similarity led us to propose that `Gremlins` movie could have been a potential inspiration for the furred animalistic design.
+
+    It is important to emphasize, that we do not know, weather:
+
+    - _The name came to be the first_, with the design to follow after into the system of relations with machinery, or;
+    - _The design of a species was labeled later as gremlins_ as the relation with machinery had required a firm visual foundation for its speciess through potential deconstruction of the prior concepts.
+
+At that point, we already have an original idea of a different gremlin, which managed to incorporate an environmental aspect, behavioral, and an anatomical, through subversion, reconstruction, direct utilization and exploration of those concepts. __The impression of organic emergence__ of those individual concepts in Spiral Knights' gremlin species, we suspect, arised from _careful consideration of each of those properties_, which betrays our unfamiliarity with the process of the development in this analysis.
+
+The anatomical gap of `Gremlins`' mogwai and its gremlins to Cradle's gremlins may be found in the selective merging of mogwai and gremlins' traits as suggested above and followed by further development of the species' designs until they would be seen to fit a setting where they are perceived as a spacefaring civilization.
+
+As far as we are about to reach a conclusion, apart from this attempt to _rarefy compound element of the design_, among those discussions we should amphasize the creative process itself as the source the ~~perceived~~, ~~interpreted~~, and ~~reimagined~~ ideas manifested in distinct designs and delievered through multimodal medium of a video game.
 
 ###### Relation 3: Nature and Environment
 
-According to Roald Dahl in his book written in 1943 `The Gremlins`, folklore gremlins had settled in machinery due to their habitation, the forest, being removed.
+According to Roald Dahl in his book written in 1943 `The Gremlins`, folklore gremlins had settled in machinery due to their habitation, the forest, being removed. We have noted on it in previous section, and here we will reference the folklore-based setting in attempt to compate its narrative with one of Cradle.
 
-Through this logic, we may suggest a similar scenraio but civilization-wide for Cradle's gremlins - this change of habitation from natural to mechanical by means of external force may be extrapolated onto the potential of Spiral Knights universe, with the megastructure being the parallel for new mechanical home.
+Through this logic, we may suggest a similar scenraio, but civilization-wide for Cradle's gremlins, -- this change of habitation from natural to mechanical by means of external force may be extrapolated onto the potential of Spiral Knights universe, with the megastructure being the parallel for new mechanical home of an aircraft factory.
 
 Here, compared to previous discussed iterations of gremlins, due to the depth and scale we can obverse a further development of gremlins relation to technology through designs of their weapons, uniforms, and, particularly, goggles.
 
 Presence of goggles is the defining feature of gremlin design. Both the slitted and circular designs of lenses present several elements, which can be reframed into desired theming. For example, Darkfang clan of gremlins are the only ones to possess the circular design, and yet, there is Grot in the possesses state and Void Gremlins, which use this design. In that context, the latter option is made to fit into more horror-oriented aspect.
 
-The googles by act of concealing part of their identity - most importantly, - eyes, achieve a specifc effect of mystery, attributed to instances of masked characters, which may have not be possible if no goggle were presented. To compare, we may look at Seerus' design, as the only gremlin with an seen eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species.
+The googles by act of concealing part of their identity - most importantly, - eyes, achieve a specifc effect of mystery, attributed to instances of masked characters, which may have not be possible if no goggle were present. To compare, we may look at Seerus' design, as the only gremlin with an seen eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species.
 
-All this considered, as metioned in relation to Cradle and gremlins, megastructure's interconnection with the setting and its metaphysics, we believe, is one of the more important factors which contribute to the impression and feel of the setting. Without gremlins as proxies for the narrative behind Cradle's existence and the megastructure, the story would not be the same as it is perceived currently.
+This considered, as metioned in relation to Cradle and gremlins, megastructure's connection with the setting and its metaphysics, we believe, is one of the more important factors which contribute to the impression, image, and feel of the setting, which, while itself requires extraction, reveals itself through other means -- by presenting magic and curse-ridden narratives into the setting of Clockworks. Without gremlins as proxies for the narrative behind Cradle's existence and the megastructure, both the story and the setting would not be the same as they are currently perceived.
 
-###### The Principles of Gremlin Design
+###### Perceived Principles of Gremlin Design
 
-This considered, we present the logic behind gremlins' design:
+This considered, we present the subjectively deconstructed logic behind gremlins' design:
 
-1. Fae folk gremlins inhabit and harm technology, emerging as a folklore of malfunctioning technology during war time
-2. `Gremlins` the movie introduced animlistic anatomy and reframed gremlins in a different cultural context.
+1. Fae folk gremlins inhabit and harm technology, emerging as a folklore of malfunctioning technology during wartime
+2. `Gremlins` the movie introduced animalistic anatomy and reframed gremlins in a different cultural context.
 
     The military and technology-related origins of its ancestor are acknowledged, as well as general motif of technology failing.
 
@@ -9965,7 +9979,7 @@ This considered, we present the logic behind gremlins' design:
     The relation to technology becomes positive, but haphazard nature of working with it remains.
 
 3.2. The relation to technology at interstellar level became the extrapolation of this subverted property of folklore gremlins in kore direct manner compared to `Gremlins` movie, still inghabiting it but now at all societal aspects, _not as aircraft, but a megastructure_.
-3.3. Aircraft inspiration of war time specifically found itself in the military themes and then an impertial motif.
+3.3. Wartime aircraft folklore found itself in the military themes of an imperial motif, industrialization, and internal conflicts, schemes and power struggles within a kingdom.
 
 To summarize those elements, gremlins' unique character is engineered from the _contrast and exploration_ of __complex technology being weilded by species of highly animalistic semi-comedic hostile design__.
 
