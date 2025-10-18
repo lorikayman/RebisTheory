@@ -9974,9 +9974,9 @@ This considered, we present the subjectively deconstructed logic behind gremlins
 
     These gremlins preserve now expanded character traits beyond causing strictly the technology to malfunction. As for the relation for technology, it is depectied as if mogwai shown genereal non-intrusive interest in technology, rather than being direct reason for its malfunction, while gremlins do cause harm to technology.
 
-3.1. Spiral Knights gremlins took as foundation furred anatomy of mogwai, digitigrade characteristic and proportions of gremlins, and general mischeiviousness of character.
+3.1. Spiral Knights' gremlins took as foundation furred anatomy reminiscent of mogwai, digitigrade characteristic and proportions of `Gremlins`' gremlins, and general mischeiviousness of their character.
 
-    The relation to technology becomes positive, but haphazard nature of working with it remains.
+    The relation to technology becomes positive, but haphazard nature remains. As a mechanical habitat, it is expanded from a factory or an aircraft to a mechanical megastructure to accomodate for the scale of a new setting.
 
 3.2. The relation to technology at interstellar level became the extrapolation of this subverted property of folklore gremlins in kore direct manner compared to `Gremlins` movie, still inghabiting it but now at all societal aspects, _not as aircraft, but a megastructure_.
 3.3. Wartime aircraft folklore found itself in the military themes of an imperial motif, industrialization, and internal conflicts, schemes and power struggles within a kingdom.
