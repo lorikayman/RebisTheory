@@ -9377,7 +9377,7 @@ _"By the philosophers I am named Mercurius; my spouse is the philosophic gold ..
 
 </SubTitleCentered>
 
-Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__?
+Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__? What is the property of the setting which makes one to come back to it and study it?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
@@ -9957,11 +9957,19 @@ Through this logic, we may suggest a similar scenraio, but civilization-wide for
 
 Here, compared to previous discussed iterations of gremlins, due to the depth and scale we can obverse a further development of gremlins relation to technology through designs of their weapons, uniforms, and, particularly, goggles.
 
-Presence of goggles is the defining feature of gremlin design. Both the slitted and circular designs of lenses present several elements, which can be reframed into desired theming. For example, Darkfang clan of gremlins are the only ones to possess the circular design, and yet, there is Grot in the possesses state and Void Gremlins, which use this design. In that context, the latter option is made to fit into more horror-oriented aspect.
+###### Symbolism of Gremlin Goggles
 
-The googles by act of concealing part of their identity - most importantly, - eyes, achieve a specifc effect of mystery, attributed to instances of masked characters, which may have not be possible if no goggle were present. To compare, we may look at Seerus' design, as the only gremlin with an seen eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species.
+Presence of goggles is, by margin, we suggest, is the defining feature of gremlin design. Both the slitted and circular designs of lenses possess a potential for application within a set context and themes.
 
-This considered, as metioned in relation to Cradle and gremlins, megastructure's connection with the setting and its metaphysics, we believe, is one of the more important factors which contribute to the impression, image, and feel of the setting, which, while itself requires extraction, reveals itself through other means -- by presenting magic and curse-ridden narratives into the setting of Clockworks. Without gremlins as proxies for the narrative behind Cradle's existence and the megastructure, both the story and the setting would not be the same as they are currently perceived.
+As a wider example, Darkfang clan is the only to demonstrate the circular design, and yet, there are Grot in the possesses state and Void Gremlins found in Swarm-themed depths. In that context, the circular design fits particularly well into more _horror-themed setting_ of Clockworks, one revolving around not only eldritch horror but a _sence of fright_ delievered through the design itself.
+
+This circular design, we may suggets, is even found on the cover art of the Steam release of the game, -- being worn by a gremlin at the foreground facing the knights. If horror aspect were to be developed further, as it seems fitting in that case, could it be, that the purple accent color of those monsters was _meant to hint the Swarm from the very beginning_, rather than being the artistic and composition choice for the cover art?
+
+While this aspect of horror is importnat to focus upon, it does not reveal the depth and total importance of the design for gremlins in order to identify the latter as a distinct species of a specific franchise.
+
+The goggles' act of concealing part of wearer's identity, most importantly, their eyes, achieves a specifc effect of mystery or unknown, attributed to instances of _masked characters, which may have not be possible if no goggle were present_. To compare, we may look at Seerus' design, as the only gremlin with visible eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species. On the other end of the spectrum, there are Strangers and gremlins of Haven, whose faces are hidden behind symbols -- a _sharp wide grin and one lit eye_ in case of Punch, or general _asymmetric design_ of Haven inhabitants.
+
+In relation to Cradle and gremlins, megastructure's connection with the setting and its metaphysics, we believe, is one of the more important factors which contribute to the impression, image, and feel of the setting, which, while itself requires extraction, reveals itself through other means -- by presenting magic and curse-ridden narratives into the setting of Clockworks. Without given themes nor gremlins as proxies for the narrative behind Cradle's existence and the megastructure, both the story and the setting would not be the same as they are currently perceived, revealing a bi-directional and essential connection between those elements.
 
 ###### Perceived Principles of Gremlin Design
 
@@ -9981,11 +9989,11 @@ This considered, we present the subjectively deconstructed logic behind gremlins
 3.2. The relation to technology at interstellar level became the extrapolation of this subverted property of folklore gremlins in kore direct manner compared to `Gremlins` movie, still inghabiting it but now at all societal aspects, _not as aircraft, but a megastructure_.
 3.3. Wartime aircraft folklore found itself in the military themes of an imperial motif, industrialization, and internal conflicts, schemes and power struggles within a kingdom.
 
-To summarize those elements, gremlins' unique character is engineered from the _contrast and exploration_ of __complex technology being weilded by species of highly animalistic semi-comedic hostile design__.
+Gremlins' unique character is engineered from the _contrast and exploration_ of __complex technology being weilded by species of highly animalistic semi-comedic design__.
 
 #### Narrative Blueprint of Clockworks
 
-This allows us to further consolidate the essentials of the Megastructure:
+This allows us to further consolidate the essentials of the megastructure:
 
 - Functional fountaion of magitech, essential principle of energy and its carriers, specifically minerals. Entirety of the narrative exists on the __universally unmatched abundance of energy within Clockworks__, a phenomenon which sets the precendent, and one to be the goal of the Isoran narrative. This foundations remains exposed as it is present in every aspect of the megastructre, from mundane to extreme, in prior case being used by other settled civilizations.
 - The goal of protecting a deity from an eldritch horror in an eternal black-and-white morality battle for existence.
