@@ -9967,7 +9967,7 @@ This circular design, we may suggets, is even found on the cover art of the Stea
 
 While this aspect of horror is importnat to focus upon, it does not reveal the depth and total importance of the design for gremlins in order to identify the latter as a distinct species of a specific franchise.
 
-The goggles' act of concealing part of wearer's identity, most importantly, their eyes, achieves a specifc effect of mystery or unknown, attributed to instances of _masked characters, which may have not be possible if no goggle were present_. To compare, we may look at Seerus' design, as the only gremlin with visible eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species. On the other end of the spectrum, there are Strangers and gremlins of Haven, whose faces are hidden behind symbols -- a _sharp wide grin and one lit eye_ in case of Punch, or general _asymmetric design_ of Haven inhabitants.
+The goggles' act of concealing part of wearer's identity, most importantly, their eyes, achieves a specifc effect of mystery or unknown, attributed to instances of _masked characters, which may have not be possible if no goggle were present_. To compare, we may look at Seerus' design, as the only gremlin with visible eyes. While Seerus is an outlier in this regard, this choice to reaveal part of the design allows for more creative potential of gremlins as a species. On the other end of the spectrum, there are Strangers and gremlins of Haven, whose faces are hidden behind symbols -- a _wide sharp grin and one lit circular eye_ in case of Punch, or general _asymmetric design_ of Haven inhabitants.
 
 In relation to Cradle and gremlins, megastructure's connection with the setting and its metaphysics, we believe, is one of the more important factors which contribute to the impression, image, and feel of the setting, which, while itself requires extraction, reveals itself through other means -- by presenting magic and curse-ridden narratives into the setting of Clockworks. Without given themes nor gremlins as proxies for the narrative behind Cradle's existence and the megastructure, both the story and the setting would not be the same as they are currently perceived, revealing a bi-directional and essential connection between those elements.
 
@@ -10257,7 +10257,7 @@ Then, there is a thematic opposition to the protagonist as a shadow, that is not
 
 #### Cosmic Horror of the Swarm
 
-Iinitially, we would connect instance of eldricth horror tied to water to the Elder Gods of Lovecraft's Yog-Sothothery, which is one way to look at them, but, apart from this interpretation, both the Swarm and in lesser manner Apocre can exist completely on their own without prior knowledge of the inspirations which we suggested to exist.
+Initially, we would connect instance of eldricth horror tied to water to the Elder Gods of Lovecraft's Yog-Sothothery, which is one way to look at them, but, apart from this interpretation, both the Swarm and in lesser manner Apocrea can exist completely on their own without prior knowledge of the inspirations which we suggested to exist.
 
 As were discssing eldritch nature of Sleeper, Apocrea and the Swarm, it is only the latter, we believe, is depicted most clearly as entity meant to invoke proper horror. And here we will explain why we believe it to be so based solely on the presented narratives.
 
@@ -10269,7 +10269,7 @@ As most of enemy catergories are present for Swarm-themed arenas, this property 
 
 Those elements, if paired with eldritch nature of the Swarm, we propose, invoke or at least allow for the idea of cosmic horror to be felt: through the presence of the Swarm, whose power is one which so much surpasses everything else encountered prior.
 
-Notably, it is here Apocrea is framed lesser of a danger due to knights capacity to escape it by travesling the plateau and reaching the [Departure](), the narrative, introduced by lost souls, is contradicted by the capacity to reach an end, as well as offer while somber, as evident by framing of the Departure, optimistic narrative.
+Notably, it is here Apocrea is framed lesser of a danger due to knights capacity to escape it by travesling the plateau and reaching the Departure, the narrative, introduced by lost souls, is contradicted by the capacity to reach an end, as well as offer while somber, as evident by framing of the Departure, optimistic narrative.
 
 As for the Swarm, there is no end present in the story. Aspect of Swarm's scale as insurmountable but one encompassed by Clockworks deadly threat also contributes to the feeling of cosmic horror, as previously mentioned, [a sealed evil in a can](), as the entity does not have a defined embodiment, apart from a brief appearance of an "avatar" in [The Path is Revealed]().
 
