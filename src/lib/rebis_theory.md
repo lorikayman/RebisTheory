@@ -853,9 +853,9 @@ While we have covered the fury property as we have discussed motif of power, the
 
 This duality, we propose, hints at a certain conflict, a _motif of unrealized vengeance of a fallen civilization_ found in a few future instances. While it requires elaboration, the contrast itself hints at an _unreconciled state of tortodrones and their creators_, a __lack of resolution__.
 
-#### Symbolism of Stone
+#### Introduction of Titans, Symbolism of Stone
 
-There are several references to _titans_ in a context of heavy armors, armors made of stone, and metaphors:
+There are several both metaphorical and literal instances of a term _titans_:
 
 - `A suit of artifact armor that is said to have been worn by titans` ([Ancient Plate Mail](https://wiki.spiralknights.com/Ancient_Plate_Armor)).
 - `A vestigial helm whose weight makes it unwieldy to all but those with titanic strength` ([Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm)).
