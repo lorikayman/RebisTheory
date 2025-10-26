@@ -4,9 +4,10 @@ layout: entries_rebis
 ---
 
 <script>
-  import BookCitation from "$lib/components/book_citation.svelte"
-  import SubTitleCentered from "$lib/components/sub_title_centered.svelte"
-  import ListTimeline from "$lib/components/list_timeline.svelte"
+  import BookCitation from "$lib/components/document/inline/book_citation.svelte"
+  import SubTitleCentered from "$lib/components/document/inline/sub_title_centered.svelte"
+  import ListTimeline from "$lib/components/document/inline/list_timeline.svelte"
+  import GremlinConlang from "$lib/components/document/inline/conlang_gremlin.svelte"
 
   // import Credits from '$lib/enstries/sk/rebis-theory/CREDITS.md';
 
@@ -17,8 +18,6 @@ layout: entries_rebis
   const imgGremlinEmpire = resolve('/img/chapters/gremlin_empire.png')
   const imgUnknown = resolve('/img/chapters/unknown.png')
   const imgAlchemyLogo = resolve('/img/spiral_knights/logo_alchemy.png')
-
-  import GremlinConlang from "$lib/components/conlang_gremlin.svelte"
 </script>
 
 <h1 align="center">

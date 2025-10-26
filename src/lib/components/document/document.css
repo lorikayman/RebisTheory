@@ -1,0 +1,8 @@
+/**
+ * Markdown document text container
+ */
+.container {
+  height: 100vh;
+  word-wrap: anywhere;
+  overflow-y: auto;
+}
