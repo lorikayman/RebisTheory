@@ -1,6 +1,12 @@
 <script>
   import { onMount } from 'svelte'
 
+  /**
+   * @param {[]Node} items
+   *  list of compiled Nodes
+   * @param {string} id
+   *  id of container node where `items` will be redndered
+   */
   let {items, id} = $props()
   console.log('VIRTUAL::received items:', items.length)
 
