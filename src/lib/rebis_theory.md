@@ -35,7 +35,7 @@ By acknowledging this potential we aim to present a set of _narrative devices an
 
 The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
-As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the _bonding quality, which allows for setting's ability to captivate_ as a fiction, a world, and a story.
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the __bonding, ineffable quality__, _which allows for setting's ability to captivate_ as a fiction, a world, and a story.
 
 ### Approach to Worldbuilding
 
@@ -9403,7 +9403,7 @@ _"By the philosophers I am named Mercurius; my spouse is the philosophic gold ..
 
 </SubTitleCentered>
 
-Now, with consideration of everything we have covered so far, using established themes and narratives as guidelines, we want to answer as clearly and as thoughtfully as possible, __what is the ineffable quality of this setting__? What is the property of the setting which makes one to come back to it and study it?
+Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting -- its property, -- which provides it its staying power and a lingering capacity to captivate__?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
@@ -10302,8 +10302,6 @@ As for the Swarm, there is no end present in the story. Aspect of Swarm's scale 
 We have covered the symbolyms of Unknown Passage and we believe it persists weather or not Rebis theory works as a tool to explain the story, as themes Swarm represents remain mostly unaffected. While Rebis theory privides an explanation for Swarm's inception, it does not ameliorate the narrative Swarm defines.
 
 #### Conclusion
-
-Now we can answer the question asked in the beginning of this chapter - what is the ineffable quality of this setting?
 
 An archetypical perspective of a hero's descend narrative inroduces a world, whose existence is rooted in the speculative fiction of occult, alchemy, and science fiction, where each of those components is aware of the others while they are utilized together both in the current moment and across the timeline in order to create a sense of history.
 
