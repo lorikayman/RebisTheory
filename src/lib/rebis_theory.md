@@ -527,7 +527,29 @@ As we do not have any other examples of a world being created by such means, whi
 
     Here, [Riders](https://wiki.spiralknights.com/Rider_Mantle) in that regard could be either literal riders of dragons, or riders of the metaphorical forces. In this case, for now, the latter interpretation seems fitting, due to riders' status as gods, capable `to carve whole worlds from stone` ([Rider Mantle](https://wiki.spiralknights.com/Rider_Mantle)).
 
-    In other words, _existence of an ancient conflict_, which had led to death of dragons would explain their absence and allow for their death to be an organic component of the sequence which eventually became the creation myth, as dragons' deaths were of the same symbolic nature as humanity's deities' bodies becoming foundations of the world.
+    In other words, _existence of an ancient conflict_, which had led to death of dragons would explain their absence and allow for their death to be an organic component of the sequence which eventually became the creation myth, as dragons' deaths were of the same symbolic nature as human deities' bodies becoming foundations of the world.
+
+#### Lesser Creaton Myth
+
+This latest idea of a conflict which had led to dissaapearance of dragons had led us to the analysis of the Riders. Apart from the creation myth involving dragons, there is a different sequence attributed to Riders:
+
+- `A legendary suit of armor thought to be worn by a god who used lightning to carve whole worlds from stone` ([Storm Rider Mantle](https://wiki.spiralknights.com/Storm_Rider_Mantle#Storm_Rider_Mantle)).
+- `A legendary suit of armor thought to be worn by a god who used frenzy to carve whole worlds from stone` ([Frenzy Rider Mantle](https://wiki.spiralknights.com/Frenzy_Rider_Mantle#Frenzy_Rider_Mantle)).
+- `A legendary suit of armor thought to be worn by a god who used rage to carve whole worlds from stone` ([Raging Rider Mantle](https://wiki.spiralknights.com/Raging_Rider_Mantle#Raging_Rider_Mantle)).
+
+Compared to the sequence of dragons perishing, the gods, whom those armors are attributed to, do not include a destructive action nor armors' description form a cohesive order of world creation, but rather all of three god had utilized their respective elements `to carve whole worlds from stone`. The identities of those worlds are unknown, as well as the species of the riders mey not yet be attributed to any known civilization in particular.
+
+Yet, we can make a few initial suggestions. As dragosn helms are created after dragons of respective elements, someone, given fantastic nature of this narrative, had to witness those events and create the armor. As those armors of rage, frenzy and storms all possess this quality of an ancient naming convention, we suggest them to be created by that ancient civilization.
+
+Within this context, the direct tie of legendary armor sets to gods of said elemenal powers would closely relate them to this ancient civilization, if the design of armors reflects if not the anatomy adapted for Spiral Order, but design and purpose.
+
+Lastly, taken into context of the quote -- `Instill in your heart the frenzy of ancient gods!` ([Feel the Frenzy!](https://forums.spiralknights.com/en/node/109069)) and presence of the Callers of [storm](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller), [rage](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller) and [frenzy](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller) -- we would consider those deities to exist in some capacity up to the modern days of Skylark crash landing on Cradle.
+
+As no proper conection between those gods and dragons is established, we will propose an initial scenarion of the identity of Riders.
+
+As dragons posess properties of raw power, we would associate them to titans of greek mythology. As noted earlier, the bodies of those dragons forming the world is the prime example of the creation myth being established. As for the titans there was a conflict, and as dragons had taken a similar thematic role, we would propose tham to be _slain by deities, which parallel the Olympiam gods_. Whose deities would be ones to be the bearers of Riders' Mantles, given their exclusive characterization.
+
+Given those circumstances, we will label this creation sequence as the _lesser creation myth_.
 
 #### Alchemical Symbolism of a Dragon
 
@@ -922,7 +944,9 @@ Based on previous counterarguments presented in favour of gremlins, Isorans or d
 
 Yet, this _does not explain_ the naming convention of titans and the distinct design of [Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail). As far as present descriptions allow, the titans might be ancestors of Spiral Order or a different, no less ancient species associated with stone, even a third civilization existing near the time of a creation myth.
 
-More so, the term titans creates cultural associations with mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_, where each of those species may fit into corresponding time periods described by the above eqipment. This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline.
+More so, the term titans creates cultural associations with mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_, where each of those species may fit into corresponding time periods described by the above eqipment. Greek titans are specifically ones to exist at the __literal, physical foundation of the world__, being essential to the creation myth. While in Spiral Knights' cosmology this role of world progenitors is delegated to dragons, titans might have to be placed if not alongside them, but in their proximity as much so as riders, due to legendary specificity of Rageous Plate Mail.
+
+This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline to fulfill similar role.
 
 We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__.
 
@@ -949,9 +973,11 @@ At some point in time, dragons were hunted by currently unknown party, which gav
 
 With dragons overthrown, whose powers reshaped the planet (`created the world in its passing: its fire the sun, its bones the mountains` - [Storm Dragon Helm](https://wiki.spiralknights.com/Storm_Dragon_Helm#Storm_Dragon_Helm)) changing terrain (`its rage became magma rain, its breath a typhoon` [Raging Dragon Helm](https://wiki.spiralknights.com/Raging_Dragon_Helm#Raging_Dragon_Helm)) and creating storms.
 
-The [Rider Mantles](https://wiki.spiralknights.com/Frenzy_Rider_Mantle#Frenzy_Rider_Mantle) refer to 3 gods using their respective elements to `carve worlds from stone` - the meaning of carving worlds from stone may also refer to a construction of castles found within Clockworks. The notion of gods is often accompanied with divinity which for the most part is symbolized by the heavenly kingdom - this possible relation will be kept in mind and serves as a basis for this mostly speculative section.
+The [Rider Mantles](https://wiki.spiralknights.com/Frenzy_Rider_Mantle#Frenzy_Rider_Mantle) refer to 3 gods using their respective elements to `carve worlds from stone` -- the meaning of carving worlds from stone may refer to a metaphysical act of creation, or a literal carving of land.
 
-But, to achieve further progress in identification of both tortodrones and tortomega, we should approach from a point of the analysis of a different civilization - valkyries of heavenly kingdom.
+At that point the assumption of a [war between dragons and riders](#lesser-creaton-myth) would serve us as a scaffolding for further exploration of the narrative, as such logic would allow us to create suitable premise for further described developments.
+
+With the mythology as a guide, with the knowledge of a few advanced civilization of Cradle, to achieve further progress in identification of tortodrones, tortomega, titans and riders, we should approach from a diffent perspective, from the analysis of a different civilization -- Valkyries of heavenly kingdom.
 
 <center class="chapter-break">
   <span class="energy">🜛</span>
@@ -967,7 +993,6 @@ But, to achieve further progress in identification of both tortodrones and torto
     <img class="decorate-contents-img" src={imgHeavenlyKingdom} />
   </div>
 </div>
-
 
 Overall designs of [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) suggest existence of a different faction. This group's designs differ greatly from any tortomega stonework designs, and are most similar to Valkyrian and Spiral Order gear in respective themes and designs:
 
