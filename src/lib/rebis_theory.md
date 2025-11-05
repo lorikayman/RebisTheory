@@ -855,44 +855,78 @@ While we have covered the fury property as we have discussed motif of power, the
 
 This duality, we propose, hints at a certain conflict, a _motif of unrealized vengeance of a fallen civilization_ found in a few future instances. While it requires elaboration, the contrast itself hints at an _unreconciled state of tortodrones and their creators_, a __lack of resolution__.
 
-#### Introduction of Titans, Symbolism of Stone
+#### Motif of Stone and Serenity, Titans
 
 There are several both metaphorical and literal instances of a term _titans_:
 
 - `A suit of artifact armor that is said to have been worn by titans` ([Ancient Plate Mail](https://wiki.spiralknights.com/Ancient_Plate_Armor)).
+
+  An initial connection is established between so far metaphorical titan and a quality of being ancient, distant in time.
+
 - `A vestigial helm whose weight makes it unwieldy to all but those with titanic strength` ([Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm)).
-- `items fashioned in the ancient, veiled homeland of the tortodrones` ([Ancient Prize Box](https://wiki.spiralknights.com/Ancient_Prize_Box)).
-- Mossy design of [Troika](https://wiki.spiralknights.com/Troika), similar to other ancient-themed items. Despite Troika having Spiral Order variant, as well as wielded by Spiral Order - by [Izola in the Hall of Heroes](https://wiki.spiralknights.com/Izola), - it seems this design was acquired rather recently, after Skylark crash-landed on Cradle, compared to different themes of items in the alchemy path of [Cobalt armor](https://wiki.spiralknights.com/Cobalt_Armor), given that these equipment is upgraded with the Knight's rank mission progression.
+
+  The term `vestigial` characterises it as essential in the past, poentially ancient past, but in modern times it is considered rudimentary, not required. The bearer -- a titan, -- is further characterized as possessor of titanic strength, which, as a term itself suggests, can be interpreted metaphorically or literally.
+
+- Mossy design of [Troika](https://wiki.spiralknights.com/Troika), `A low-tech sword that makes up for its lack of high internal power with sheer weight and size. It is capable of delivering crushing blows for those that can handle it`, similar to other ancient-themed items has a significant importance of weight and power, manifested in its 5-star designs.
+
+  Despite Troika having Spiral Order variant, as well as wielded by Spiral Order -- primarily by [Izola in the Hall of Heroes](https://wiki.spiralknights.com/Izola), -- it seems the design was acquired rather recently, after Skylark crash landed on Cradle, as the weapon is upgraded as the knight progresses the campaign, compared to both different themes of items in the alchemy path of [Cobalt armor](https://wiki.spiralknights.com/Cobalt_Armor), and a nature of modernised designs emerging from Troika as a mossy relic from a past.
+
+  The 5-star variants, specifically [Triglav](https://wiki.spiralknights.com/Triglav) hint at a mythical importance of the weapon, despite the subversion of the narrative of a mythical weapon: `No stories have been told about this almighty blade, but that's only because people are rarely in the mood to talk after having been crushed by a mountain.`
+
+  Yet, the design of Torika alchemy tree retain an _incorporated symbol of energy_, which itself suggest that weapon might have been of Spirtal Order design from a distant past. This property introduces a possibility of titans being Spiral Order ancestors, which would require a resolution of those locations being visited by SPiral Order ancestors in the past.
+
 - `A large, powerful shield made to resemble a creature's shell` ([Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise)). The creature in question is a tortoise.
-- Design of [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) points at Tortomega. Tortomega is mentioned and is of same design as [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise), albeit darker, purple even.
-- `A legendary suit of armor said to imbue the wearer with the rage of the titans` ([Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail)) - another instance of link between rage and titans, but here also a connection to older interpretations elements, relation to normal damage and rage.
-- Stone is mentioned in [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise) and in the Ancient Plate Mail and Helm, as well as costumes of the same ancient design:
 
-  `Within the cool, stony interior of this helmet` [Serene Tailed Helm](https://wiki.spiralknights.com/Serene_Tailed_Helm) and [Ancient Plate Shield](https://wiki.spiralknights.com/Ancient_Plate_Shield) on a first glance may not fit to an establish design pattern, by presence of, we believe, spirals and energy symbol, as they are associated with Spiral Order's alchemy and technology of their shields. We will return to this symbol in relation to its placement on armors dueling our later analysis of [Haven mining operations]().
+  Design of [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) points at Tortomega: `A shield created from the armor of a Tortomega. The sheer weight of this powerful shield makes it only an option for the strongest of warriors` and has same design as [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise), albeit darker, which was the argument in favour of identification of tortomega as tortoises-like species.
 
-  This similarity to Spiral Order designs is also present in Valkyrian armors, such as [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) and its 5-star alternatives in the alchemy tree of [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm), having same Energy symbol and overall shape suggesting anatomical and cultural similarities of Spiral Order and Valkyries, although the species are distinguished from each other: `It retains many divine properties celestial beings possess but lacks their weakness to fire` ([Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm)). Could it be, that valkyries are related to Spiral order over the different periods of time?
+- `A legendary suit of armor said to imbue the wearer with the rage of the titans` ([Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail)) describes a link between rage and titans within a framing of the titans as a distinct specie with a direct connection to older interpretations elements.
 
-Based on those references to stone and titans, a link may be established between said titans, stone, tortodrones, as their exterior is made of stone, gun puppies, tortoise, and finally, tortomega.
+  As this equipment comes from the same prize box as dragon helms, where creation myth was established, these items may also be, given their elemental naming convention, of the most ancient period of time.
 
-Based on counterarguments presented in favour of gremlins, Isorans or devilites being tortodrones' creators, we believe, due to this common theme of stone, tortomega have most potential to being that species, despite the presented vagueness of both their identity and the time period in question.
+  Notably, compared to previously discussed items of those prize boxes, there are different entities attributed to those elemental qualities:
 
-Yet, this does not explain naming convention of titans, mentioned a few times in the above descriptions. We see them as relating to stone, which places them with the rest of this ancient time period. The name itself, titans, creates cultural associations from mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, and potentially, _fomorians of irish mythology_. The latter will make sense later in the analysis as several common motifs will be found relating to all of the interpretations of giants/titans in the setting.
+  - `A legendary suit of armor said to imbue the wearer with the frenzy of a thousand demigods` ([Frenzy Plate Mail](https://wiki.spiralknights.com/Frenzy_Plate_Mail#Frenzy_Plate_Mail)).
+  - `A legendary suit of armor said to imbue the wearer with the rage of the titans` ([Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail)).
+  - `A legendary suit of armor said to imbue the wearer with the might of heavenly thunder` ([Thunderous Plate Mail](https://wiki.spiralknights.com/Thunderous_Plate_Mail#Thunderous_Plate_Mail)).
 
-It is due to this narrative we will consider tortomega as the titans, mentioned in the equipment discussed earlier.
+  This separation implicitly ties rage to titans.
 
-So far at this point of the analysis we will consider **tortomega being this extinct not species, but an entire civilization of titans, responsible for existence of tortodrones**.
+- `items fashioned in the ancient, veiled homeland of the tortodrones` ([Ancient Prize Box](https://wiki.spiralknights.com/Ancient_Prize_Box)) such as [Serene Tailed Helm](https://wiki.spiralknights.com/Serene_Tailed_Helm) directly link application of stone with tortodrones' history: `An ancient, resilient helmet covered in a soft layer of moss. Within the cool, stony interior of this helmet you can hear a faint and soothing song formed by the rustle of winds traveling from distant lands` ([Serene Tailed Helm](https://wiki.spiralknights.com/Serene_Tailed_Helm)).
+
+  Items of this prize box have a resemblience of the ancient plate armor set apart from the metalic look of [Ancient Plate Shield](https://wiki.spiralknights.com/Ancient_Plate_Shield) due to overgrown nature of both, also identified as the [`ancient` color scheme](https://wiki.spiralknights.com/Ancient), yet their naming convention invovles a quality of being `serene`.
+
+  Those items introduce a theme revolving around serenity and stone, as an extension of themes tortodrones encapsulate: `Listen to the faint and soothing song formed by wind traveling from a distant land, or feel the tremors caused by the march of the Long Migration. Equip your knight with serene costumes and ancient accessories.` ([March of the Tortodrones!](https://forums.spiralknights.com/en/node/97506)).
+
+  On the contrary, [Ancient Plate Shield](https://wiki.spiralknights.com/Ancient_Plate_Shield) on a first glance may not fit to an establish design pattern, by presence of spirals and distinct energy symbol, as they are associated with Spiral Order's alchemy and technology of their shields. We will return to this symbol in relation to its placement on armors during our later analysis of Spiral Order technology.
+
+  <!--This similarity to Spiral Order designs is also present in Valkyrian armors, such as [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) and its 5-star alternatives in the alchemy tree of [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm), having same Energy symbol and overall shape suggesting anatomical and cultural similarities of Spiral Order and Valkyries, although the species are distinguished from each other: `It retains many divine properties celestial beings possess but lacks their weakness to fire` ([Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm)). We will keep in mind those similarities.-->
+
+Based on those references to stone and titans, a network of connections may be established between _motif of stone as symbolic for ancient time and strength_, initially linked to titans, who are chacterized by strength and time, and then tortodrones over abundant presence of stone in the context of a distant both across time and geography location.
+
+Based on counterarguments presented in favour of gremlins, Isorans or devilites being tortodrones' creators, we suggest, due to this common theme of stone, tortomega have most potential to being the creator-species, despite the presented vagueness of both their identity and the time period in question, but relying on application of stone both for tortodrones and stone architecture of [Ancient Grove](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove), and the roster of serene equipment, as evidence of that civilization possessing a distinct culture and recognizable stonework designs, which tie it back to characteristics attributed to titans.
+
+Yet, this does not explain naming convention of titans. As far as present descriptions allow, the titans might be _ancestors of Spiral Order_ or _different no less ancient species associated with stone_, even a third civilization existing near the time of a creation myth, given the notable relation of titans with rage and those older designs.
+
+The term titans creates cultural associations from mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_. There are titants of the creation myth involving dragons, but given ancient design of stonework armors, its quality, there might be more nuance to that ancient time period, identified by corresponding prize boxes of storms, rage and frenzy.
+
+The possibility of Spiral Order being those titans will not be discarded, as Spiral Order had to be yet discussed properly. We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__.
 
 #### Veiled Tortodrone Homeland
 
-Tortomega would settle in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove) (`Contains various unique items fashioned in the ancient, veiled homeland of the tortodrone` [Ancient Prize Box](https://wiki.spiralknights.com/Ancient_Prize_Box)), where their ruins are, reminiscent of the style of carvings on tortodrones and [related gear, alchemized from the ancient shells](https://wiki.spiralknights.com/Ancient_Shell#Usage).
+Tortomega, as creators of tortodrones, would establish a `distant homeland`, a region which had their chacateristic architecture found only in the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove) -- `Contains various unique items fashioned in the ancient, veiled homeland of the tortodrone` ([Ancient Prize Box](https://wiki.spiralknights.com/Ancient_Prize_Box), -- where their ruins are, reminiscent of the style of carvings on tortodrones and [related gear, transmuted from the ancient shells](https://wiki.spiralknights.com/Ancient_Shell#Usage).
 
-We suggest that Ancient Grove is part of the Gloaming Wildwood, and all of the woods were inhabited by this civilization, of tortomega.
+We propose, that Ancient Grove is part of the Gloaming Wildwoods, and all of the woods were inhabited by tortomega, as terrestial reptilian species derived of tortoises.
 
-This can be proven by both locations contain same type of architecture, evident by stone gun puppy statues and unique glowing mushrooms present across the biomes. The same statues and mushrooms are present in the [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle). Then, only statues remain in the [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles) and [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den), suggesting that prior to Cradle dividing those locations and placing them into skydomes, all of them were close in proximity within a territory inhabited by tortomega, close enough for glowing mushrooms to spread, as well by the same architecture, built by somebody inhabiting the geographical region.
+The connection between Wildwoods and Ancient Grove is found in the similarity of the ruins, _same strata of architecture_, evident by stone gun puppy statues, and _a unique glowing mushrooms present across the biomes_. The same statues and mushrooms are present in the [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle). Then, only statues remain in the [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles) and [Wolver Dens](https://wiki.spiralknights.com/Wolver_Den), suggesting that prior to those locations being divided and placed into skydomes, _those regions were in close proximity to each other within a territory inhabited by tortomega_, close enough for the biosphere to spread and allow buildings of the same architectural style to be constructed.
 
-It must be also noted, as Starlight Cradle, Gloaming Wildwoods and Aurora Isles all have large blocks made of dark stone with the glowing valestone-like spiral carved in its' sides, glowing only at night time of encompassing the regions skydomes.
+It must be also noted, as Starlight Cradle, Gloaming Wildwoods and Aurora Isles all have large rectangular indestructable blocks made of dark stone with the __glowing valestone-like spiral carved in its' sides__, _glowing only at night time_ of encompassing the areas skydomes. Cultural and metaphysical meaning of this symbol will be explored as we find it in different contexts, this depiction being no less important.
 
-It is unknown weather those regions could be considered as the `veiled homeland`, so it might be that the entirety of the habitat is left unseen and greater than suggested by areas available from the Clockworks, as evident by wildwood, not all of them are encased into Clockworks' skydomes. This idea of a greater volume of Clockworks remaining unexplored is also vaguely pointed out by Biotech in the haven Lab regarding Almire: `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`, that is, if the "somewhere" is on Cradle, rather than a lost planet, from which the landmass kingdom was taken into Cradle.
+It is unknown weather those regions could be considered the `veiled homeland`, given the view of tortodrones still at their migration at the end of Call of The Colossi, so, there are a few interpretation we can suggest, given current conclusions:
+
+- The distant location of the veiled homeland is temporal -- it foes not exist as a unified landmass, but rather its is split into smaller regions and only identified by a common strata or buildings.
+- Veiled homeland is a region left unseen due to greater scope of Cradle in the same manner as gremlins' Great Colony was not yet explored in-game and a suggestion of a biotech in the Haven Lab regarding Almire: `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`.
+
+The latter option, given context of megastructure's scale, seems more plausible, while the prior would grant this narrative greater depth without a distinct conflict of interpretations. Yet, as the setting of Cradle so far was the only one to be explored, apart from exceptions such as [Apocrean Realm](#apocrean-realm), we propose tortomega veiled homeland to exist within the volume of Clockworks and Cradle.
 
 #### Extinction of Dragons
 
