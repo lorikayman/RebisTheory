@@ -503,17 +503,17 @@ Dragons' lifespan is unknown, but as [dragon scales](https://wiki.spiralknights.
 
 There could be only 3 dragon-deities, each representing their element, which would also fit and explin the physical nature of the myth, elevating those dragons above other dragons. As if _entire nature of those dragons was used to fuel or manifest a world into existence_, as the elements of dragons' anatomy through their deific existence became symbols and source for manifested concepts of the existence. This is the most distinct creation myth as other real-world instances:
 
-- In Norse mythology the creation myth revolves around a defeated giant named Ymir, whose components -- flesh, blood and bones, -- become land, seas and, nootably, mountains and hills.
+- In Norse mythology the creation myth revolves around a defeated giant named Ymir, whose components -- _flesh, blood and bones, -- become land, seas, and hills_.
 
-    The transition of bones to mountains is one we will keep track of as it is not the only instance of North mythology being used, but also a guidepost towards other symbolic relations united under North mythology, its characters and plots.
+  The transition of bones to mountains is one we will keep track of as it is not the only instance of North mythology being used, but also a guidepost towards other symbolic relations united under North mythology, its characters and plots.
 
-- In Hindu mythology, there are three fundamental forces, embodied by Lord Brahma -- the Creator, and the force of creation; Lord Vishnu -- the Preserver and the force of preservation; and Lord Shiva -- the destroyer and an embodyment of the forces of darkness and destruction.
+- In Hindu mythology, there are _three fundamental forces_, embodied by Lord Brahma -- the Creator, and the force of creation; Lord Vishnu -- the Preserver and the force of preservation; and Lord Shiva -- the destroyer and an embodyment of the forces of darkness and destruction.
+- In Chinese mythology, creator Pangu had separated Yin and Yang. The Yin became the Earth and the Yang became the Heavens. Pangu's body was transformed after this separation, and _his breath became the wind and clouds, while his voice became the sound of thunder_.
+- The Mesopotamian epic -- `The Battle between Marduk and Tiamat`, and the Babylonian creation myth -- `Enuma Elish`, provide a similar idea.
 
-    The themes of each of the triads are distinct, and yet the framing of those is particularly similar, as Spiral Knights's creation myth and forces responsible for it relate to acts of creation, shaping and destruction.
+  Goddess Tiamat is associated with the primordial chaos and sea, but only later she is described as a serpent. She was defeated by Marduk, the god of thunderstorms. After her defeat, _her body was split by Marduk in two halves. From them, heavens and earth were created_ -- another creation myth.
 
-- In Chinese mythology, creator Pangu had separated Yin and Yang. The Yin became the Earth and the Yang became the Heavens. Pangu's body was transformed after this separation, and his breath became the wind and clouds, while his voice became the sound of thunder.
-
-    Here, we are interested in the identity of wind as breath of a creator.
+  The interpretation of Goddess Tiamat as a dragon was a later development, but it is one interpretation that has settled in popular culture, specifically in the universe of "Dungeons and Dragons". We believe this is important, as is known that some inspiration from a existing fictional works were initially taken as the inspiration, later developed and build upon: `Haven's original look resembled something similar to a Ald'ruhn from The Elder Scrolls: Morrowind. As you might imagine, it really didn't look right` ([10 things you didn't know about Spiral Knights](https://forums.spiralknights.com/en/node/20773)). It is also in relation to the lore of Elder Scroll, dragons are considered primordial entities, responsible for the existence and form of its cosmology, and later being hunted by Nords, who initially were worshipping dragons.
 
 Those implications of dragons' lifespan, or at least longevity of their armor are also hinted at in `An armored scale from what was thought to be an extinct creature` ([Dragon Scale](https://wiki.spiralknights.com/Dragon_Scale)), as dragons from the perspective and knowledge of the world of Spiral Order were extinct -- as if dragons are found on Cradle. We do not have a visual evidence of dragons' presence on Cradle.
 
@@ -539,15 +539,15 @@ This latest idea of a conflict which had led to dissaapearance of dragons had le
 
 Compared to the sequence of dragons perishing, the gods, whom those armors are attributed to, do not include a destructive action nor armors' description form a cohesive order of world creation, but rather all of three god had utilized their respective elements `to carve whole worlds from stone`. The identities of those worlds are unknown, as well as the species of the riders mey not yet be attributed to any known civilization in particular.
 
-Yet, we can make a few initial suggestions. As dragosn helms are created after dragons of respective elements, someone, given fantastic nature of this narrative, had to witness those events and create the armor. As those armors of rage, frenzy and storms all possess this quality of an ancient naming convention, we suggest them to be created by that ancient civilization.
+Yet, we can make a few initial suggestions. As dragon helms are created after dragons of respective elements, some entity, given fantastic nature of this narrative, had to witness those events and create the armor. As those armors of rage, frenzy and storms all possess this quality of an ancient naming convention, we suggest them to be created by that ancient civilization.
 
-Within this context, the direct tie of legendary armor sets to gods of said elemenal powers would closely relate them to this ancient civilization, if the design of armors reflects if not the anatomy adapted for Spiral Order, but design and purpose.
+Within this context, the direct tie of legendary armor sets to gods of said elemenal powers would closely relate them to this ancient civilization, if the design of armors reflects if not the anatomy adapted for Spiral Order, but design and purpose. The nature of those items is described in the prize boxes -- `Contains various unique costumes and accessories crafted from thunder and lightning` ([Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box)), which grants them a divine nature associated, in particular, with greek pantheon given the nature of Zeus's coming to power after defeat of titans.
 
-Lastly, taken into context of the quote -- `Instill in your heart the frenzy of ancient gods!` ([Feel the Frenzy!](https://forums.spiralknights.com/en/node/109069)) and presence of the Callers of [storm](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller), [rage](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller) and [frenzy](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller) -- we would consider those deities to exist in some capacity up to the modern days of Skylark crash landing on Cradle.
+Taking into consideration the quote -- `Instill in your heart the frenzy of ancient gods!` ([Feel the Frenzy!](https://forums.spiralknights.com/en/node/109069)) and presence of the Callers of [storm](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller), [rage](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller) and [frenzy](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller) -- we would consider those deities to exist in some capacity up to the modern days of Skylark crash landing on Cradle.
 
 As no proper conection between those gods and dragons is established, we will propose an initial scenarion of the identity of Riders.
 
-As dragons posess properties of raw power, we would associate them to titans of greek mythology. As noted earlier, the bodies of those dragons forming the world is the prime example of the creation myth being established. As for the titans there was a conflict, and as dragons had taken a similar thematic role, we would propose tham to be _slain by deities, which parallel the Olympiam gods_. Whose deities would be ones to be the bearers of Riders' Mantles, given their exclusive characterization.
+As dragons posess properties of raw power, we would associate them to titans of greek mythology, as embodiments of raw semi-magical power. As noted earlier, the bodies of those dragons forming the world is the prime example of the creation myth being established. As for the titans there was a conflict, and as dragons had taken a similar thematic role, we would propose tham to be _slain by deities, which parallel the Olympiam gods_. Whose deities would be ones to be the bearers of Riders' Mantles, given their exclusive characterization.
 
 Given those circumstances, we will label this creation sequence as the _lesser creation myth_.
 
@@ -929,24 +929,26 @@ On the contrary, there are a few issues with this attempt to group the titans as
 - The [Ancient Plate Shield](https://wiki.spiralknights.com/Ancient_Plate_Shield) does not fit into an establish design pattern by presence of spirals and distinct energy symbol, as they are associated with Spiral Order's alchemy and technology of their shields. We will return to this symbol in relation to its placement on armors during our later analysis of Spiral Order technology.
 - The very fact of, as we will see further, Ancient Plate eqipment is attained through [Almirian Seals](https://wiki.spiralknights.com/Token#Almirian_Seal) should connect it with Almire. We should consider multiple potential identities of the titans as we cover each of the known factions.
 - There are titants of the creation myth involving dragons with corresponding armor designs of storms, rage and frenzy, which surpass stone equipment in their craftsmanship.
-- The quality of being made of stone may be the reason for identification of the wearer as a metaphorical titan due to their strength -- here the term titan would be resolved by being a metaphor. While the quality of being made of stone is shared between Ancient Plate eqipment and Serene items, the Rageous Plate Mail exists separately due to its design. This distinction is a valid hint at those titans being unrelated entities. And as there are diffent entities noted in corresponding plate armors, _rageous titans may be the only literal species of titans_.
+- The quality of equipment being made of stone may serve the reason for identification of the wearer as a metaphorical titan due to their strength. Here, the term "titan" would be resolved by being a metaphor. While the quality of being made of stone is shared between Ancient Plate eqipment and Serene gear, the Rageous Plate Mail exists separately due to its design. This distinction is a valid hint at those titans being unrelated entities. And as there are diffent entities noted in corresponding plate armors, _rageous titans may be the only literal species of titans_.
 
 While the identity of titants yet remains ambigious, a working assumption may be presented.
 
-Based on previous counterarguments presented in favour of gremlins, Isorans or devilites being tortodrones' creators, we suggest, due to common theme of stone and rage, tortomega possess most of the potential to be the creator-species and titans relying on application of stone for:
+Based on previous counterarguments presented in favour of gremlins, Isorans or devilites being tortodrones' creators, we suggest, due to common theme of stone and rage, tortomega possess most of the potential to be the titans relying on application of stone for:
 
-- Tortodrones as constructs with stone exterior;
+- Tortodrones as constructs with stone exterior, as built in image of a supposed species;
 - Stone architecture of [Ancient Grove](https://wiki.spiralknights.com/March_of_the_Tortodrones/Ancient_Grove);
-- The roster of serene equipment, as evidence of that civilization possessing a distinct culture and recognizable stonework designs.
+- The roster of serene equipment, as evidence of that civilization possessing a distinct culture and recognizable stonework designs;
 - Quality of rage so far had not found an embodiment as deeply tied to rage as torodrones, which ties back to the ancestry of tortomega. Of course, this would have a cascading effect onto the structure of the timeline, which we will explore and attempt to resolve.
 
 Yet, this _does not explain_ the naming convention of titans and the distinct design of [Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail). As far as present descriptions allow, the titans might be ancestors of Spiral Order or a different, no less ancient species associated with stone, even a third civilization existing near the time of a creation myth.
 
-More so, the term titans creates cultural associations with mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_, where each of those species may fit into corresponding time periods described by the above eqipment. Greek titans are specifically ones to exist at the __literal, physical foundation of the world__, being essential to the creation myth. While in Spiral Knights' cosmology this role of world progenitors is delegated to dragons, titans might have to be placed if not alongside them, but in their proximity as much so as riders, due to legendary specificity of Rageous Plate Mail.
+More so, the term titans creates cultural associations with mythology, such as _jotun, giants of norse mythology_, _titans of greek mythology_, _fomorians of irish mythology_, where each of those species may fit into corresponding time periods described by the above eqipment.
+
+Both across the myths -- as titans and giants, -- and as dragons of this cosmogony, they embody an entity or entities, who would become a __literal, physical foundation of the world__, being essential to the creation myth. While in Spiral Knights' cosmology this role of world progenitors is delegated to dragons, its universe's titans might have to be placed if not alongside them, then in their temporal proximity, similar to riders given their initial identification as gods.
 
 This, as stated earlier, requires us to look for other potential candidates at a role of titans across the timeline to fulfill similar role.
 
-We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__.
+We will make our _current working assumtion_, based on the above motif of stone, serenity, and in less explored manner, rage, that __titans are a colloqual term for tortomega civilization__, with an unresolved quation of nature of titans found in [Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail): `A legendary suit of armor said to imbue the wearer with the rage of the titans`.
 
 #### Veiled Tortodrone Homeland
 
@@ -967,15 +969,15 @@ The latter option, given context of megastructure's scale, seems more plausible,
 
 #### Extinction of Dragons
 
-At some point in time, dragons were hunted by currently unknown party, which gave rise to the [creation myth](#creation-myth).
-
-With dragons overthrown, whose powers reshaped the planet (`created the world in its passing: its fire the sun, its bones the mountains` - [Storm Dragon Helm](https://wiki.spiralknights.com/Storm_Dragon_Helm#Storm_Dragon_Helm)) changing terrain (`its rage became magma rain, its breath a typhoon` [Raging Dragon Helm](https://wiki.spiralknights.com/Raging_Dragon_Helm#Raging_Dragon_Helm)) and creating storms.
+At some point in time, dragons had perished, anouncing the [creation myth](#creation-myth). Their powers reshaped the planet (`created the world in its passing: its fire the sun, its bones the mountains` - [Storm Dragon Helm](https://wiki.spiralknights.com/Storm_Dragon_Helm#Storm_Dragon_Helm)) changing terrain (`its rage became magma rain, its breath a typhoon` [Raging Dragon Helm](https://wiki.spiralknights.com/Raging_Dragon_Helm#Raging_Dragon_Helm)) and creating storms.
 
 The [Rider Mantles](https://wiki.spiralknights.com/Frenzy_Rider_Mantle#Frenzy_Rider_Mantle) refer to 3 gods using their respective elements to `carve worlds from stone` -- the meaning of carving worlds from stone may refer to a metaphysical act of creation, or a literal carving of land.
 
-At that point the assumption of a [war between dragons and riders](#lesser-creaton-myth) would serve us as a scaffolding for further exploration of the narrative, as such logic would allow us to create suitable premise for further described developments.
+Given those currently separated narratives, we had drawn parallels with similar entities of greek and norse emythology, of norse giants, titans and Olympian gods.
 
-With the mythology as a guide, to achieve further progress in identification of tortodrones, tortomega, titans and riders, we should approach from a diffent perspective, from the analysis of a different civilization -- Valkyries of heavenly kingdom.
+This had allows us to propose a scenario rooted in mythologocal parallels assumed to be a [war between dragons and riders](#lesser-creaton-myth). This idea would serve us as a scaffolding for further exploration of the story, as such logic would allow us to create suitable premise for further developments in attempt to build a cohesive narrative.
+
+With the mythology as a guide, to achieve further progress in identification of tortodrones, tortomega, titans and riders, we should approach from a diffent perspective, from the analysis of a different civilization -- Valkyries.
 
 <center class="chapter-break">
   <span class="energy">🜛</span>
@@ -992,78 +994,73 @@ With the mythology as a guide, to achieve further progress in identification of 
   </div>
 </div>
 
-It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) implies existence of a different civilization, responsible for creation of that gear. This faction's designs differ greatly from any stonework design, but, they are particularly similar to Valkyrian and Spiral Order gear in their respective design elements:
+It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) implies existence of a civilization, responsible for creation of that gear.
+
+As we have established initial relation between stone, tortoises and tortomega, we found an image of a civilization of sentient giant tortoises, tortomega -- descendants of drakes, and far descendants of dragons of rage through motif of rage within tortodrones and their equipment, as pointers to an inherently rageous nature.
+
+While we were searching for the identity of titans, we proposed their nature to be tortomega through motifs around material of stone. We had pointed out a notion of draconic creation myth to resemble other creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- as a conflict would take place between dragon deities and other faction of formidable power, which would come on top. This confict was established in the [lesser creation myth](#lesser-creaton-myth) where we proposed that other faction to be the rider gods, whom those armors were attrbuted to.
+
+This faction's designs are particularly similar to Valkyrian and Spiral Order gear in their respective design elements and mythological contexts. In order to establish those similarities, we will elaborate on the Valkyrian gear, as we reference equipment associated with frenzy, rage and storms:
+
+- `A priceless helmet whose name denizens of the Underworld dare not mention` ([Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)).
+
+  The connection within the description and the name allows to identify those __heavenly guardians as Valkyries__, as well as their relation to the Underworld, implying a conflict between Valkyries and fiends of Underworld.
+
+  More so, this category of helmets _possesses imagery of a spiral_, which we also take note of, as plausibly significant symbol among Valkyrian culture, similar to application of _glowing spirals in tortomega strata_.
 
 - `A helm worm by heavenly guardians who watch over a kingdom hidden atop a snow-covered/magma-covered/wind-swept mountain` ([Avenger Helm](https://wiki.spiralknights.com/Avenger_Helm)).
 
   This equipment has distinct [round helm design](https://wiki.spiralknights.com/Spiral_Round_Helm) and back wings identical to [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm): `A beautiful helm made to resemble a heavenly guardian`.
 
-  As heavebnly gueardians are mentioned in both instances, it is most plausible that this civilization had existed for a long enough period of time for those designs to be incorporated into their culture. Potentially even, attributing Riders to this civilization.
+  As heavenly guardians are mentioned in both instances, it is most plausible that this civilization had existed for a long enough period of time for those designs to be incorporated into their culture, mostplausiblyreferring the same civilization at different points in time.
 
-- `A priceless helmet whose name denizens of the Underworld dare not mention` ([Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)).
+- `The helm of one who defied the gods and stormed/razed the gates of a heavenly kingdom` ([Champion Helm](https://wiki.spiralknights.com/Champion_Helm)), suggests an existence of a faction possessing same power of elements as the `heavenly guardians` ([Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm)), but being at conflict with them in order to _storm and then raze_ `the gates of a heavenly kingdom`:
 
-  The connection within the description and the name allows to identify those __heavenly guardians as Valkyries__, as well as their relation to the Underworld, implying a conflict between Valkyries.
+  - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say the thunderclaps are the eternal echoes of her siege` ([Storm Champion Helm](https://wiki.spiralknights.com/Storm_Champion_Helm#Storm_Champion_Helm)).
+  - `The helm of one who defied the gods and stormed the gates of a heavenly kingdom. Some say that whistling wings are the eternal warcries of her siege` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
 
-  More so, this category of helmets _possesses imagery of a spiral_, which we also take note of, as plausibly significant symbol among Valkyrian culture, similar to application of _glowing spirals in tortomega strata_.
+  As the helm belongs to `one who defied the gods`, and [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) define at least one god to carve ambigious worlds with depiction an armor of impressive design and craftsmanship, we would suggest that _the term of a heavenly kingdom_ in this context __implies a literal kingdom__.
 
-- `The helm of one who defied the gods and stormed/razed the gates of a heavenly kingdom` ([Champion Helm](https://wiki.spiralknights.com/Champion_Helm)), suggests an existence of a faction possessing same power of elements as the `heavenly guardians` ([Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm)), but being at conflict with them in order to _storm and then raze_ `the gates of a heavenly kingdom`.
+  Those details are not characteristic of dragons, as those are depicted as more _animalistic yet powerful beings or even forces of nature_.
 
-  It is mentioned that the helm belongs to `one who defied the gods`, and [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) suggest that those belong to 3 gods of familiar elements are Riders rather than dragons, as the is a context of a heavenly kingdom which implies a civilization, which is not yet characteristic of dragons, as those are depicted as more animalistic yet powerful beings.
+  The Champion Helm is similar to [Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm) whose belonging was rather ambiguous due to unknown origin and themes, yet those plated helms, including [Volcanic Plate Helm](https://wiki.spiralknights.com/Volcanic_Plate_Helm) possess a unique for them face plate of 2 vertical colums of 2 occulariums. We wkeep this design in mind as we get to the analysis of [volcanic gear](#volcanic-elements).
 
-  The helm of one defying itself is similar to [Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm) whose belonging was rather ambiguous due to conflicting origin and themes, yet those plated helmets, including [Volcanic Plate Helm](https://wiki.spiralknights.com/Volcanic_Plate_Helm) possess a unique for them face plate of 2 vertical colums of 2 occulariums.
+- [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) have prismatic elements incorporated in their designs, specifically, [wings of fury, storms and frenzy](https://wiki.spiralknights.com/Wings_of_Fury#Wings_of_Fury) or [regular prismatic wings](https://wiki.spiralknights.com/Wings).
 
-  Another possible party, who can be seen as a candidate for ones storming the gates of heavenly kingdom is the [Kat Tribe](#kat-tribe), as it succeeded in its endeavour to siege Owlite Academy of Magics. Although currently this is only a speculation based of the most generalized similarities, not the themes or designs, as elemental and divine designs of 3 primordial elements does not fit the curse-adjacent or magical themes of Kats and their armors, at least in their transmuted forms acquired from the mysterious alchemy station.
+  The [Eye of fury](https://wiki.spiralknights.com/Eye_of_fury) exists separately, but allows for a motif of rage to be extended onto those species, rather than delegated to tortomega exclusively. It may be the case of _rage element being present or manifested in modern day Cradle only through tortodrones_, which would seem to be a more plausible explanation without breaking an established system.
 
-- [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) have prismatic elements incorporated in their designs, specifically, [Wings of those elements](https://wiki.spiralknights.com/Wings_of_Fury#Wings_of_Fury) or [regular prismatic wings](https://wiki.spiralknights.com/Wings).
 - Sigils on [rider mantles](https://wiki.spiralknights.com/Rider_Mantle) do not resemble anything else seen on Cradle, fiendish sigils, [Owlite enchantments](https://wiki.spiralknights.com/File:Enchanter_Aura-Equipped.png), or [Sorcerer Aura](https://wiki.spiralknights.com/Sorcerer_Aura#Sorcerer_Aura).
 - `A brilliant, white helm belonging to a heavenly warrior` ([Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm)).
 
-  This helm has Spiral Order energy symbol and design similar to [Azure Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) or [mighty cobalt helm](https://wiki.spiralknights.com/Mighty_Cobalt_Helm). The design may also connect heavenly kingdom and Spiral Order as from the same if not similar time period.
+  This helm has Spiral Order energy symbol and design similar to [Azure Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) or [mighty cobalt helm](https://wiki.spiralknights.com/Mighty_Cobalt_Helm).
 
-  Could it be that past exsitence of Spiral Order was of those exact heavenly warriors, identified as or related to Valkyries?
+  This similarity to Spiral Order designs is also present in Valkyrian armors, such as [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) and its 5-star alternatives in the alchemy tree of [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm), having same energy symbol and overall shape suggesting anatomical or cultural similarities of Spiral Order and Valkyries, although the species are distinguished from each other: `It retains many divine properties celestial beings possess but lacks their weakness to fire` ([Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm)) through a naming convention and physical traits.
+
+  Could it be that past existence of Spiral Order was of those exact heavenly warriors, identified as or related to Valkyries as the celestial beings? The appearance of the species which is Spiral Order may plausibly fit into such description from the initial sight. While we do not have enough evidence to suggest so, those similarities remain a topic of discussion.
+
 - `Brilliant, white armor worn by those who defended the heavenly realms` ([Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor)).
 
-  As an armor paired with the aforementioned helmet, it has a design feature of pale yellow light trains on its handguards. Thoe trails to a degree are similar to the aura of [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger). As the designs are similar, there is a possubility of this sword being attributed to that period of time, but the presence of curse symbolism contradicts it, as no curse was yet introduced.
+  As an armor paired with the aforementioned helmet, it has a design feature of pale yellow light trains on its handguards. Those trails are similar to the aura of [Divine Avenger](https://wiki.spiralknights.com/Divine_Avenger). This may imply a possibility of this sword being attributed to that ancient period of time, but the presence of curse symbolism contradicts it, as no curse was yet introduced into the narrative, remaining adjacent to classical western mythology.
 
   It is important to note here that Spiral Order does not have mastery of elemental damage, as evident by [Archilus' dialogue](https://wiki.spiralknights.com/Archilus): `Elemental resistant armor and shields are adapted from Owlite technology. Though the Owlites themselves no longer exist, their amazing elemental mastery lives on in this gear`, but their technology allows for curse and other status effects to be nullified through application of [remedy capsule](https://wiki.spiralknights.com/Pickups#Capsules).
 
-If Spiral Order was at some point related to heavenly kingdom, it must have happened far into the past, if not fully unrelated, which would require then an in-depth explanation for the design similarities. This scenario is possible if the equipment is adapted literally to fit scpeies of Spiral Order, with the original designs remaining currently unknown. As far as we are aware, [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
+If Spiral Order was at some point related to heavenly kingdom, it must have happened far into the past, if not fully unrelated, which would require then an in-depth explanation and solid reason for the design similarities.
 
-This similarity to Spiral Order designs is also present in Valkyrian armors, such as [Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm) and its 5-star alternatives in the alchemy tree of [Angelic Helm](https://wiki.spiralknights.com/Angelic_Helm), having same Energy symbol and overall shape suggesting anatomical and cultural similarities of Spiral Order and Valkyries, although the species are distinguished from each other: `It retains many divine properties celestial beings possess but lacks their weakness to fire` ([Heavenly Iron Helm](https://wiki.spiralknights.com/Heavenly_Iron_Helm)) through a naming convention and physical traits.
+This scenario is possible if the equipment is _anatomically adapted to fit species of Spiral Order_, with the original designs being relatively similar. We suggest such explanation due to explicit case of [gremlin suit](https://wiki.spiralknights.com/Gremlin_Suit): `A special suit tailored by a gremlin's touch to fit the frame of a knight`, and [Owlite robes](https://wiki.spiralknights.com/Owlite_Robe): `A costume recreation of the fine robes worn by Owlites, based on the most recent archaeological findings`. Such cases anounce a theme of _Spiral Order incorporating other civilizations' designs into their equipment_.
 
-In terms of naming conventions it is also here we are implicitly given a few terms for heavenly guardians, as themselves, as, potentially, avengers, Valkyries, and celestial beings.
+As far as we are aware, [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes of heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
+
+In terms of naming conventions it is also here we are implicitly given a few terms for heavenly guardians as avengers, Valkyries, and celestial beings.
+
+Furthermore, the avian designs are found in handguns. They imply a cultural significance of those traits to culture which had those guns manufactured, similar to the appearance of tortodrones as an image radiating power and rage.
 
 Based on a design of [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) and its description: `A beautiful pistol named after a great, noble beast. Its golden frame was believed to provide light within the impenetrable darkness of the Underworld`, -- there must have been an Underworld present and some civilizations would have been aware of its existence.
 
-The handgun's name -- griffin, -- has depiction of anatomy similar to a dragon, especially with its recognizable muzzle, now having 4 legs and wings, and back horns reminiscent of the Drakon sprite, despite in being named after a differnt specie, while there are other handgun decorated with less draconic features.
+The handgun's name -- griffin, -- has depiction of anatomy similar to a dragon, especially with its recognizable muzzle, now having 4 legs and wings, and back horns reminiscent of the Drakon battle sprite, despite in being named after a differnt specie, while there are other handgun decorated with less draconic features.
 
-As far as wea re concerned, this _notion of depicting ancient and powerful creatures is present also within castles' architecture_, as castles' origins also had to be discussed. We suspect, the similarity in designs may bring heavenly kingdom and those castles closer to a common origin.
+Those handguns possess multiple damage types, while modern Spiral Order is mostly unaware of shadow damage, and barely of elemental damage, fully relying on normal and piercing damage types.
 
-Based on what could those handguns be attributed to valkyries or _avian feathered species in general_? Those handguns possess multiple damage types, while modern Spiral Order is mostly unaware of shadow damage, and barely, of elemental, fully relying only on normal and piercing damage, as during the times of Morai wars.
-
-#### War of Dragons and Valkyries
-
-As dragons perished, their influence was unleashed and documented as the [creation myth](#creation-myth). Then we have suggested that tortomega seemingly inherited the aspect of rage as those are descendants of dragons.
-
-So far no other civilization is present on Cradle, which might have had similar designs to [Rider mantles](https://wiki.spiralknights.com/Rider_Mantle) apart from valkyries, weather or not those were intended to look similar to Spiral Order designs.
-
-We propose, that [Rider mantles](https://wiki.spiralknights.com/Rider_Mantle) do belong to heavenly kingdom of valkyries. It is then a question of what has happened back then in order for those gods to exists -- to `carve worlds from stone` ([Rider mantle](https://wiki.spiralknights.com/Rider_Mantle)).
-
-Due to name of valkyries, as well as the name of heavenly kingdom, we suspect, that Valkyries had inherently possessed a magical properties related to powers of storms, rage and frenzy (`A legendary suit of armor thought to be worn by a god` - [Rider Mantles](https://wiki.spiralknights.com/Storm_Rider_Mantle#Storm_Rider_Mantle)), or at least aware of such phenomenon.
-
-It is then a question of how this transpired, with a suggestion of a war, which had led to dragons paradoxically being extinct while allowing for a world to be created from their innate power. This, for now paradoxical nature, we believe, point to a specific theme within ancient myths.
-
-- `An enchanted helm crafted into the visage of beast who some believe created the world in its passing: its fire the sun, its bones the mountains` ([Storm Dragon Helm](https://wiki.spiralknights.com/Storm_Dragon_Helm#Storm_Dragon_Helm)).
-- `An enchanted helm crafted into the visage of beast who some believe shaped the world in its passing: its frenzy started the mighty winds, its scales became the shadows` ([Frenzy Dragon Helm](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm)).
-- `An enchanted helm crafted into the visage of beast who some believe razed the world in its passing: its rage became magma rain, its breath a typhoon` ([Raging Dragon Helm](https://wiki.spiralknights.com/Raging_Dragon_Helm#Raging_Dragon_Helm)).
-
-This war to dragons as beings to hold or contain power to allow world to be made, and heavenly kingdom may be seen as a similar concept established in the _Mesopotamian epic - The Battle between Marduk and Tiamat_, and the _Babylonian creation myth - Enuma Elish_, and a greater idea, also found in alchemy - of order emerging from chaos, as described in the [initial covered of the Nameless Realm](#nameless-realm).
-
-Goddess Tiamat is associated with the primordial chaos and sea, but only later she is described as a serpent. She was defeated by Marduk, implied to be the god of thunderstorms. After her defeat, her body was split by Marduk in two halves. From them, heavens and earth were created.
-
-This seems as a possible inspiration for the [creation myth](#creation-myth) involving dragons. The interpretation of Goddess Tiamat as a dragon, as previously stated, was a later development, but it is one interpretation that has settled in popular culture, specifically in the universe of "Dungeons and Dragons". We believe this is important, as is known that some inspiration from a existing fictional works were initially taken as the inspiration, later developed and build upon: `Haven's original look resembled something similar to a Ald'ruhn from The Elder Scrolls: Morrowind. As you might imagine, it really didn't look right` ([10 things you didn't know about Spiral Knights](https://forums.spiralknights.com/en/node/20773)). It is also in relation to the lore of Elder Scroll, dragons are considered primordial entities, responsible for the existence and form of its cosmology, and later being hunted by Nords, who initially were worshipping dragons.
-
-Considering those themes, we suggest, that dragons were hunted by valkyries of heavenly kingdom.
+This _notion of depicting ancient and powerful creatures is present also within castles' architecture_, as castles' origins also had to be discussed, Scarlet Fortress in particular, given its sheer scale. We suspect, that the similarity in themes of the designs may bring heavenly kingdom and those castles closer to a common origin.
 
 #### Castles
 
