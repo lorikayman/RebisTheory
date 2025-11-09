@@ -1072,18 +1072,18 @@ With those disperse elements we can construct an image of an ancient civilizatio
 
 With the desprictions of both creation myths, we derive a narrative where dragons were either erradicated as a species or fleeing, with the other civilization's, potentially anthrpomorphic, gods "carving worlds from stone."
 
-#### Depiction of a Dragon
+#### Depictions of a Dragon
 
 As far as we are aware, there is only one firmly established avian civilization, Owlites. There are 2 imporant chacteristics of this civilization:
 
 - They are aware of Almire, but exist 1000 years after it had fallen: `The remaining pages are too deteriorated to decipher anything further save for a date of the events described which suggest that the Kingdom of Almire was destroyed over a thousand years ago` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
 - They possess the Owlite Academy of Macgics, now known as the Candlestick Keep.
 
-The prior point position Valkyries as on the other end of the timeline, at its beginning. The latter point allows for further analysis if the castle-like architecture of the Academy. And, it is there we find particular depictions of Drakon-like heads across the halls and their arched walls. The same design pattern is unmistakably observed in the Scarlet Fortress.
+The prior point position Valkyries as on the other end of the timeline, at its beginning. The latter point allows for further analysis if the castle-like architecture of the Academy. And, it is there we find particular depictions of _Drakon-like heads across the halls and their arched walls_. The same design pattern is unmistakably observed at the Scarlet Fortress and other location, including the Gauntlet.
 
-Similar designs are found acorss the scattered floating landmasses of sky islands, starlight cradle and other regions, including the Wildwoods, wherein large amounts of the same strata of architecture is present. There we are interested in the very specific presence of statues, near-identical to gun puppies in their appearances.
+Similar designs are found acorss the scattered floating landmasses of sky islands, starlight cradle and other regions, including the Wildwoods, wherein large amounts of the same strata of architecture is present. There we are interested in the very specific presence of _statues, near-identical to gun puppies in their appearance_ of __a rectangular snout and horns__.
 
-As in case of darkon battle sprites, this apperance is most likely is the appearance of a dragon, suggesting both tortomega civilization and now Owlites too are aware of them to an extent deep enough to depict, incorporate into architecture and so forth immortalize their image.
+As in case of darkon battle sprites, this apperance is most likely is the appearance of a dragon, suggesting both tortomega civilization and now Owlites are aware of them to an extent deep enough to depict, incorporate into architecture and so forth immortalize their image.
 
 To paraphrase, given nature of dragons, _tortomega and owlites share a cultural notion of depicting ancient and powerful creatures within their architecture_.
 
@@ -1116,6 +1116,8 @@ As with the case of floating islands, presented in the proposal of [veiled torto
 
 Here we can identify distincly Owlite architecture, or at least one associated with Owlites, by the fact of them inhabiting those strucures. There is Owlite Academy and adjacent locations, which, given architectural similarity, might likely be related to Owlites and more prominently a _single civilization resposible for construction of those castles_. Part of those locations has presence of arrays of coffins, reminiscent of crypts.
 
+While the precise identity of this group is unknown, apart from Owlite scenario, we have a diffent hint, one found across all of those instnces, as presence of depictions of dragons or drakes establishes itself, there is a different visual element -- a __devilite-like heads decorating niches of the walls__, accompanied by arches with dragon heads overlooking the surface of the wall. This architectural element is _not present_ in Royal Jelly Palace, Scarlet Fortress and Cryptic Statuery, which makes it more so hidden.
+
 ##### Almirian Architecture
 
 - Firestorm Citadel exists as the primary example of Almirian architecture, with application of wood and hexahedronal floor pattern.
@@ -1145,14 +1147,15 @@ As regarding graveyards themselves and Moorcroft Manor, the burials are same as 
 
 Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). Black Kats themselves are predominantly related to the narrative of Owlite dissappearance while being capable of summoning curse-ridden undead. This notion of a lingering curse is found both for Almire and Owlites. What kind of connection did Owlites and Almire share, while separated by so many years?
 
+#### Relation between Valkyries and Tortomega
+
 ---
 
+Both tortomega and Owlite achitecture, there is a distict presence of draconic designs. Given the consistency of Owlite architecture, the similarity of the depiction may bring Valkyries of heavenly kingdom, as a specie existing at the beginning of the timeline at the [lesser creation myth](#lesser-creaton-myth), and Owlite castles of Cradle closer to a common if not identical origin.
 
-that the similarity in themes of the designs may bring heavenly kingdom and castles of Cradle closer to a common if not identical origin.
+As later seen by [stone constructs](#stone-constructs), tortomega had skills to construct defenses, traps, and gun puppies. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress).
 
-As later seen by [stone constructs](#stone-constructs), tortomega had skills to construct defenses, traps, and gun puppies. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress). It can be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to carve it consistently over the construction of those castles.
-
-Potentially even tortomega assistance in castles' construction. This vagueness must be kept in mind as we will return to the relation of tortodrones to Underworld.
+It can be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to carve it consistently over the construction of those castles. Potentially even tortomega assistance in castles' construction. This vagueness must be kept in mind as we will return to the relation of tortodrones to Underworld.
 
 Both Gloaming Wildwoods, as an instance of assumed tortomega civilization, and castles, have similar imagery and depictions of dragons.
 
