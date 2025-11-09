@@ -47,7 +47,7 @@ Our position adopts a flawed methodology of a total oblitaration of mystery a fi
 
 With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc., -- as signs of physical and historical processees outside the observable present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
-With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative.
+With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative which would inderpin and categorize the whimsical nature and appearance of the setting.
 
 We will analyze the setting without including details of technical impimentation, but view it at a face value, apart from a single exception: we consider existence of the _distinction between crystal and mist energy_ and will bring its significance wherein we believe it to be relevant. Otherwise we will use the term of energy as it is being used now, an abstraction of prior categories of energy.
 
@@ -255,7 +255,7 @@ As for the Swarm itself, presence of the void in relation to its existence apart
 
 Given this data, we believe the Swarm may be understood, despite its eldritch, _not meant to be known nature_, through development of __a conceptual framework, a system and a set of laws, by which this cosmology operates__.
 
-#### Energy: Crystal and Mist
+#### Energy
 
 There exists power, contained within [Sparks of Life](https://wiki.spiralknights.com/Spark_of_life#Spark_of_Life), capable of reviving recently deceased Knights. Sparks of Life become available on knight's second knockout, and differ from an initial emergency revive by giving _temporary increase to Knight's damage output_, accompanied by _a lightning strike_ of particular color and _rumble across Clockworks' depth_, as seen by specs of dust falling as the knight revives, indicating -- as far as the theme of energy suggest, -- a temporary surge of power.
 
@@ -513,7 +513,7 @@ There could be only 3 dragon-deities, each representing their element, which wou
 
   Goddess Tiamat is associated with the primordial chaos and sea, but only later she is described as a serpent. She was defeated by Marduk, the god of thunderstorms. After her defeat, _her body was split by Marduk in two halves. From them, heavens and earth were created_ -- another creation myth.
 
-  The interpretation of Goddess Tiamat as a dragon was a later development, but it is one interpretation that has settled in popular culture, specifically in the universe of "Dungeons and Dragons". We believe this is important, as is known that some inspiration from a existing fictional works were initially taken as the inspiration, later developed and build upon: `Haven's original look resembled something similar to a Ald'ruhn from The Elder Scrolls: Morrowind. As you might imagine, it really didn't look right` ([10 things you didn't know about Spiral Knights](https://forums.spiralknights.com/en/node/20773)). It is also in relation to the lore of Elder Scroll, dragons are considered primordial entities, responsible for the existence and form of its cosmology, and later being hunted by Nords, who initially were worshipping dragons.
+  The interpretation of Goddess Tiamat as a dragon was a later development, but it is one interpretation that has settled in popular culture, specifically in the universe of "Dungeons and Dragons". While it is not particularly important development, it is known that some inspiration from existing fictional works was present in some capacity, initially taken as inspiration, later developed and build upon: `Haven's original look resembled something similar to a Ald'ruhn from The Elder Scrolls: Morrowind. As you might imagine, it really didn't look right` ([10 things you didn't know about Spiral Knights](https://forums.spiralknights.com/en/node/20773)). It is also in relation to the cosmogony of Elder Scrolls, dragons are considered primordial entities, responsible for the existence and form of its universe, which may be the other, more plausible, candidate for the proposed worldbuilding.
 
 Those implications of dragons' lifespan, or at least longevity of their armor are also hinted at in `An armored scale from what was thought to be an extinct creature` ([Dragon Scale](https://wiki.spiralknights.com/Dragon_Scale)), as dragons from the perspective and knowledge of the world of Spiral Order were extinct -- as if dragons are found on Cradle. We do not have a visual evidence of dragons' presence on Cradle.
 
@@ -541,7 +541,9 @@ Compared to the sequence of dragons perishing, the gods, whom those armors are a
 
 Yet, we can make a few initial suggestions. As dragon helms are created after dragons of respective elements, some entity, given fantastic nature of this narrative, had to witness those events and create the armor. As those armors of rage, frenzy and storms all possess this quality of an ancient naming convention, we suggest them to be created by that ancient civilization.
 
-Within this context, the direct tie of legendary armor sets to gods of said elemenal powers would closely relate them to this ancient civilization, if the design of armors reflects if not the anatomy adapted for Spiral Order, but design and purpose. The nature of those items is described in the prize boxes -- `Contains various unique costumes and accessories crafted from thunder and lightning` ([Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box)), which grants them a divine nature associated, in particular, with greek pantheon given the nature of Zeus's coming to power after defeat of titans.
+Within this context, the direct tie of legendary armor sets to gods of said elemenal powers would closely relate them to this ancient civilization, if the design of armors reflects if not the anatomy adapted for Spiral Order, but design and purpose. The nature of those items is described in the prize boxes -- `Contains various unique costumes and accessories crafted from thunder and lightning` ([Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box)), which grants them a divine nature associated, in particular, with greek pantheon given the nature of Zeus's and Olympian pantheon's coming to power in a new age.
+
+This motif of lightning apart from already being associatied with the skies, may be develped further in the context of this civilization, who had created those armors.
 
 Taking into consideration the quote -- `Instill in your heart the frenzy of ancient gods!` ([Feel the Frenzy!](https://forums.spiralknights.com/en/node/109069)) and presence of the Callers of [storm](https://wiki.spiralknights.com/Storm_Caller#Storm_Caller), [rage](https://wiki.spiralknights.com/Rage_Caller#Rage_Caller) and [frenzy](https://wiki.spiralknights.com/Frenzy_Caller#Frenzy_Caller) -- we would consider those deities to exist in some capacity up to the modern days of Skylark crash landing on Cradle.
 
@@ -837,7 +839,7 @@ Gremlins in that regard may be linked to grim gates in the Ancient Grove, as tho
 
 Tortodrones have a relation to devilites, same as gremlins. Gremlins share a connection with devilites, whom they outsource their work: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
 
-Gun puppies are present within the ruins of wildwoods, sky islands, and scarlet fortress -- all of these factors, while seem as compelling evidence for gremlins being said specie, again, does not fit thematically, -- that of a relation with graviton/shadow and electron/elemental technology and their placement in relation to different locations within Clockworks. The point regarding gun puppies will be discussed in the [stone constructs section](#stone-constructs).
+Gun puppies are present within the ruins of wildwoods, sky islands, and Scarlet Fortress -- all of these factors, while seem as compelling evidence for gremlins being said specie, again, does not fit thematically, -- that of a relation with shadow and elemental technology and their placement in relation to different locations within Clockworks. The point regarding gun puppies will be discussed in the [stone constructs section](#stone-constructs).
 
 Then there is [evil eye symbolism on gremlin machinery](#the-collector), such as the [Collector](https://wiki.spiralknights.com/Drake_Scale), for whom will will later analyze significate of an eye -- a symbol comming from Underworld, -- for gremlin civilization. Tortodrone do possess this symbolism -- as is engraved on their shells both on the enraged uncorrupted tortodrone of [mission's title card](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission)), and on weapons [transmuted from the ancient shells](https://wiki.spiralknights.com/Ancient_Shell#Usage), specifically their outline on 4-star items and a complete glowing variant on 5-star items.
 
@@ -1025,9 +1027,15 @@ This faction's designs are particularly similar to Valkyrian and Spiral Order ge
 
   The Champion Helm is similar to [Ancient Plate Helm](https://wiki.spiralknights.com/Ancient_Plate_Helm) whose belonging was rather ambiguous due to unknown origin and themes, yet those plated helms, including [Volcanic Plate Helm](https://wiki.spiralknights.com/Volcanic_Plate_Helm) possess a unique for them face plate of 2 vertical colums of 2 occulariums. We wkeep this design in mind as we get to the analysis of [volcanic gear](#volcanic-elements).
 
+  Overall theme of heavenly kingdom and valkyries seem to point that the kingdom in question and valkyries being its guardians, is a stand-in for, fittingly, __Valhalla__.
+
 - [Rider Mantles](https://wiki.spiralknights.com/Rider_Mantle) have prismatic elements incorporated in their designs, specifically, [wings of fury, storms and frenzy](https://wiki.spiralknights.com/Wings_of_Fury#Wings_of_Fury) or [regular prismatic wings](https://wiki.spiralknights.com/Wings).
 
   The [Eye of fury](https://wiki.spiralknights.com/Eye_of_fury) exists separately, but allows for a motif of rage to be extended onto those species, rather than delegated to tortomega exclusively. It may be the case of _rage element being present or manifested in modern day Cradle only through tortodrones_, which would seem to be a more plausible explanation without breaking an established system.
+
+  This notion of rage or fury coupled with the lightning motif of riders may provide further character to the potentially avian nature of this civilization, given context of heavenly kingdom and application of an image of a mythological Valkyrie.
+
+  This symbolic relation gains more depth in the context of those symbols -- of Valkyris, thunder and rage, -- in the assumption of this civilization being related to rider gods through common application of those elements, as the postion of riders is framed in the narrative of a defic war with dragons, paralleling Olympian gods.
 
 - Sigils on [rider mantles](https://wiki.spiralknights.com/Rider_Mantle) do not resemble anything else seen on Cradle, fiendish sigils, [Owlite enchantments](https://wiki.spiralknights.com/File:Enchanter_Aura-Equipped.png), or [Sorcerer Aura](https://wiki.spiralknights.com/Sorcerer_Aura#Sorcerer_Aura).
 - `A brilliant, white helm belonging to a heavenly warrior` ([Heavenly Guardian Helm](https://wiki.spiralknights.com/Heavenly_Guardian_Helm)).
@@ -1048,7 +1056,7 @@ If Spiral Order was at some point related to heavenly kingdom, it must have happ
 
 This scenario is possible if the equipment is _anatomically adapted to fit species of Spiral Order_, with the original designs being relatively similar. We suggest such explanation due to explicit case of [gremlin suit](https://wiki.spiralknights.com/Gremlin_Suit): `A special suit tailored by a gremlin's touch to fit the frame of a knight`, and [Owlite robes](https://wiki.spiralknights.com/Owlite_Robe): `A costume recreation of the fine robes worn by Owlites, based on the most recent archaeological findings`. Such cases anounce a theme of _Spiral Order incorporating other civilizations' designs into their equipment_.
 
-As far as we are aware, [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes of heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
+Within the existing roster of transmutable armors [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes of heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
 
 In terms of naming conventions it is also here we are implicitly given a few terms for heavenly guardians as avengers, Valkyries, and celestial beings.
 
@@ -1060,13 +1068,93 @@ The handgun's name -- griffin, -- has depiction of anatomy similar to a dragon, 
 
 Those handguns possess multiple damage types, while modern Spiral Order is mostly unaware of shadow damage, and barely of elemental damage, fully relying on normal and piercing damage types.
 
-This _notion of depicting ancient and powerful creatures is present also within castles' architecture_, as castles' origins also had to be discussed, Scarlet Fortress in particular, given its sheer scale. We suspect, that the similarity in themes of the designs may bring heavenly kingdom and those castles closer to a common origin.
+With those disperse elements we can construct an image of an ancient civilization of Valkyries, reminiscent of Olympian pantheon, possessing same as deific dragons elements of storms, rage and frenzy and residing, guarding heavenly kingdom.
 
-#### Castles
+With the desprictions of both creation myths, we derive a narrative where dragons were either erradicated as a species or fleeing, with the other civilization's, potentially anthrpomorphic, gods "carving worlds from stone."
 
-As later seen by [stone constructs](#stone-constructs), tortomega had skills to construct defenses, traps, and gun puppies. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress). It can be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to carve it consistently over the construction of those castles. Potentially even tortomega assistance in castles' construction. This vagueness must be kept in mind as we will return to the relation of tortodrones to Underworld.
+#### Depiction of a Dragon
 
-Both Gloaming Wildwoods, as an instance of assumed tortomega civilization, and castles, have similar imagery and depictions of dragons. Yet castles and discussed earlier equipment are implied to belong to heavenly kingdom, as only latter have more fine-grained depictions of dragons, a sign of possible acculturation of both civilization or taking inspiration directly from dragons.
+As far as we are aware, there is only one firmly established avian civilization, Owlites. There are 2 imporant chacteristics of this civilization:
+
+- They are aware of Almire, but exist 1000 years after it had fallen: `The remaining pages are too deteriorated to decipher anything further save for a date of the events described which suggest that the Kingdom of Almire was destroyed over a thousand years ago` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
+- They possess the Owlite Academy of Macgics, now known as the Candlestick Keep.
+
+The prior point position Valkyries as on the other end of the timeline, at its beginning. The latter point allows for further analysis if the castle-like architecture of the Academy. And, it is there we find particular depictions of Drakon-like heads across the halls and their arched walls. The same design pattern is unmistakably observed in the Scarlet Fortress.
+
+Similar designs are found acorss the scattered floating landmasses of sky islands, starlight cradle and other regions, including the Wildwoods, wherein large amounts of the same strata of architecture is present. There we are interested in the very specific presence of statues, near-identical to gun puppies in their appearances.
+
+As in case of darkon battle sprites, this apperance is most likely is the appearance of a dragon, suggesting both tortomega civilization and now Owlites too are aware of them to an extent deep enough to depict, incorporate into architecture and so forth immortalize their image.
+
+To paraphrase, given nature of dragons, _tortomega and owlites share a cultural notion of depicting ancient and powerful creatures within their architecture_.
+
+We suspect, while Owlites reside in their own narrative mostly unrelated to the rest of Clockwork, their ancestry might be of very Valkyries, connected by avian motif and, notably, a lack of other species of similar habitat.
+
+#### Castles of Cradle
+
+Castles located across Cradle and Clockworks possess a few common architectural elements, which allow us to group and attribute them to distinct factions.
+
+As with the case of floating islands, presented in the proposal of [veiled tortodrone homeland](#veiled-tortodrone-homeland), most of castle-like structures within Clockworks are observed to be floating across megastructure's internal volume or contained within skydomes, still suspended in the air. As we analyze the castles, we whould take in consideration their distinct dislocation outside of skydomes. This property of Cradle to seemingly create artificial gravity further elaborates on metsphycal nature of energy and the details of the [motif of excess of energy](#energy) within Clockworks:
+
+- `A latent strand of energy that floats throughout the Clockworks ... its too large to properly distill into Energy` ([Static Clinger](https://wiki.spiralknights.com/Static_Clinger)).
+- `massive negative energy anomaly has surfaced above the Core ... mass of negative energy` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Kora)).
+
+##### Owlite Architecture
+
+- [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress). It is one of the largest castle-like structures, as it takes up entire field of view, going beyond it, with occasional cogs of Clockworks being faintly observed below.
+
+  This castle structure coming from a distinctly different period of time further establishes for us a notion of artifacts of an unconnected but distinctly anceint past existing within Clockworks as representation of a yet to be defined narrative.
+
+  This would fit with the idea of a kingdom in the sky, or hidden on top of the mountains, as stated by [Avenger Helms](https://wiki.spiralknights.com/Avenger_Helm): `heavenly guardians who watch over a kingdom hidden atop a ... mountain`.
+
+  Scarlet fortress is stated to be `drifting endlessly in the void of the clockworks`, and as evident by presence of spookats, was at some point in possession of Owlites and possibly valkyries.
+
+- [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace)
+- [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary), apart from being similar to Royal Jelly Palace, has a few instances of large carved monolyths found across the floatig islands' ruins.
+- [Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep) or [Owlite Academy](https://wiki.spiralknights.com/Owlite) has in a few instances large coffins spread across the connected grounds identical, to ones of graveyards.
+- [Moorcroft Manor](https://wiki.spiralknights.com/Moorcraft_manor) in great capacity is reminiscent of Candlestick Keep, and has a separate most east area for stone coffins.
+- [Gauntlet](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), or rather, [arenas](https://wiki.spiralknights.com/Arena) in general, all have a unique red and brown tapestry, yet possessing architecture of Scarlet Fortress.
+
+Here we can identify distincly Owlite architecture, or at least one associated with Owlites, by the fact of them inhabiting those strucures. There is Owlite Academy and adjacent locations, which, given architectural similarity, might likely be related to Owlites and more prominently a _single civilization resposible for construction of those castles_. Part of those locations has presence of arrays of coffins, reminiscent of crypts.
+
+##### Almirian Architecture
+
+- Firestorm Citadel exists as the primary example of Almirian architecture, with application of wood and hexahedronal floor pattern.
+- [Inner Sanctum](https://wiki.spiralknights.com/Inner_Sanctum) and the greater area of an [almirian necropolis](https://wiki.spiralknights.com/Legion_of_Almire/Necropolis_Grounds) connects architecture of graveyards to one of Almire.
+- [Final Resting Place](https://wiki.spiralknights.com/Alone_in_the_Dark#Gate_Map) is the graveyard with a [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)) residing in the small crypt near a large coffin.
+- [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache) is the most preserved location, even possessing reseviors of water, and depiction of a burial customs of Almire, apart from the deepest room of Inner Sanctum with the [Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum).
+
+While graveyards are stated to exist between world: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)), which we had proposed in their initial [analysis](#graveyards) to connect Underworld and material realm, the necropolis offers a variation of that state of hysical existance as entire cities are capable to transition into such state.
+
+Yet, in the context of architecture, we are interested in the connection of Almire to the designs of graveyards. While the Citadel does not have a similar to graveyards architecture, thre is a different notion, which allows us to plausibly identify those location as builng built by a different, single civilization.
+
+At the Grasping Plateau, within one of its layouts, a __burning sarcophagus__ can be found, reminiscent of [opened burning coffin of Torin](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) found across the graveyards of Clockworks. Notably, this tomb is distincly simiar to its [non-burning counterpart of tier 2 of Clockworks](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png). Weather is is the same coffin gaining development as rank missions start to involve kingdom of Almire, we do not know.
+
+As in the case of [Owlite architecture](#owlite-architecture), we will propose that graveyards belong to kingdom of ALmire, while leaving a possibility of graveyards to be built by a different civilization.
+
+##### Crypts
+
+Castle-related locations, both related to Owlites and Almire do have crypt-like areas, although not currently related, apart from relation to burial, might point to those corresponding cultures' traditions and customs regarding perception of death, espetially in the modern day context of spirits returning to the material realm. We are unaware, weather this metaphysical notion extends beyond Cradle, or it is localized to the megastructure.
+
+In that context, the size of the coffins does differ. Notably, within hall of heroes, behind [Sylvin](https://wiki.spiralknights.com/Sylvin). This coffin is of knights' stature. Then, what can be said about other coffins present across Owlite Academy and almirian necropolis given their size?
+
+The most prominent evidence of Almire using large coffins was in the end of Legion of Almire - [Inner Sanctum](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum) and [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache). There is also Torin's, warrior or Almire, [tier 2 and 3 scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) - the coffin there is large.
+
+Very likely the entirety of the necropolis did belong to Almire, as there are texts and tomes found within the sanctum, which itself is built seemingly by people of Almire, and not of a previous civilization.
+
+As regarding graveyards themselves and Moorcroft Manor, the burials are same as of Almire. Moreover, zombies are found within Candlestick Keep. This is important due to the fact that all undead warriors of Almire have practically the same skull shape and features, with only [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon) and [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker) __having armor equipped__, and both seen in the Firestorm Citadel.
+
+Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). Black Kats themselves are predominantly related to the narrative of Owlite dissappearance while being capable of summoning curse-ridden undead. This notion of a lingering curse is found both for Almire and Owlites. What kind of connection did Owlites and Almire share, while separated by so many years?
+
+---
+
+
+that the similarity in themes of the designs may bring heavenly kingdom and castles of Cradle closer to a common if not identical origin.
+
+As later seen by [stone constructs](#stone-constructs), tortomega had skills to construct defenses, traps, and gun puppies. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress). It can be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to carve it consistently over the construction of those castles.
+
+Potentially even tortomega assistance in castles' construction. This vagueness must be kept in mind as we will return to the relation of tortodrones to Underworld.
+
+Both Gloaming Wildwoods, as an instance of assumed tortomega civilization, and castles, have similar imagery and depictions of dragons.
 
 The scenario would seem fitting in the case of tortomega being similar or partially inspired by Fomorians from Irish mythology, specifically in their role as ancient opposition to a divine across Ireland. This motif we cover in the [Fomorians section](#fomorians-and-irish-mythology), as a later explanation for the _single eye symbolism of the titan gates of the Arcade_.
 
@@ -1086,50 +1174,14 @@ _It seems as if there were indeed multiple, separated by culture creation myths,
 
 Apart from heavenly kingdom, there are Owlites, which had inhabited halls of almost the same architecture, - of the Owlite Academy of magics. Owlites are associated with vengeance and divinity (`Wielding it fills you with righteous vengeance` [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield)). Apart from it, the [divine themed](https://wiki.spiralknights.com/Divine) items and gear, including [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), would not match to any of the presented currently civilizations. So the possibility of heavenly kingdom being related to Owlites is still there, moreover, highly likely and will be discussed [later](#owlites-and-valkyries-of-heavenly-kingdom). As of now, Owlites are brought up as ones inhabiting a location of similar architecture, of castles.
 
-The sigils of riders' mantles must be pointed out, as they are unique. There also exists a set of sigils, seemingly related specifically to Owlites - [the enchanted aura](https://wiki.spiralknights.com/File:Enchanter_Aura-Equipped.png). Those sigils are more similar to regular devilite sigils, but the aura itself is present only within a roster of Owlite items, suggesting that it, if related, comes from a seemingly different period of time, one resulting of Owlite research. Considering it, then, those sigils will be kept in mind when analyzing possible interactions of heavenly kingdom and Underworld, such as [sealing of legion of Ur within Underworld](#legion-of-ur) and overall Owlites' advancements regarding darkness at [times of Kat Tribe invasion and Kataclysm](#chapter-viii-kat-tribe).
+The sigils of riders' mantles must be pointed out, as they are unique. There also exists a set of sigils. Those sigils are more similar to regular devilite sigils, but the aura itself is present only within a roster of Owlite items, suggesting that it, if related, comes from a seemingly different period of time, one resulting of Owlite research. Considering it, then, those sigils will be kept in mind when analyzing possible interactions of heavenly kingdom and Underworld, such as [sealing of legion of Ur within Underworld](#legion-of-ur) and overall Owlites' advancements regarding darkness at [times of Kat Tribe invasion and Kataclysm](#chapter-viii-kat-tribe).
 
 Within castle halls images of dragons were carved, these castles are the following:
 
-- The [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress) - one of larger castles, as it takes up entire in-game skybox. This would fit with the idea of a kingdom in the sky, or hidden on top of the mountains, as stated by [Avenger Helms](https://wiki.spiralknights.com/Avenger_Helm): `heavenly guardians who watch over a kingdom hidden atop a ... mountain`.
-
-  Scarlet fortress is stated to be `drifting endlessly in the void of the clockworks`, and as evident by presence of spookats, was at some point in possession of Owlites and possibly valkyries. So this ability of flight, if not granted by the Clockworks, may be of innate laws of cosmology.
-
-  There are some examples of floating structures:
-
-  - `A latent strand of energy that floats throughout the Clockworks ... its too large to properly distill into Energy` ([Static Clinger](https://wiki.spiralknights.com/Static_Clinger)).
-  - `massive negative energy anomaly has surfaced above the Core ... mass of negative energy` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Kora)).
-
-- [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace)
-- [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary)
-- [Owlite Academy](https://wiki.spiralknights.com/Owlite)/[Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep)
-- [Moorcroft Manor](https://wiki.spiralknights.com/Moorcraft_manor)
-- [Gauntlet](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), or rather, [arenas](https://wiki.spiralknights.com/Arena) in general, all have a unique red and brown tapestry, yet possessing architecture of Scarlet Fortress and of other aforementioned castles.
+...
 
 Based on this, as well as overall state of the castles, it is plausible that the main part of the heavenly kingdom of valkyries, with its unique tapestry and carpet designs, represented as a [tower, bastion, or a rook](https://wiki.spiralknights.com/Scarlet_Fortress), if [Owlite/Candlestick keep](https://wiki.spiralknights.com/Candlestick_Keep) icon and chess theme to be considered, _belongs to a greater structure in possession of valkyries, as part of physical heavenly kingdom carved from stone, considering the size of the Scarlet Fortress alone_.
 
-##### Crypts
-
-Castle-related locations, such as Owlite Academy and Moorcroft Manor do have crypt-like locations, reminiscent of crypts within the [Inner Sanctum](https://wiki.spiralknights.com/Inner_Sanctum) of legion of Almire, although not currently related apart from relation to burial, might point to culture's traditions and customs.
-
-Although establishment of crypts within the former Owlite Academy and Moorcroft Manor would seem fitting for valkyries as a warring species, if attempting to rely on norse mythology, its burial customs does not seem to be present here nor to match event through the lens of interpretation and derived inspiration, which further suggests existence of multiple sources of inspiration behind present civilizations.
-
-Regarding burial traditions, there are graveyards, which have same designs of coffins as in, for example, Moorcroft Manor and [Inner Sanctum](https://wiki.spiralknights.com/Inner_Sanctum), possibly suggesting that burial customs either had changed over time, of role of those structures was different. This temporal aspect must be kept in mind for the analysis of the [fiendish statues](#fiendish-statues) designs.
-
-Overall theme of heavenly kingdom and valkyries seem to point that the kingdom in question and valkyries being its guardians, is a stand-in for, fittingly, Valhalla, with themes of afterlife being present across many of their structures. While that seems possible, the strata of coffins must yet to be analyzed.
-
-As it was covered earlier in the [graveyards section](#graveyards), those places by design seem to be heavily related to Underworld. While there was no, under current theory, established connection between valkyries and Underworld explicitly, there is still a question remains behind builders of those places.
-
-In that context, the size of the coffins does differ. Notably, within hall of heroes, behind [Sylvin](https://wiki.spiralknights.com/Sylvin). This coffin seemingly was build to house figures of knights' stature. If those coffins exist, while remaining the same shape and model, what can be said about other instances of such coffins present across Owlite Academy and Graveyards?
-
-The most prominent evidence of Almire using large coffins was in the end of Legion of Almire - [Inner Sanctum](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum) and [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache). There is also Torin's, warrior or Almire, [tier 2 and 3 scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) - the coffin there is large.
-
-Very likely the entirety of the necropolis did belong to Almire, as there are texts and tomes found within the sanctum, which itself is built seemingly by people of Almire, and not of a previous civilization.
-
-As regarding graveyards themselves and Moorcroft Manor, the burials are same as of Almire. Moreover, zombies are found within Candlestick Keep. This is important due to the fact that all undead warriors of Almire have practically the same skull shape and features, with only [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon) and [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker) having armor equipped, and both seen in the Firestorm Citadel.
-
-Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)), a key component of a living being on par with the soul, and capable of summoning curse-ridden undead. This aspect connects Almire, their civilization, and builders of castles.
-
-Then, what kind of connection did Heavenly kingdom and Almire share, separated by many years? This will be explored later, but currently, this oddity will be kept in mind.
 
 ##### Draconic designs, Tortomega, Norse Mythology
 
@@ -1211,7 +1263,7 @@ This cosmology of heavenly kingdom, material realm, and of Underworld with the B
 
 #### Stone Constructs
 
-Stone [gun and rocket puppies](https://wiki.spiralknights.com/Gun_puppies) were invented by tortomega, resembling drakes, set to guard the halls of the castles. Gun and Rocket Puppies' exterior was made of stone with mechanical internals, as seen by the cracked shells of tier 1 turrets.
+Stone [gun puppies](https://wiki.spiralknights.com/Gun_puppies) possess design slosely similar to appearance of Drakon battle sprites. They were invented by tortomega, resembling drakes, set to guard the halls of the castles. Gun and Rocket Puppies' exterior was made of stone with mechanical internals, as seen by the cracked shells of tier 1 turrets.
 
 They had same design of dragons present in titans' castles, these designs would be later enhanced by gremlins with gun puppies of tiers 2 and 3, explicitly elemental, with the addition of elemental essences contained near spiral imagery carved into a stone slabs on top of gun puppies' heads ([Red Rover](https://wiki.spiralknights.com/Gun_Puppy#Red_Rover), [Slush Puppy](https://wiki.spiralknights.com/Gun_Puppy#Slush_Puppy), [Sick Puppy](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy), [Sparky](https://wiki.spiralknights.com/Gun_Puppy#Sparky)). The elemental essences in question are 5 star materials of icon like the [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser).
 
