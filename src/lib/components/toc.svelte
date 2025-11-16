@@ -27,12 +27,12 @@
     }
     headingsParity.push({allow: false, open: false})
   }
-  
+
   function toggleCollapse(v) {
     v = !v
     console.log(v)
   }
-  
+
   async function processTocBuildCompletion() {
     // wait for component to render
     // since we are in 1st level heading,
@@ -58,7 +58,7 @@
     )
     tocRoot.dispatchEvent(event)
   }
-  
+
   /**
    * Logic to handle ToC render completion for single-h1 documents
    * @see src/lib/events/toc.js
@@ -110,7 +110,7 @@ MDX component table of contents
 
     padding: 4px 0px;
   }
-  
+
   :is(
     .heading-level-1,
     .heading-level-2,
@@ -137,7 +137,7 @@ MDX component table of contents
       line-height: 1.66;
       opacity: 0.5;
     }
-    
+
     &[data-active] {
       background-color: hsla(225deg, 30%, 24%, 0.2);
 
@@ -189,7 +189,7 @@ MDX component table of contents
       -ms-transform: rotate(180deg);
     } */
   }
-  
+
   .context-identification {
     border: solid;
     border-color: transparent;
@@ -251,13 +251,6 @@ MDX component table of contents
       & > code {
         font-style: normal;
       }
-    }
-
-    code {
-      font-weight: bold;
-      font-style: normal;
-      border-radius: 2px;
-      padding: 0px 4px;
     }
 
     /**

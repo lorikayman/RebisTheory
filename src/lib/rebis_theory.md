@@ -1093,7 +1093,7 @@ We suspect, while Owlites reside in their own narrative mostly unrelated to the 
 
 Castles located across Cradle and Clockworks possess a few common architectural elements, which allow us to group and attribute them to distinct factions.
 
-As with the case of floating islands, presented in the proposal of [veiled tortodrone homeland](#veiled-tortodrone-homeland), most of castle-like structures within Clockworks are observed to be floating across megastructure's internal volume or contained within skydomes, still suspended in the air. As we analyze the castles, we whould take in consideration their distinct dislocation outside of skydomes. This property of Cradle to seemingly create artificial gravity further elaborates on metsphycal nature of energy and the details of the [motif of excess of energy](#energy) within Clockworks:
+As in the case of floating islands of [veiled tortodrone homeland proposal](#veiled-tortodrone-homeland), most of castle-like structures within Clockworks are observed to be floating across megastructure's internal volume suspended in the air. As we analyze the castles, we whould take in consideration their distinct dislocation outside of skydomes. This property of Cradle to seemingly create artificial gravity further elaborates on metaphysical nature of energy and the details of the [motif of excess of energy](#energy) within Clockworks:
 
 - `A latent strand of energy that floats throughout the Clockworks ... its too large to properly distill into Energy` ([Static Clinger](https://wiki.spiralknights.com/Static_Clinger)).
 - `massive negative energy anomaly has surfaced above the Core ... mass of negative energy` ([Ending in Fire - Kora](https://wiki.spiralknights.com/Kora)).

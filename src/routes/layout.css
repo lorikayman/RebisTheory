@@ -287,13 +287,6 @@ h3:is(
   & code {
     background-color: #000;
     color: inherit;
-
-    /* &::after {
-      content: '';
-      background-image: unset;
-      filter: unset;
-      width: 3px;
-    } */
   }
 }
 

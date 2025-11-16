@@ -14,7 +14,7 @@
   const IconComm = resolve('/img/spiral_knights/next_up.png')
   const IconHaven = resolve('/img/spiral_knights/over.png')
 
-  import RebisTheory from '$lib/rebis_theory.mdx'
+  import RebisTheory from '$lib/rebis_theory.md'
 
   document.title = 'Rebis Theory. Analysis of Spiral Knights worldbuilding: postmodernism and narratives of constructed worlds in fiction.'
 
