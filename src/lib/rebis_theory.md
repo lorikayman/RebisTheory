@@ -25,15 +25,15 @@ layout: entries_rebis
   Rebis Theory <span class="energy">🜔</span>
 </h1>
 
-Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a potential for expansive worldbuilding accompanying it.
+Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a distinct potential for expansive worldbuilding.
 
-By acknowledging this potential we aim to present a set of _narrative devices and tropes_ the setting utilizes to construct an immersive and believable experience of a fictional universe.
+By acknowledging this potential we aim to present a set of _narrative devices and tropes_ and a _system of symbols_ the setting utilizes to construct an immersive and believable experience of a fictional universe.
 
 ---
 
 ## Motivation
 
-The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
+The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
 As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the __bonding, ineffable quality__, _which allows for setting's ability to captivate_ as a fiction, a world, and a story.
 
@@ -141,6 +141,8 @@ As Cradle is the current main location of the setting, we need to label and dist
 Underworld is mentioned in [Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness) as the other realm: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us. The undead on the other hand remain a mystery. Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds`.
 
 This description does not explicitly specify source of returning spirits, but, due to both undead and fiend families of monsters dealing shadow damage, we can suggest that the place of origin of those spirits is one to be either Underworld itself or a currently unknown, adjacent location, which shares property of distinctly shadow damage.
+
+The connection of spirits returning to the material realm followed by `The undead on the other hand remain a mystery` strongly suggests that __undead are the very result of spirits returning to the material realm__.
 
 Underworld, while is described to be `speculated` by in-universe authors of the description, is so far the only realm with a relation to fiends, both through its culturally-significants name and as a habitat.
 
@@ -613,7 +615,7 @@ Layoafers and Blarfuls in relation to the rest of corporate hierarchy do not see
 
 Devilite society is developed enough for corporations to exist, and even considered that devilites were from a different intellectual property, they remain in Spiral Knights' cosmology and setting.
 
-It is suggested by Spiral Order, that devilites within dark cities are stranded on Cradle: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us ... Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
+It is suggested by Spiral Order, that devilites within dark cities are stranded on Cradle: `It is speculated that all fiends within the Clockworks crossed over from a dimension known as the Underworld. While how they crossed over and what their motives are on Cradle is unclear, data collected from fiendish cities seems to indicate that they are now stranded on Cradle, much like us ... The undead on the other hand remain a mystery. Why spirits return to the material realm is unknown, trough it is clear that many of the spirits within the Clockworks have come from other worlds` ([Weight of Darkness](https://wiki.spiralknights.com/Weight_of_Darkness)).
 
 Devilites being stranded could mean both _spacial and dimensional dislocation_, as they had not, compared to Skylark, arrived to Cradle through interstellar travel, but rather summoned or captured with the cities themselves, if dark cities belong to them.
 
@@ -964,7 +966,7 @@ It must be also noted thet Starlight Cradle, Gloaming Wildwoods and Aurora Isles
 
 It is unknown weather those regions could be considered the `veiled homeland`, given the view of tortodrones still at their migration at the end of Call of The Colossi. So, there are a few interpretation we can suggest, given current conclusions:
 
-- The distant location of the veiled homeland is temporal -- it foes not exist as a unified landmass, but rather its is split into smaller regions and only identified by a common strata or buildings.
+- The distant location of the veiled homeland is temporal -- it foes not exist as a unified landmass, but rather its is split into smaller regions and only identified by a common archeological strata.
 - Veiled homeland is a region left unseen or undiscvered due to greater scope of Cradle in the same manner as gremlins' Great Colony was not yet explored in-game and a suggestion of a biotech in the Haven Lab regarding Almire -- `there were massive citadels housing Almire's armed forces and great estates for its noble houses ... We assume the kingdom is still a smoldering ruin somewhere`, -- as so far only single Citadel was explored properly during The King of Ashes.
 
 The latter option, given context of megastructure's scale, seems more plausible, while the prior would grant this narrative greater depth without a distinct conflict of interpretations. As the setting of Cradle so far was the only one to be explored, apart from exceptions such as [Apocrean Realm](#apocrean-realm), we propose veiled homeland to exist within the volume of Clockworks and Cradle.
@@ -1100,23 +1102,21 @@ As in the case of floating islands of [veiled tortodrone homeland proposal](#vei
 
 ##### Owlite Architecture
 
-- [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress). It is one of the largest castle-like structures, as it takes up entire field of view, going beyond it, with occasional cogs of Clockworks being faintly observed below.
+- [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress) is stated to be `drifting endlessly in the void of the clockworks`. It is one of the largest castle-like structures, as it takes up entire field of view, going beyond it, with occasional cogs of Clockworks being faintly observed below.
 
   This castle structure coming from a distinctly different period of time further establishes for us a notion of artifacts of an unconnected but distinctly anceint past existing within Clockworks as representation of a yet to be defined narrative.
 
   This would fit with the idea of a kingdom in the sky, or hidden on top of the mountains, as stated by [Avenger Helms](https://wiki.spiralknights.com/Avenger_Helm): `heavenly guardians who watch over a kingdom hidden atop a ... mountain`.
 
-  Scarlet fortress is stated to be `drifting endlessly in the void of the clockworks`, and as evident by presence of spookats, was at some point in possession of Owlites and possibly valkyries.
-
 - [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace)
 - [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary), apart from being similar to Royal Jelly Palace, has a few instances of large carved monolyths found across the floatig islands' ruins.
-- [Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep) or [Owlite Academy](https://wiki.spiralknights.com/Owlite) has in a few instances large coffins spread across the connected grounds identical, to ones of graveyards.
+- [Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep) or [Owlite Academy](https://wiki.spiralknights.com/Owlite) has in a few instances large coffins spread across the connected grounds identical, to ones of graveyards. Scarlet fortress in particular has a lockdown map called `Fortress` with large presence of torn pages and bookshelves similar to libraries of Candlestick Keep, notably ones found with accomapnied presence of Black Kats.
 - [Moorcroft Manor](https://wiki.spiralknights.com/Moorcraft_manor) in great capacity is reminiscent of Candlestick Keep, and has a separate most east area for stone coffins.
 - [Gauntlet](https://wiki.spiralknights.com/The_Gauntlet/Last_Stand), or rather, [arenas](https://wiki.spiralknights.com/Arena) in general, all have a unique red and brown tapestry, yet possessing architecture of Scarlet Fortress.
 
-Here we can identify distincly Owlite architecture, or at least one associated with Owlites, by the fact of them inhabiting those strucures. There is Owlite Academy and adjacent locations, which, given architectural similarity, might likely be related to Owlites and more prominently a _single civilization resposible for construction of those castles_. Part of those locations has presence of arrays of coffins, reminiscent of crypts.
+Due to attribution of Candlestick Keep to Owlites, here we can identify distincly Owlite architecture, or at least one associated with Owlites, by the idea of them inhabiting those strucures at some point. There is Owlite Academy and adjacent locations, which, given architectural similarity, might likely be related to Owlites and more prominently a _single civilization resposible for construction of those castles_. Part of those locations has presence of arrays of coffins, reminiscent of crypts.
 
-While the precise identity of this group is unknown, apart from Owlite scenario, we have a diffent hint, one found across all of those instnces, as presence of depictions of dragons or drakes establishes itself, there is a different visual element -- a __devilite-like heads decorating niches of the walls__, accompanied by arches with dragon heads overlooking the surface of the wall. This architectural element is _not present_ in Royal Jelly Palace, Scarlet Fortress and Cryptic Statuery, which makes it more so hidden.
+While the precise identity of this group is unknown, apart from Owlite scenario, we have a different notion tieing with present narrative of creation myth and ancient relations, one found across all of those instances, -- as presence of depictions of __devilite-like heads decorating niches of the walls__, accompanied by arches with dragon heads overlooking the surface of the wall. The devilite-like architectural element is _not present_ in Royal Jelly Palace, Scarlet Fortress and Cryptic Statuery, which makes it more so hidden.
 
 ##### Almirian Architecture
 
@@ -1125,27 +1125,33 @@ While the precise identity of this group is unknown, apart from Owlite scenario,
 - [Final Resting Place](https://wiki.spiralknights.com/Alone_in_the_Dark#Gate_Map) is the graveyard with a [Lost Soul of Almire](https://wiki.spiralknights.com/Lost_Soul_of_Almire_(nameless)) residing in the small crypt near a large coffin.
 - [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache) is the most preserved location, even possessing reseviors of water, and depiction of a burial customs of Almire, apart from the deepest room of Inner Sanctum with the [Almirian codex](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum).
 
-While graveyards are stated to exist between world: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)), which we had proposed in their initial [analysis](#graveyards) to connect Underworld and material realm, the necropolis offers a variation of that state of hysical existance as entire cities are capable to transition into such state.
+While graveyards are stated to exist between world: `Graveyards are an unnatural place, a world between worlds where lost souls gather, hungry for the life of any live soul that must pass through` ([Information Module: Graveyard](https://wiki.spiralknights.com/Information_Module:_Graveyard)), which we had proposed in their initial [analysis](#graveyards) to connect Underworld and material realm, necropolis offers a variation of that state of existence as an _entire city, capable of entering into metaphysical state of being presence between the realms_.
 
-Yet, in the context of architecture, we are interested in the connection of Almire to the designs of graveyards. While the Citadel does not have a similar to graveyards architecture, thre is a different notion, which allows us to plausibly identify those location as builng built by a different, single civilization.
+Yet, in the context of architecture, we are interested in the connection of Almire to the designs of graveyards. As the Citadel does not even remotely have a similar to graveyards architecture, it creates a notion, which allows us to plausibly identify graveyards as being built by a different, single civilization, separate of Almire. Yet, the context of the Legion of Almire identifies graveyards through the Inner Sanctum as creation of kingdom of Almire as long as we assume that the Sanctum, due to presence of the [codex](https://wiki.spiralknights.com/Almirian_codex_text_Dialogue/Inner_Sanctum), is built by Almire.
 
 At the Grasping Plateau, within one of its layouts, a __burning sarcophagus__ can be found, reminiscent of [opened burning coffin of Torin](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) found across the graveyards of Clockworks. Notably, this tomb is distincly simiar to its [non-burning counterpart of tier 2 of Clockworks](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_1.png). Weather is is the same coffin gaining development as rank missions start to involve kingdom of Almire, we do not know.
 
-As in the case of [Owlite architecture](#owlite-architecture), we will propose that graveyards belong to kingdom of ALmire, while leaving a possibility of graveyards to be built by a different civilization.
+We propose, that __graveyards belong to the kingdom of Almire__. While we do leave a possibility of graveyards to be built by a different civilization, the presence of Almirian army's resting places -- as coffins, as remanants and burials -- across those grounds we interpret as most significant symbolic connection allowing for further exploration of the kingdom's narrative in the future.
 
-##### Crypts
+##### Crypts and Undeath
 
-Castle-related locations, both related to Owlites and Almire do have crypt-like areas, although not currently related, apart from relation to burial, might point to those corresponding cultures' traditions and customs regarding perception of death, espetially in the modern day context of spirits returning to the material realm. We are unaware, weather this metaphysical notion extends beyond Cradle, or it is localized to the megastructure.
+Architecture attributed to Owlites -- as Candlestick Keep, and Almire -- as graveyards and its variations such as Necropolis grounds, contain crypt-like areas.
 
-In that context, the size of the coffins does differ. Notably, within hall of heroes, behind [Sylvin](https://wiki.spiralknights.com/Sylvin). This coffin is of knights' stature. Then, what can be said about other coffins present across Owlite Academy and almirian necropolis given their size?
+When viewed in the contxt of corresponding locations, this scenery elaborates on cultures' traditions and customs regarding perception of death and burial. Moreover, in the context of spirits returning to the mateial realm it poses a question weather return of spirits to material realm is a new phenomenon.
 
-The most prominent evidence of Almire using large coffins was in the end of Legion of Almire - [Inner Sanctum](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum) and [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache). There is also Torin's, warrior or Almire, [tier 2 and 3 scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) - the coffin there is large.
+We are unaware, weather this metaphysical notion extends beyond Cradle, or is it localized to the megastructure, or, it had existed in the past. Given instances of reanimation, such as _Torin's coffin in the graveyard_ we suggest that _burial sites and return of spirits are not mutually exclusive_ at least at that point of the analysis.
 
-Very likely the entirety of the necropolis did belong to Almire, as there are texts and tomes found within the sanctum, which itself is built seemingly by people of Almire, and not of a previous civilization.
+The size of the coffins also does differ. Notably, within hall of heroes, behind [Sylvin](https://wiki.spiralknights.com/Sylvin). This coffin is of knights' stature and size. Then, what can be said about other coffins present across Owlite Academy and almirian necropolis given their scale?
 
-As regarding graveyards themselves and Moorcroft Manor, the burials are same as of Almire. Moreover, zombies are found within Candlestick Keep. This is important due to the fact that all undead warriors of Almire have practically the same skull shape and features, with only [Carnavon](https://wiki.spiralknights.com/Zombie#Carnavon) and [Slag Walker](https://wiki.spiralknights.com/Zombie#Slag_Walker) __having armor equipped__, and both seen in the Firestorm Citadel.
+The most prominent evidence of Almire using large coffins was at the end of Legion of Almire, in the [Inner Sanctum](https://wiki.spiralknights.com/Legion_of_Almire/Inner_Sanctum) and [Cryptic Cache](https://wiki.spiralknights.com/Legion_of_Almire/Cryptic_Cache), which _contain most preserved architecture of Almire_. There is also Torin's, warrior or Almire, [tier 2 and 3 scenario room](https://wiki.spiralknights.com/File:Scenario_Room-Graveyard_variant.jpg) -- his coffin there is as large as ones found at the necropolis.
 
-Carnavons are also present in relation to summoned Black Kats, which are known to gain powers from consuming auras (`They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` - [Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). Black Kats themselves are predominantly related to the narrative of Owlite dissappearance while being capable of summoning curse-ridden undead. This notion of a lingering curse is found both for Almire and Owlites. What kind of connection did Owlites and Almire share, while separated by so many years?
+As for the graveyards themselves and Moorcroft Manor, the burials are same as of Almire. Moreover, there is a particular importance of zombies across those locations. Zombies are found within Candlestick Keep and graveyards. This is important due to the fact that [Carnavons](https://wiki.spiralknights.com/Zombie#Carnavon) and [Slag Walkers](https://wiki.spiralknights.com/Zombie#Slag_Walker) __possess distinct armor__. Their presence within Firestorm Citadel most distinctly _suggests at their origin as the people of Almire_.
+
+Carnavons are also related to Black Kats, which are known to gain powers from consuming auras: `They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` ([Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). Black Kats are predominantly related to the narrative of Owlite dissappearance, while being capable of summoning curse-ridden undead.
+
+This growing network of connections through curse and undeath allows for curse to be _perceived a centuries-old, lingering force_ whared between Owlites and Almire.
+
+Other than curse, the notion of utilizing coffins as a burial custom mey further connect Owlites and Almire, unless the supposedly Owlite architecture is not of their cultural origin and construction.
 
 #### Relation between Valkyries and Tortomega
 
@@ -1478,7 +1484,7 @@ Despite this, we will point out a few elements of this series of armors, specifi
 
 ##### Application of Magic
 
-In relation to alchemy and, notably, [Owlites](), on Cradle knights have in possession vials, whose contents inflict status effects, including curse. In the announcement of [Wizard Prize Box](https://forums.spiralknights.com/en/node/124845) we are given information, that it is an established magic-focused guilds of knights which had originally created those vials: `The wizarding guilds, with the help of the Owlite faction, have long been responsible for helping to manufacture some of the more volatile potions used by knights daily. Spiral HQ has conjured spellbinding items to help resupply these extraordinary knights` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)). Seemingly, this is a knowledge recovered from the Owlite strata, such as an [Eternal Study](https://wiki.spiralknights.com/Edger). It is due to the phrase of `to manufacture some of the more volatile potions used by knights daily` we believe, it is the context of Clockworks' traversal and corresponding acquisition of the vial. From this, we can conclude, that the vial, and, potentially, other usable items are the result of other knight perishing in Clockworks.
+In relation to alchemy and, notably, [Owlites](), on Cradle knights have in possession vials, whose contents inflict status effects, including curse. In the announcement of [Wizard Prize Box](https://forums.spiralknights.com/en/node/124845) we are given information, that it is an established magic-focused guilds of knights which had originally created those vials: `The wizarding guilds, with the help of the Owlite faction, have long been responsible for helping to manufacture some of the more volatile potions used by knights daily. Spiral HQ has conjured spellbinding items to help resupply these extraordinary knights` ([Wizarding Ways](https://forums.spiralknights.com/en/node/124845)). Seemingly, this is a knowledge recovered from the Owlite stratum, such as an [Eternal Study](https://wiki.spiralknights.com/Edger). It is due to the phrase of `to manufacture some of the more volatile potions used by knights daily` we believe, it is the context of Clockworks' traversal and corresponding acquisition of the vial. From this, we can conclude, that the vial, and, potentially, other usable items are the result of other knight perishing in Clockworks.
 
 Such gear being:
 
