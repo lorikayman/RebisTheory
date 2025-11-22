@@ -998,13 +998,15 @@ With the mythology as a guide, to achieve further progress in identification of 
   </div>
 </div>
 
-It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) implies existence of a civilization, responsible for creation of that gear.
+It is most evident that equipment found in [Rage Prize Box](https://wiki.spiralknights.com/Rage_Prize_Box), [Stormy Prize Box](https://wiki.spiralknights.com/Stormy_Prize_Box), and [Frenzy Prize Box](https://wiki.spiralknights.com/Frenzy_Prize_Box) implies existence of at least one civilization, responsible for creation of that gear.
 
-As we have established initial relation between stone, tortoises and tortomega, we found an image of a civilization of sentient giant tortoises, tortomega -- descendants of drakes, and far descendants of dragons of rage through motif of rage within tortodrones and their equipment, as pointers to an inherently rageous nature.
+As we have established initial relation [between stone, tortoises and tortomega](#omega-shell-and-tortomega), we found an image of a civilization of sentient giant tortoises, tortomega -- descendants of drakes, and far descendants of dragons of rage through [consistent motif of rage](#unreconciled-duality-of-fury-and-serenity) within tortodrones and their equipment, as pointers to an inherently rageous nature of those specie.
 
-While we were searching for the identity of titans, we proposed their nature to be tortomega through motifs around material of stone. We had pointed out a notion of draconic creation myth to resemble other creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- as a conflict would take place between dragon deities and other faction of formidable power, which would come on top. This confict was established in the [lesser creation myth](#lesser-creaton-myth) where we proposed that other faction to be the rider gods, whom those armors were attrbuted to.
+While we were searching for the identity of titans, we have proposed their nature to be tortomega through [motifs and applications surrounding the material of stone](#motif-of-stone-and-serenity-titans). We had pointed out a notion of [draconic creation myth](#creation-myth-dragons-as-cosmic-progenitors) to resemble other real-world creation myths, which had allowed us to suggest a reason for dragons to perish in the first place -- a conflict would take place between dragon deities and other faction of formidable power, which would come on top.
 
-This faction's designs are particularly similar to Valkyrian and Spiral Order gear in their respective design elements and mythological contexts. In order to establish those similarities, we will elaborate on the Valkyrian gear, as we reference equipment associated with frenzy, rage and storms:
+This confict was proposed in the [lesser creation myth](#lesser-creaton-myth), where we have linked rider gods and Olympian pantheon, immitating a paradigm shift found through Olympian gods' establishment after the rebelion against greek Titans.
+
+This faction's lightning-based designs are particularly similar to Valkyrian and Spiral Order gear in their respective design elements and mythological contexts. In order to establish those similarities, we will elaborate on the Valkyrian gear, as we reference equipment associated with frenzy, rage and storms:
 
 - `A priceless helmet whose name denizens of the Underworld dare not mention` ([Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)).
 
@@ -1054,13 +1056,13 @@ This faction's designs are particularly similar to Valkyrian and Spiral Order ge
 
   It is important to note here that Spiral Order does not have mastery of elemental damage, as evident by [Archilus' dialogue](https://wiki.spiralknights.com/Archilus): `Elemental resistant armor and shields are adapted from Owlite technology. Though the Owlites themselves no longer exist, their amazing elemental mastery lives on in this gear`, but their technology allows for curse and other status effects to be nullified through application of [remedy capsule](https://wiki.spiralknights.com/Pickups#Capsules).
 
-If Spiral Order was at some point related to heavenly kingdom, it must have happened far into the past, if not fully unrelated, which would require then an in-depth explanation and solid reason for the design similarities.
+If Spiral Order was at some point related to heavenly kingdom, it must have happened far into the past, which would require then an in-depth explanation and solid reason for the design similarities.
 
 This scenario is possible if the equipment is _anatomically adapted to fit species of Spiral Order_, with the original designs being relatively similar. We suggest such explanation due to explicit case of [gremlin suit](https://wiki.spiralknights.com/Gremlin_Suit): `A special suit tailored by a gremlin's touch to fit the frame of a knight`, and [Owlite robes](https://wiki.spiralknights.com/Owlite_Robe): `A costume recreation of the fine robes worn by Owlites, based on the most recent archaeological findings`. Such cases anounce a theme of _Spiral Order incorporating other civilizations' designs into their equipment_.
 
 Within the existing roster of transmutable armors [cobalt armors](https://wiki.spiralknights.com/Cobalt_Armor) and [padded armors](https://wiki.spiralknights.com/Padded_Armor) are the most distinct Spiral Order designs, which are thematically different from mythological themes of heavenly warriors. We will keep this potential notion in mind, until we will cover both parties.
 
-In terms of naming conventions it is also here we are implicitly given a few terms for heavenly guardians as avengers, Valkyries, and celestial beings.
+In terms of naming conventions it is also here we are implicitly given a few terms for _heavenly guardians_ as _avengers, Valkyries, and celestial beings_.
 
 Furthermore, the avian designs are found in handguns. They imply a cultural significance of those traits to culture which had those guns manufactured, similar to the appearance of tortodrones as an image radiating power and rage.
 
@@ -1070,26 +1072,30 @@ The handgun's name -- griffin, -- has depiction of anatomy similar to a dragon, 
 
 Those handguns possess multiple damage types, while modern Spiral Order is mostly unaware of shadow damage, and barely of elemental damage, fully relying on normal and piercing damage types.
 
-With those disperse elements we can construct an image of an ancient civilization of Valkyries, reminiscent of Olympian pantheon, possessing same as deific dragons elements of storms, rage and frenzy and residing, guarding heavenly kingdom.
+With those disperse elements we can construct an image of an ancient civilization of Valkyries, reminiscent of Olympian pantheon, possessing same as deific dragons elements of storms, rage and frenzy, and residing within and guarding the fortress of the heavenly kingdom.
 
-With the desprictions of both creation myths, we derive a narrative where dragons were either erradicated as a species or fleeing, with the other civilization's, potentially anthrpomorphic, gods "carving worlds from stone."
+With the descriptions of both creation myths, we derive a narrative where dragons were hunted as divine species, with the hunters being the other civilization of potentially anthrpomorphic gods which had "carved worlds from stone."
 
-#### Depictions of a Dragon
+With this, there is a subtle link between Owlites as a single avian civilization and Valkyries.
 
-As far as we are aware, there is only one firmly established avian civilization, Owlites. There are 2 imporant chacteristics of this civilization:
+#### Depictions of an Owlite Dragon
 
-- They are aware of Almire, but exist 1000 years after it had fallen: `The remaining pages are too deteriorated to decipher anything further save for a date of the events described which suggest that the Kingdom of Almire was destroyed over a thousand years ago` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
-- They possess the Owlite Academy of Macgics, now known as the Candlestick Keep.
+As far as we are aware, there is only one _firmly_ established avian civilization -- Owlites. There are 2 imporant chacteristics of this civilization:
+
+- They are aware of Almire, but exist 1000 years after the kingdom had fallen: `The remaining pages are too deteriorated to decipher anything further save for a date of the events described which suggest that the Kingdom of Almire was destroyed over a thousand years ago` ([An Occurrence at Owlite Keep - The Forgotten Library - Owlite tome](https://wiki.spiralknights.com/Owlite_tome_text_Dialogue/The_Forgotten_Library)).
+- They are affiliated with the Owlite Academy of Magics, now known as the Candlestick Keep.
 
 The prior point position Valkyries as on the other end of the timeline, at its beginning. The latter point allows for further analysis if the castle-like architecture of the Academy. And, it is there we find particular depictions of _Drakon-like heads across the halls and their arched walls_. The same design pattern is unmistakably observed at the Scarlet Fortress and other location, including the Gauntlet.
 
-Similar designs are found acorss the scattered floating landmasses of sky islands, starlight cradle and other regions, including the Wildwoods, wherein large amounts of the same strata of architecture is present. There we are interested in the very specific presence of _statues, near-identical to gun puppies in their appearance_ of __a rectangular snout and horns__.
+Similar designs are found across the scattered floating landmasses of sky islands, Starlight Cradle and other regions, including Wildwoods, wherein large amounts of the same strata of architecture is present. There, we are interested in the very specific presence of _statues, near-identical to gun puppies in their appearance_ of __a rectangular snout and horns__.
 
 As in case of darkon battle sprites, this apperance is most likely is the appearance of a dragon, suggesting both tortomega civilization and now Owlites are aware of them to an extent deep enough to depict, incorporate into architecture and so forth immortalize their image.
 
 To paraphrase, given nature of dragons, _tortomega and owlites share a cultural notion of depicting ancient and powerful creatures within their architecture_.
 
-We suspect, while Owlites reside in their own narrative mostly unrelated to the rest of Clockwork, their ancestry might be of very Valkyries, connected by avian motif and, notably, a lack of other species of similar habitat.
+We suspect, while Owlites reside in their own narrative mostly unrelated to the rest of Clockwork, their ancestry might be of very Valkyries, _connected by avian nature and theming_ and, notably, a lack of other species of similar habitation, unless Spiral Order may be identified as the celestial beings.
+
+With this, our current assumption will be of __identification of Valkyries as ancestors of Owlites__.
 
 #### Castles of Cradle
 
@@ -1116,7 +1122,7 @@ As in the case of floating islands of [veiled tortodrone homeland proposal](#vei
 
 Due to attribution of Candlestick Keep to Owlites, here we can identify distincly Owlite architecture, or at least one associated with Owlites, by the idea of them inhabiting those strucures at some point. There is Owlite Academy and adjacent locations, which, given architectural similarity, might likely be related to Owlites and more prominently a _single civilization resposible for construction of those castles_. Part of those locations has presence of arrays of coffins, reminiscent of crypts.
 
-While the precise identity of this group is unknown, apart from Owlite scenario, we have a different notion tieing with present narrative of creation myth and ancient relations, one found across all of those instances, -- as presence of depictions of __devilite-like heads decorating niches of the walls__, accompanied by arches with dragon heads overlooking the surface of the wall. The devilite-like architectural element is _not present_ in Royal Jelly Palace, Scarlet Fortress and Cryptic Statuery, which makes it more so hidden.
+While the precise identity of this group is unknown, apart from Owlite scenario, we have a different notion tieing with present narrative of creation myth and ancient relations, one found across all of those instances, -- as presence of depictions of [devilite-like heads](#fiendish-statues) __decorating niches of the walls__, -- accompanied by arches with dragon heads overlooking the surface of the wall. The devilite-like architectural element is _not present_ in Royal Jelly Palace, Scarlet Fortress and Cryptic Statuery, which makes it more so hidden. So, we will refer to it for now as the [fiendish statue](#fiendish-statues).
 
 ##### Almirian Architecture
 
@@ -1149,93 +1155,133 @@ As for the graveyards themselves and Moorcroft Manor, the burials are same as of
 
 Carnavons are also related to Black Kats, which are known to gain powers from consuming auras: `They carry the heaviest curse of all and mindlessly seek to devour magical auras. This constant consuming of power makes them incredibly strong` ([Pembrooke](https://wiki.spiralknights.com/Pembrooke#Dialogue)). Black Kats are predominantly related to the narrative of Owlite dissappearance, while being capable of summoning curse-ridden undead.
 
-This growing network of connections through curse and undeath allows for curse to be _perceived a centuries-old, lingering force_ whared between Owlites and Almire.
+This growing network of connections through curse and undeath allows for curse to be _perceived as a centuries-old, lingering force_ whose presence was felt both upon Owlites and Almire.
 
-Other than curse, the notion of utilizing coffins as a burial custom mey further connect Owlites and Almire, unless the supposedly Owlite architecture is not of their cultural origin and construction.
+Other than curse, the notion of common burial customs may further connect Owlites and Almire, unless the supposedly Owlite architecture is not of their cultural origin and construction.
 
-#### Relation between Valkyries and Tortomega
+#### Depictions of a Stone Dragon: Gun Puppy
 
----
+While the tradition of burial and distict involvement of curse had brough together Almire and Owlites, there is a different connection between designs of Owlites' or Valkyrian castles and tortomega archtecture through depiction of dragons. For Owlites we have covered [their depiction of a dragon](#depictions-of-an-owlite-dragon) across arches of their castles, and for tortomega, they too possess imagery of a dragon, which we will now elaborate upon.
 
-Both tortomega and Owlite achitecture, there is a distict presence of draconic designs. Given the consistency of Owlite architecture, the similarity of the depiction may bring Valkyries of heavenly kingdom, as a specie existing at the beginning of the timeline at the [lesser creation myth](#lesser-creaton-myth), and Owlite castles of Cradle closer to a common if not identical origin.
+As Wildwoods are explored in the 1st tier of Clockworks, the enemies correspond in their appearances to those lesser depths. The subject of our interest is the gun puppy. Yet, its apperace must be view with the knowledge of its variants across the 3 tiers of Clockworks.
 
-As later seen by [stone constructs](#stone-constructs), tortomega had skills to construct defenses, traps, and gun puppies. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress).
+- Tier 1: Gun puppy starts with a shattered shell, a cavity with gears is seen in its body. The statue rotates on a round foundation. As the puppy fires, darker metal of its internal mechanisms is seen.
 
-It can be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to carve it consistently over the construction of those castles. Potentially even tortomega assistance in castles' construction. This vagueness must be kept in mind as we will return to the relation of tortodrones to Underworld.
+    The shell has pale green color with occasional cracks. No bolts holding together the structure are visible. Front and back legs are seen, creating an imagery of puppy sitting. Now, as it is a constructs, it is an intentional design choise to use its maw as a barrel of offensive fire in a sitting position on a pedestal.
 
-Both Gloaming Wildwoods, as an instance of assumed tortomega civilization, and castles, have similar imagery and depictions of dragons.
+- Tier 2: The sell has mossy green color to it, it has more cracked surface as it meets at the seams the new elements of the design - metal plates. Those metal plates have a distinct metalic appearance of gray color and large bolts fixing them inplace. The pedestal is now made of the same metal with bolts found across its encircling surface. The hole n the side of tier 1 gun puppy is symmetrically replaced with a metal plate.
 
-The scenario would seem fitting in the case of tortomega being similar or partially inspired by Fomorians from Irish mythology, specifically in their role as ancient opposition to a divine across Ireland. This motif we cover in the [Fomorians section](#fomorians-and-irish-mythology), as a later explanation for the _single eye symbolism of the titan gates of the Arcade_.
+  This distinction beetween metal and green, cracked texture of the tier 1 puppy, we propose, is essential to depict different material their shells are made of.
 
-A disappearance of tortomega civilization at some point had happened, same as dragons, remaining only in crafting materials and environment. Different reason for their extinction can be discussed:
+  Aforementioned metal plates are present on lower and upper jawbones of the puppy.
 
-- Being defeated by Heavenly Kingdom. Although it is implied by Spiral Order, that it is Underworld who led to creators of tortodrones' downfall: `leading Spiral HQ to believe that the Fiends are somehow linked to the disappearance of those once-mythical beings. In order to discover what the Fiends are up to, you will need to find a way to unlock one of their Grim Gates and travel through it` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))).
-- Tortomega were ones of the Heavenly Kingdom, but that would conflict with the established themes of celestial kingdom belonging to Owlites, a we will discuss in [their own analysis](#owlites-and-valkyries-of-heavenly-kingdom).
+- Tier 3: The remeaining green-hued material is replaced with segmented sheets of metal of the same color evident by their complexity. A ridged surface appears to run through the hightof the mecganism, starting at the top of puppy's head and reaching its back. The body is predominantly covered with a ribcage-like plate, likely an exchaust mechanism or vents within the armor.
 
-  This is a major roadblock, as we will later see, the heavenly kingdom is the Owlite and Valkyrie kingdom, which had established itself within the floating structures of the Scarlet Fortress, that is, if the heavenly kingdom was not of tortomega and later reestablished, recontextualised by valkyries - as this seems far more unlikely.
+- Rocket puppies devoid of elemental damage display similar change of their armor, aprat from revealing the mechanical internals corresponding to the rocket launching mechanism.
+- Elemental designs. While elemental versions present a far more complex design, we will note onto its specifics -- a more mystical design with appication of carved spirals and lack of ditincly metallic elements, which aligned them closer to less gremlin-affiliated origin.
 
-There are a few possible ways to resolve this:
+  There is the addition of elemental essences contained above slabs of stone with spiral imagery carved into them, and placed into of gun puppies' heads -- [Red Rover](https://wiki.spiralknights.com/Gun_Puppy#Red_Rover), [Slush Puppy](https://wiki.spiralknights.com/Gun_Puppy#Slush_Puppy), [Sick Puppy](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy), [Sparky](https://wiki.spiralknights.com/Gun_Puppy#Sparky)). There is adistinct lack of bolted designs and great accent on light gleaming from the seams of the shell, lightning up the carvings from within, giving them more fantasy-esque, magical feel.
 
-- Valkyries of heavenly kingdom are as ancient as tortomega civilization.
-- The heavenly kingdom is recontextualised. That is the heavenly kingdom of dragons - `The helm of one who defied the gods`, as the gods are either dragons ones with that same power as stated in [Rider Mantles](https://wiki.spiralknights.com/Raging_Rider_Mantle#Raging_Rider_Mantle): `A legendary suit of armor thought to be worn by a god who used rage to carve whole worlds from stone`.
+For the current case, the difference in green material of tier 2 and 3 gun puppies suggests a distint composition, there in it is btittle and is already damaged, and its replacement of the same color yet distinctly mechanical.
 
-_It seems as if there were indeed multiple, separated by culture creation myths, and yet, they are retellings of a singular timeline of events, obscured by mythology of each culture and civilization_.
+Now, paired with the abundant presence of gun puppy statues across sky islands and Gloaming Wildwoods -- __the green-hued shell, -- is the green stone, from which statues are built__.
 
-Apart from heavenly kingdom, there are Owlites, which had inhabited halls of almost the same architecture, - of the Owlite Academy of magics. Owlites are associated with vengeance and divinity (`Wielding it fills you with righteous vengeance` [Grey Owlite Shield](https://wiki.spiralknights.com/Grey_Owlite_Shield)). Apart from it, the [divine themed](https://wiki.spiralknights.com/Divine) items and gear, including [Heavenly Guardian Armor](https://wiki.spiralknights.com/Heavenly_Guardian_Armor), would not match to any of the presented currently civilizations. So the possibility of heavenly kingdom being related to Owlites is still there, moreover, highly likely and will be discussed [later](#owlites-and-valkyries-of-heavenly-kingdom). As of now, Owlites are brought up as ones inhabiting a location of similar architecture, of castles.
+Moreover, in the Starlight Cradle there is an area, where 8 gun puppies surround a pathway, 4 on each side. Two of each gun puppies on either of sides are statues, the other being gun puppies.
 
-The sigils of riders' mantles must be pointed out, as they are unique. There also exists a set of sigils. Those sigils are more similar to regular devilite sigils, but the aura itself is present only within a roster of Owlite items, suggesting that it, if related, comes from a seemingly different period of time, one resulting of Owlite research. Considering it, then, those sigils will be kept in mind when analyzing possible interactions of heavenly kingdom and Underworld, such as [sealing of legion of Ur within Underworld](#legion-of-ur) and overall Owlites' advancements regarding darkness at [times of Kat Tribe invasion and Kataclysm](#chapter-viii-kat-tribe).
+Of course, [gun puppies](https://wiki.spiralknights.com/Gun_puppies) possess design closely similar to appearance of Drakon battle sprites. This dictinct apperance and now proporty of being made of stone closely alignes it with tortodrones and the rest of the motif of stone -- __being invented by tortomega, made to be constructs with stone shells, resembling dragons, and purposed to guard eternally__ _their land even after their creator had ceased_. Such description on iits own is particularly similar to themes surrounding tortodrones, which may further tie the two constructs to the same creator.
 
-Within castle halls images of dragons were carved, these castles are the following:
+#### Presence of Constructs across Owlite Castles
 
-...
+Yet, the above explanation still does not provide an answer for presence of gun puppies in the halls of Owlite castles, Scarlet Fortress in particular.
 
-Based on this, as well as overall state of the castles, it is plausible that the main part of the heavenly kingdom of valkyries, with its unique tapestry and carpet designs, represented as a [tower, bastion, or a rook](https://wiki.spiralknights.com/Scarlet_Fortress), if [Owlite/Candlestick keep](https://wiki.spiralknights.com/Candlestick_Keep) icon and chess theme to be considered, _belongs to a greater structure in possession of valkyries, as part of physical heavenly kingdom carved from stone, considering the size of the Scarlet Fortress alone_.
+It is the distinct difference between those habitations of Owlites and tortomega which makes presence of gun puppies across both regions so striking.
 
+Yet, both are related to dragons, and more so, as we have noted earlier, Owlites castles possess certain statues of fiend-like apperance, while tortomega a deeply linked to Underworld.
 
-##### Draconic designs, Tortomega, Norse Mythology
+<!--Weather tortodrones were present during that time - is unknown as no signs of Underworld influence were present in these castles, apart from suggested [tortomega busts within the halls](#fiendish-statues), as the tortodrones were designed with the [evil eye symbol on their shells](#evil-eye) and connected to devilites even during the time when Skylark crash-landed to Cradle.-->
 
-Draconic and potentially devilite imagery is widespread in that architecture. It is similar to _Dragestil or Viking architecture, wherein dragon, or rather, serpent motifs are present in similar manner, as observed across Scarlet Fortress, Owlite Academy, etc._ Dragons in norse mythology symbolize chaos and destruction, which is why they were often used to decorate Viking longships.
+Tortomega had skills to construct defenses, traps, and specific type of gun puppies made of stone. As all of those constructs are present within most of castles, notably [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress), we have to at some point identify the creators of this technology -- the gun puppies -- after therewere being designed after image of a dragon.
 
-In relation to dragons and further draconic designs, [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary) and [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace) have the least of many draconic features, as well as being separated from the main mass of castles, freely floating across Clockworks, uncontained within the own skydomes or skyboxes as Scarlet Fortress.
+It may be argued that flying Scarlet Fortress has no connection to Tortomega, but the common and shared architecture itself suggest, that somebody had to create it consistently over the construction of those castles, which, given its scale may be the rider gods themselves.
 
-A handgun, [Raptor](https://wiki.spiralknights.com/Raptor): `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) both have draconic designs, but here they are referred as _raptors and griffins_. Both handguns have piercing damage, suggesting, as previously mentioned, that their targets are in fact fiends or beasts, meaning that either Underworld must have been uncovered at that point, or dragons, under Spiral Order classification were beasts. But, due to the descriptions, the latter interpretation does not fit here.
+Another interpretation is found in the modern depiction of titans through specific visual cue -- the `Titan` _gates depict a creature with a single eye_, similar to a different, far more important creature found in the Underworld, harolding the widespread presence of a symbol of a single eye.
 
-If we to take those norse mythology inspirations, and apply them to tortomega, it may be that they are a stand-in for Jotun - a race of giants, opposing rest of families of gods - Aesir and Vanir of norse myths relating to valkyries. Jotun inhabiting woods, shores and mountains, seems to parallel to tortoise and tortomega inhabiting wildwoods and possibly mountains, as well as what preceded Aurora Isles.
+Application of an eye for those gates is particularly interesting to us due to carvings of eyes on tortodrone shells, which acknowledges the symbol as coming from the past.
 
-At some point in time those castles were, as stated earlier, attacked by force with the same power of frenzy, rage and storms, with the main body of the heavenly kingdom remaining as it is, populated by Owlites, evident by spookats. Spookats are remnants of Kat Tribe known to invade Owlite High Academy of Magics, meaning that prior to [Kataclysm](#causes-of-kataclysm), it was under control of Owlites, and as we will explore, Valkyries. Then there would not be any reason for kats to go there apart from seemingly not guarded [eternal study](https://wiki.spiralknights.com/Edger):
+Disappearance of tortomega at some point had happened, same as dragons, remaining only in crafting materials and environment, more subtle compared to relatively distinct sequence of events which had caused disappearance of Owlites, being the Kataclysm. Coupled with the context of Underworld's presence in the Ancient Grove, Spiral Order privides a distinct and refined, yet implicit explanation of tortomega disappearance: `leading Spiral HQ to believe that the Fiends are somehow linked to the disappearance of those once-mythical beings. In order to discover what the Fiends are up to, you will need to find a way to unlock one of their Grim Gates and travel through it` ([March of the Tortodrones](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission))).
+
+<!--Based on this, as well as overall state of the castles, it is plausible that the main part of the heavenly kingdom of valkyries, with its unique tapestry and carpet designs, represented as a [tower, bastion, or a rook](https://wiki.spiralknights.com/Scarlet_Fortress), if [Owlite/Candlestick keep](https://wiki.spiralknights.com/Candlestick_Keep) icon and chess theme to be considered, _belongs to a greater structure in possession of valkyries, as part of physical heavenly kingdom carved from stone, considering the size of the Scarlet Fortress alone_.-->
+
+#### Draconic designs, Tortomega, Norse Mythology
+
+Draconic imagery is widespread across Owlite architecture. It is similar to _Dragestil or Viking architecture, wherein dragon, or rather, serpent motifs are present in similar manner, as observed across Owlite architecture_. Dragons in norse mythology symbolize chaos and destruction, which is why they were often used to decorate Viking longships as a symbol of power.
+
+In relation to dragons and further draconic designs, [Cryptic Statuary](https://wiki.spiralknights.com/The_Silent_Legion/Cryptic_Statuary) and [Royal Jelly Palace](https://wiki.spiralknights.com/Royal_Jelly_Palace) have the least of many draconic features, as well as being separated from the main mass of castles, freely floating across Clockworks, uncontained within the own skydomes.
+
+A handgun, [Raptor](https://wiki.spiralknights.com/Raptor): `An ancient pistol imbued with enchantments designed to smite the fiendish creatures of the Underworld`, and [Gilded Griffin](https://wiki.spiralknights.com/Gilded_Griffin) both have draconic designs, but here they are referred as _raptors and griffins_. Both handguns have piercing damage, suggesting, that _their targets are fiends or beasts_, meaning that either Underworld must have been uncovered at that point, or dragons, under Spiral Order classification system, may have been beasts. But, due to the descriptions, this interpretation does not fit here explicitly, despite [chromalisks](https://wiki.spiralknights.com/Chromalisk), a descendants of drakes, are beasts.
+
+If we to take those norse mythology inspirations, and apply them to tortomega, it may be that they are a stand-in for Jotun -- a race of giants, opposing rest of families of gods -- Aesir and Vanir of norse myths relating to Valkyries. Jotun inhabiting woods, shores and mountains, seems to parallel to tortoise and tortomega inhabiting wildwoods and possibly mountains, as well as what preceded Aurora Isles.
+
+Such inspiration would imply a conflict between Valkyries and Tortomega, yet no evidence exists to suggest so.
+
+Givan ancient nature of Tortomega, they may also fit into greek mythology narrative, therein they become Cyclops, retriveing modern imagery ot titans from Clockwork Gates, and within myths being ones to forge for Olympian gods the symbolically linked wepons, such as lightning and thunderbolt.
+
+At some point in time heavenly kingedom was attacked by force with the same power of frenzy, rage and storms -- `The helm of one who defied the gods and razed the gates of a heavenly kingdom` ([Frenzy Champion Helm](https://wiki.spiralknights.com/Frenzy_Champion_Helm#Frenzy_Champion_Helm)).
+
+Spookats are remnants of Kat Tribe known to invade Owlite High Academy of Magics, meaning that prior to [Kataclysm](#causes-of-kataclysm), it was under control of Owlites, corresponding to Valkyries. Then there would not be any reason for kats to go there apart from seemingly not guarded [eternal study](https://wiki.spiralknights.com/Edger):
 
 - [Owlite Academy](https://wiki.spiralknights.com/Owlite)/[Candlestick Keep](https://wiki.spiralknights.com/Candlestick_Keep)
 - [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress)
 - [Moorcroft Manor](https://wiki.spiralknights.com/Moorcraft_manor)
 
-Notably, all of location supposedly belonging to heavenly kingdom, except for Owlite Academy and Scarlet Fortress lack stone heads carved instead of fire bowls, with only dragon heads remaining in the arches.
+As Kat Tribe's goal was of retrieving a particular tome, so their existence, as the harbingers of Owlite civilation's fall, would be at the near end of the more ancient period of the timeline.
 
-The latter having significant similarity to Drakon battle sprites as in mentioned earlier idea of drakon sprites were shaped by the Core into an image of dragons, whose square muzzles were the main point of connection and similarity.
+With this, we are left with the only lead of the __fiendish statues__, noted at the [beginning of the analysis of Owlite architecture](#owlite-architecture).
 
-##### Fiendish statues
+---
 
-It is important to address the design of busts present within castles' halls of Scarlet Fortress, Owlite Academy and Moorcroft Manor:
+#### Fiendish Statues
 
-- The stone on statue's forehead resembles the [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), which is related to Kats through idea of battle sprites being reincarnations of past civilizations. In that case being [Seraphynx](#seraphynx).
-- The eyes most resemble [devilite yesmen](https://wiki.spiralknights.com/Yesman) with their circular, dot-like shape, and small pits beneath, outlining the eye sockets.
-- The mouth is also similar to devilites, having central tooth and 2 on each side. Based on [yesmens'](https://wiki.spiralknights.com/Yesman#Yesman) underbite and other [devilite overbite](https://wiki.spiralknights.com/Yesman#Devilite) within the textures, the lower jaw has 2 front teeth and upper jaw has 3 with one in the middle, similar to the statue.
+Fiendish design of busts present within Owlite castles' halls of Scarlet Fortress, Owlite Academy and Moorcroft Manor:
 
-But, as no devilites were encountered at that point in time, this architectural development could be some time later, during the time of [arrival of Undercorp to Cradle](#chapter-vi-arrival-of-undercorp), as proven by future appearances of Grim Gates. This conflicts with the proposed idea of tortomega not yet uncovering Underworld and constructing tortodrones, as described at [Arrival of Undercorp chapter](#chapter-vi-arrival-of-undercorp), as that was precursor to titans being extinct.
+- The statue's eyes resemble the most the [devilite yesmen](https://wiki.spiralknights.com/Yesman) with their circular, dot-like shape, and small pits beneath, outlining the eye sockets.
+- The mouth is also similar to devilites, having a jagged appearance, potentially meant to resemble teeth -- central tooth and 2 on each side for the status. Based on [yesmens'](https://wiki.spiralknights.com/Yesman#Yesman) underbite and other [devilites' overbite](https://wiki.spiralknights.com/Yesman#Devilite) within the textures, the lower jaw has 2 front teeth and upper jaw has 3 with one in the middle, similar to the statue.
 
-Across cultures, tall foreheads as well as presence of jewelry signifies wisdom, this can be applied both to dragons and devilites:
+    Those similarities would most likely allow for identification of those statues as depictions of devilites or Underworld species close to them. Yet, fiends are thematically and narratively opposite of Valkyries, which would mark their non-hostile presence within the halls as most peculiar.
 
-- Known devilites does not fashion themselves with trinkets presented on the statues.
+- The stone on statue's forehead resembles the [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), which is related to Kats through idea of battle sprites being reincarnations of past civilizations. In that case being [Seraphynx](#seraphynx), which has the same gem. The usage of term `dazzling` may further relate it to Seraphynx ability of [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray).
+
+    And yet, the Kats were never seen in their pre-cursed state, with equipment such as [Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask) being the closest to depict natural physiology of Kats, with the other candidate for their appearance being [the different coats of Seraphynx' fur](https://wiki.spiralknights.com/Seraphynx#Reskins), which we will later discuss.
+
+    Could it be, that Kats before the Kataclysm had possessed divine aspect similar to Valkyries?
+
+But, as no devilites were encountered at that point in time, this architectural development could come later, during the time of [arrival of Undercorp to Cradle](#chapter-vi-arrival-of-undercorp). This conflicts with the proposed idea of tortomega not yet uncovering Underworld and constructing tortodrones, as designs of tortodrones have imageryy of an eye.
+
+Across real-world cultures, tall forehead and presence of jewelry signifies wisdom. This characteristic can be applied both to dragons and devilites, as both may be presented as wise, and cunning in case of the latter, creatures.
+
+##### Scenario 1: Statues of Devilites
+
+- Known devilites do not fashion themselves with trinkets or jewels present on statues.
 
   Although, this could be a time before Undercorp could have been established in a more modern setting of a corporation, or a fact that most of encountered devilites are white-collar workers (`The office minions of the Underworld are a disgruntled lot, attacking any unauthorized personnel on sight. While not terrible threats on their own, they can become far worse if one of their Pit Bosses gets a hold of them` [Devilish Drudgery - Information Module](https://wiki.spiralknights.com/Information_Module:_Devilish_Drudgery)), without giving insight into the inner details of Underworld's society.
 
-- If statues are of dragons, then it would be a different depiction of them, - with a greater relation to the Underworld's anatomy and physiology, or, it makes Underworld to appear very early in the timeline. It would also mean, that both titans and valkyries could be those castles' builders, given presence of dragons.
-- If statues are of devilites or fiends, then it would seem strange for valkyries to build them, notably near crypts in the Moorcroft Manor.
+- If statues are of devilites, then it would seem peculiar for Valkyries to build them, notably near the crypts of Moorcroft Manor.
 
   While for titans, which will later [cooperate with devilites](#arrival-of-undercorp), it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in the timeline we propose. And, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` - [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)), this seems as questionable design choice.
 
   Unless this was a later development. We consider this scenario as all of those locations lasted the most, as they are populated by Spookats - evidence of Kat Tribe invading those location, meaning, that Owlites were there. And at that, far later point of the timeline, heavenly kingdom would've encountered devilites is several times. Carving them within their halls may be a symbolic gesture of a [yet-to-happen Valkyrian onslaught into the Underworld](#war-of-heavenly-kingdom-and-underworld). But, this suggestion does not follow any so far related myths nor their narratives, Valkyries of norse mythology included, - due to this, such suggestion of devilites being carved into the walls seems as a speculation, rather than a hypothesis.
 
+
+##### Scenario 2: Statues of Dragons
+
+- If statues are of dragons, then it would be a different depiction of them, -- with a greater emphasis on the Underworld's anatomy and physiology reflect in dragons, which would contradict their common depiction. There is a shadow variant of drakon, implying drago of frenzy to be associated with shadow damage, yet, their appearance does not differ from other dragons.
+
+##### Scenatio 3: Spiral Order builders
+
 - A possibility also exists of the castles being built by Spiral Order ancestors, but that would mean that all knowledge of elemental and shadow damage would at some point gone from Spiral Order, as they explicitly discover it on Cradle - shadow damage from devilites, and elemental from Owlites - as it will be discussed in [chapter on Isorans and Spiral Order](#similarity-to-heavenly-kingdom).
+
+##### Scenario 4: Statues of Tortomega
+
 - An option, one that was mentioned in the [Ancient Titans chapter](#chapter-iii-ancient-titans) is based on an idea, that those are titans, depicting themselves at some point in time.
 
   This would lead to and idea, initially suggested by [dragon scale](https://wiki.spiralknights.com/Dragon_Scale) description: `It reflects light with an otherworldly sheen`, that dragons are related to Underworld to a degree of being able to pass through it.
@@ -1270,19 +1316,6 @@ Moreover, this exact narrative seems as the closest to the myth of how Asgard of
 
 This cosmology of heavenly kingdom, material realm, and of Underworld with the Blinding Abyss seem to match here the general basics of norse mythology - Asgard as home of the Aesir and Vanir clans, Midgard being the realm of mortals, and frozen over underworld known as Niflheim.
 
-#### Stone Constructs
-
-Stone [gun puppies](https://wiki.spiralknights.com/Gun_puppies) possess design slosely similar to appearance of Drakon battle sprites. They were invented by tortomega, resembling drakes, set to guard the halls of the castles. Gun and Rocket Puppies' exterior was made of stone with mechanical internals, as seen by the cracked shells of tier 1 turrets.
-
-They had same design of dragons present in titans' castles, these designs would be later enhanced by gremlins with gun puppies of tiers 2 and 3, explicitly elemental, with the addition of elemental essences contained near spiral imagery carved into a stone slabs on top of gun puppies' heads ([Red Rover](https://wiki.spiralknights.com/Gun_Puppy#Red_Rover), [Slush Puppy](https://wiki.spiralknights.com/Gun_Puppy#Slush_Puppy), [Sick Puppy](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy), [Sparky](https://wiki.spiralknights.com/Gun_Puppy#Sparky)). The elemental essences in question are 5 star materials of icon like the [Storm Chaser](https://wiki.spiralknights.com/Storm_Chaser).
-
-Gun puppies of tier 2 and 3 have more mechanical design, with the base at which the rotation of the turret happens, having bolts. Tier 1 gun puppies don't have any external mechanical elements, looking practically the same as the statues at [Gloaming Wildwoods](https://wiki.spiralknights.com/Gloaming_Wildwoods), [Aurora Isles](https://wiki.spiralknights.com/Aurora_Isles) and [Haven](https://wiki.spiralknights.com/Town_Square).
-
-Reskins resembling [gun puppy](https://wiki.spiralknights.com/Drakon_(Gun_Pup)) for Drakon battle sprite has more advanced design, as has exposed gun barrel present at the back, but also visible wires handing from where the mounting base should be. At the same time, Roarmulus twins or Project R, have artillery mounted on top of turrets.
-
-Gloaming Wildwoods and [Scarlet Fortress](https://wiki.spiralknights.com/Scarlet_Fortress/Cravat_Hall), apart from the haunted Owlite Keep, contain gun puppies which may point to their presence already at that time as the first constructs. If,taken in account previous discussion regarding [origin of castles](#castles), presence of those constructs there can be attributed to a deeper relation of titans and valkyries, and heavenly kingdom as a whole, possibly to a times before supposedly titans stormed the gates of heavenly kingdom, as the technology would have been present across all of those locations.
-
-Weather tortodrones were present during that time - is unknown as no signs of Underworld influence were present in these castles, apart from suggested [tortomega busts within the halls](#fiendish-statues), as the tortodrones were designed with the [evil eye symbol on their shells](#evil-eye) and connected to devilites even during the time when Skylark crash-landed to Cradle.
 
 ##### Lumbers as Constructs
 
@@ -2312,7 +2345,7 @@ At that, we believe that [Heavy Statue](https://wiki.spiralknights.com/File:Expl
 
 We will appeal to irish mythology specifically, due to its later relevance in the context of Almire. Here, we are concerned with the story of Balor - a one-eyed giant, a king of Fomorians, - malevolent civilization from the Irish Underworld. Fomorians embody forces of chaos and destruction and are at war with pantheon of deities named Tuatha De Danann.
 
-What is important here, is that across the myths, Fomorians were ones ruling over Ireland up to a mythological Battle of Mag Tuired. This can metaphorically be applied to the Wildwoods, but this is a speculation.
+What is important here, is that across the myths, Fomorians were ones ruling over Ireland up to a mythological Battle of Mag Tuired until their defeat.
 
 The other argument is related to the single eye symbolism. As titans are depicted as cyclops, and possessing a single eye of an helm, a connection to the eye of Balor could be made here. Balor's eye symbolizes evil and destructive power, conveniently similar to the dread seal, named here as the evil eye.
 
