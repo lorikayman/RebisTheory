@@ -25,7 +25,7 @@ layout: entries_rebis
   Rebis Theory <span class="energy">🜔</span>
 </h1>
 
-Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a distinct potential for expansive worldbuilding.
+Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a distinct potential for expansive worldbuilding and interpretation of offered narratives.
 
 By acknowledging this potential we aim to present a set of _narrative devices and tropes_ and a _system of symbols_ the setting utilizes to construct an immersive and believable experience of a fictional universe.
 
@@ -35,7 +35,7 @@ By acknowledging this potential we aim to present a set of _narrative devices an
 
 The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
-As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the __bonding, ineffable quality__, _which allows for setting's ability to captivate_ as a fiction, a world, and a story.
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the __bonding, ineffable quality__, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm of human experiences, and a story.
 
 ### Approach to Worldbuilding
 
@@ -109,6 +109,8 @@ The first 9 chapters cover the timeline with the 10th chapter being the general 
 - [Chapter 9](#chapter-ix-part-i-gremlin-empire) analysis existence of Clockworks and gremlins
 - [Chapter 10](#chapter-x-spiral-knights) is the proposed timeline based on the previous chapters
 - [Chapter 11](#final-chapter-spiral-of-burning-stars) discussed the the general themes and narratives
+
+
 
 <center class="chapter-break">
   <span class="energy">🜔</span>
@@ -10498,6 +10500,24 @@ As for the Swarm, there is no end present in the story. Aspect of Swarm's scale 
 
 We have covered the symbolyms of Unknown Passage and we believe it persists weather or not Rebis theory works as a tool to explain the story, as themes Swarm represents remain mostly unaffected. While Rebis theory privides an explanation for Swarm's inception, it does not ameliorate the narrative Swarm defines.
 
+#### Metanarrative-defined Ending
+
+We observer two distinct narrative forces within the unfinished main story of rank missions.
+
+The first one is the eldritch horror of the Swarm, existing beyond the existing sustems of calssifications and relation, encompassing all of them as a immitation of original, albeit hyperreal fictional, reality of common understanding by inhabitatnt of Cradle of their comsology.
+
+The latest missions tranform the narrative into one of a looming apocalypse, countered by presence and accompanied motifs of Sleeper.
+
+As mentioned earlier, the story takes a more grim narration, amplifying the degree of seriousness of narrative by removing prior established cheerful eleemnts found through the art style and corresponding designs.
+
+The other narrative orignates from human reality -- it represents a set of rules of the medium the story is preseted through, -- of a game, which exists within human reality, a multifaceted result of collective work. The preestablsihed theme requires the narrative to be anything other than the [drownder ending]() of the apocalyptic eldritch presence breaking the established system of relations.
+
+If this narrative was in the past, -- not covered by the game itself, -- we suspect, it would follow the same fate as Owlites' and Almires' narartives. But here, the game, by its out-of-universe nature, imposes its own framework.
+
+We do not suggest that the drowner ending is the only potential development, as its introduction into the story would significantly shift the final premise of the game. Meta-narrative is the decisive force outside of the setting, which may or may not steer the setting into that direction, but, given nature of the game as an instrument, the negative ending or distinct ending in general would halt setting's progression, transitioning it into a new existence.
+
+Such resolution without revolution would fit in favour of the meta-narrative, while acknowledgeing the fictional depth of the destructive in-universe force, which from within the narrative represents a threat of total replacement of the established systems with its presence being the foundation of the post-apocalyptic setting.
+
 #### Conclusion
 
 An archetypical perspective of a hero's descend narrative inroduces a world, whose existence is rooted in the speculative fiction of occult, alchemy, and science fiction, where each of those components is aware of the others while they are utilized together both in the current moment and across the timeline in order to create a sense of history.
@@ -10507,6 +10527,39 @@ Those components, once they are recognized, are placed onto spectrums, such as m
 Cradle and Clockworks are characterized by a synergy of multiple environments, "places," or symbols with archetypical images at their foundations with feel and quality of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system, allowing them not only to coexist, but to invoke the aforementioned sense of synergy emerging from spacial, temporal, and causal interconnectedness both into the past, as myths, and into the future, as modern retellings of those myths.
 
 ---
+
+
+### Acknowledgements
+
+_Nurr_, for offering a novel and critical perspective on the setting's themes and world.
+
+_Archaic_, for providing insight on game's evolution throughout its development.
+
+_Spiralka-chan_ for the assistance on the analysis of official wiki's history.
+
+_Lucasluqui_ for assistance on the technical side of the project: viewing of models and scenes through the Knight Launcher software.
+
+`Arcade` and `Haven` Discord servers for the feedback on the findings across the analysis.
+
+_Spiral Knights team_, for creating the setting and maintaining game's presence on the Internet.
+
+Spiral Knights forums:
+
+- [King Tinkinzar and the connection between The Sleeper](https://www.reddit.com/r/spiral_knights/comments/gw2a6r/king_tinkinzar_and_the_conecction_between_the/)
+- [Does this game have lore?](https://www.reddit.com/r/spiral_knights/comments/1agvwkb/comment/kqtg4mu/)
+- [What would be the community's thoughts of a Spiral Knights based TTRPG?](https://www.reddit.com/r/spiral_knights/comments/118vo5o/what_would_be_the_communitys_thoughts_of_a_spiral/)
+- [Random brainwave about some of the lore](https://www.reddit.com/r/spiral_knights/comments/6xsjet/random_brainwave_about_some_of_the_lore/)
+- [How was the story supposed to end?](https://www.reddit.com/r/spiral_knights/comments/o54cr6/how_was_the_story_supposed_to_end/)
+- [Is curse connected to Swarm? Spiral Knight theory](https://www.reddit.com/r/spiral_knights/comments/gvxaca/is_curse_connected_to_swarm_spiral_knight_theory/)
+- [Theory about Almirian Crusaders](https://www.reddit.com/r/spiral_knights/comments/g1w7qj/theory_about_almirian_crusaders/)
+- [I just gotta say, I love everything about this game. Except the game](https://www.reddit.com/r/spiral_knights/comments/7pmijy/i_just_gotta_say_i_love_everything_about_this/)
+- [The Ironmight theory](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/)
+- [Are we the bad guys?](https://www.reddit.com/r/spiral_knights/comments/m39ynb/are_we_the_bad_guys/)
+- [On Titans](https://forums.spiralknights.com/en/node/20834)
+- [What if the Core is not "Tier 4"?](https://forums.spiralknights.com/en/node/33444)
+- [Spiral Order past](https://forums.spiralknights.com/en/node/50635)
+- [Fiend sigils](https://forums.spiralknights.com/en/node/7857)
+- [A Logical Approach to Understanding Spiral Knight's Story and Game](https://forums.spiralknights.com/en/node/105999)
 
 ## Sources
 
@@ -10555,25 +10608,6 @@ Cradle and Clockworks are characterized by a synergy of multiple environments, "
 - [Gremlins’ Three Rules: An Evolutionary Analysis, by Naturalish](https://medium.com/@Naturalish/gremlins-three-rules-an-evolutionary-analysis-de4c4fae2785)
 - [How Gremlins Went From Fairy Stories to Warplanes to Hollywood Legend, by Hadley Meares](https://www.atlasobscura.com/articles/what-are-gremlins)
 - [How Mogwai and Gremlins Work, by Robert Lamb](https://entertainment.howstuffworks.com/mogwai-gremlins.htm#pt3)
-
-Acknowledgements:
-
-- [Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui
-- [King Tinkinzar and the connection between The Sleeper](https://www.reddit.com/r/spiral_knights/comments/gw2a6r/king_tinkinzar_and_the_conecction_between_the/)
-- [Does this game have lore?](https://www.reddit.com/r/spiral_knights/comments/1agvwkb/comment/kqtg4mu/)
-- [What would be the community's thoughts of a Spiral Knights based TTRPG?](https://www.reddit.com/r/spiral_knights/comments/118vo5o/what_would_be_the_communitys_thoughts_of_a_spiral/)
-- [Random brainwave about some of the lore](https://www.reddit.com/r/spiral_knights/comments/6xsjet/random_brainwave_about_some_of_the_lore/)
-- [How was the story supposed to end?](https://www.reddit.com/r/spiral_knights/comments/o54cr6/how_was_the_story_supposed_to_end/)
-- [Is curse connected to Swarm? Spiral Knight theory](https://www.reddit.com/r/spiral_knights/comments/gvxaca/is_curse_connected_to_swarm_spiral_knight_theory/)
-- [Theory about Almirian Crusaders](https://www.reddit.com/r/spiral_knights/comments/g1w7qj/theory_about_almirian_crusaders/)
-- [I just gotta say, I love everything about this game. Except the game](https://www.reddit.com/r/spiral_knights/comments/7pmijy/i_just_gotta_say_i_love_everything_about_this/)
-- [The Ironmight theory](https://www.reddit.com/r/spiral_knights/comments/zakpe/the_ironmight_theory/)
-- [Are we the bad guys?](https://www.reddit.com/r/spiral_knights/comments/m39ynb/are_we_the_bad_guys/)
-- [On Titans](https://forums.spiralknights.com/en/node/20834)
-- [What if the Core is not "Tier 4"?](https://forums.spiralknights.com/en/node/33444)
-- [Spiral Order past](https://forums.spiralknights.com/en/node/50635)
-- [Fiend sigils](https://forums.spiralknights.com/en/node/7857)
-- [A Logical Approach to Understanding Spiral Knight's Story and Game](https://forums.spiralknights.com/en/node/105999)
 - [Against Worldbuilding. Why “worldbuilding” is the most overrated and overused concept in fiction - Lincoln Michel](https://electricliterature.com/against-worldbuilding/)
 
 ---

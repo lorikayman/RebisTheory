@@ -1,6 +1,6 @@
 # Rebis Theory
 
-> __Worldbuilding, Mythology, Microcosm and Symbolic System of Spiral Knights. Artificial Axis Theory__
+> __Worldbuilding, Mythology and Symbolic System of Spiral Knights. Artificial Axis Theory__
 
 This repository contains the source document - [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
