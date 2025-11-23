@@ -1240,11 +1240,9 @@ As Kat Tribe's goal was of retrieving a particular tome, so their existence, as 
 
 With this, we are left with the only lead of the __fiendish statues__, noted at the [beginning of the analysis of Owlite architecture](#owlite-architecture).
 
----
-
 #### Fiendish Statues
 
-Fiendish design of busts present within Owlite castles' halls of Scarlet Fortress, Owlite Academy and Moorcroft Manor:
+Fiendish design of busts found within castles' halls of Scarlet Fortress, Owlite Academy and Moorcroft Manor possess a few distinct design elements:
 
 - The statue's eyes resemble the most the [devilite yesmen](https://wiki.spiralknights.com/Yesman) with their circular, dot-like shape, and small pits beneath, outlining the eye sockets.
 - The mouth is also similar to devilites, having a jagged appearance, potentially meant to resemble teeth -- central tooth and 2 on each side for the status. Based on [yesmens'](https://wiki.spiralknights.com/Yesman#Yesman) underbite and other [devilites' overbite](https://wiki.spiralknights.com/Yesman#Devilite) within the textures, the lower jaw has 2 front teeth and upper jaw has 3 with one in the middle, similar to the statue.
@@ -1253,62 +1251,69 @@ Fiendish design of busts present within Owlite castles' halls of Scarlet Fortres
 
 - The stone on statue's forehead resembles the [Prismatic Dazzling Gem](https://wiki.spiralknights.com/Prismatic_Dazzling_Gem), which is related to Kats through idea of battle sprites being reincarnations of past civilizations. In that case being [Seraphynx](#seraphynx), which has the same gem. The usage of term `dazzling` may further relate it to Seraphynx ability of [Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray).
 
-    And yet, the Kats were never seen in their pre-cursed state, with equipment such as [Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask) being the closest to depict natural physiology of Kats, with the other candidate for their appearance being [the different coats of Seraphynx' fur](https://wiki.spiralknights.com/Seraphynx#Reskins), which we will later discuss.
+    And yet, the Kats were never seen in their pre-cursed state, with equipment such as [Kat Hiss Mask](https://wiki.spiralknights.com/Kat_Hiss_Mask) being the closest to depict natural physiology of Kats, with the other candidate for their appearance being [the different coats of Seraphynx' fur](https://wiki.spiralknights.com/Seraphynx#Reskins), which we will discuss [in the corresponding chapter](#seraphynx-and-divine-kats).
 
     Could it be, that Kats before the Kataclysm had possessed divine aspect similar to Valkyries?
 
-But, as no devilites were encountered at that point in time, this architectural development could come later, during the time of [arrival of Undercorp to Cradle](#chapter-vi-arrival-of-undercorp). This conflicts with the proposed idea of tortomega not yet uncovering Underworld and constructing tortodrones, as designs of tortodrones have imageryy of an eye.
+But, as seemingly no devilites were encountered at that point in time -- when the castles were built, -- this architectural development could come later.
 
-Across real-world cultures, tall forehead and presence of jewelry signifies wisdom. This characteristic can be applied both to dragons and devilites, as both may be presented as wise, and cunning in case of the latter, creatures.
+Across real-world cultures, _tall forehead with varying across cultures presence of jewelry signifies wisdom_. This characteristic can be applied both to dragons and devilites, as both may be presented as wise, in different dimensions, and cunning in case of devilites.
+
+Depending on the intention and relation to Valkyries, the statues may provide a sence of danger, alarm, or gratitude -- as enemies or benefactors or allies of Valkyries.
+
+As we keep those vague pointers in mind, we will attempt to identify those species and create a thematically fitting narrative as the reasonable explanation for their presence.
 
 ##### Scenario 1: Statues of Devilites
 
+The anatomy of the jaw and eyes serves here as the anatomical, unaltered foundation for those species' identity, distinctly devilite, or at least originating from the Underworld.
+
+If coupled with the present atmosphere of Owlite Academy, the thematically nefarious nature of those species seems fitting, taking shape of "omnious looming statues of forgotten entities alinged through unlit halls of the castle of a gones civilization."
+
+Yet, there are a few issues with this explanation, not contradictive but expansive:
+
 - Known devilites do not fashion themselves with trinkets or jewels present on statues.
 
-  Although, this could be a time before Undercorp could have been established in a more modern setting of a corporation, or a fact that most of encountered devilites are white-collar workers (`The office minions of the Underworld are a disgruntled lot, attacking any unauthorized personnel on sight. While not terrible threats on their own, they can become far worse if one of their Pit Bosses gets a hold of them` [Devilish Drudgery - Information Module](https://wiki.spiralknights.com/Information_Module:_Devilish_Drudgery)), without giving insight into the inner details of Underworld's society.
+  Statue's depiction of deveilites may come from a time before Undercorp could have been established in a modern setting of a corporation (`The office minions of the Underworld are a disgruntled lot, attacking any unauthorized personnel on sight. While not terrible threats on their own, they can become far worse if one of their Pit Bosses gets a hold of them` [Devilish Drudgery - Information Module](https://wiki.spiralknights.com/Information_Module:_Devilish_Drudgery)). This interpreation gtants depth to Underworld's history and deveilites culture.
 
 - If statues are of devilites, then it would seem peculiar for Valkyries to build them, notably near the crypts of Moorcroft Manor.
 
-  While for titans, which will later [cooperate with devilites](#arrival-of-undercorp), it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in the timeline we propose. And, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` - [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)), this seems as questionable design choice.
+  While for titans, which will later [cooperate with devilites](#arrival-of-undercorp), it would seem more fitting, as valkyries are not connected with shadow damage and Underworld until much further in the timeline we propose. And, as no Underworld was yet discovered, and valkyries do oppose it (`helmet whose name denizens of the Underworld dare not mention` - [Valkyrie Helm](https://wiki.spiralknights.com/Valkyrie_Helm)), this seems as an inexplicable design choice.
 
-  Unless this was a later development. We consider this scenario as all of those locations lasted the most, as they are populated by Spookats - evidence of Kat Tribe invading those location, meaning, that Owlites were there. And at that, far later point of the timeline, heavenly kingdom would've encountered devilites is several times. Carving them within their halls may be a symbolic gesture of a [yet-to-happen Valkyrian onslaught into the Underworld](#war-of-heavenly-kingdom-and-underworld). But, this suggestion does not follow any so far related myths nor their narratives, Valkyries of norse mythology included, - due to this, such suggestion of devilites being carved into the walls seems as a speculation, rather than a hypothesis.
+  We consider this scenario as all of those locations lasted the most, as they are populated by Spookats -- evidence of Kat Tribe's presence, -- invading those location, meaning, that Owlites were originally there, as we will discuss the relation between Kat Tribe and Owlites.
 
+  And at that, far later point of the timeline, heavenly kingdom would've encountered devilites. Carving them within their halls may be a symbolic gesture of a [yet-to-happen Valkyrian onslaught into the Underworld](#war-of-heavenly-kingdom-and-underworld). But, this speculation does not yet have any solid arguments to be justifiable.
+
+The presesnce specifically in the Moorcroft Manor around the coffins may frame those statues as _the guradians of the deceased_, native to the Underworld. This seems as a valid suggesion, one, which would allow for __Valkyries to acknowledge the natural order of reality__, where souls are intended to travel into the Underworld, thus _framing devilites as the cosmically essential executors of souls' lifecycle_.
+
+Such explations seems most organic in that case, is it incorporates the older culture and relation between underworld and the rest of reality over the existence and metaphysicality of souls, potentially even before any notion of spirits returning to the material realm.
 
 ##### Scenario 2: Statues of Dragons
 
-- If statues are of dragons, then it would be a different depiction of them, -- with a greater emphasis on the Underworld's anatomy and physiology reflect in dragons, which would contradict their common depiction. There is a shadow variant of drakon, implying drago of frenzy to be associated with shadow damage, yet, their appearance does not differ from other dragons.
+If statues are of dragons, then it would be a different depiction of them, -- with a greater emphasis on the Underworld's anatomy and physiology reflect in dragons, which would contradict their common depiction.
 
-##### Scenatio 3: Spiral Order builders
+There is a shadow variant of drakon, implying dragons of frenzy to be associated with shadow damage, yet, their appearance does not differ from other dragons given the presentation and their regoniztion as dragons in the [creation myth](#creation-myth-dragons-as-cosmic-progenitors) by corresponding items.
 
-- A possibility also exists of the castles being built by Spiral Order ancestors, but that would mean that all knowledge of elemental and shadow damage would at some point gone from Spiral Order, as they explicitly discover it on Cradle - shadow damage from devilites, and elemental from Owlites - as it will be discussed in [chapter on Isorans and Spiral Order](#similarity-to-heavenly-kingdom).
+##### Scenario 3: Statues of Tortomega
 
-##### Scenario 4: Statues of Tortomega
+The tortomega scenario emerges from the initial designof toerdrones' faces. While they are differents, whithin the interpretation of them being designed after tortomega -- descendants of drakes and tortoises, what facial features thet could've possessed?
 
-- An option, one that was mentioned in the [Ancient Titans chapter](#chapter-iii-ancient-titans) is based on an idea, that those are titans, depicting themselves at some point in time.
+The key element is the [dazzling gem](https://wiki.spiralknights.com/Dazzling_Gem) jewelry. If those castles were carved by Valkyries, it would mean that dazzling gem as a tangible object, was placed upon those creatures in means of chracterizing them in a way.
 
-  This would lead to and idea, initially suggested by [dragon scale](https://wiki.spiralknights.com/Dragon_Scale) description: `It reflects light with an otherworldly sheen`, that dragons are related to Underworld to a degree of being able to pass through it.
+The dazlzing gem is inherently related to Seraphynx: `The ray of light deals extra damage to undead and fiend family monsters` ([Dazzling Light Ray](https://wiki.spiralknights.com/Dazzling_Light_Ray#Dazzling_Light_Ray)), while the ray of light itself is characterized as `Fires a concentrated beam of light that damages anything passing through it` ([Ray of Light](https://wiki.spiralknights.com/Ray_of_Light)).
 
-  While this would conflict with the established design of dragons, the potential designs of titans and tortoises, as similar to fiends design-wise would be not so far plausible.
+If dragons are depicted through the designs, why would not those species, devilites or tortomega be also acknowledged in the designs by their power or position, which does not contradict their nature as the opposition?
 
-  The key element is the [dazzling gem](https://wiki.spiralknights.com/Dazzling_Gem)-like jewelry, which those castles were carved by valkyries, would mean that underworld is a different relation, but no such relation was discovered.
+One suggestion stems from an idea of mythrology-inspired connections of Valkyries to the source material, specifically, the notion of impossible construction, such as carving worlds from stone and the scale of Scarlet Fortress, as well as the awe-striking scale of CLockworks in the modern narrative.
 
-  On the other hand, such decorations for the depictions of builders of those structure would seem as more plausible, if we are to draw parallels with norse mythology - of gratitude and respect to titans, as builder of heavenly kingdom, an interpretation of the complex relationship between giants and valkyries from the norse mythology.
+This narrative is embodied the closest in the myth of how Asgard of the norse mythology was build -- with an assistance of giants:
 
-  This would place titans into close proximity of Underworld ecosystem and grant anatomy reminiscent of fiends, while not being as such. This hypothesis could explain the anatomy being similar to devilites'.
+<BookCitation source="Asgard - New World Encyclopedia">
 
-The only conflict is that devilites' flat anatomy of a face, rather that a dragon muzzle depicted here, with a stone similar to dazzling gem, which is attributed to Owlites. As anatomy of dragons is established, this makes this statues seem to belong to a different specie, likely titans themselves or devilites of later times in history of heavenly kingdom. We won't discard other cases of the statues' identities, but in order to move forward, we will consider titans as ones depicted on those statues.
-
-This ability of dragons to travel across realms can also explain the scenario, where Isorans did not originate on Cradle nor on planet that was captured by Cradle, but rather on an unrelated planet, implied to be Isora, wherein dragons were already present, as stated by the [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm): `The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. The presence of Riders as once carving worlds from stone in this interpretation can be attributed to a different builders - this time being valkyries, meaning that the **castles with fiendish statues were assisted in building by titans, and the rest of castles build by valkyrian riders, gods**. This would respect both descriptions of riders as well as propose a plausible explanation for the statues, alluding to norse mythology.
-
-Moreover, this exact narrative seems as the closest to the myth of how Asgard of the norse mythology was build - with an assistance of giants:
-
-<BookCitation source="New World Encyclopedia: Asgard">
-
-  Describing the red band in the rainbow, the Prose Edda suggests that "that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross."(11. Snorri Sturluson, Gylfaginning XV, Brodeur, 28.) This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
+  Describing the red band in the rainbow, the Prose Edda suggests that "that which thou seest to be red in the bow is burning fire; the Hill-Giants might go up to heaven, if passage on Bifröst were open to all those who would cross." This, the constant threat of invasion by the hostile giants (Jotun), represented a genuine fear for the Aesir.
 
   ...
 
-  In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, "In the beginning [Odin] established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim." (16. Gylfaginning XIV, Brodeur 25.)
+  In the mythic texts, the Aesir are thought to have constructed Asgard at some point in the mythic past. As Snorri suggests, "In the beginning Odin established rulers, and bade them ordain fates with him, and give counsel concerning the planning of the town; that was in the place which is called Ida-field, in the midst of the town. It was their first work to make that court in which their twelve seats stand, and another, the high-seat which Allfather himself has. That house is the best-made of any on earth, and the greatest; without and within, it is all like one piece of gold; men call it Gladsheim."
 
   ...
 
@@ -1318,42 +1323,65 @@ Moreover, this exact narrative seems as the closest to the myth of how Asgard of
 
 This cosmology of heavenly kingdom, material realm, and of Underworld with the Blinding Abyss seem to match here the general basics of norse mythology - Asgard as home of the Aesir and Vanir clans, Midgard being the realm of mortals, and frozen over underworld known as Niflheim.
 
+Yet, despite the similarities it remains a speculation, as no distinct presence of tortomega was established in this framing of contruction, other than stone-shelled constructs.
 
-##### Lumbers as Constructs
+The facial anatomy being the closest to devilites also does not allow for a varierty of interpretations without leaps of logic. Due to this, we propose so far a simpler explanation of __deveilites' culture being honored by Valkyries__ as it is desribed in the [1st scenario](#scenario-1-statues-of-devilites), as _our working assumtion for statues' identity_.
 
-On that note of constructs, [Lumbers](https://wiki.spiralknights.com/Lumber) were likely gremlin invention, as they are more crude constructs, have evil eye seal placed on them instead of carefully carved, compared to tortodrone shells.
+This interpretaion would establish a lasting history and awareness between Valkyries and Underworld, as ones of the most ancient civilization in the timeline, _recognition of their cosmically-defined roles_.
 
-The lack of void/swarm gun puppies, but lumbers, may also point to them being of different nature, with lumbers being native to material realm and partially natural entities (as tree trunk used as their carcass).
+#### Lumbers as Constructs
 
-A note, void gun puppies, while present in the game files, are not considered canon, as their design is of an older iteration.
+On the note of constructs connected with nature, such as gun puppies, [Lumbers](https://wiki.spiralknights.com/Lumber) may be identified as a non-tortomega invention. They are more crude in their construction, they have curse-like or [sealed sword](https://wiki.spiralknights.com/Sealed_Sword) __seal placed upom them__ instead of being carved, compared to [corrupted tortodrones](https://wiki.spiralknights.com/Tortodrone).
+
+While this depiction of imagery of an eye is different, it suggests a great techonoligcal gap between two inventsions -- wherein gun puppies naturally incorporate runic, spiral designs and stone exterior with overflowing elemental presence -- lumbers immitate that fusion in a more primitive manner through, potentially, sealing of elemental force.
+
+Given the notion of deveilites carving their sigils on tortodrones' shells, and unknwon perpetrator drawing curse sigil on Carnavons' shields, they may also be seen as creators of elemental lumbers in the same context of Undercorp and gremlins working together, where the latter outsources the work to the prior: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
+
+While we have not covered both parties in detail, the aforementioed notion of placing seals is one we will keep track of.
 
 #### Howlitzers, Dragons, and Drakes
 
-Then, there are [howlitzers](https://wiki.spiralknights.com/Howlitzer) present within regions mostly populated by the undead, and notably Owlite Keep, they have reptilian anatomy, and jaws similar to [fiendish statues](#fiendish-statues), 2 horns at the back of their skulls, depending on their tier, like [drakon battle sprites](#dragons). Those similarities make them seem as drakes or potentially dragons.
+Among the more ambigious traces of Valkyries' relation with dragons is found in [howlitzers](https://wiki.spiralknights.com/Howlitzer). They are present within regions mostly populated by the undead, Owlite Academy, and Wildwoods.
 
-Due to [creation myth](#creation-myth), we would consider the original dragons being far larger than a howlitzer, in order for creation myth to be founded, in a general understanding when comparing dragons to any other species.
+Holwitzers possss a reptilian anatomy and jaws similar to [fiendish statues](#fiendish-statues), which is likely a stylistic choice to depict bare teeth on skulls, similar to zombies, 2 horns at the back of their skulls, depending on their tier, like [drakon battle sprites](#dragons). Those similarities make them seem  to be reanimated remains of drakes or potentially dragons.
 
-And yet, this concept seem to fail, as most of evidence on the identity of dragons suggests they were lesser in scale.
+Due to [creation myth](#creation-myth), we would naturally perceive the original dragons being far larger than a howlitzer or a battle sprite in their stature in order for creation myth to be valid in a general understanding of cosmogony.
 
-As a logical leap, the design of [Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield) is the only one having its left side sharpened, while its upgrades have more rounded corners, but more visible scales, more reminiscent of spikes along the back. Similar design pattern - a lack of spikes, - is seen in the [Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm), and due to this, we may consider general interpretation of drakes compared to that of dragons, as for them equipment such as [Dragon Scale Helm](https://wiki.spiralknights.com/Dragon_Scale_Helm) exists.
+The act of spirit returning to the material realm may exlain their reanimated state, but it does not elaborate in the reason, why their dormant up to that moment remnants were spread across Valkyrian architecture and Wildwoods, a territory of tortomega.
 
-If considered that _drakes or dragons had to be undead in order for howlitzers to appear_, then gun puppies would have to be invented later, unless they are meant to represent a symbolic dragon, rather than an anatomically correct one, inspired by statues, rather than living beings.
+##### Identity of Howlitzers
 
-Dragons on their death should have affected the environment within current theory, but at the same time, howlitzers are considered undead and found all across Cradle, same as spookats, _meaning that something had to bring them back at such scale_. The only powers known to be related to undeath, and cause undeath, as it will be later seen, and be related to afterlife, are devilites of Undercorp and powers of curse, the Core, and Kataclysm. Those will be analyzed accordingly.
+In order to assess Howlitzers' nature, we may look at the equipment, representative of those species.
 
-The prior, considering further relation of tortomega with the Underworld in the [Arrival of Undercorp section](#chapter-vi-arrival-of-undercorp) could be a potential reason for resurrections of dragons, but this idea, as we will further see, would not be developed apart from presence of howlitzers in the Gloaming Wildwoods.
+The [Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield) possesses _rounded corners_, while its upgrades -- wyvern and dragon shields, -- have more edge to them, reminiscent of spikes along the back of drakon. The rounded scales are described to be `stout`: `A solid shield shaped from stout scales` ([Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield)). The upgrades, as wyversn and dragon shields, both possess spiky scales -- this property is seemingly acknowledged in the [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield): `A spiny buckler forged from beast chitin, providing ample resistance to both heat and venom`, as `spiny`.
 
-Lastly, howlitzers have a nose horn, which is not seen across dragons, apart from _a specific Drakon evolution_, if we take existing dragon designs.
+The relation to cold of wyverns is also found here, as they are resistant to heat through the distinctly ice-like design of the shield. This motif of termperature for wyverns is acknowledged in the corresponding helmet: `Made from the scales of rare Clockworks beasts, this sturdy helmet is resistant to even the highest of temperatures` ([Wyvern Scale Helm](https://wiki.spiralknights.com/Wyvern_Scale_Helm)).
 
-If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular specie is of greater interest to us - salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_. This seems as a more solid link to identifying howlitzers as drakes. Drakon evolution in that context would seem as attribution to drakes whom dragons could've encompassed in their diversity.
+A similar design pattern -- a lack of sharp spikes, -- is seen in the [Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm). Due to this, we may consider general interpretation of drakes compared to that of dragons or wyverns as _less characterized by their aggressive design_ in the same relation as designs of drake gear are comapred to one of dragon.
 
-Another case could be a further development of Drakon anatomy, as one embodying the totality of dragon anatomy and history, as [Seraphynx](#seraphynx) [represent many different families of kats of Kat Tribe based on their fur color and pattern](#siege-of-the-academy).
+If considered that _drakes or dragons had to be undead in order for howlitzers to appear_, then gun puppies and other statues, as well as depiction of dragon for Vlakyries had to be recorded in order to preserve their appearance across different cultures.
 
-So far, most of evidence suggest that howlitzers are drakes, as drakes have a benefit of being less known of across the setting and being related to currently present chromalisks through mythological interpretation of salamanders as modern-day descendants of dragons.
+As statues and gun puppies depict wingless, terrestia, tailed creatures, we would consider them drakes.
 
-Within howlitzer ribcage a pulsing essence is present similar to essence orbs found on [Gun Puppies](https://wiki.spiralknights.com/Gun_puppies). All of howlitzers deal shadow damage, as an undead. Gun puppies of elements do have similar elemental core located on top, reminiscent of the nose horn of salamanders.
+Dragons on their death should have affected the environment within current theory, but at the same time, howlitzers are considered undead and found all across Cradle, same as spookats, _meaning that something had to bring them back at such scale_. The only powers known to be related to undeath, and capable of causing undeath, as it will be later seen, and be related to afterlife, are devilites of Undercorp and powers of curse. Those will be analyzed accordingly.
 
-If we commit to the idea of valkyries slaying dragons, then it would not be far fetched for drakes falling to them too, resulting in the presence of their remains, brought back to life within the territory of heavenly kingdom and beyond. The question, then, is of how terrestrial drakes managed to reach heavenly kingdom, including the Owlite Academy.
+Howlitzers have a nose horn, which is not seen across dragons, apart from _a specific Drakon evolution_, if we take existing dragon designs.
+
+If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular specie is of greater interest to us -- salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_.
+
+This implies a more solid link to _identifying howlitzers as ancestors of salamanders, which leaves aeial wyverns and terrestrial drakes_, apart from dragons themselves.
+
+In this contex the comparison of darkon to dragon and their phsysical depiction across both tortomega and Valkyrian caultures, presence of nose horn, would frame howlitzers as related to this lineage.
+
+Within howlitzer ribcage a pulsing essence is present similar to essence orbs found on [Gun Puppies](https://wiki.spiralknights.com/Gun_puppies). Gun puppies of elements do have similar elemental core located on top, reminiscent of the nose horn of salamanders.
+
+With the architecture within those castles, the position of howlitzer may also be framed as overseers or guardians, given their __depiction within wall arches as overlooking the contents below__ -- be it fire bowls or devilite statues, -- which  ties to their either sybolic of literal placement above the observed location, in the clouds.
+
+Lastly, there is death animation of tier 3 howlitzers, which home in and self-destruct on the knight in the last attempt to defeat them. While a hypothesis, but given short roster of identities, we would consider this capacity to temporary fly unrestricted as argument in favour of their living nature.
+
+If heavenly kingdom is physically located above ground, as Scralet Fortress, then gun puppies would represent stationary units incapable of flight due to their inpiration from drakes, flying howlitzers would inherit their aerial nature from either dragons or wyverns.
+
+While we are unaware of the role of dragons for Spiral Order, the sharp design of wyvern and dragon-inspired gear and mythical framing of dragons, makes us to poposes howlitzers as either dragons or _wyverns, with the latter option being fitting for a species without cosmic influence onto reality_, preserving that role for the creation myth nd dragons.
 
 <center class="chapter-break">
   <span class="energy">🜕</span>
