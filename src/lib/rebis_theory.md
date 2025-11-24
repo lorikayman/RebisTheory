@@ -10554,10 +10554,6 @@ Those components, once they are recognized, are placed onto spectrums, such as m
 
 Cradle and Clockworks are characterized by a synergy of multiple environments, "places," or symbols with archetypical images at their foundations with feel and quality of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system, allowing them not only to coexist, but to invoke the aforementioned sense of synergy emerging from spacial, temporal, and causal interconnectedness both into the past, as myths, and into the future, as modern retellings of those myths.
 
-#### Afterword
-
-Due to the initial nature of the study, -- while this project attempts to attian understading of internals of this descrete setting through the preestablished patterns found across the existing landscape of fictional and artistic work, -- at its base, it is an _invitation of acknowledgement_ of common foundations found throughout human experiences, reflected in the creative works, such as this fictional setting, wherein other means of information delivery may be flawed as a medium.
-
 ---
 
 
