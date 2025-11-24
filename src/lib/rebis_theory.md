@@ -45,7 +45,7 @@ While worldbuilding adds depth to the initial setting, we believe __Spiral Knigh
 
 We will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc., -- as signs of physical and historical processees outside the observable location of the setting at any given moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
-The other component of this analysis is the perception of the elements and subjects the setting offers as they are presented in the context of a work of fiction with its roots in __aesthetics-first approach__, found in an __interplay of medievalism and cuberpunk__ among other elemnts of broader genre of _speculative fiction_.
+The other essential component of this analysis we base in recognition of the subjects the fictional setting offers as rooted in __aesthetics-first approach__. Those aesthetics emerge, as we will propose, from an __interplay of medievalism and cyberpunk__, among other elemnts of a broader genre of _speculative fiction_. The resulting perceived consistency of the symbols then may be explained by a common experiences not limited to popular culture on its own.
 
 With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative which would inderpin and categorize the feel and impression of the setting as a sytsem of symbols.
 
