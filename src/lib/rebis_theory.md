@@ -10556,7 +10556,7 @@ Cradle and Clockworks are characterized by a synergy of multiple environments, "
 
 #### Afterword
 
-As it may be evident, while this project attempts to attian understading of internals of this descrete setting through the preestablished patterns found across the existing landscape of fictional and artistic work, it is an inivitation for a connection and acknowledgement of common foundations found throughout human experiences, reflected in the creative works, such as this fictional setting.
+Due to the initial nature of the study, -- while this project attempts to attian understading of internals of this descrete setting through the preestablished patterns found across the existing landscape of fictional and artistic work, -- at its base, it is an _invitation of acknowledgement_ of common foundations found throughout human experiences, reflected in the creative works, such as this fictional setting, wherein other means of information delivery may be flawed as a medium.
 
 ---
 
@@ -10662,6 +10662,6 @@ Citations of text from [yokai.com](https://yokai.com) are written by Matthew Mey
 
 Font Newton Sans by Chymistry of Isaac Newton Project (whooper@indiana.edu) is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
-[Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by lucasluqui.
+[Knight Launcher](https://github.com/lucasluqui/KnightLauncher) by Lucasluqui.
 
 [Spiral Knights Scene Archive](https://github.com/sinkillerj/SpiralKnightsSceneArchive) by sinkillerj.
