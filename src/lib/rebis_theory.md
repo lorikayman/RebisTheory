@@ -1349,39 +1349,39 @@ Due to [creation myth](#creation-myth), we would naturally perceive the original
 
 The act of spirit returning to the material realm may exlain their reanimated state, but it does not elaborate in the reason, why their dormant up to that moment remnants were spread across Valkyrian architecture and Wildwoods, a territory of tortomega.
 
-##### Identity of Howlitzers
+In order to assess Howlitzers' nature, we may look at the equipment, representative of those species and howlitzer's anatomy:
 
-In order to assess Howlitzers' nature, we may look at the equipment, representative of those species.
+- The [Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield) possesses _rounded corners_, while its upgrades -- wyvern and dragon shields, -- have more edge to them, reminiscent of spikes along the back of drakon. The rounded scales are described to be `stout`: `A solid shield shaped from stout scales` ([Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield)). The upgrades, as wyversn and dragon shields, both possess spiky scales -- this property is seemingly acknowledged in the [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield): `A spiny buckler forged from beast chitin, providing ample resistance to both heat and venom`, as `spiny`.
 
-The [Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield) possesses _rounded corners_, while its upgrades -- wyvern and dragon shields, -- have more edge to them, reminiscent of spikes along the back of drakon. The rounded scales are described to be `stout`: `A solid shield shaped from stout scales` ([Drake Scale Shield](https://wiki.spiralknights.com/Drake_Scale_Shield)). The upgrades, as wyversn and dragon shields, both possess spiky scales -- this property is seemingly acknowledged in the [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield): `A spiny buckler forged from beast chitin, providing ample resistance to both heat and venom`, as `spiny`.
+  The relation to cold of wyverns is also found here, as they are resistant to heat through the distinctly ice-like design of the shield. This motif of termperature for wyverns is acknowledged in the corresponding helmet: `Made from the scales of rare Clockworks beasts, this sturdy helmet is resistant to even the highest of temperatures` ([Wyvern Scale Helm](https://wiki.spiralknights.com/Wyvern_Scale_Helm)).
 
-The relation to cold of wyverns is also found here, as they are resistant to heat through the distinctly ice-like design of the shield. This motif of termperature for wyverns is acknowledged in the corresponding helmet: `Made from the scales of rare Clockworks beasts, this sturdy helmet is resistant to even the highest of temperatures` ([Wyvern Scale Helm](https://wiki.spiralknights.com/Wyvern_Scale_Helm)).
+  A similar design pattern -- a lack of sharp spikes, -- is seen in the [Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm). Due to this, we may consider general interpretation of drakes compared to that of dragons or wyverns as _less characterized by their aggressive design_ in the same relation as designs of drake gear are comapred to one of dragon.
 
-A similar design pattern -- a lack of sharp spikes, -- is seen in the [Drake Scale Helm](https://wiki.spiralknights.com/Drake_Scale_Helm). Due to this, we may consider general interpretation of drakes compared to that of dragons or wyverns as _less characterized by their aggressive design_ in the same relation as designs of drake gear are comapred to one of dragon.
+  As statues and gun puppies depict wingless, terrestia, tailed creatures, we would consider them drakes, yet, the equipment does not find its design elemnts reflected in those creatures, which may be a false lead, or, dragons and wyverns had possessed a more pronounced aggressive anatomy.
 
-If considered that _drakes or dragons had to be undead in order for howlitzers to appear_, then gun puppies and other statues, as well as depiction of dragon for Vlakyries had to be recorded in order to preserve their appearance across different cultures.
+- If we consider that _drakes to dragons had to be undead in order for howlitzers to appear_, then gun puppies and other statues, as well as depiction of dragon for Valkyries had to be recorded in order to preserve their appearance across different cultures.
 
-As statues and gun puppies depict wingless, terrestia, tailed creatures, we would consider them drakes.
+  Dragons on their death should have affected the environment within current theory, but at the same time, howlitzers are considered undead and found across Cradle similar as spookats, _meaning that something had to bring them back at such scale_. The only powers known to be related to undeath, and capable of causing undeath, as it will be later seen, and be related to afterlife, are devilites of Undercorp and powers of curse. Those will be analyzed accordingly.
 
-Dragons on their death should have affected the environment within current theory, but at the same time, howlitzers are considered undead and found all across Cradle, same as spookats, _meaning that something had to bring them back at such scale_. The only powers known to be related to undeath, and capable of causing undeath, as it will be later seen, and be related to afterlife, are devilites of Undercorp and powers of curse. Those will be analyzed accordingly.
+  If we consider such exitence abnormal, draconic descendants which would become howlitzers would populate those locations, including Owlite and tortomega grounds. Or, they were buried in those locations, weather or not it was intentional.
 
-Howlitzers have a nose horn, which is not seen across dragons, apart from _a specific Drakon evolution_, if we take existing dragon designs.
+  If howliter were alive during that time, their capacity to be present across the supposed _heavenly kingdom would imply their ability of flight_, linking thim to wyverns but not drakes.
 
-If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular specie is of greater interest to us -- salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_.
+- Howlitzers have a nose horn, which is not seen across dragons, apart from _a specific Drakon evolution_, if we take existing dragon designs.
 
-This implies a more solid link to _identifying howlitzers as ancestors of salamanders, which leaves aeial wyverns and terrestrial drakes_, apart from dragons themselves.
+  If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular specie is of greater interest to us -- salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_.
 
-In this contex the comparison of darkon to dragon and their phsysical depiction across both tortomega and Valkyrian caultures, presence of nose horn, would frame howlitzers as related to this lineage.
+  In this contex the comparison of darkon to dragon and their phsysical depiction across both tortomega and Valkyrian caultures, presence of nose horn, would frame howlitzers as related to this lineage.
 
-Within howlitzer ribcage a pulsing essence is present similar to essence orbs found on [Gun Puppies](https://wiki.spiralknights.com/Gun_puppies). Gun puppies of elements do have similar elemental core located on top, reminiscent of the nose horn of salamanders.
+  This implies a more solid link to identifying howlitzers as ancestors of at minimum salamanders, which presents us a possibility of aeial wyverns and terrestrial drakes, apart from dragons themselves.
 
 With the architecture within those castles, the position of howlitzer may also be framed as overseers or guardians, given their __depiction within wall arches as overlooking the contents below__ -- be it fire bowls or devilite statues, -- which  ties to their either sybolic of literal placement above the observed location, in the clouds.
 
-Lastly, there is death animation of tier 3 howlitzers, which home in and self-destruct on the knight in the last attempt to defeat them. While a hypothesis, but given short roster of identities, we would consider this capacity to temporary fly unrestricted as argument in favour of their living nature.
+Lastly, there is death animation of tier 3 howlitzers, which home in and self-destruct on the knight in the last attempt to defeat them. While a hypothesis, but given short roster of identities, we would consider this capacity to temporary fly unrestricted as an argument in favour of their living nature as airbourne.
 
-If heavenly kingdom is physically located above ground, as Scralet Fortress, then gun puppies would represent stationary units incapable of flight due to their inpiration from drakes, flying howlitzers would inherit their aerial nature from either dragons or wyverns.
+If heavenly kingdom is physically located above ground, as Scralet Fortress, then gun puppies would represent stationary units incapable of flight due to their inpiration from drakes, flying howlitzers would inherit their aerial nature from either dragons and be identified as wyverns.
 
-While we are unaware of the role of dragons for Spiral Order, the sharp design of wyvern and dragon-inspired gear and mythical framing of dragons, makes us to poposes howlitzers as either dragons or _wyverns, with the latter option being fitting for a species without cosmic influence onto reality_, preserving that role for the creation myth nd dragons.
+While we are unaware of the role of dragons for Spiral Order, the sharp design of wyvern and dragon-inspired gear and mythical framing of dragons, makes us to poposes howlitzers as either dragons or wyverns, with _wyverns being fit for species without cosmic influence onto reality_, preserving that role for the creation myth as associated with dragons.
 
 <center class="chapter-break">
   <span class="energy">🜕</span>
@@ -10554,12 +10554,14 @@ Those components, once they are recognized, are placed onto spectrums, such as m
 
 Cradle and Clockworks are characterized by a synergy of multiple environments, "places," or symbols with archetypical images at their foundations with feel and quality of different themes within an encompassing system, wherein each of those elements acknowledges and is acknowledged by other elements of the system, allowing them not only to coexist, but to invoke the aforementioned sense of synergy emerging from spacial, temporal, and causal interconnectedness both into the past, as myths, and into the future, as modern retellings of those myths.
 
+#### Afterword
+
+As it may be evident, while this project attempts to attian understading of internals of this descrete setting through the preestablished patterns found across the existing landscape of fictional and artistic work, it is an inivitation for a connection and acknowledgement of common foundations found throughout human experiences, reflected in the creative works, such as this fictional setting.
+
 ---
 
 
 ### Acknowledgements
-
-_Nurr_, for offering a novel and critical perspective on the setting's themes and world.
 
 _Archaic_, for providing insight on game's evolution throughout its development.
 
