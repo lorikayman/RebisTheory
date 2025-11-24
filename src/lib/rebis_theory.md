@@ -27,7 +27,7 @@ layout: entries_rebis
 
 Spiral Knights had prooved to captivate as a setting and a story. Yet, it contains a distinct potential for expansive worldbuilding and interpretation of offered narratives.
 
-By acknowledging this potential we aim to present a set of _narrative devices and tropes_ and a _system of symbols_ the setting utilizes to construct an immersive and believable experience of a fictional universe.
+By acknowledging this potential we aim to present a set of narrative devices and tropes and a system of symbols the setting utilizes to construct an immersive and believable _aesthetics_ of a fictional universe.
 
 ---
 
@@ -35,28 +35,23 @@ By acknowledging this potential we aim to present a set of _narrative devices an
 
 The present analysis is meant to identify, analyze and explore the ~~worldbuilding~~, ~~themes~~, ~~characters~~, ~~stories~~, ~~symbolism~~, ~~plots~~ and ~~narratives~~, which create a __sence of depth__ of [Spiral Knights](https://www.spiralknights.com/) fictional universe.
 
-As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of _narrative, thematic and symbolic relations between devices and tropes_, -- the __bonding, ineffable quality__, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm of human experiences, and a story.
+As fiction is set in its own separate reality, it can imitate depth of its world only far enough by obfuscating its boundaries up to a certain limit. By exploring the volume a fiction offers, we intend to identify the ~~underlying system~~ of narrative, thematic and symbolic relations between devices and tropes, -- the __bonding quality__, found through aesthetics, _which allows for setting's ability to captivate_ as a fictional world, a gamified microcosm, and a story.
 
 ### Approach to Worldbuilding
 
-Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is usually found through in-universe laws, symbolism, themes, characters, factions, environments, etc., their relations and history. Design is a conscious choice, an intent, which _outlines the experiences player is meant to go through_.
+Design of the world as an interconnected system of its components -- the process of worldbuilding, -- is usually found through in-universe laws, symbolism, themes, characters, factions, environments, etc., their relations and history.
 
 While worldbuilding adds depth to the initial setting, we believe __Spiral Knights can exist as a captivating setting without an expansive logic underpinning it__. Here, conversely, we argue that the setting is written consistently enough to allow such worldbuilding to emerge organically through engagement with the source material.
 
-Our position adopts a flawed methodology of a total oblitaration of mystery a fictional setting may offer -- an overanalysis, -- manifested in the length of this document.
+We will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc., -- as signs of physical and historical processees outside the observable location of the setting at any given moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
 
-With this approach we will rely on the in-universe accounts -- descriptions, character dialogue, item descriptions, etc., -- as signs of physical and historical processees outside the observable present moment. This immersive form of experiencing the world, a _watsonian_ perspective, is one we will primarily focus on.
+The other component of this analysis is the perception of the elements and subjects the setting offers as they are presented in the context of a work of fiction with its roots in __aesthetics-first approach__, found in an __interplay of medievalism and cuberpunk__ among other elemnts of broader genre of _speculative fiction_.
 
-With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative which would inderpin and categorize the whimsical nature and appearance of the setting.
+With this thought framework in mind, we will go through the entirety of the story, worldbuilding and lore of Spiral Knights, backed by the analysis of every dialogue, item description and designs, perceived as relevant to a discussed topic in attempt to create a coherent, immersive and believable narrative which would inderpin and categorize the feel and impression of the setting as a sytsem of symbols.
 
-We will analyze the setting without including details of technical impimentation, but view it at a face value, apart from a single exception: we consider existence of the _distinction between crystal and mist energy_ and will bring its significance wherein we believe it to be relevant. Otherwise we will use the term of energy as it is being used now, an abstraction of prior categories of energy.
+We will analyze the setting without including details of technical impimentation, but view it at a face value, apart from elements requiring elaboration as they have changed over the development of the game since its initial release.
 
 We acknowledge, that there are undiscovered or missed inspirations and themes, which we may not be aware of.
-
-The analysis contains major spoilers for:
-
-- `BLAME!`, `NOiSE`, by Tsutomu Nihei
-- `The Dream-Quest of Unknown Kadath` and other works involving character of Randolph Carter from Cthulhu Mythos/Yog-Sothothery by H.P. Lovecraft
 
 ## Method
 
@@ -1303,7 +1298,7 @@ The dazlzing gem is inherently related to Seraphynx: `The ray of light deals ext
 
 If dragons are depicted through the designs, why would not those species, devilites or tortomega be also acknowledged in the designs by their power or position, which does not contradict their nature as the opposition?
 
-One suggestion stems from an idea of mythrology-inspired connections of Valkyries to the source material, specifically, the notion of impossible construction, such as carving worlds from stone and the scale of Scarlet Fortress, as well as the awe-striking scale of CLockworks in the modern narrative.
+One suggestion stems from an idea of mythrology-inspired connections of Valkyries to the source material, specifically, the notion of impossible construction, such as carving worlds from stone and the scale of Scarlet Fortress, as well as the scale of Clockworks in the modern narrative.
 
 This narrative is embodied the closest in the myth of how Asgard of the norse mythology was build -- with an assistance of giants:
 
@@ -9630,7 +9625,7 @@ _"By the philosophers I am named Mercurius; my spouse is the philosophic gold ..
 
 </SubTitleCentered>
 
-Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting -- its property, -- which provides it its staying power and a lingering capacity to captivate__?
+Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting -- its aesthetic, -- which provides it its staying power and a capacity to captivate__?
 
 Cradle is presented through Isoran perspective, as the greatest wonder of their world, and then as an extreme, an engineering marvel one civilization is willing to go in order to achieve what Rebis theory proposes, while for the protagonist knight, - the player, - Cradle encompasses the world, as it is the only planet with its in-universe context experienced through the medium of the game.
 
