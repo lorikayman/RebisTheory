@@ -430,7 +430,7 @@ We know that Spiral Order knew how dragons look based on Rhedon's quote: `They s
 
 Due to an unidentified relation between dragons and Spiral Order, but though the presence of dragon scales in Azure Guardian armor -- `A noble helmet reserved for the most senior members of the Spiral Order. The technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)), -- the naming of Drakon here only affirms Spiral Order's _observation of them as reminiscent of dragons_, which by proxy suggests a general appearance of the latter, as close if not identical to a dragon, apart from, potentially, creature's size.
 
-We propose, that 3 sub-specie of Drakons suggest existence of divine, shadow and rage dragons, which, if mapped onto earlier elements of storm, frenzy, and rage would plausibly fit to descriptions of implied dragon beasts, referred in the [Dragon Helms](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm).
+We propose, that 3 sub-species of Drakons suggest existence of divine, shadow and rage dragons, which, if mapped onto earlier elements of storm, frenzy, and rage would plausibly fit to descriptions of implied dragon beasts, referred in the [Dragon Helms](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm).
 
 We match 3 sub-species of Drakon battle sprites to 3 elements, established earlier. There are 3 variants of Drakon: [red Drakon](https://wiki.spiralknights.com/Drakon), [divine Drakon](https://wiki.spiralknights.com/Drakon_(Divine)), [shadow Drakon](https://wiki.spiralknights.com/Drakon_(Shadow)). They suggest existence of divine and shadow aspects to their evolution if we extrapolate on Morlin's explanation: `Though their cellular identity is still wholly that of a battle sprite. My hypothesis is that somehow they rapidly evolved to survive in their new environment` ([A Revelation in Flames - The Lab - Morlin](https://wiki.spiralknights.com/A_Revelation_in_Flames/The_Lab)).
 
@@ -472,9 +472,9 @@ Those combinations of meanings and symbols, we propose, open up a possibility of
 
 The description `its frenzy started the mighty winds, its scales became the shadows` ([Frenzy Dragon Helm](https://wiki.spiralknights.com/Frenzy_Dragon_Helm#Frenzy_Dragon_Helm)) introduces scales, that are [Dragon Scales](https://wiki.spiralknights.com/Dragon_Scale), a material, for a fact belonging to a dragon: `An armored scale from what was thought to be an extinct creature. It reflects light with an otherworldly sheen` ([Dragon Scale](https://wiki.spiralknights.com/Dragon_Scale)). The `otherworldly sheen` further suggests an elevated state of being of dragons.
 
-Now it is a question of belonging of those scales either to shadow sub-specie of dragons, based on the fact it is mentioned for frenzy dragons, or those scales could belong to an entire species of dragons, as those scales, an item, seemingly lack elemental classification but a few of items crafted with scales have piercing defence.
+Now it is a question of belonging of those scales either to shadow sub-species of dragons, based on the fact it is mentioned for frenzy dragons, or those scales could belong to an entire species of dragons, as those scales, an item, seemingly lack elemental classification but a few of items crafted with scales have piercing defence.
 
-Those scales could relate to Underworld or to general supernatural aspect by the fact of usage of word `otherworldly`. But, at the same time, items crafted from that material are not restricted to shadow-related damage and defense only, as well as existence of [Divine Drakons](https://wiki.spiralknights.com/Drakon_(Divine)) suggests a nature, thematically different from the Underworld, so the scales could belong to any sub-specie of dragons - which will be our current reasoning, while affirming their extra-natural status without aligning them to any specific realm.
+Those scales could relate to Underworld or to general supernatural aspect by the fact of usage of word `otherworldly`. But, at the same time, items crafted from that material are not restricted to shadow-related damage and defense only, as well as existence of [Divine Drakons](https://wiki.spiralknights.com/Drakon_(Divine)) suggests a nature, thematically different from the Underworld, so the scales could belong to any sub-species of dragons - which will be our current reasoning, while affirming their extra-natural status without aligning them to any specific realm.
 
 The rage and normal damage thematic parity is also seen in [tortodrones](https://wiki.spiralknights.com/Tortodrone): `handgun empowered by the limitless fury of a tortodrone. While wielding it you can feel the berserk energy within eager to be unleashed` ([Grand Tortofist](https://wiki.spiralknights.com/Grand_Tortofist)). Tortofist deals pure normal damage, yet possesses lighning on par with other finalized tortodrone equipment. Tortodrones themselves are associated with rage not only by their equipment and design of cosmetics, but the design of an [enraged tortodrone](https://wiki.spiralknights.com/March_of_the_Tortodrones_(Mission)) of missions card.
 
@@ -781,7 +781,7 @@ The [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) introduces Tortome
 
 Those descriptions, alchemy path and prevalence of a naming convention and motif of tortoises, we propose, imply a __lineage__ --  tortoises were related, as reptiles, to drakes who are the descendants of dragons.
 
-As drakes are not considered flying species, they fit to be the ancestors of tortoises by being a __terrestrial__ _reptilian descendants of dragons_. If this logic is to be applied to the rest of alchem path, then _tortomega would be of a similar ancestry_. There is also [Wyvern Scale Mail](https://wiki.spiralknights.com/Wyvern_Scale_Mail), which introduces specie of wyverns: `It requires extreme temperatures to forge this fine armor made from the scales of rare Clockworks beasts.`
+As drakes are not considered flying species, they fit to be the ancestors of tortoises by being a __terrestrial__ _reptilian descendants of dragons_. If this logic is to be applied to the rest of alchem path, then _tortomega would be of a similar ancestry_. There is also [Wyvern Scale Mail](https://wiki.spiralknights.com/Wyvern_Scale_Mail), which introduces species of wyverns: `It requires extreme temperatures to forge this fine armor made from the scales of rare Clockworks beasts.`
 
 This motif of tortoises anounces a relation between tortomega and tortodrones -- wherein tortodrones' anatomy attains reason to be designed so. Tortodrones are _constructs_ designed as __athropomorphic bipedal tortoises__.
 
@@ -801,7 +801,7 @@ Frost is reminiscent of Blinding Abyss and Underworld, but also given tortoise m
 
 As tortoises are positioned through alchemy path as different from tortomega, that distinction had to reflect the reality. In this context creators of tortodrones had to possess excessive knowledge of tortoises in order to create machines in their image, which implies __the significance of tortoises to tortodrones' creators culture__.
 
-We propose, that tortomega are those conscious specie comprising the civilization responsible for creation of tortodrones, descendants of tortoises.
+We propose, that tortomega are those conscious species comprising the civilization responsible for creation of tortodrones, descendants of tortoises.
 
 #### Symbolism of Power in Tortomega
 
@@ -819,7 +819,7 @@ Exploration of tortodrones currently goes beyond current discussion, and will be
 
 #### Wyverns and Chromalisks
 
-Here a closer look at the alchemy tree must be made: while drakes are descendants of dragons, [Dragon Scale Shield](https://wiki.spiralknights.com/Dragon_Scale_Shield) is a 5-star upgrade - by this logic [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield) could be a specie being at transition of dragons to drakes, but this logic fails if mythological interpretations of those species are to be considered, as drakes and wyverns do not belong to a single habitat, one being terrestrial and other aerial.
+Here a closer look at the alchemy tree must be made: while drakes are descendants of dragons, [Dragon Scale Shield](https://wiki.spiralknights.com/Dragon_Scale_Shield) is a 5-star upgrade - by this logic [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield) could be a species being at transition of dragons to drakes, but this logic fails if mythological interpretations of those species are to be considered, as drakes and wyverns do not belong to a single habitat, one being terrestrial and other aerial.
 
 <!--Another perspective is found in the alchemy path and continuous disclosure of ancestry and relations though gear star upgrades. Considering again real world definition of drakes, with addition of tortoises, the latter could be further evolution of drakes. Taking this in account, as well as dragon set alchemy path, [Omega shell](https://wiki.spiralknights.com/Omega_Shell) could mean that tortomega are a different specie, related to both dragons and tortoise, based on its naming scheme.-->
 
@@ -829,13 +829,13 @@ The [Wyvern Scale Shield](https://wiki.spiralknights.com/Wyvern_Scale_Shield) be
 
 #### Exclusion of Tortodrones' Creators
 
-Considering the similarity in naming of tortoises and tortomega and lack of any non-mechanical tortoise creatures, apart from a single stone shell of a tortoise, presence of a tortoises is the main hint, through which tortodrone creators' specie may be uncovered.
+Considering the similarity in naming of tortoises and tortomega and lack of any non-mechanical tortoise creatures, apart from a single stone shell of a tortoise, presence of a tortoises is the main hint, through which tortodrone creators' species may be uncovered.
 
 Here we will advocate for tortodrones being built in image of a bipedal tortomega, as tortodrones themselves -- _as bipedalism, anthromorphism of tortoises may originate from a bipedal specie_, so that tortodrone creators are tortoise-like specie, advanced and skilled enough to engineer and mass-produce those constructs, while discussing other possibilities based on presented in-game content.
 
 ##### Gremlin Scenario
 
-The one and only candidate for such specie with engineering skills are gremlins, which would mean, that they are far more ancient than Clockworks makes them seem. And yet, tortodrones don't fit thematically and design-wise to be gremlin creation, as it will be later explored, the themes surrounding tortodrones, apart from their character, are of an _environment identified by nature, stone megaliths and forests_, -- Gloaming Wildwoods specifically, -- and an established presence of distinct architecture.
+The one and only candidate for such species with engineering skills are gremlins, which would mean, that they are far more ancient than Clockworks makes them seem. And yet, tortodrones don't fit thematically and design-wise to be gremlin creation, as it will be later explored, the themes surrounding tortodrones, apart from their character, are of an _environment identified by nature, stone megaliths and forests_, -- Gloaming Wildwoods specifically, -- and an established presence of distinct architecture.
 
 Gremlins in that regard may be linked to grim gates in the Ancient Grove, as those have several mounted monitors of similar gremlin design. On the other hand, this can be further proof of gremlins working with Undercorp in recent times, on both instances, it gremlins do not possess stonework designs.
 
@@ -905,7 +905,7 @@ There are several both metaphorical and literal instances of a term _titans_:
 
   Design of [Omega Shell](https://wiki.spiralknights.com/Omega_Shell) points at Tortomega: `A shield created from the armor of a Tortomega. The sheer weight of this powerful shield makes it only an option for the strongest of warriors` and has same design as [Stone Tortoise](https://wiki.spiralknights.com/Stone_Tortoise), albeit darker, which was the argument in favour of identification of tortomega as tortoises-like species.
 
-- `A legendary suit of armor said to imbue the wearer with the rage of the titans` ([Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail)) describes a link between rage and titans within a framing of the titans as a distinct specie with a connection to older interpretations of elements.
+- `A legendary suit of armor said to imbue the wearer with the rage of the titans` ([Rageous Plate Mail](https://wiki.spiralknights.com/Rageous_Plate_Mail#Rageous_Plate_Mail)) describes a link between rage and titans within a framing of the titans as a distinct species with a connection to older interpretations of elements.
 
   As this equipment comes from the same prize box as dragon helms, where the [creation myth was established](#creation-myth-dragons-as-cosmic-progenitors), these items may also be, given their elemental naming convention, of that most ancient period of time.
 
@@ -1367,7 +1367,7 @@ In order to assess Howlitzers' nature, we may look at the equipment, representat
 
 - Howlitzers have a nose horn, which is not seen across dragons, apart from _a specific Drakon evolution_, if we take existing dragon designs.
 
-  If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular specie is of greater interest to us -- salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_.
+  If we consider chromalisks being descendants of drakes, then drakes would be in between dragon anatomy and chromalisks', and among them one particular species is of greater interest to us -- salamanders. Only [salamander](https://wiki.spiralknights.com/Chromalisk#Salamander) and [later salamander mask's alchemy tree](https://wiki.spiralknights.com/Salamander_Mask) have _a distinct nose spike_.
 
   In this contex the comparison of darkon to dragon and their phsysical depiction across both tortomega and Valkyrian caultures, presence of nose horn, would frame howlitzers as related to this lineage.
 
@@ -1762,7 +1762,7 @@ All of these items have spiral imagery: as weapons have spiral carved onto them,
 
 Another explanation for those items can be based on the development of Isorans, marking establishment of Spiral Order or its precursor far earlier in their history, with symbol of a spiral already being a staple for its predecessors.
 
-Although it can be fitting, this does seem to align with current themes. Those themes are that of being a greater focus on Cradle and its inhabitants. For example the Equinox, which being on Cradle, but the theme of items relates to Isoran past. At the same time, as Almire will be explored as being a civilization of the same specie as Isorans, there's a very high possibility of different Isoran civilization being present near that time, one that invaded Almire and had witnesses Lord Vanaduke's actions first-hand. _If not for fire-themed items, raiders could very much fit to Isora rather than Cradle_, and this very reason seems to us as a relatively strong argument that there were other Isoran civilizations existing with Almire, of different culture and different location.
+Although it can be fitting, this does seem to align with current themes. Those themes are that of being a greater focus on Cradle and its inhabitants. For example the Equinox, which being on Cradle, but the theme of items relates to Isoran past. At the same time, as Almire will be explored as being a civilization of the same species as Isorans, there's a very high possibility of different Isoran civilization being present near that time, one that invaded Almire and had witnesses Lord Vanaduke's actions first-hand. _If not for fire-themed items, raiders could very much fit to Isora rather than Cradle_, and this very reason seems to us as a relatively strong argument that there were other Isoran civilizations existing with Almire, of different culture and different location.
 
 Considering that the norse mythology is most prominent here, [Glacial prize Box](https://wiki.spiralknights.com/Glacial_Prize_Box) items must be examined in that relation. The topic of arctic region is highly important to a possible entities behind Undercorp's plot on Cradle, it is explored in the [nefarious imp and arctic plot section](#nefarious-imp-arctic-plot).
 
@@ -3692,7 +3692,7 @@ And yet, both trojans, and devilites did come from the underworld at least on Cr
 
 Greavers in that context are rather important entities. They have evil eye wing patterns, similar to moths, and in case of elemental greavers, those patterns glow.
 
-As it was already covered in the [Arrival of Undercorp chapter](#chapter-vi-arrival-of-undercorp), Greavers seem to be Underworld's military units, judging by the presence of a [shadow steel helm with a evil eye](#evil-eye) and the exact specie from which imagery of the evil eye started to spread across planet of material realm, which was then incorporated into Cradle.
+As it was already covered in the [Arrival of Undercorp chapter](#chapter-vi-arrival-of-undercorp), Greavers seem to be Underworld's military units, judging by the presence of a [shadow steel helm with a evil eye](#evil-eye) and the exact species from which imagery of the evil eye started to spread across planet of material realm, which was then incorporated into Cradle.
 
 What their name means, symbolically? In a same manner as howlitzer are reminiscent of howitzers, could greavers be attributed to anything militaristic? First, there are greaves - a type of leg armour. This can potentially mean that __greavers are indeed an elite military units__. _We saw this first-hand in fiendish arenas_, where 12 Greavers, which are considered elite enemies, approach as the [final wave of the final arena starts](https://wiki.spiralknights.com/Arena#Final_Wave_3).
 
@@ -4234,7 +4234,7 @@ There must be a _reason behind this time being labeled as forgotten_. It can be 
 
 We can propose, that, as Isorans have existed for so long, they forgotten both elemental and shadow damage prevalent in the less technologically advanced era to how alchemy is a tool, while occultism and magic in the modern world are not widely known, being lost knowledge.
 
-But there is also a different interpretation. If gunslingers are Isorans, this would mean that they had interacted with Underworld, which would not be forgotten as long as specie exists, as seen by previous iteration of Underworld interacting with the material realm. Shadow damage in that regard remains more as vague as it was for other civilizations when compared to definitive state of elemental damage as thoroughly studied and attributed to base alchemical elements as status effects.
+But there is also a different interpretation. If gunslingers are Isorans, this would mean that they had interacted with Underworld, which would not be forgotten as long as species exists, as seen by previous iteration of Underworld interacting with the material realm. Shadow damage in that regard remains more as vague as it was for other civilizations when compared to definitive state of elemental damage as thoroughly studied and attributed to base alchemical elements as status effects.
 
 The lack of awareness of Underworld for modern-day Isorans makes it seem to us that they did not encounter Underworld. But, _as we discussed_ [earlier](#spiral-wardens-and-trojans-similarity-part-1), __Spiral Wardens are ones to be the foundation for the trojans of the Legion of Ur__, so at some point a _prolonged connection was established_. At the same time Valkyries are required to seal those trojans, connecting Isorans to Valkyries.
 
@@ -6339,10 +6339,10 @@ Under this interpretation, Starlight Cradle becomes even more so important to th
 On the other hand, there are minis, [shankles](https://wiki.spiralknights.com/Shankle), and [glop drops](https://wiki.spiralknights.com/Glop_Drop), which lack a distinct core:
 
 - Minis originate from polyps, as implied by the throne room of the Royal Jelly Palace.
-- Drops are widespread in compounds and treasure vaults, which contains a third specie of slimes - shankles. Yet, based on the tier 3 designs, there is a possibility of them possessing a core, which can be reshaped, or at least, an inner glow, which is more probable as no other slime species were capable of drastic changes of their shape.
+- Drops are widespread in compounds and treasure vaults, which contains a third species of slimes - shankles. Yet, based on the tier 3 designs, there is a possibility of them possessing a core, which can be reshaped, or at least, an inner glow, which is more probable as no other slime species were capable of drastic changes of their shape.
 - Shankles are only species which have a distinct biological features, such as an eye, eyes, or a mouth.
 
-Considering the behavior of mimics, we can suggest those to inhabit the outskirts of gremlin settlements and facilities. But, they do have an implication of an existing hierarchy, as [Treasure Mimic's](https://wiki.spiralknights.com/Treasure_Mimic) tendrils have a crown of an imperial design. Through the presence of tendrils and their behavior -- as ones emerging from the ground, -- we can confirm, that shankles are sub-specie of slimes.
+Considering the behavior of mimics, we can suggest those to inhabit the outskirts of gremlin settlements and facilities. But, they do have an implication of an existing hierarchy, as [Treasure Mimic's](https://wiki.spiralknights.com/Treasure_Mimic) tendrils have a crown of an imperial design. Through the presence of tendrils and their behavior -- as ones emerging from the ground, -- we can confirm, that shankles are sub-species of slimes.
 
 #### Gremlin Bioengineering
 
