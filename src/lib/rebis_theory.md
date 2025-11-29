@@ -1389,32 +1389,30 @@ While we are unaware of the role of dragons for Spiral Order, the sharp design o
 
 ### _Chapter `V` &#160;<br>_ Spiral Order
 
-Spiral Order is establsihed as a military organization with a distinct key elemnts of their past both though main story and equipment descriptions. Through those items eventually is revealed this civilizations supposed homewolrd and their name.
+Spiral Order is established as a military organization with charecteristic elements of their past spread through main story and equipment descriptions. Through those items, eventually, is revealed this civilization's supposed homewolrd and their name.
 
-Spiral Order supposedly originates from a planet called Isora, and the they refer to themselves as isorans:
+Spiral Order supposedly originates from a planet called Isora, them referring to themselves as Isorans:
 
-- `A commemorative helm that pays tribute to the countless brave Isorian guardians that have protected spacefaring crews in their adventures across the stars` ([Galactic Guardian Helm](https://wiki.spiralknights.com/Galactic_Guardian_Helm)).
+- `A commemorative helm that pays tribute to the countless brave Isoran guardians that have protected spacefaring crews in their adventures across the stars` ([Galactic Guardian Helm](https://wiki.spiralknights.com/Galactic_Guardian_Helm)).
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
 
-Through those items Isorans are already framed as a formidably ancient and already capable of long-distance travel civilization, both through the aforemtioned descriptions but also near-fantastic designs of the gear, presenting not physial appearance of Isroans but a dense starlit sky, contrasting _grounded high-tech and bulky_ designs of the gear transmuted on Cradle.
+Through those items Isorans are framed as formidably ancient, capable of long-distance travel civilization. This framing is further affirmed by the near-fantastic designs of the gear presenting not physial appearance of an Isoran but a dense starlit sky, contrasting _grounded designs_ of the gear transmuted on Cradle during rank progression.
 
-Isorans had existed prior to the establishment of a modern Spiral Order, as there are references to a frame of `eons` as time relative to Skylark crash-landing on Cradle: `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). Furthermore, this military power structure is not referred explicitly as the Spiral Order, suggesting that maybe Spiral Order is a relatively recent development, perpetuated by, for example, internal conflict:
+A certain presentation of Spiral Order is offered when this period of time before Cradle is discussed. There is appliaction of a term `eons` as a time measurement relative to Skylark crash-landing on Cradle: `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). Spiral Order is not referred explicitly by its name:
 
-- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- Aegis's description is a subject of many interpretation, but we will start from such as this one, in reference to Spiral Order, without naming it explicitly, as `Order of old`.
-- `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)) -- existence of a saber suggests a potential inspirations behind Isoran past military tradition which can be mapped onto real-world yet anachronistic history.
+- `Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` ([Aegis](https://wiki.spiralknights.com/Aegis)) -- Aegis's description can be interpretad in multiple ways. `Order of old`, given context of Spiral Order, is the most distint presentation of that order, one, that could potentially be a predecessor of modern Spiral Order.
+- `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)) -- the term `Isoran spacefarers of old` does not identify an order as in the previous item, yet application of this term within context of a weapon suggests a presence of organization. Existence of a saber implies a potential inspiration behind Isoran past military tradition.
 
-The term `extrasolar` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)) itself _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic search for energy source due to Morai Wars_. If anything, this term, coupled with the present dream-like theme of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) emits a sence of near-limitless, unburdened by external factors, potential, which is a powerful tool used here to create a desired sence of remoteness only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized by a lack of that freedom, interwoven with, potentially, nostalgia for that period of time, one that the protagonist knight was not there to perceive.
+The term `extrasolar` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)) itself _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic search for energy source due to Morai Wars_. This term, coupled with the present dream-like theme of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) emits a sence of near-limitless, unburdened by external factors, potential, which is a powerful tool used here to create a sence of remoteness only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized _by a lack of that freedom, interwoven with a sence of longing_ for that period of time:
 
-From technical side, the roster of gear weilded by Spiral Order may suggest a deep knowledge of those weapons. Could this be the same notion as of myths' components being recombined for Valkyries and dragons, but instead of myths, Spiral Order taps into many _customs and practices of combat warfare across multiple time periods_ incorporating them into a unified practice?
-
-Lastly, a large emphasis is made of temporal remoteness of the events described by items of the prize box:
+<!--Could this be the same notion as of mythological narratives being recombined for Valkyries and dragons, but instead of myths, Spiral Order taps into many _customs and practices of combat warfare across multiple time periods_ incorporating them into a unified practice?-->
 
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
-`This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
+- `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 - `A special suit built to commemorate Isoran starfarers of old. With this equipped, you feel like you would never get lost in space...if only the Skylark could fly` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)).
 - `A special helm built to commemorate Isorian spacefarers of old. With this equipped, you can see a clear path across the night sky to countless worlds beyond` ([Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)).
 
-Conventionally, eon is greater than a thousand of years, a millennium, usually reaching up to millions of years. This concept of an organization preceding Spiral Order of Isorans will be kept in mind until further development, and we will look at it in relation to other ancient civilizations.
+Conventionally, eon is greater than a thousand of years, a millennium, usually reaching up to millions of years. This concept of an organization preceding Spiral Order of Isorans will be kept in mind until further development, and we will observe it in relation to other ancient civilizations.
 
 It may be argued that the framing and narrative of celestial gear and [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) _poetically hyperbolizes_ both the scope and scale of Isoran history. This proposal has relevance to the analysis as we will discuss other arguments in favour of implied expansive Isoran history and against it.
 
@@ -1422,21 +1420,21 @@ Further analysis will make its major goal to establish a timescale at which we c
 
 #### Affiliation with Dragons
 
-Further establishment of a precise time period when Isorans became a spacefaring civilization, is unknown. Despite this, we can gathrt a few hints pointing in direction of their development.
+Further establishment of a precise time period when Isorans became a spacefaring civilization, is unknown. Despite this, we can gather a few hints pointing in direction of their development.
 
-The [Azure Guardian Helm's](https://wiki.spiralknights.com/Azure_Guardian_Helm) description, apart from the shared guardian motif, states: `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. Spiral Order's awareness of dragons has its own implications.
+The [Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm) description, apart from the shared guardian motif, states: `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret`. Awareness of dragons has its own implications.
 
 Scales suggest physical presence of dragons, meaning, that Isorans had encountered dragons at some point, weather it was within confinements of Isora or during their `extrasolar` expeditions.
 
-_Cradle is not framed_ as a planet possessing a lasting relation with Isorans, apart from ever-present imagery of a spiral, due to lack of recogniztion of elements of civilizations, which might have been related to Isora. Of cource, there Almire, which was not acknowledged from the very beginning of the narrative involving Vanaduke. Contrasting to Almire, gremlins have a distinct introduction: `The Clockworks seems to have been built by 'gremlins,' a furry race of malevolent monsters that have not taken kindly to our presence` ([First Contact - Kora](https://wiki.spiralknights.com/First_Contact)).
+_Cradle is not framed_ as a planet possessing a lasting relation with Isorans, apart from ever-present imagery of a spiral, due to lack of recognition of its civilizations, which otherwise might have been related to Isora. Of cource, there is Almire, which was not acknowledged from the very beginning of their narrative. Contrasting to Almire, gremlins have a distinct introduction: `The Clockworks seems to have been built by 'gremlins,' a furry race of malevolent monsters that have not taken kindly to our presence` ([First Contact - Kora](https://wiki.spiralknights.com/First_Contact)).
 
 This framing of Cradle as a distinctly separate planet, albeit on the extreme end of its semi-artifical nature, we would so far propose, allows for a more grounded interpretation, where __dragons would inhabit Isora__, otherwise we are offered with a more space-oriented narrative. For now we will assume that dragons were present on Isora, wherein Isorans have discovered their scales, _valuable enough to incorporate them into an elite armor_.
 
-As [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) is described as `a grand set of armor commonly donned by the leaders of the Spiral Order`, considering greater rarity items required for better gear, Spiral Order can be analyzed through a lens of inspirations used to create current theme of Spiral Order, that is, military traditions and implied culture.
+As [Azure Guardian Armor](https://wiki.spiralknights.com/Azure_Guardian_Armor) is described as `a grand set of armor commonly donned by the leaders of the Spiral Order`, considering sparse presence items required for "better" gear, Spiral Order can be analyzed through a lens of inspirations used to create current theme of Spiral Order, that is, military traditions and implied culture.
 
-At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes) Rhedon mentions that [drakon battle sprites](#dragons) look similar to dragons: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons`. This suggests that members of Spiral Order did know, prior to crash landing on Cradle, _how dragons had looked in their appearance to be recognizable_. Weather those dragons were extinct on Isora, or had remained, the impression formed by homeworld culture has persisted into modern day Spiral Order as drconic imagery is found across other areas of the order:
+At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Sunset_Steppes) Rhedon mentions that [drakon battle sprites](#dragons) look similar to dragons: `They seem friendly. In fact they seem to behave just like the battle sprites I know. Only difference is they, uh, well, look like dragons`. This implies, that members of Spiral Order did know, prior to crash landing on Cradle, _how dragons had looked in their appearance to be recognizable_. Weather those dragons were extinct on Isora, or their presence was rare, the impression formed by homeworld culture has persisted into modern day Spiral Order as draconic imagery or a motif:
 
-- `Armor once worn by a member of the 'Iron Dragons,' a squad of fearless knights that specialized in the elimination of high-profile Morai targets. After disbanding, their surviving members were united with other squads by Desna to form the Recon Rangers` -- the [Gold and Iron Dragons](https://wiki.spiralknights.com/Dragon_Armor) are military units. suggesting a symbolic weight to a dragon as a creature.
+- `Armor once worn by a member of the 'Iron Dragons,' a squad of fearless knights that specialized in the elimination of high-profile Morai targets. After disbanding, their surviving members were united with other squads by Desna to form the Recon Rangers` -- the [Gold and Iron Dragons](https://wiki.spiralknights.com/Dragon_Armor) are military units. It suggesting a symbolic weight to a dragon as a creature.
 
   This means that Spiral Order had taken dragons, either from myths, or by observing their living instances, for a naming scheme in their military structure. Such naming sceheme is usually utilized to symbolize specific characteristics of said animals in the context of warfare.
 
@@ -1444,15 +1442,33 @@ At the [Sunset Steppes](https://wiki.spiralknights.com/A_Revelation_in_Flames/Su
 
   This framing coexists with one presented in the description of [dragon scales](https://wiki.spiralknights.com/Dragon_Scale): `An armored scale from what was thought to be an extinct creature`, that dragons had gone extict. Here, presence of dragon scales suggests, that __Isoran civilization is old enough to witness dragons first-hand__, _as their depicted apperance does not differ from ones of tortomega and Valkyries_.
 
+  Furthermore, the composition of the `armor crafted from the scales of a creature of legend` is similar to `the technique which weaves dragon scale seamlessly into the metal is a closely guarded secret` ([Azure Guardian Helm](https://wiki.spiralknights.com/Azure_Guardian_Helm)), through application of scales connects those two designs.
+
 - Interface of the battle sprite has a distinct facing to each other dragon heads with an item slot located between them.
 
-Those 3 elements if considered with prior instances of dragons' presence, we would propose, imply presence of dragons on Isora, as their images remain reflected withon corresponding culture, not their architecture, but armor, as Spiral Order is the primary lens through which Isoran civilization is told through.
+Those 3 elements if considered with prior instances of dragons' presence, we would propose, imply presence of dragons on Isora, as their images remain reflected within corresponding culture, -- not their architecture, but armor, as Spiral Order is the primary lens through which Isoran civilization is presented.
+
+#### Juxtoposition of Two Genres of Speculative Fiction
+
+As dragon scales are used in production of Isorans gear, we could suggest that dragons were hunted as a reason of their rare presence on Isora. This would conflict with our proposed narrative of Valkyries waging war agains dragons during creation myth, framing the latter, __as a localized process rather than a stage of cosmogony__.
+
+If dragons were hunted by Isorans for their scales, it would restict the creation myth and Valkyries as a narrative to _a finite physical and narrative volume_, a setting, of either Cradle or other planet preceeding it.
+
+Otherwise, we could perceive rare nature of dragon scales from a perspective, where population of dragons on Isora was already low because of the Valkyrian plot against dragons.
+
+At that point, presence of dragons across Isora would suggest that the initial proposal of Valkyries being ones to wage war against dragons might be false. For this, we will appeal to a following ide rooted in themes.
+
+Among civilizations which possess a narrative of a long history as an important element of their identity and concept, Valkyries are the only civilization, which has _attrubites of a myth within their presentation_. Compared to Valkyries, neither Isorans, Tortomega nor gremlins _possess a connection to classic mythology at such depth_, described in the initial analysis of their motifs not as Owlites, but a heavenly kingdom.
+
+Within this context Isoran _narrative of science fiction or a space-opera_, simialr to one of gremlins and Clockworks, sets a modern view of reality not through myth but a interpretation of physical laws gameified and fictionalized.
+
+Within this juxtopostion a paramount element will be later discussed -- a __synthesis of old-world cosmogony through myths and alchemy, and a narrative of soft science fiction of a space opera__.
+
+We offer a compromise which will allow us to negate this thematic conflict -- wherein presence of dragons on Isora is separated spacially from events of Valkyries, while dragons preserve their essential proprty to shape reality, reminiscent of mythic forces of nature personalized.
+
+Such interpretation would require to analyze Isoran history on matters of dragons' effects on Isora wherein such effects might be noticed, without removing their integration into Isoran culture posthumously or not.
 
 #### Spiral Order and Dragons
-
-Dragon scales are used in military, that could lead to dragons being hunted as a reason of their extinction on Isora, but, we should also take note of our proposed narrative of Valkyries waging war agains dragons, coupled with the creation myth.
-
-In this way, if dragons were hunted by Isorans for their material, would restict the creation myth and Valkyries to a finite physical volume of either Cradle of other planet.
 
 Dragon scales are found when going through Clockworks' beast-themes depths, suggesting dragons' presence in Cradle's past, one connected to tortomega and Valkyries. Yet no dragons were encountered on Cradle physically. This allows us to derive from the fact dragons thought to be an extinct ([dragon scales](https://wiki.spiralknights.com/Dragon_Scale)) two interpretations:
 
@@ -9671,11 +9687,11 @@ This larger context of now fully interconnected and causally justified stories i
 
 ### _Final Chapter &#160;<br>_ Spiral of Burning Stars
 
-<SubTitleCentered>
+<!--<SubTitleCentered>
 
-_"By the philosophers I am named Mercurius; my spouse is the philosophic gold ... I descend into the earth and ascend to the heavens"_
+_""_
 
-</SubTitleCentered>
+</SubTitleCentered>-->
 
 Now, with consideration of everything we have covered so far -- of a timeline and elements built upon it, using established themes and narratives as guidelines, -- we want to answer as clearly, as precisely, and as thoughtfully as possible: what is the __ineffable quality of this setting -- its aesthetic, -- which provides it its staying power and a capacity to captivate__?
 
@@ -10636,23 +10652,31 @@ Spiral Knights forums:
 
 ## Sources
 
-- [wiki.spiralknights.com](https://wiki.spiralknights.com)
-- [TV Tropes](https://tvtropes.org/)
+Alchemy:
+
 - "Psychology and Alchemy" - Collected Works of Carl Jung
 - "Alchemical Studies" - Collected Works of Carl Jung
 - "The Forge and The Crucible, Second Edition" - Mircea Eliade
 - "The alchemical process of transformation" - Nigel Hamilton
 - [AZOTH or the way to make the hidden gold of the Philosophers - Brother Basil Valentin](https://www.alchemy-texts.com/book/azoth/)
 - "The Key of Solomon the king" - George Redway
+- [Symbolism of Magnum Opus](https://appliedjung.com/the-magnum-opus/)
+
+
+Wikis:
+
+- [wiki.spiralknights.com](https://wiki.spiralknights.com)
+- [TV Tropes](https://tvtropes.org/)
+
+Myths and other:
+
 - "The Dream-Quest of Unknown Kadath" - Howard P. Lovecraft
-- [Fafnir – Nordic Journal of Science Fiction and Fantasy Research, Speculative Architectures in Comics, Francesco-Alessio Ursini](https://journal.finfar.org/articles/speculative-architectures-in-comics/)
 - "What is a Katábasis? The Descent into the Netherworld in Greece and the Ancient Near East" - Alberto Bernabe
 - "Where Do the Giants Live?" - Armann Jakobsson
 - [Asgard - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Asgard)
 - [Creation Mysticism: Fashioning the World From Letters](https://www.myjewishlearning.com/article/creation-mysticism-fashioning-the-world-from-letters/)
 - [New World Encyclopedia - Dragon](https://www.newworldencyclopedia.org/entry/Dragon)
 - [yokai.com, the illustrated database of Japanese folklore, Gashadokuro](https://yokai.com/gashadokuro/)
-- [Symbolism of Magnum Opus](https://appliedjung.com/the-magnum-opus/)
 - [Stave Churches of Norway](https://www.worldhistory.org/article/1609/stave-churches-norways-national-treasures/)
 - [Why are dragons and monsters carved into Norway’s stave churches?](https://www.medievalists.net/2019/05/why-are-dragons-and-monsters-carved-into-norways-stave-churches/)
 - [New World Encyclopedia - Valkyries](https://www.newworldencyclopedia.org/entry/Valkyrie)
@@ -10681,6 +10705,11 @@ Spiral Knights forums:
 - [Gremlins’ Three Rules: An Evolutionary Analysis, by Naturalish](https://medium.com/@Naturalish/gremlins-three-rules-an-evolutionary-analysis-de4c4fae2785)
 - [How Gremlins Went From Fairy Stories to Warplanes to Hollywood Legend, by Hadley Meares](https://www.atlasobscura.com/articles/what-are-gremlins)
 - [How Mogwai and Gremlins Work, by Robert Lamb](https://entertainment.howstuffworks.com/mogwai-gremlins.htm#pt3)
+
+Worldbuilding:
+
+- [Fafnir – Nordic Journal of Science Fiction and Fantasy Research, Speculative Architectures in Comics, Francesco-Alessio Ursini](https://journal.finfar.org/articles/speculative-architectures-in-comics/)
+- [Based On A Twitter Thread About Worldbuilding - qntm ](https://qntm.org/worldbuilding)
 - [Against Worldbuilding. Why “worldbuilding” is the most overrated and overused concept in fiction - Lincoln Michel](https://electricliterature.com/against-worldbuilding/)
 
 ---
