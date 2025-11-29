@@ -9196,13 +9196,13 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Dragons of rage flee across the material realm and dragons of frenzy resided in proximity of the Abyss and the Underworld.
 
+- Valkyries build a floating kingdom of castles, which would be known conventionally as the heavenly kingdom -- the Scarlet Fortress with the rest of the castles across Cradle. It would be moved above 3 highest mountains of Cradle. Those montains surround the space, from which an entrance from paradise is made into the material realm on Cradle.
+
 - As from wyverns griffins and subsequently Valkyries evolve, from drakes, terrestrial tortoises have evolved.
 
 - Tortoises, as griffins, had developed their own civilization, eventually becoming bipedal giant tortoises, known as tortomega, which had inherited the primorial aspect of rage of dragons of rage.
 
     Tortomega homeland is located in the material realm, on Cradle, in the woods near the 3 highest mountains of Cradle, which contain the primordial aspects of rage, frenzy, and storms.
-
-- Valkyries approached tortomega to build for them a floating kingdom of castles, which would be known conventionally as the heavenly kingdom, and even later, the Scarlet Fortress with the rest of the castles across Cradle. It would be moved above 3 highest mountains of Cradle. Those montains surround the space, from which an entrance from paradise is made into the material realm on Cradle.
 
 
 - Existence of Apocrean Realm and to a lesser degree Underworld is sustained through consumption of energy. The energy reaches those realms only in form of the souls of perishing within material realm creatures.
@@ -9221,25 +9221,24 @@ Nameless Realm and material realm are connected through the Whitespace within th
 
 - Underworld is shortly discovered by Isorans, which shaped their own culture and myths.
 
-- By the time Isorans became a spacefaring civilization, they hunted down dragons of rage primarily for the resources, their scales used in construction of armor.
-- Later, Isorans discover alchamy and adopt it for their needs, propelling them into becoming an interstellar empire.
+- By the time Isorans became a spacefaring civilization, they hunted down dragons of rage primarily for their scales used in construction of armor.
+- Dragons are extenct of flee from Isora.
+- Isorans discover alchemy and adopt it for their needs, propelling them into becoming an interstellar empire.
 
 - Spiral Order is established.
 
 
 
-- Despite Tortomega being ones to build the floating kingdom for Valkyries, they had complex relationship, as both were at a prolonged war in the material realm.
 
-- During this period of time tortomega would be known as Titans. Due to earlier, greater stability of the relation, castles were decorated with carved statues and busts of titans, reminiscent of their ancestors, dragons.
-
-- In later times, as the war went on, titans were pressed by Valkyries back into the woods. There, Titans had discovered the Underworld.
+- Tortomega now establish themselves as Titans.
+- Titans discover the Underworld.
 
 
 - As Titans uncovered Underworld, under a lead of the Nefarious Imp, both civilization in beneficial agreement managed to advance at a greater pace.
 
 - This introduced shadow graviton technology into the material realm and Underworld's culture - the symbol of an eye, and a concept of utilizing energy through glyphs and minerals.
 
-- Through this technology, tortodrones were developed, initially utilizing power of crimsonite - one of 5 minerals containing a primordial aspect of the Nameless Realm - of rage.
+- Through this technology, tortodrones were developed, initially utilizing power of crimsonite -- one of 5 minerals containing a primordial aspect of the Nameless Realm, -- of rage.
 
 - Through further development of graviton technology, Grim Gates were built, though which devilite cities were transported into material realm, built by Undercorp.
 
