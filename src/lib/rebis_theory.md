@@ -1418,7 +1418,7 @@ It may be argued that the framing and narrative of celestial gear and [Equinox P
 
 Further analysis will make its major goal to establish a timescale at which we could place modern Spiral Order and greater Isoran civilization and their development in relation to the rest of established reality.
 
-#### Affiliation with Dragons
+#### Draconic Motif for Isorans
 
 Further establishment of a precise time period when Isorans became a spacefaring civilization, is unknown. Despite this, we can gather a few hints pointing in direction of their development.
 
@@ -1468,29 +1468,36 @@ We offer a compromise which will allow us to negate this thematic conflict -- wh
 
 Such interpretation would require to analyze Isoran history on matters of dragons' effects on Isora wherein such effects might be noticed, without removing their integration into Isoran culture posthumously or not.
 
-#### Spiral Order and Dragons
+#### Isora and Dragons
 
-Dragon scales are found when going through Clockworks' beast-themes depths, suggesting dragons' presence in Cradle's past, one connected to tortomega and Valkyries. Yet no dragons were encountered on Cradle physically. This allows us to derive from the fact dragons thought to be an extinct ([dragon scales](https://wiki.spiralknights.com/Dragon_Scale)) two interpretations:
+Dragon scales are found across Clockworks' beast-themed depths, suggesting dragons' presence in Cradle's past, or at least one carried by the incorporated landmasses and one connected to tortomega and Valkyries.
 
-1. Spiral Order believes with no subversion of the narrative, that dragons _are extinct_, that the fact dragon scales are found in clockworks, means that they did inhabit Clockworks up until the time had Skylark crashed, meaning that there is a population of dragons yet to be found, as scales had to appear from somewhere.
+Yet no dragons were encountered on Cradle physically. This allows us to derive from the fact dragons thought to be an extinct ([dragon scales](https://wiki.spiralknights.com/Dragon_Scale)) two interpretations:
 
-   It is important to note, that the method dragon scales are found - as a drop from enemies found in their according stratums and region.
+1. Spiral Order believes with no subversion of the narrative, that dragons _are extinct_, that the fact dragon scales are found in Clockworks means that they did inhabit Cradle up until the time before Skylark had crashed -- that there is a population of dragons yet to be found.
 
-   Presence of those materials would mean, that dragon scales are consumed, are in possession, or collected and being spread across Cradle by its wildlife. Dragon scales may be that widespread, if a particular event would be at a cause, such a mass extinction, returning to our idea of _dragons being hunted prior to Cradle by heavenly kingdom_.
+   It is important to note, that the method dragon scales are found -- as an item drop from enemies found in their according stratums and region -- implies dragon shedding the scales or perishing. Among those thow interpretaion a less complex scenraio -- of dragon perishing would be prefferable.
 
-   We must be kept in sight as a 5 star material, a rare material, found at lower Clockworks' depths from beasts specifically, or potentially alchemized from [Primal Sparks](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens): `A small wisp of the essential spirit of nature. It is of extreme value to the Spiral Order`, implying a connection. The presence of the sparks we will keep in mind, as well as their in-game application, symbolism, and utilitarian application.
+   Presence of those materials would mean, that dragon scales are consumed, are in possession, or collected and being spread across Cradle by its wildlife. Dragon scales may be that widespread, if a particular event would be at a cause, such a mass extinction, returning to the idea ofdragons being hunted.
 
-   Moreover, even if dragons are extinct on Cradle, their scales remain, marking Cradle or one of its composing planets as a plausible habitat for dragons. Then, another question is posed - from what part of Cradle did dragons originate as a specie, or where did they come from?
+   We must be kept in sight as a 5-star material, a rare material, found at lower Clockworks' depths from beasts specifically, or potentially alchemized from [Primal Sparks](https://wiki.spiralknights.com/Primal_Spark#Treasure_Box_Tokens): `A small wisp of the essential spirit of nature. It is of extreme value to the Spiral Order`, suggests a strong connection with nature or a natural order.
 
 2. Spiral Order's beliefs of that dragons being extinct are proven to be false by greater reality of Cradle beyond game's scope.
 
   The primaty argumenr in favour of this interpreation is still found in the description of a [dragon scale](https://wiki.spiralknights.com/Dragon_Scale): `An armored scale from what was thought to be an extinct creature`.
 
-The scales are used in military, of high ranking armors. Considering the ongoing war with Morai, source of such material would be at least a strategic value, if it indeed offers great defense.
+The scales are used in military, of high ranking armors. Considering the ongoing war with Morai, source of such material would possess a strategic value.
 
-From those suggestions, considering both presence of dragon scales on Cradle, the fact that dragons were with a high chance considered extinct on Isora when ever Skylark was launched, and perception of some creature as dragons through descriptions and dialogue, large accent on the legend of dragons, we lean to a conclusion, where _dragons were extinct due to Spiral Order harvesting their scales_, framing the creation myth as restricted to a single celestial body.
+From those elements:
 
-The practice of material gather has an establsihed prersence in real world -- from _tortoise shell to animal bones_, -- leaving open a possibility of those speices' extinction in corresponding regions.
+- Presence of dragon scales on Cradle, lack of physical presence of dragons on Cradle;
+- Dragons existing on Isora in the past;
+- Perception of symbols as of draconic appearance;
+- Large accent on the legend of dragons;
+
+We propose, dragons had existed on Isora up until a certain point in time. Then, dragons would become extinct either due to Spiral Order hunting and harvesting their scales or disappearing due to a threat of being subjected to extinction, __framing the creation myth as restricted to a single celestial body__ of a planet preceeding Cradle, from which civilizations of Valkyries and tortomega came from.
+
+#### Introduction to Isoran Culture
 
 Then there is an animal-themed naming conventions across internal structure of the Spiral Order, preceding Recon Rangers. This is one instance seems more direct in comparison to the rest, as derived from real-world military tradition, unit, and division naming conventions.
 
@@ -1498,7 +1505,7 @@ Among them, Viking are of greater interest to us due to presence of Raiders. [Ra
 
 Those warriors are associated in popular culture with animal names and symbols, but also rage, as berserkers.
 
-While the general relation may not lead, currently, to any direct conclusion, what seems more plausible in this context, is the potential _celtic origin of Spiral Order_. Within this observation, symbol of a spiral is also recognized, primarily on [Raider Tunic](https://wiki.spiralknights.com/Raider_Tunic), varionts of which preemptively establish a link between term `firestorm` and fire or ash (`Treasure is at your fingertips and ash in your wake with this soot laden coat` - [Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic)). The design of shoulder pads for riaders so far into the past, with no modern technolgy suggests that _symbol of a spiral is incorporated into the designs, as deeply integrated into past Isoran culture_.
+While the general relation may not lead, currently, to any direct conclusion, what seems more plausible in this context, is the potential _celtic origin of Spiral Order_. Within this observation, symbol of a spiral is also recognized, primarily on [Raider Tunic](https://wiki.spiralknights.com/Raider_Tunic), varionts of which preemptively establish a link between term `firestorm` and fire or ash (`Treasure is at your fingertips and ash in your wake with this soot laden coat` - [Firestorm Raider Tunic](https://wiki.spiralknights.com/Firestorm_Raider_Tunic#Firestorm_Raider_Tunic)). The design of shoulder pads for riders so far into the past, with no modern technolgy suggests that _symbol of a spiral is incorporated into the designs, as deeply integrated into past Isoran culture_.
 
 Spiral Order armors and uniforms resemble cultural image of central to western european armor prior to 15th century, apart from more directly modern instances, such as [padded armor](https://wiki.spiralknights.com/Padded_Armor) without its 5-star upgrades (such as [Sacred Sentinel line of armors](https://wiki.spiralknights.com/Sacred_Snakebite_Sentinel_Armor)).
 
