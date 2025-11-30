@@ -1748,13 +1748,50 @@ The Spiral as a symbol holds paramount meaning to Isorans and supposedly their c
 
 Could this be the same notion as of mythological narratives being recombined for Valkyries and dragons, but instead of myths, Spiral Order taps into many _customs and practices of combat warfare across multiple time periods_ incorporating them into a unified practice?
 
-Near or prior to time of Spiral Order creation, spiral wardens are established as a military unit, as their armor's design is taken as Spiral Order symbol, a horse head -- a [warden](https://wiki.spiralknights.com/Spiral_Warden). This tradition was carried into the future as Spiral Order was established ([Warden Helm](https://wiki.spiralknights.com/Warden_Helm)).
+#### Spiral Wardens
 
-We can also suggest that Wardens were inspired by fiendish Legion of Ur as if it was established earlier in the timeline, mainly due to both parties possessing same animalistic characteristics and strength. But, as it will be explored later, we suggest that Legion of Ur had to appear during the fall of Almire and was later sealed by actor of material realm in the [legion of Ur section](#legion-of-ur), specifically, by Valkyries of heavenly kingdom.
+Near or prior to time of Spiral Order formation, [Spiral Wardens](https://wiki.spiralknights.com/Spiral_Warden) are established as a military unit. Their armor's design, speifically he helmet reflects Spiral Order insignia -- a horse head as the [Warden Helm](https://wiki.spiralknights.com/Warden_Helm).
 
-Legion of Ur or any fiend and even existence of Underworld itself was not seen by Isorans, despite presence of piercing weaponry. This idea, despite presence of Underworld and spirits being mentioned, is based on an idea that Spiral Order had not encountered nor named Underworld for it to develop specific shadow-resistant defenses, while focusing solely on piercing and normal damage.
+Wardens both by their name and role symbolize _resilience_:
 
-##### Concept of Spiral
+- `The helm of the Stalwart Spiral Wardens is said to give great comfort to other knights. Nothing says "here comes the cavalry" like the sight of these iron giants taking to the battlefield` ([Warden Helm](https://wiki.spiralknights.com/Warden_Helm)).
+- `Spiral Wardens are well known for being guardians and protectors, sworn to put the safety of others before their own. Are you up to the challenge of becoming one of these brave champions?` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).
+
+And yet, wardens possess a connection to fiendsh trojans of the Legion of Ur established both in their design and the [Colossal Prize Box](https://wiki.spiralknights.com/Colossal_Prize_Box)
+
+- Presence of [Baleful Aura](https://wiki.spiralknights.com/Baleful_Aura#Baleful_Aura).
+
+    Trojans emit this aura, yet implication of that are unknown until we can understand the fiendish nature of trojans.
+
+- Drop of [Prismatic Ruinous Crystal](https://wiki.spiralknights.com/Prismatic_Ruinous_Crystal).
+
+    This item directly ties nature of minerals, the role as _specifically_ `ruinous`, and its material as a crystal. From that introduction we can assume, based on the atymology of the word `ruinous` as a cause of ruin, to be a potential source of ruin or an affliction.
+
+- `If you are, you need to look the part! Through February 3rd, 2014, get distinctive Spiral Warden horse head costume items in Colossal Prize Boxes! (Or if you want a touch of corruption in your life and you'd rather look like a Trojan, you can do that too.*)` ([Onward to the Year of the Horse!](https://forums.spiralknights.com/en/node/95960)).
+
+    The ruinous affliction is identified here as corruption.
+
+Continuing this notion, we have yet to understand, weather Wardens were inspired by fiendish Legion of Ur or Legion of Ur is one comprised of trojans as corruped Wardens. It will be explored later. In the same pradigm also fits Arkus, resembing both a warden and a trojan, whom we will discuss in relation to trojans and the Silent Legion.
+
+Legion of Ur or existence of Underworld in generl was not seemingly discovered by Isorans, despite presence of piercing weaponry. This idea is based on an assumption that Spiral Order had not encountered Underworld, as its presence would potentially _lead Spiral Order to develop specific shadow-resistant defenses_, while focusing solely on piercing and normal damage. This is a complex task which we will establish now as it outlines a vague relation of Spiral Order to shadow and undeath.
+
+Yet, _Wardens' symbolic connection to Trojans is evident by those factors alone_ to the point of being acknowledged through a memo.
+
+##### Guradian's Oath
+
+An important component of Wardens' identity and role exists within Guardian's Oath. While it is not presented directly, it is characterized by a few characters:
+
+- `Grantz was the real veteran of the bunch. A seasoned Guardian, Grantz specialized in keeping his squad safe, namely by crushing anything that would mean to do them harm. Grantz took his Guardian's Oath very seriously, often putting himself directly in harm's way in order to protect another. The guy was selfless. I imagine that if disaster truly befell the Alpha Squad, Grantz didn't let it end without one hell of a fight` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)).
+- `Guardian Knight Arkus was one of the finest warriors serving the Spiral Knights until some time shortly after the crash. As one of the first to search for the Alpha Squad, Arkus's own squad perished in a grisly battle with a horde of dust zombies. Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad. Arkus now journeys into the Clockworks alone, never risking the loss of another squad and we believe, somehow trying to find the squad he once lost. As these expeditions began to appear self-deconstructive, Spiral HQ issued him a direct order to cease. Arkus ignored these orders and has gone deep into the Clockworks and has not returned. Not wanting to lose the last of his squad, Spiral HQ is asking you to pursue him to his last known whereabouts, some kind of mysterious sanctuary at depth 26` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)).
+- `Heavy weapons require precise timing to use effectively and the gear tends to slow you down some. But what you sacrifice in usability is returned in sheer power. The gear I specialize in will make you a knight that your squad can depend upon to stay alive and face even the fiercest of monsters` ([Izola](https://wiki.spiralknights.com/Izola)).
+
+Guardian's Oath ties back to resiliency of Wardens and Guardians, which we would interpret given those lines, as _a set of principles -- a doctrine_, -- similar to gremlin's Iron Law, which is a far more complex matter. Based on the extreme case of Arkus, without a deep at that point analysis, we propose that the Oath demands a Warden to be the primary defense of the squad, and at the end _prioritizing preservation of the accompanied squad above one's own_:
+
+- `The gear I specialize in will make you a knight that your squad can depend upon to stay alive and face even the fiercest of monsters` ([Izola](https://wiki.spiralknights.com/Izola)).
+`Grantz took his Guardian's Oath very seriously, often putting himself directly in harm's way in order to protect another` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)).
+- `Arkus's own squad perished in a ... battle ... Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)).
+
+#### Concept of Spiral
 
 The exact point as well as the origins of Spiral Order were glimpsed over. It is important to analyze the concept of a Spiral as it is too universal to be looked past.
 
