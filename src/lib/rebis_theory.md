@@ -1777,7 +1777,7 @@ Legion of Ur or existence of Underworld in generl was not seemingly discovered b
 
 Yet, _Wardens' symbolic connection to Trojans is evident by those factors alone_ to the point of being acknowledged through a memo.
 
-##### Guradian's Oath
+##### Guardian's Oath
 
 An important component of Wardens' identity and role exists within Guardian's Oath. While it is not presented directly, it is characterized by a few characters:
 
@@ -1791,9 +1791,13 @@ Guardian's Oath ties back to resiliency of Wardens and Guardians, which we would
 `Grantz took his Guardian's Oath very seriously, often putting himself directly in harm's way in order to protect another` ([The Pioneers - Kora](https://wiki.spiralknights.com/The_Pioneers)).
 - `Arkus's own squad perished in a ... battle ... Since then, Arkus has blamed himself for their loss, saying that he betrayed his Guardian's Oath to protect his squad` ([The Silent Legion](https://wiki.spiralknights.com/The_Silent_Legion)).
 
-#### Concept of Spiral
+If Legion of Ur and corresponding trojans are ruined or corruped Isoran Spiral Wardens, what shape and principles would Guardian's Oath be twisted in at a such fundamentally different state of being?
 
-The exact point as well as the origins of Spiral Order were glimpsed over. It is important to analyze the concept of a Spiral as it is too universal to be looked past.
+#### Omnipresence of the Spiral
+
+As we have pointed out a cultural and inherently symbolic importance of a spiral to Spiral Order, we are required to consider widespread presence of a spiral across Cradle. Such presence elevates this symbol to a greater order, implying a corresponding, fundamental meaning behind it, shared not only by isorans, but other civilizations, to the point of being reflected in the near surface of cradle's moon - _an omnipresent symbol_.
+
+Understanding of the nature of this symbol may reveal, at least partially, the reason behind naming convention of Spiral Order.
 
 Currently, it is known, that the Knights incorporated concept of spiral at some point in time through naming conventions and image patterns. This spiral imagery is also widespread on Cradle, notably:
 
