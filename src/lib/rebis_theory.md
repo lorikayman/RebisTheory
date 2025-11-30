@@ -1405,8 +1405,6 @@ A certain presentation of Spiral Order is offered when this period of time befor
 
 The term `extrasolar` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)) itself _lacks any danger or implication of conflict_, contrasting a recent and _potentally frantic search for energy source due to Morai Wars_. This term, coupled with the present dream-like theme of [Equinox prize box](https://wiki.spiralknights.com/Spring_Equinox_Box_2016) emits a sence of near-limitless, unburdened by external factors, potential, which is a powerful tool used here to create a sence of remoteness only bridged by a momentary recognition: `The Strangers pause at the equinox to recognize the brief moment of cosmic balance on Cradle. For just a breath of time, there is harmony between night and day, the sun and moon, and symmetry in the celestial sphere` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)). The prize box and its items are charactarized _by a lack of that freedom, interwoven with a sence of longing_ for that period of time:
 
-<!--Could this be the same notion as of mythological narratives being recombined for Valkyries and dragons, but instead of myths, Spiral Order taps into many _customs and practices of combat warfare across multiple time periods_ incorporating them into a unified practice?-->
-
 - `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
 - `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 - `A special suit built to commemorate Isoran starfarers of old. With this equipped, you feel like you would never get lost in space...if only the Skylark could fly` ([Celestial Nav Suit](https://wiki.spiralknights.com/Celestial_Nav_Suit)).
@@ -1710,15 +1708,29 @@ To conclude, we propose an _alternative explanation_ and a current working theor
 - Black Kats consume bodies identfied as auras.
 - Auras are not desired by Apocrea due to prior's relative nature, rather than an essential across all realms.
 
-#### Establishment of Order
+#### Order of Old and Alchemy
 
-Over an unidentified period of time Isorans were spreading across the space of material realm (`With this equipped, you can see a clear path across the night sky to countless worlds beyond` - [Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)).
+Over an unidentified period of time Isorans were exploring the space of material realm:
 
-We assume, that items of the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) describe an era prior to establishment of Spiral Order, as it is not called as such, but rather as Isorans as a whole, in reference to a planet, with an advanced enough technology for interstellar travel. Back at their prime they were capable of plunging into stars: `With this equipped, you feel like you could dive into the heart of a star` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)), we can conclude that the Isoran civilization had existed for a while, eons, specifically.
+- `With this equipped, you can see a clear path across the night sky to countless worlds beyond` ([Celestial Nav Helm](https://wiki.spiralknights.com/Celestial_Nav_Helm)).
+- `A special saber used to resemble Isoran spacefarers of old as they sliced across the night sky` ([Celestial Saber](https://wiki.spiralknights.com/Celestial_Saber)).
+- `This suit was once worn by Isoran starfarers of eons long passed that stood watch over extrasolar operations` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)).
 
-There must be a distinction or rather, a point of Spiral Order establishment. The overall roster of those items links Isorans' past to Cradle based solely on the presence of equinox prize box and shared energy symbol, although the designs of equinox items are not like anything seen anywhere else, apart from common elements in equipment itself, shared with the rest of Spiral Order equipment.
+We assume, that items of the [Equinox Prize Box](https://wiki.spiralknights.com/Equinox_Prize_Box) _describe an era prior to establishment of modern Spiral Order_. While it is not called as such, but rather as Isorans as a whole, in reference to a planet, with an advanced enough technology for interstellar travel, we will establish a colloqual term as an `Order of old` (`Whether its crest is a relic from the Order of old or a creation from the Knights' time on Cradle is not immediately clear` - [Aegis](https://wiki.spiralknights.com/Aegis)).
 
-Moreover, alchemical motif is also, we believe, present here. Specifically, in the case of the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield). Its shape and duality in the description: `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure`, we believe, points to a depiction of a fifth divine element, present in medieval alchemy - [Azoth](https://www.alchemy-texts.com/assets/img/books/basil-valentine-azoth/VA04.jpg), or, the alchemical First Matter.
+Those items reveal more technological side of Spiral Order at that point in time. Specifically, a capacity to plunge into stars: `With this equipped, you feel like you could dive into the heart of a star` ([Stellar Sentinel Suit](https://wiki.spiralknights.com/Stellar_Sentinel_Suit)). While a probable exaggeration, we perceive those descriptions at face value, that being literal descriptions of Isoran technological achievements.
+
+There must be a distinction or a point when Spiral Order was established. The overall roster of those items links Isorans' past to Cradle based solely on the presence of Equinox prize box and shared energy symbol, although the designs of equinox or celestial items are distinctly unique, the are common elements shared across the rest of Spiral Order equipment.
+
+The distinction between order of old coupled with a narrative of dragons for Isorans, and a modern Spiral Order possesses an element of thematic individuality. While the latter evolves from the prior, a separation had occured, which had distnaced more fantasy-driven motifs into ones of utility -- such cases being most distinct when we have covered a perception of alchemy as a tool.
+
+##### Celestial Shield and Azoth
+
+The alchemical motif is also present in the celestial equipment. Specifically, in case of the [Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield), its shape possesses a duality reflected in its description: `Cradle's equinox inspired the dual nature of this specialist shield, which protects against the dazzling light of day and the chill of the night in equal measure` ([Celestial Shield](https://wiki.spiralknights.com/Celestial_Shield)).
+
+While the framing of `Cradle's equinox inspired` implies the creation of this shield as recent, which while contradicts the initial premise of those items being old, affirms the idea within the announcement: `To recognize this special event, Spiral HQ has created new costumes and accessories for the Knights of the Spiral Order` ([Balance of the Equinox!](https://forums.spiralknights.com/en/node/98178)).
+
+The _duality or the unity of opposites within the shiled_, coupled with its shape, we propose, points to a depiction of a fifth divine element, present in medieval alchemy -- [Azoth](https://www.alchemy-texts.com/assets/img/books/basil-valentine-azoth/VA04.jpg), or the alchemical First Matter:
 
 <BookCitation source="AZOTH or the way to make the hidden gold of the Philosophers - Brother Basil Valentin">
 
@@ -1726,11 +1738,17 @@ Moreover, alchemical motif is also, we believe, present here. Specifically, in t
 
 </BookCitation>
 
-At some point in time, Spiral Order had to be established. The name of a Spiral, a symbol widespread across Cradle, was utilized in Isoran military. This must be for a reason, as no sny any concept comes that close as the Spiral being that prominent.
+While the shild whithin this interpretation exists in separation for other gear, we will look forward for the morif of unity of opposites within Isoran culture.
 
-The Spiral seemingly holds meaning to Isorans as it is depicted both as ornamen as well as a central element, the latter being, for example, [Swiftstrike Buckler](https://wiki.spiralknights.com/Swiftstrike_buckler).
+#### Establishment of Order: Symbol of a Spiral
 
-Near or prior to time of Spiral Order creation, spiral wardens are established as a military unit, as their armor's design is taken as Spiral Order symbol, a horse head - [warden](https://wiki.spiralknights.com/Spiral_Warden). This tradition carried into the future as Spiral Order was established ([Warden Helm](https://wiki.spiralknights.com/Warden_Helm)).
+At some point in time, Spiral Order had to be established. The name of a Spiral, a symbol widespread across Cradle, was utilized in Isoran military. This must be for a reason, as no any concept comes that close as the spiral -- being prominent _to the point of being reflected in the naming convention of the order itself and its gear_.
+
+The Spiral as a symbol holds paramount meaning to Isorans and supposedly their culture, as it is depicted both as ornamen as well as a central element, the latter being, for example, [Swiftstrike Buckler](https://wiki.spiralknights.com/Swiftstrike_buckler).
+
+Could this be the same notion as of mythological narratives being recombined for Valkyries and dragons, but instead of myths, Spiral Order taps into many _customs and practices of combat warfare across multiple time periods_ incorporating them into a unified practice?
+
+Near or prior to time of Spiral Order creation, spiral wardens are established as a military unit, as their armor's design is taken as Spiral Order symbol, a horse head -- a [warden](https://wiki.spiralknights.com/Spiral_Warden). This tradition was carried into the future as Spiral Order was established ([Warden Helm](https://wiki.spiralknights.com/Warden_Helm)).
 
 We can also suggest that Wardens were inspired by fiendish Legion of Ur as if it was established earlier in the timeline, mainly due to both parties possessing same animalistic characteristics and strength. But, as it will be explored later, we suggest that Legion of Ur had to appear during the fall of Almire and was later sealed by actor of material realm in the [legion of Ur section](#legion-of-ur), specifically, by Valkyries of heavenly kingdom.
 
