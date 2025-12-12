@@ -1,4 +1,8 @@
-> **Worldbuilding and Mythology of Spiral Knights**
+# Narratology and Speculative Fiction of Spiral Knights
+
+> _**Worldbuilding** and **Mythology** of Spiral Knights_
+
+<!--spiral-knights-narratology-deep-dive-->
 
 This repository contains the source document - [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
