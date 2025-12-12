@@ -1797,11 +1797,9 @@ If Legion of Ur and corresponding trojans are ruined or corruped Isoran Spiral W
 
 As we have pointed out a cultural and inherently symbolic importance of a spiral to Spiral Order, we should to consider widespread presence of a spiral across Cradle.
 
-Understanding of the nature of this symbol may reveal, at least partially, the reason behind naming convention of Spiral Order.
+Currently, it is known, that the Knights have incorporated concept of spiral at some point through naming conventions and imagery. This spiral imagery is also widespread on Cradle. That is:
 
-Currently, it is known, that the Knights have incorporated concept of spiral at some point through naming conventions and image patterns. This spiral imagery is also widespread on Cradle, notably:
-
-- Cradle's seemingly fractured Moon with definitive spiral on a landscape is present on its perpetually facing Cradle near surface.
+- Cradle's seemingly fractured Moon with definitive spiral on its landscape is present on its perpetually facing Cradle near surface.
 
   As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty, that the moon is tidally locked, either through an artificial process or as a natural celestial body mechanics.
 

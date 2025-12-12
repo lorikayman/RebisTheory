@@ -1,6 +1,4 @@
-# Rebis Theory
-
-> __Worldbuilding and Mythology of Spiral Knights__
+> **Worldbuilding and Mythology of Spiral Knights**
 
 This repository contains the source document - [`src/lib/rebis_theory.mdx`](./src/lib/rebis_theory.mdx), - and the additional materials to the analysis, which make up this repository for an entartainment-oriented medium of a webpage.
 
