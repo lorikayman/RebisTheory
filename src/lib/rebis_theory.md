@@ -1329,13 +1329,15 @@ This interpretaion would establish a lasting history and awareness between Valky
 
 #### Lumbers as Constructs
 
-On the note of constructs connected with nature, such as gun puppies, [Lumbers](https://wiki.spiralknights.com/Lumber) may be identified as a non-tortomega invention. They are more crude in their construction, they have curse-like or [sealed sword](https://wiki.spiralknights.com/Sealed_Sword) __seal placed upom them__ instead of being carved, compared to [corrupted tortodrones](https://wiki.spiralknights.com/Tortodrone).
+On the note of constructs connected with nature, such as gun puppies, [Lumbers](https://wiki.spiralknights.com/Lumber) may be identified as a non-tortomega invention. They are more crude in their construction, they have curse-like or [sealed sword](https://wiki.spiralknights.com/Sealed_Sword) __seal placed upon them__ instead of being carved, compared to [corrupted tortodrones' shells](https://wiki.spiralknights.com/Tortodrone).
 
-While this depiction of imagery of an eye is different, it suggests a great techonoligcal gap between two inventsions -- wherein gun puppies naturally incorporate runic, spiral designs and stone exterior with overflowing elemental presence -- lumbers immitate that fusion in a more primitive manner through, potentially, sealing of elemental force.
+While this depiction of imagery of an eye is different, it suggests a great techonoligcal gap between two inventsions -- wherein gun puppies naturally incorporate runic, spiral designs and stone exterior with overflowing elemental presence, -- lumbers immitate that fusion in a more primitive manner through, potentially, sealing of elemental essences.
 
-Given the notion of deveilites carving their sigils on tortodrones' shells, and unknwon perpetrator drawing curse sigil on Carnavons' shields, they may also be seen as creators of elemental lumbers in the same context of Undercorp and gremlins working together, where the latter outsources the work to the prior: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)).
+Due to the notion of deveilites carving their sigils on tortodrones' shells, unknown party's drawn curse sigil on Carnavons' shields, but also gremlins' subtle incorporation of curse imagery which we will cover later, the imagery of a sealing symbol, herein being an eye, is one, we propose, inseparable from its roots in human culture and mythology. This symbol is tied with presence of shadow damage and curse in Spiral Knights, which makes us think of the symbolism of an evil eye, or a malevolent inverse of hand of Fatima (🪬).
 
-While we have not covered both parties in detail, the aforementioed notion of placing seals is one we will keep track of.
+In terms of the technology itself being used during creation of lumbers, paper seals, we propose that gremlins are responsible for engineering of lumbers, while devilites may provide the initial technology on a selective basis, as only elemental lubers, excluding Ironwood Sentinel, possess the seal.
+
+Here, the context of Undercorp and gremlins connection must be acknowledged: `Analysis of the data collected from these offices indicates that devilite corporations are outsourced by gremlins in order to design and manage various projects that include weapons specifically engineered to target Spiral Knight squads` ([Work for Idle Hands](https://wiki.spiralknights.com/Work_for_Idle_Hands)), as it provides the foundation for such line of reasoning -- for gremlins to possess knowledge of seals and their application through a selected method.
 
 #### Howlitzers, Dragons, and Drakes
 
@@ -1797,36 +1799,47 @@ If Legion of Ur and corresponding trojans are ruined or corruped Isoran Spiral W
 
 As we have pointed out a cultural and inherently symbolic importance of a spiral to Spiral Order, we should to consider widespread presence of a spiral across Cradle.
 
+We note that we view imagery of a spiral not as artistic choice, but constant imagery found in reality of that fictional world.
+
 Currently, it is known, that the Knights have incorporated concept of spiral at some point through naming conventions and imagery. This spiral imagery is also widespread on Cradle. That is:
 
-- Cradle's seemingly fractured Moon with definitive spiral on its landscape is present on its perpetually facing Cradle near surface.
+- Cradle's seemingly fractured Moon has a carved image of a spiral on its near surface facing Cradle.
 
-  As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty, that the moon is tidally locked, either through an artificial process or as a natural celestial body mechanics.
+  As the spiral is always visible from any location, during the day when Skylark crash-landed and on replica moons within Clockwork skydomes, it can be concluded with certainty, that the moon is tidally locked, either through an artificial process or celestial body mechanics.
 
-- [Wolvers](https://wiki.spiralknights.com/Wolver), [Ash tails](https://wiki.spiralknights.com/Wolver#Ash_Tail) and [Frostifurs](https://wiki.spiralknights.com/Wolver#Frostifur) have spiral pattens on their coats.
+  This is a question of wheather the moon is artificial, wherein either of the scenarios has its respective set of implications. In that same regard the nature of the spiral on moon's surface is one of ambigious origin. In latter case of natural emergence of a spiral would characterize it, given this universe's laws, as a _physical law recognized through an omnipresent pattern or imagery_.
+
+- [Wolvers](https://wiki.spiralknights.com/Wolver) and notably [Ash tails](https://wiki.spiralknights.com/Wolver#Ash_Tail) and [Frostifurs](https://wiki.spiralknights.com/Wolver#Frostifur) have spiral patten on their coats.
 
   A speculation for only those two wolver species possessing a spiral might be of an unnatural nature of them, a connection to [Underworld](#influences-of-underworld) and Fire Deity. But this proposal seem to fail, as we suggested an existence of a [Underworld cults](#fiendish-cults).
 
-- Back wings of [Nature Sprites]() have an imagery of a spiral at their base.
+- Back wings of [Nature Sprites](https://wiki.spiralknights.com/Nature_Sprite) have imagery of a spiral.
 - Construct, [Lumbers](https://wiki.spiralknights.com/Lumber) are constructed from a tree with spiral pattern on its bark. Same trees are seen in the [Jigsaw Valley](https://wiki.spiralknights.com/Jigsaw_Valley).
-
-  As discussed in the [lumbers section](#lumbers), they are likely gremlins' creation, implying some knowledge of seal magic derived of Devilies, as seen in lumbers' elemental variants. This rare usage of shadow-related concepts, and also energy cell present in the [Darkfang Shield](https://wiki.spiralknights.com/Darkfang_Shield), will be covered accordingly.
-
-- Tier 3 elemental [Gun Puppies]() have a stone slab on top of their heads with glowing carved spiral, above which an elemental essence-like object is present.
-- Clockwork tunnels' floor tiles. The tunnels are build by gremlins, which would mean that gremlins are aware of this concept, as they keep presence of spiral consistent across depths.
-- Stone structures within the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove).
+- Tier 3 elemental [Gun Puppies](https://wiki.spiralknights.com/Gun_Puppy#Sick_Puppy) have a dark stone slab on top of their heads with a glowing carved spiral, above which an elemental essence-like object is permenently present.
+<!--its a red repsawn core from emesis blue, look at the erratic irregular pulse of the spheres. Look at tf2 knight hat cosmetic from sk-->
+- Clockwork tunnels' floor tiles are supposedly built by gremlins, which would mean that gremlins are aware of this concept, as they keep presence of spiral imagery consistent across the depths and tunnels' status effect themes.
+- Stone monoliths within the [Ancient Grove](https://wiki.spiralknights.com/Ancient_Grove) possess glowing spirals.
 - Whitespace of the Core has imagery and structures resembling spirals:
-  - Walkways' square spiral patterns between level sections
+
+  - Walkways' square spiral patterns between level sections.
   - Patterns of square spirals present on the gates - enemy gates and golden key gates.
-  - Square spiral pattern is also observed within imagery of [Mysterious Consoles and the Artifact](https://wiki.spiralknights.com/The_Artifact).
-- Square spiral stonework patterns are seen in Haven.
-- [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle) and the rest of Aurora Isles have a unique blocks with a glowing during the night spiral carved in them. The glow's color is reminiscent of [valestone](https://wiki.spiralknights.com/Mineral#Valestone), which is used in the [Starlight Hunting Coat](https://wiki.spiralknights.com/Starlight_Hunting_Coat).
+  - Square spiral pattern is also observed within designs of [Mysterious Consoles and the Artifact](https://wiki.spiralknights.com/The_Artifact) -- their metal lining, due to the placement, resembling a Greek key pattern of square spirals.
 
-At that point, the question of who build the Artifact and the Core, while is of separate nature, remains, and eventually will be explored in the [according section](#divine-and-whitespace-clockworks). But, this concept of a spiral must be examined as one extending beyond Cradle which requires understanding Cradle an its history first, in order to draw any conclusions. And, if taking in account knowledge of Spiral Order of dragons, weather or not dragons had originated on Cradle, there must be a solid reason for Isoran military be named with spiral in mind, reaffirming possible connection between Isorans and whatever past they may have with Cradle.
+- Square spiral stonework patterns are seen in Haven, the occasional bricks found in rock or soil walls.
 
-Such presence elevates this symbol to a greater order, implying a corresponding, fundamental meaning behind it, shared not only by Isorans, but other civilizations, to the point of being reflected in the near surface of Cradle's moon -- _Spiral is omnipresent_.
+  This pattern of rare placement of brocks within the walls is mimicked in the Sanctuary within an area surrounding the Sanctuary Alchemy Machine.
 
-A safe speculation can be performed, one that is based on idea of separate histories of Isorans and Clockworks: assuming that **the Spiral is, at least partially, a universal or interstellar phenomenon, important enough to be replicated in many instances, even cultures and civilizations**, it may be related to other illusive concepts, such as other realm or a deity - a part of a different, omnipotent concept that remains undiscovered. But it remains a speculation as a connection is established purely though to lack of strong leads, but hints of relation. Yet again, the Core, and the design of Whitespace have to be examined later due to complex and interconnected context of Whitespace itself to other less known of concepts, such as the Void or the Swarm.
+- [Starlight Cradle](https://wiki.spiralknights.com/Starlight_Cradle) and the rest of Aurora Isles have a unique blocks with a _glowing during the night_ spiral carved on their sides.
+
+  The glow's color is reminiscent of [valestone](https://wiki.spiralknights.com/Mineral#Valestone), which is used in transmutation of [Starlit Hunting Coat](https://wiki.spiralknights.com/Starlit_Hunting_Coat).
+
+At that point, the question of who build the Artifact and the Core, while is of separate nature, remains, and eventually will be explored in the [according section](#divine-and-whitespace-clockworks). But, this concept of a spiral must be examined as one extending beyond Cradle which requires understanding Cradle an its history first, in order to draw conclusions.
+
+There must exist a fundamental paradigm at the base of reasoning behind Isoran military to be named with a spiral in their name. Simialr to a symbol of _sun wheel_ or _sun cross_, the spiral is __incorporated and transformed from a physical order of reality into symbolic order__.
+
+The _spiral attains symbolic meaning_ not only for Isorans, but for civilizations of Cradle too, which albeit indirectly, humanizes them through shared acknowledgement of those symbols -- a more so important aspect given alien nature of those civilization within science fiction genre and speculative fiction in general.
+
+A safe speculation can be performed, one that is based on idea of separate histories of Isorans and Clockworks: assuming that **the Spiral is, at least partially, a universal or interstellar phenomenon, important enough to be replicated in many instances, even cultures and civilizations**, -- _as sun cross was a symbol of the Sun before understanding of the Sun as a celestial body, but a deity_, -- it may be related to other illusive concepts, such as other realms or a deities -- a part of a different, omnipotent concept that remains undiscovered.
 
 #### Morai
 
